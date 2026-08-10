@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-11",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 147,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "国交省、車体整備に特化した初の統計調査 2026年夏に実施 事故車修理の指数や賃上げなど把握へ - netdenjd.com",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00ZlM0T2I0SXFxU193ZnBFc2RvdmkxdHJhakJyQm1NUE9UMnByR1J2a1BJaDYzelR6ZTdUNDhMMXR2MUcyWHB5enU2RnItSHlRbVE?oc=5",
+   "published": "Mon, 10 Aug 2026 10:34:08 GMT",
+   "score_parts": {
+    "recency": 0.773,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.682
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "ヤリスが月々2万円台から！35歳以下限定、初マイカーにオススメの中古車サブスク KINTO（グーネット） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNWZtT3NqQ09WR284LUlaVEJXdndZOE54bkdmbHVRV2NhWk4xaFBST3R6RV9KakJIM0NWU0d0SzJFcW9JUm1JM2VtTGNScF82QTRjaEVxQ3Y3ZzM3N3RpTzdpcnlBV1VZbFhONDZ0bzRlXzVsQ0xCZ2pueDZIZnNnT185U1NWMUdN?oc=5",
+   "published": "Mon, 10 Aug 2026 14:37:46 GMT",
+   "score_parts": {
+    "recency": 0.857,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.607
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "岐阜市・各務原市周辺で車のキズに悩んだら。女性や初心者にも優しい「くるまの総合病院」｜古田昌也 - mbp-japan.com",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sVnQ3d05xS3BCeFoxdjhjSS1Yb3ZJNG1uWDRVaUctemhfaFAxdTIybG5ZQlU4bVV1Snl4ZzlKTTJHNlo3RmFOX1BNeE1GV2tVazB0VFBQNzcwdTRhNUE?oc=5",
+   "published": "Mon, 10 Aug 2026 21:03:27 GMT",
+   "score_parts": {
+    "recency": 0.991,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.597
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "ジープオーナー必見！国内最大級のファンミーティング開催、プロによる愛車撮影も（グーネット） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOS1wQ1BkRDcxaUVJblpOUEVDQUFWb0FoYUNmWkRNV0hCUEQxcS1mRjY2Z1dlUmRaWnBObFFON3RSNlczWDhzclFhWHdCQWhPZ2FrcHFHTDJYeUNLbUhvY2ZQN01fa0RPb3IycnViUGU0QTJPc01YVFVZR21scmg2UjhBQmdtOWxjYWN4eGk5TVVkT01ZanNB?oc=5",
+   "published": "Mon, 10 Aug 2026 18:13:32 GMT",
+   "score_parts": {
+    "recency": 0.932,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.58
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "＜画像30 / 30＞【全51点】超貴重な昭和の名車・旧車がズラリ！ 日本の名車コレクション［2/2］ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZRnhmZl8tLUZhQ2pLZnJYZzJqb3B0dERzajkwMFhTWkduTVUxLTNIZ3l0MHNfN2N5eWJGWnlqNHBBY3NJekxGSHBpN3BhVXBaMWZ3SVpRLU1uU1hvX0RKMWFvUGFyclZOQ2c?oc=5",
+   "published": "Mon, 10 Aug 2026 01:28:36 GMT",
+   "score_parts": {
+    "recency": 0.583,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.575
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "トヨタKINTOは「やめとけ」って噂を検証！安いカーリースも紹介｜車のサブスク - 自動運転ラボ",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE96S2hUblZLREt1cksxRTFYMlM5LTdwSFpXemJyRElnZzdVeExJSGRzQVU2dlRESjA2VVBwUkdIRkhCQjl0aGlZQw?oc=5",
+   "published": "Mon, 10 Aug 2026 15:40:04 GMT",
+   "score_parts": {
+    "recency": 0.879,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.564
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "ヤリスが月々2万円台から！35歳以下限定、初マイカーにオススメの中古車サブスク KINTO - goo-net.com",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qRTNWQnM3MGh2TmNiZXVndmVXeUJaSkZkOENIUUZObDlwMXo4QXpOR0lHZWUwSWU1eDZxSWpIWVE3cjB5d09Zd0hDRnlrWjg1SkZvalplaTdaV1JqQ2h3NGVzb1FIWjh4Snc?oc=5",
+   "published": "Mon, 10 Aug 2026 05:37:46 GMT",
+   "score_parts": {
+    "recency": 0.67,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.551
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "KINTOが「中古車U35おてごろプラン」を再開、トヨタ認定中古車が月2万円台から 東京・長野・富山で - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42Z0JNWUh2Y055WHFqRkpWd2ZGQU9sUnpJYWNTTkQtdkliVnRaZmIxUnBEYWdXbVYxZDIxNExzTlFiVU5QcjY4WFcwV3lpVDh3X3BvQUZmdTg4Wk4wNXItTFhYTW9ZNTJxYWRHV2xB?oc=5",
+   "published": "Mon, 10 Aug 2026 04:50:11 GMT",
+   "score_parts": {
+    "recency": 0.653,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.546
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "KINTO、若年層向け中古車サブスクを3都県で開始 - Traders Union",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV3hzTzhCbWw1bHlGOXpidU00UmVKVUlrY0xfVURRYjRqSUZiOFBhZzJlTTJ4eUNraU5rTnZHOFBkWmlRdDBqUnp3a0FCcmktdlFtc0NjNG1SSEdJR1BOSWc5VzRsSVVzc2VoNjBCU1N0d1pTM1Z6ajNhRVRJYUpySHcwZTVHNFpZc1Z2ME5CTzl2UzU3NjlhX3BWWQ?oc=5",
+   "published": "Mon, 10 Aug 2026 04:37:22 GMT",
+   "score_parts": {
+    "recency": 0.649,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.545
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "トヨタ系KINTO、月額2万円台から乗れる中古車プラン 若者取り込み - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EQlJWRjBJcDU1b253aFdWbEZKWjZ4Z2VMN0FUV0VJcnBEUGY4M21DWUNCV2xDVnBSVXNHWEtqc2g0Y3NhZkk0V2ktY0g3aXIzS01lVTFzTkc0eENyclZlV1VWWktuaXV3MjZJeQ?oc=5",
+   "published": "Mon, 10 Aug 2026 04:30:00 GMT",
+   "score_parts": {
+    "recency": 0.646,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.544
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "KINTOが「中古車U35おてごろプラン」を再開、トヨタ認定中古車が月2万円台から 東京・長野・富山で（レスポンス） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5na0lPa2JmVmJ5U1ZvTm1WMmVjaGs0c1VuSEYtbjRQOWdlaV9wTU14eHY5NTI5YXcwdGZPUHROSkxhcnBXcXhXd2QwUzY1TUhYSXRsejc0MmtEZm1MNEJlb3hsSnlfTkYzMWZwUWpnVTl2RFVMbmpRa2tlckFTYUk?oc=5",
+   "published": "Mon, 10 Aug 2026 04:30:03 GMT",
+   "score_parts": {
+    "recency": 0.646,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.544
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "キント、35歳以下限定サブスク 「中古車U35おてごろプラン」を東京・長野・富山で再開（Car Watch） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnODVuS1IzTHJCYzRyUFJ3eVNReEc4bHpmWi1PZy1VcE9uRDh2WXlhWjBJdmRhQjI3MW55Y05hRHhmR1MxV3NZdWY4ZnBEcDFwcUhTekN5WHZQNzdLeFpnb1pJQzhxWkNSMUg0U0pxYmhDMGJwcWpVcEVIeTVpMUU?oc=5",
+   "published": "Mon, 10 Aug 2026 04:30:00 GMT",
+   "score_parts": {
+    "recency": 0.646,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.544
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "KINTOが本気の若者対策!【35歳以下限定】ライズが月2万9800円で乗れる中古車サブスクサービス復活 - bestcarweb.jp",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uMUNfNm5UamZ6cHhjMzBfZXpDcm9nX1VjWHVBbjhVTldfX1JZNWh1VUtrNHRXZEh5SGVpUG5PaVJPVnBzeTNlclhWLWNyRmNJM1hOeWEzZw?oc=5",
+   "published": "Mon, 10 Aug 2026 04:30:00 GMT",
+   "score_parts": {
+    "recency": 0.646,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.544
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "KINTOが本気の若者対策!【35歳以下限定】ライズが月2万9800円で乗れる中古車サブスクサービス復活 - carview!",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPREpQdmUtd1lnemtDcnJyb1RjVzAteGxyYzk0eHZEZWdtbDlvcUhLeElDcmtSekh1dnlXNmYzQmlqckNNdmR4SUVvd19YN001RjFiQzYxWVNxb3RvTUlaVVgwQVphNmJublpfQVVKQmdyY3o3ZFFMSVBqWW9Qb3lnai12STdFUzVoM0U5WTQ4N01mNnlv?oc=5",
+   "published": "Mon, 10 Aug 2026 04:30:00 GMT",
+   "score_parts": {
+    "recency": 0.646,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.544
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "〈ベントレー追突〉「対立集団に追われていた…」と供述も追尾車両はナシ、逮捕された韓国籍“元ボンボン”インフルエンサーの刺青男のトラブル歴「アメ車を買ったらパーツが…」《３度目の逮捕》 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BTEQzOHg4Uy1JbjJISGMzQXduaHp0dnRFUkZmd2lFM2QtbkJfam9xOG1PTm5XeFFRcUFseFlPV0pmVXh0d0NHYzRwOEVLYmVHVFFucXN3VzFXRWdtVksyRU92bGNIa0pVM0dteWRZOEpEeDlocUFCZg?oc=5",
+   "published": "Mon, 10 Aug 2026 12:04:41 GMT",
+   "score_parts": {
+    "recency": 0.804,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.541
+  }
+ ]
+}
