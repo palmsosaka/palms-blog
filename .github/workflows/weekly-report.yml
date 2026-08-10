@@ -1,0 +1,36 @@
+name: weekly-report
+# 毎週月曜7:00 JST (日曜22:00 UTC): FABLE週次セッション用の材料をissueにまとめる
+# (GSC APIの接続は任意。未接続でも収集実績とPR実績のレポートは出る)
+
+on:
+  schedule:
+    - cron: '0 22 * * 0'
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  issues: write
+  pull-requests: read
+  id-token: write
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: 週次レポート作成
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          prompt: |
+            過去7日分の data/scored/ と、ghコマンドで直近のPR一覧(マージ済み/クローズ)を確認し、
+            週次編集レポートをGitHub issueとして作成してください(タイトル: 「週次レポート YYYY-MM-DD」)。
+
+            含める内容:
+            1. 今週の候補ネタ数・採用数・公開数・破棄理由の傾向
+            2. スコア上位だったが破棄したネタ(判断の妥当性をFABLEセッションで再検証するため)
+            3. クラスター別の記事蓄積状況(CLAUDE.mdの表と実記事の突き合わせ)
+            4. FABLE週次セッションで議論すべき論点の提案(重み調整・キーワード追加など)
+
+            このissueはだいちさんがCowork(FABLE)に貼り付けて分析セッションを行う材料になる。
+          claude_args: '--max-turns 30'

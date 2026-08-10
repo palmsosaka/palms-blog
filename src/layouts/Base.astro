@@ -1,0 +1,95 @@
+---
+import { SITE_TITLE, SITE_DESCRIPTION, ORG_NAME } from '../consts';
+
+interface Props {
+  title?: string;
+  description?: string;
+  ogType?: string;
+  jsonLd?: object[];
+}
+
+const {
+  title = SITE_TITLE,
+  description = SITE_DESCRIPTION,
+  ogType = 'website',
+  jsonLd = [],
+} = Astro.props;
+
+const canonical = new URL(Astro.url.pathname, Astro.site);
+const BASE = import.meta.env.BASE_URL.endsWith('/')
+  ? import.meta.env.BASE_URL
+  : import.meta.env.BASE_URL + '/';
+
+const orgSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: ORG_NAME,
+  url: Astro.site?.toString(),
+};
+
+const allJsonLd = [orgSchema, ...jsonLd];
+---
+
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title === SITE_TITLE ? title : `${title} | ${SITE_TITLE}`}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <link rel="sitemap" href={`${BASE}sitemap-index.xml`} />
+    <link rel="alternate" type="application/rss+xml" title={SITE_TITLE} href={`${BASE}rss.xml`} />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:site_name" content={SITE_TITLE} />
+    <meta name="twitter:card" content="summary_large_image" />
+    {allJsonLd.map((schema) => (
+      <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+    ))}
+    <style is:global>
+      :root {
+        --c-text: #1f2933;
+        --c-sub: #52606d;
+        --c-accent: #00838f;
+        --c-bg: #ffffff;
+        --c-soft: #f0f7f7;
+        --w-content: 720px;
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        color: var(--c-text);
+        background: var(--c-bg);
+        font-family: 'Hiragino Kaku Gothic ProN', 'Noto Sans JP', system-ui, sans-serif;
+        line-height: 1.9;
+      }
+      header.site {
+        border-bottom: 3px solid var(--c-accent);
+        padding: 0.9rem 1rem;
+      }
+      header.site a { color: var(--c-accent); text-decoration: none; font-weight: 700; font-size: 1.1rem; }
+      main { max-width: var(--w-content); margin: 0 auto; padding: 1.5rem 1rem 4rem; }
+      h1 { font-size: 1.7rem; line-height: 1.4; }
+      h2 { font-size: 1.3rem; border-left: 5px solid var(--c-accent); padding-left: 0.6rem; margin-top: 2.5rem; }
+      h3 { font-size: 1.1rem; margin-top: 2rem; }
+      a { color: var(--c-accent); }
+      table { border-collapse: collapse; width: 100%; margin: 1rem 0; font-size: 0.95rem; }
+      th, td { border: 1px solid #cbd2d9; padding: 0.5rem 0.7rem; text-align: left; }
+      th { background: var(--c-soft); }
+      .answer-first { background: var(--c-soft); border-radius: 8px; padding: 0.8rem 1rem; margin: 1rem 0; }
+      .author-box { border: 1px solid #cbd2d9; border-radius: 8px; padding: 1rem; margin-top: 3rem; font-size: 0.9rem; background: var(--c-soft); }
+      footer.site { border-top: 1px solid #cbd2d9; padding: 1.5rem 1rem; font-size: 0.85rem; color: var(--c-sub); text-align: center; }
+      img { max-width: 100%; height: auto; }
+    </style>
+  </head>
+  <body>
+    <header class="site"><a href={BASE}>{SITE_TITLE}</a></header>
+    <main><slot /></main>
+    <footer class="site">
+      © {new Date().getFullYear()} {SITE_TITLE} ／ 堺の現役事故対応事業者PALMSが運営
+    </footer>
+  </body>
+</html>

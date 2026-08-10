@@ -1,0 +1,68 @@
+name: deploy
+# mainへのpush(=PRマージ)で自動公開: ビルド → GitHub Pages → IndexNow通知
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'src/**'
+      - 'public/**'
+      - 'astro.config.mjs'
+      - 'package.json'
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run build
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
+
+  indexnow:
+    needs: deploy
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: IndexNowで新URL通知
+        env:
+          INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
+        run: |
+          if [ -z "$INDEXNOW_KEY" ]; then
+            echo "INDEXNOW_KEY 未設定のためスキップ(README_SETUP.md 手順6参照)"
+            exit 0
+          fi
+          # 直近コミットで追加/変更された記事のURLを通知
+          SITE="https://palmsosaka.github.io/palms-blog"  # 独自ドメイン取得後に差し替え
+          git diff --name-only HEAD~1 HEAD -- 'src/content/blog/*.md' | while read -r f; do
+            slug=$(basename "$f" .md)
+            url="$SITE/blog/$slug/"
+            echo "notify: $url"
+            curl -s "https://api.indexnow.org/indexnow?url=$(python3 -c "import urllib.parse,sys;print(urllib.parse.quote(sys.argv[1]))" "$url")&key=$INDEXNOW_KEY"
+          done

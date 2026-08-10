@@ -1,0 +1,42 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+
+const posts = (await getCollection('blog', ({ data }) => !data.draft)).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+
+const BASE = import.meta.env.BASE_URL.endsWith('/')
+  ? import.meta.env.BASE_URL
+  : import.meta.env.BASE_URL + '/';
+
+const clusterLabels: Record<string, string> = {
+  accident: '事故対応・レッカー・代車',
+  repair: '鈑金修理・修理費実例',
+  insurance: '保険・特約の基礎',
+  vintage: '旧車・アメ車カルチャー',
+  trend: '地域・業界ニュース',
+};
+---
+
+<Base title={SITE_TITLE} description={SITE_DESCRIPTION}>
+  <h1>{SITE_TITLE}</h1>
+  <p>
+    大阪・堺で事故対応(レッカー・鈑金・代車)を実際に運営する事業者が、<strong>現場の実例</strong>で
+    事故対応・修理費・旧車のある暮らしの疑問に答えます。
+  </p>
+  <ul style="list-style:none;padding:0;">
+    {posts.map((post) => (
+      <li style="margin-bottom:1.2rem;">
+        <a href={`${BASE}blog/${post.id}/`}><strong>{post.data.title}</strong></a>
+        <br />
+        <small>
+          {post.data.pubDate.toISOString().slice(0, 10)} ｜ {clusterLabels[post.data.cluster]}
+        </small>
+        <br />
+        <span style="color:var(--c-sub);font-size:0.92rem;">{post.data.description}</span>
+      </li>
+    ))}
+  </ul>
+</Base>

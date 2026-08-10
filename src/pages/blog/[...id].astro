@@ -1,0 +1,88 @@
+---
+import { getCollection, render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import { AUTHOR_NAME, AUTHOR_BIO, ORG_NAME } from '../../consts';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog', ({ data }) => !data.draft);
+  return posts.map((post) => ({ params: { id: post.id }, props: { post } }));
+}
+
+const { post } = Astro.props;
+const { Content } = await render(post);
+const d = post.data;
+const pageUrl = new URL(`/blog/${post.id}/`, Astro.site).toString();
+
+const articleSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: d.title,
+  description: d.description,
+  datePublished: d.pubDate.toISOString(),
+  dateModified: (d.updatedDate ?? d.pubDate).toISOString(),
+  inLanguage: 'ja',
+  mainEntityOfPage: pageUrl,
+  author: { '@type': 'Person', name: AUTHOR_NAME, description: AUTHOR_BIO },
+  publisher: { '@type': 'Organization', name: ORG_NAME },
+};
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: d.faqs.map((f) => ({
+    '@type': 'Question',
+    name: f.q,
+    acceptedAnswer: { '@type': 'Answer', text: f.a },
+  })),
+};
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'ホーム', item: Astro.site?.toString() },
+    { '@type': 'ListItem', position: 2, name: d.title, item: pageUrl },
+  ],
+};
+---
+
+<Base
+  title={d.title}
+  description={d.description}
+  ogType="article"
+  jsonLd={[articleSchema, faqSchema, breadcrumbSchema]}
+>
+  <article>
+    <h1>{d.title}</h1>
+    <p style="color:var(--c-sub);font-size:0.88rem;">
+      公開: {d.pubDate.toISOString().slice(0, 10)}
+      {d.updatedDate && ` ／ 更新: ${d.updatedDate.toISOString().slice(0, 10)}`}
+      ｜ 監修: {AUTHOR_NAME}(堺の現役事故対応事業者)
+    </p>
+    <Content />
+
+    <h2>よくある質問</h2>
+    {d.faqs.map((f) => (
+      <div>
+        <h3>Q. {f.q}</h3>
+        <p>A. {f.a}</p>
+      </div>
+    ))}
+
+    {d.sources && d.sources.length > 0 && (
+      <>
+        <h2>参考情報</h2>
+        <ul>
+          {d.sources.map((s) => (
+            <li><a href={s.url} rel="nofollow noopener" target="_blank">{s.label}</a></li>
+          ))}
+        </ul>
+      </>
+    )}
+
+    <div class="author-box">
+      <strong>この記事の監修者: {AUTHOR_NAME}</strong><br />
+      {AUTHOR_BIO}
+    </div>
+  </article>
+</Base>

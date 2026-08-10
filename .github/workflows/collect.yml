@@ -1,0 +1,69 @@
+name: collect-and-draft
+# 毎朝6:00 JST: 収集 → スコアリング → 1本だけ執筆 → 下書きPR作成
+# 公開はだいちさんがPRをマージした時だけ。
+
+on:
+  schedule:
+    - cron: '0 21 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+  id-token: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 収集(WEB/SNS)
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python scripts/collect.py
+
+      - name: スコアリング
+        run: python scripts/score.py
+
+      - name: 収集データをコミット
+        run: |
+          git config user.name "blog-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "data: collect $(date -u +%F)"
+          git pull --rebase origin main
+          git push
+
+      - name: 編集部パイプライン(1日1本・確実に提出)
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          prompt: |
+            あなたは「PALMS LAB」の編集長兼記者です。CLAUDE.mdの方針に従い、
+            今日の記事を1本だけ作って下書きPRを出してください。サブエージェントは使わず、
+            あなた自身が以下を順に実行します。時間配分に注意し、必ずステップ6まで到達すること。
+
+            1. data/scored/ の最新日付のJSONを読み、最も価値の高い候補を1つ選ぶ
+               (全候補が低品質なら「採用0本」としてここで終了し理由を出力)
+            2. 選んだネタの一次ソースをWebFetchで1〜2件確認し、事実を集める
+            3. src/content/blog/ に記事を1本執筆する。frontmatterは既存記事
+               sakai-jiko-taisho-flow.md と同じ形式・スキーマに完全準拠
+               (title/description/pubDate/cluster/articleType/keywords/faqs 3問以上/sources)。
+               CLAUDE.mdの「編集の絶対ルール」「ブランド絶対ルール」(Answer-first・数字・表・地名・
+               最新確認注記・禁止語/断定禁止)を守る
+            4. 書いた記事を自分で読み直し、事実の怪しい箇所を弱い表現+「公式サイトで最新確認」に修正
+            5. git checkout -b article/(短いslug) でブランチを作り、記事ファイルだけを
+               add・commit(mainへの直接pushは絶対禁止)
+            6. git push -u origin (ブランチ名) してから、gh pr create でPRを作成する。
+               タイトルは「記事: (記事タイトル)」、本文には選定理由・確認済みの事実・
+               だいちさんに実数確認してほしい箇所(あれば)を箇条書きで書く
+          claude_args: '--max-turns 120 --allowedTools "Bash,Read,Write,Edit,Glob,Grep,WebFetch,WebSearch"'
+      - name: エラー詳細表示
+        if: failure()
+        run: cat /home/runner/work/_temp/claude-execution-output.json
