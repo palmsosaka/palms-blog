@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-10",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 148,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ダイハツ「小さな“高級”クーペ」がスゴい！ 全長4.2m級ボディに「ターボエンジン」搭載！ レトロな“旧車デザイン”＆「豪華インテリア」も魅力の「DNコンパーノ」とは！ - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORGJ1MzZzbWNlZUR1bFJoZ1oxdEE0eFRVWDhxRHl5elphNHM5WS1uVHRuc01QVTNDY1BKMExaVGlhNjdhUGNTY2xFdms2Z1ZzZE9yeU95TmZCaW45UDZwcnhMNnZIWkI2dUZEVU9Cc3h2X1BQOWx6TEtBeWxYYmVTX9IBhgFBVV95cUxPVmFMNDF2VmZxcjhhRW1mZE9JWXBCRGREOXViYUFoUzNhMEJZQ1Jhekw2aGo2NHppVThRS2h2RzFjMUFRQjhiNi1oZWlrUWlnZWpCT0NQN1hLLW96em5GUkxRR3p0T2J2X2tmeE1XTGdFaHBEOVhKQWZqMHYzUmFjZU9WNXg0Zw?oc=5",
+   "published": "Mon, 10 Aug 2026 06:10:00 GMT",
+   "score_parts": {
+    "recency": 0.922,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.677
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "軽キャンパーのスクラムトラックに「旧車テイスト」を注入して個性をプラス！【写真・3枚目】 - モーターファン",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4S3JiQUVPX0FtWnBPZzlLMnJYTERhQ0QwZ3VVUFR3X2lndDFPNERLY0NMcFVDSm56RHAwWkw4WjhmUE5IMUVWUXZvcnZqcFRHTjRwcWp0YW9HQW5CX0tiaHNn?oc=5",
+   "published": "Mon, 10 Aug 2026 03:33:46 GMT",
+   "score_parts": {
+    "recency": 0.867,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.66
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "軽キャンパーのスクラムトラックに「旧車テイスト」を注入して個性をプラス！【写真・4枚目】 - モーターファン",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DNXVKdk11VUh5X0pWaHFfbHctbUJVSURYSEtENkx1OWd1RXdRdEF3TFZVaWFkRHRFLVU2ZmNEcDJpX080RjdFUmdwSlVYUjRfakhidGVkOTdGU0tvZ1VnZ1pn?oc=5",
+   "published": "Mon, 10 Aug 2026 03:20:39 GMT",
+   "score_parts": {
+    "recency": 0.863,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.659
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "軽キャンパーのスクラムトラックに「旧車テイスト」を注入して個性をプラス！【写真・5枚目】 - モーターファン",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vNl9XUnZrR0RrYmctN0ZBM2NoMU1nU3ZPRU5MMUNpWmxGb3Z3aWQ5b3pRejFXVzY3NEVzQ1ktNDRlcG42dEJWN0lhR1lIQWdMc05tX3dBalFiOU0teU9jeDB3?oc=5",
+   "published": "Mon, 10 Aug 2026 03:24:14 GMT",
+   "score_parts": {
+    "recency": 0.864,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.659
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「旧車らしさを壊さず電気系統を現代化！」350馬力を誇るL28改3.2Lエンジン搭載S30Zに迫る【写真・6枚目】 - モーターファン",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05MFV4c3VyaHo5NnpoTl9aUHFOcFBsczQ1V0dvOTRYTlV6eVJjWGxOSUNqTEZqclI5dmpBcUEtemFhUGw1clNYUWduVUF0WDhyd3podW8wck9xcF9YcVpZMXJCcU9xMENYSXl5SzJR?oc=5",
+   "published": "Mon, 10 Aug 2026 03:03:41 GMT",
+   "score_parts": {
+    "recency": 0.857,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.657
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "＜画像2 / 2＞お台場の“旧車天国”にマニアックな車＆バイクが集結 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRLS16NE5IWVZrQnZVWEp6dzNnN3E3c1ZHcnZzalhjVHAtd1JMYUQtMXlNN3ZGbkdEaW1xWDhjRGdNaF9OOHU1UV9qMHNBZG1ZbjlwQ3Ayai1XSEc2UzZXUnpZLXZwWUFm?oc=5",
+   "published": "Mon, 10 Aug 2026 02:32:16 GMT",
+   "score_parts": {
+    "recency": 0.846,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.654
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "ベントレー追突〉「対立集団に追われていた…」と供述も追尾車両はナシ、逮捕された韓国籍“元ボンボン”インフルエンサーの刺青男のトラブル歴「アメ車を買ったらパーツが…」《３度目の逮捕》（集英社オンライン - news.yahoo.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aTVNEbDdkcWl4cXM1Tm9kSlB4SXRPVjh2SEVNSVVCdWFrTWpuTDJRckVHX0d0dDlZZFFsRkVTTDN5UF9hN3h5cnRabTBjZXFXcnZiUW9nWkFaSnpaMjRKcmgxRW9RUTlNVUEyc21oaXF5Vy0zeTh3YVpNX2VZQTQ?oc=5",
+   "published": "Mon, 10 Aug 2026 02:03:15 GMT",
+   "score_parts": {
+    "recency": 0.836,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.651
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "〈ベントレー追突〉「対立集団に追われていた…」と供述も追尾車両はナシ、逮捕された韓国籍“元ボンボン”インフルエンサーの刺青男のトラブル歴「アメ車を買ったらパーツが…」《３度目の逮捕》 (集英社オンライン) - news.yahoo.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUmp4ZDNPQm9OOVNVZ0lFWGdRM2VvRno2MnJUaXl3S2JiNHpIUXRBZmJVaWFFdkxoNmcwSi1TS3lyaVpKYWlnaDRUbTJhTWFHcHdWM2ZSUFlDUEZnQl95WVFkSlBGRmlhNGdTT0V6cFk1ckNDcmRaeVA2M3k3VDQ1VUxBTmp0SFFGenExcXdB?oc=5",
+   "published": "Mon, 10 Aug 2026 02:03:15 GMT",
+   "score_parts": {
+    "recency": 0.836,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.651
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "(4ページ目)〈ベントレー追突〉「対立集団に追われていた…」と供述も追尾車両はナシ、逮捕された韓国籍“元ボンボン”インフルエンサーの刺青男のトラブル歴「アメ車を買ったらパーツが…」《３度目の逮捕》 - 集英社オンライン",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbXgwcnZQR2xjeElIdVlNX0V5eS03YkdUUXRPak9uNDh6TmRZU0JSdVV1S1FHWUVrWUJMNkRSX2dWdFAtSmNlejVYd0tGMmFLUFZjUVVESXdYRVNCTzFPbnlkVzJ0dm9UWVpHd29lRFN6Uzg2ZS1fYVRuNjhYMElzRXJkRzZOazdrcndqaHpneVdwWXpHelJ5VE5iVWJMSFZGM1ctY1RiSjBSMzJwOERSdTlfdERNMEwzVE1aVHlRSGNYX04wUmNCbS0xV2hGQQ?oc=5",
+   "published": "Mon, 10 Aug 2026 02:02:00 GMT",
+   "score_parts": {
+    "recency": 0.836,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.651
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「セミワークスに板ッパネ、サイド出しマフラーまで！」過激すぎる旧車レーシング仕様のハイゼットジャンボ - モーターファン",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Kb2NPdFJpdGtGcm1WcHJsV3FmN0tjY2g1TkRjRmZQMmRjS0MtenNyV28wQi1yRFZrVUk4OURvZjBUZk56YzdYejNMcElpNWZFclhmR1RhUWltN0JCcmFDeGFB?oc=5",
+   "published": "Mon, 10 Aug 2026 00:58:01 GMT",
+   "score_parts": {
+    "recency": 0.813,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.644
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "画像3 / 9＞時価2億！世界に1台だけ現存するバイクがここに！世界の名車・旧車が集まる大分・由布院「岩下コレクション」 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWLUZKbTN0aGNJVi0zNl8tYWgxNjN0SVlDeTFEM0ZVakFkZFdlSktxbGdmckdkM3B2ejRBUVJRV3RlRk4zbkxHYXJzVXcwaXlaTHRLd2EyR3lDZ1dyWUM0bE43YUVJSzVFT2hPMGc0QWVTRTBmZWl2YW9xbw?oc=5",
+   "published": "Mon, 10 Aug 2026 00:10:50 GMT",
+   "score_parts": {
+    "recency": 0.797,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.639
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "走り好き必見！本格的なスポーツドライビングが楽しめる輸入中古車３選（グーネット） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeW4wOG9lSEJoTkRhRTZEb0U4Zzg5MWZGNEVNYllGOUU3ZTJqeXBzbnF2ZWlVYS15Z0NDTTFuSEFFRkF6WllFZENMUEs0eWEyVXdTek4zOHFyVWRwMHRZOFdrUVlGU2cxS2p0MU9lb3hwRS1yR2FJNzBKMkh3VEJlUHVrTUgyVm5k?oc=5",
+   "published": "Mon, 10 Aug 2026 08:00:00 GMT",
+   "score_parts": {
+    "recency": 0.96,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.638
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "画像16 / 22＞イチョウ並木を旧車100台がパレード！「トヨタ博物館 クラシックカー・フェスティバル in 神宮外苑」レポート - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUMjRIclRTOFBYWnBYSGFFY3RqWVFsa3JxRWhuUlZTWVdXUFBOV3VyOTJUdkZoaGZCekYtWU41TXBON3pvdlc4NG1yc2hYNmNPT0FJS20tSE5HaEVUbDJYYWVMU0NCRnU2M0E?oc=5",
+   "published": "Sun, 09 Aug 2026 23:28:40 GMT",
+   "score_parts": {
+    "recency": 0.782,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.635
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「38万円の中古車でガサガサ遊ぶ」人気女性キャンパーが提唱する車中泊スタイル「“自分の好き”を小さな空間に詰め込める」 - 日刊SPA!",
+   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE12SlhRSEhVajd6S2NiYk9fNzR5LWxqS1lscWtYWkdMLU1BZ09WZWpCbVRQRHp1ZXpWeHlQcEFsVE55bUU?oc=5",
+   "published": "Mon, 10 Aug 2026 06:53:25 GMT",
+   "score_parts": {
+    "recency": 0.937,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.631
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "大阪初出店！バディカ 大阪堺支社オープン。開店イベントは約3000名の来場者で賑わう - goo-net.com",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBONDNtdEdaNEE3UkhyaTlmVUkzZUdHaV9oaHVsUnU4RVZhNmMxZl9IQWt6dWVtaGd6MnllX2FJNnUtamxaWG4zbjdBQ1BmRHpyTWVFbDVlM0puQ0NVLXd5SE9OWUFua2s?oc=5",
+   "published": "Mon, 10 Aug 2026 09:48:58 GMT",
+   "score_parts": {
+    "recency": 0.998,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.629
+  }
+ ]
+}
