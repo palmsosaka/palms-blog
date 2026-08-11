@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-12",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 159,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "所ジョージ、おすすめの“旧車”「寝てたのが今掘り起こされたって感じ」 「家族に負担をかけない」で楽しめるホンダ“名車” - 山陽新聞",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTWtsVDRnS3Y0YWRYS1M3OUtHRU03SHdvLWZxZlRuczBrQ241RTVxUXY0S1RSWWUwUEZXdktoV0tzaC02M1FLYndmQ2pxX2ZZQUZWV2h5N2NnTXAxWEJ6MHhkRFFnSFNGRExSTjlJSGFXZFMwU29uMTdqNWo0NGxmNlAyM3RaRE1ZaXZJaExvUWU2YzdIZFE?oc=5",
+   "published": "Tue, 11 Aug 2026 16:19:45 GMT",
+   "score_parts": {
+    "recency": 0.891,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.667
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「壊れないハコスカを目指した結果…」エアコン＆電動パワステ完備、旧車の常識を覆すGT-R仕様のすべて - モーターファン",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90SGJmeTFCR1h5SEFid3RYMHh4V2JpWm5EWnd0M1p1Z3I0NjV2TGEwMUhFN0tjMG9FYkRWVUF0WE1KcW15emNzb0xfeW1qMjhqVGRLSFQ1MVlteEdTSWxTNmJHYVBDNjQ?oc=5",
+   "published": "Tue, 11 Aug 2026 14:24:49 GMT",
+   "score_parts": {
+    "recency": 0.852,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.655
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "軽自動車の旧車「旧軽車」の魅力とは 2スト360cc、排気ガスは懐かしい昭和の匂い Coleen Nolan (gEsuMv0YCd) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4alBTQjBNejdKOUJ0WFFVcTNrMkhfTWdIQ1hNdUZCaWJKWEVCZWFNTWsxLTlSekg2QnptbjViWTIwQVdCNlUySlBQWVdDMXlxRGJDRHphSHQ1eUk?oc=5",
+   "published": "Tue, 11 Aug 2026 14:24:07 GMT",
+   "score_parts": {
+    "recency": 0.851,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.655
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「壊れないハコスカを目指した結果…」エアコン＆電動パワステ完備、旧車の常識を覆すGT-R仕様のすべて - モーターファン",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKS2M5Vm5pbGMzVEY5am50c1BHdWwwTmw2Sm4wZm1paTgzQ2tjOFZXaUhMN3BMaTNDb3A0MVZWZE53bEZZU1V6SDFveERqSjg2OTYtWkZWMkFIalMwb2RSMjVibEtPOFE?oc=5",
+   "published": "Tue, 11 Aug 2026 11:47:26 GMT",
+   "score_parts": {
+    "recency": 0.797,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.639
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「大切な愛車が盗難に…」オーナー沈痛、200万円以上かけ修理したレア旧車 複数の対策講じるも被害に - ENCOUNT",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnRmkyb2w3QzJsZ0kwNFlIcVpiQWYxYm9keFhPM2Zjb2ZQaDdjZlVxSV9iODhhNlctZi1DRF96bWtBX2stM3gzaGpaSkVrRHRUQnNv?oc=5",
+   "published": "Tue, 11 Aug 2026 01:13:26 GMT",
+   "score_parts": {
+    "recency": 0.577,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.623
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「大切な愛車が盗難に…」オーナー沈痛、200万円以上かけ修理したレア旧車　複数の対策講じるも被害に - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTzFSeGtCczFKNXVFdmp0QjVWamNFN0VSbDRQUXBESVZoNjZNZVVlcWlJRTRFLVFxc3RhNW5Cbnd4WnR1c1NaNkVaaTVjVXd0MFNNb1ZkWFdvLU4zckdtTnp0TTJrU1VBS0xGYksyclF5OGVYa29MV3FjUmEtT25sX29wQmwzMDQy0gGIAUFVX3lxTE9PMVJ4a0JzMUo1dUV2anRCNVZqY0U3RVJsNFBRcERJVmg2Nk1lVWVxaUlFNEUtUXFzdGE1bkJud3hadHVzU1o2RVppNWNVd3QwU01vVmRYV28tTjNyR21OenRNMmtTVUFLTEZiSzJyUXk4ZVhrb0xXcWNSYS1Pbmxfb3BCbDMwNDI?oc=5",
+   "published": "Tue, 11 Aug 2026 01:03:00 GMT",
+   "score_parts": {
+    "recency": 0.573,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.622
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「大切な愛車が盗難に…」オーナー沈痛、200万円以上かけ修理したレア旧車 複数の対策講じるも被害に - 千葉テレビ放送",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBX3RzLVRnSW9zbEY3a2hBZm5KMkJiYVp4UGh6OEdRYkxvbHdRS2NMZFVTWmh3WXBsTU5iZUQ5MWY0bWZRM0RSUHYyaDFuaC1vTGFFeTJQM3lEY0NyQzlr?oc=5",
+   "published": "Tue, 11 Aug 2026 01:05:44 GMT",
+   "score_parts": {
+    "recency": 0.574,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.622
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "「初代マスタングに2JZエンジン搭載!?」アメ車好きオーナーが望んだ邪道ドリ車メイキングの極致！【大阪オートメッセ2024】 - モーターファン",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TQmlsZGtuS21yRzk1LUE1OXhiNnltYV9YMHhRbEU3SE5KSklpLXNyOEtlaGJ0WkxQQmpFOXI0RXZwbmZzell2VW54UU5ISUdlQ3VieTBhMEhWMUR3YlgzMEpWU0g?oc=5",
+   "published": "Tue, 11 Aug 2026 00:55:11 GMT",
+   "score_parts": {
+    "recency": 0.57,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.621
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "国土交通省、中古車の性能点検手術台を設置した理由···'5年で2.2倍に跳ね上がった保険料の負担を解消する' - starnewskorea.com",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRmNTNzcydzdtNUxYUllRcTZTLTlWajFQQll4bFpXd09adjhlaXBaTENpVkw1RG1GMllzam5abEd1cHJ4bE5QVW9yX0tIZGZwSXRHSmdPdWpDYUtaVGdjd0I2Y09RTUNIUDl4VXEyUVJrTGx4bTRrNU9zS2F1UVF6a0V1TQ?oc=5",
+   "published": "Tue, 11 Aug 2026 07:59:01 GMT",
+   "score_parts": {
+    "recency": 0.718,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.615
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "チョコプラ長田、“次狙ってる車”告白 1980年代に一世を風靡した「ホンダ旧車」 レクサス購入の向井もジャガーに未練 Americans Seeking Canadian Citizenship (P523j6BjAS) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56Y0h6U0VodjRkRGIyRjBLZDlla0l0eDUwdkljc3cyVUk1OUhONlBpbDNITTRMZlVYYl9ZSWhjOHYtVjZBWlZzVWFxZEt0NXBKbGNzdDhTM0E5MUk?oc=5",
+   "published": "Tue, 11 Aug 2026 03:43:32 GMT",
+   "score_parts": {
+    "recency": 0.629,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.589
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ホンダが活用を進める金属3Dプリンターはホンダ絶版旧車乗りの救世主になるか？ 課題はサイズとコストと品質 - モーターファン",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWDVEWWxDMFRmd1NOekFDclF5eWJRZ1F5Q28weWs3MERuRFRNbF9mTEtnbUdhN3lmMF9pa1hJTVluZ2lIbnpWQVZtb2dPZW1qbTkyd3gyWmtvTEJWdGlYaDRJNDFFVXA1bXc3TGU3RDJRVFplUzQtZnNPdWx6SUhrZ0F3bklsN0Jjajh1RTl5SzBjXzNJWG9N?oc=5",
+   "published": "Tue, 11 Aug 2026 00:55:28 GMT",
+   "score_parts": {
+    "recency": 0.571,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.571
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【旧車イベント】西会津なつかしCarショー┃雨だけっじょ人もクルマもいっぺ来らったよ #旧車イベント #TE27 #27トレノ Clay Aiken (zbUUQpI4tC) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51ZHdjeUd1OWtGa3ExejAzVnJNYXpWd2o3T3NsazdGdlNsVkhSSGZpRnQ3MmYwdnJIMlBkVWl6dDVCNVJ1M3JDS2VHSHFlQjBLWDk0Tm5XU2lXbEU?oc=5",
+   "published": "Tue, 11 Aug 2026 00:44:14 GMT",
+   "score_parts": {
+    "recency": 0.567,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.57
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "内燃機関が衰退し··· 電気自動車が注目、8月の中古車相場の対照的な変化に注目 - starnewskorea.com",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQODZ1X0VwbU52a0V4ZE5LQ2VISERCSnYtZGpaTUtIMU8xUnVWUjZ5NDhkN2hQVTg3aEpBQ0dBRGhacUNOb1NZejRRUWZ5V0xIdDVIdHN5VlY1QThZUC1aSjE4NVBSaHJmWF84Y0xLSGtNLW9hM1lzUklLZUVpUXkzdUxnUQ?oc=5",
+   "published": "Tue, 11 Aug 2026 07:05:49 GMT",
+   "score_parts": {
+    "recency": 0.699,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.56
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "中古車が台頭、BBAは値下げ、中国自動車市場が重要な転換点｜Infoseekニュース - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBab2RCMTFMWWlpZ3JCRWc4Smh2bzgyaWt0cWx4LVE1U2diU0hiSk9haDN4RE5XMjByaUE1REVYaS1ZWFMxbElkRVo4YzU3RGdzYlBXamppOEFSS1g5U1FMeUJNVGFtUXBLN3c?oc=5",
+   "published": "Tue, 11 Aug 2026 06:50:01 GMT",
+   "score_parts": {
+    "recency": 0.694,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.558
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "【中古が狙い目】ノート Vs オーラ 最新相場！新車は1年で約100万円ダウン...3年落ちで残価5〜6割でした【2026年6月最新】 Canada Weather Pattern Shift (yEEx6CL5w7) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jRHpnS0pCTzZBdy1WcnRkbDc0MTJoZDU0WXUxSVg2MmtvQ0V3Ry1EbGd0Q0NxcEJoSEdSZ1R6cXNxYzR6MUdLWU1rdzdRZzFBSUdIektwMkJiQXc?oc=5",
+   "published": "Tue, 11 Aug 2026 14:48:27 GMT",
+   "score_parts": {
+    "recency": 0.86,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.558
+  }
+ ]
+}
