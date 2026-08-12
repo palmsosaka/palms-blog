@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-13",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 128,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ミツオカ新型「\"2ドア\"スポーツカー」まもなく登場！ 丸目４灯×旧車デザインの「ロードスター」!? 「ロックスター」に次ぐアメ車な予想CGがスゴイ - くるまのニュース",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XeTdZdW1Zc2hDTTJMUTZGbWR6R3hhT0VDRk5wYmxZRGFjNXdFNC05T2NVWWZydEdfQjhsaGhvNUxxd3VJanJHbUNGdw?oc=5",
+   "published": "Wed, 12 Aug 2026 05:10:00 GMT",
+   "score_parts": {
+    "recency": 0.659,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.698
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ミツオカ新型「“2ドア”スポーツカー」まもなく登場！ 丸目４灯×旧車デザインの「ロードスター」!? 「ロックスター」に次ぐアメ車な予想CGがスゴイ - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMkoxUVdZcXRndGJwaUFaSThmYk1fanY3NXZfT3BReGg1VHprVFR1RkFDNkFnMXRxWUxQRndHbWlYVzJDcEwyRDRObExVU2xpbl9ITDFMVmJvWDFXbS1yb0VoVGpYLVNSX0E5OXVMZDFIMlo5N0tpODdSbENEZzZydXpkNFNYMGhMdWfSAYYBQVVfeXFMTjh1LWhoMVVmWVUzUnJNQmpaTnVVNGpTaVpDd1diMjMyTjJOaGV0SF9tU2pUQzFkellCUENrS1NCQl9Zc0ZXenJPUTl3OVNIQnotSG9PVkZkQTIxWTBnU1AtTHRUOHJDTmt2YW1pZEJ3clYtOEVCb2dSSjZNdGttdGZueTE1MVE?oc=5",
+   "published": "Wed, 12 Aug 2026 05:10:00 GMT",
+   "score_parts": {
+    "recency": 0.659,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.698
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ミツオカ新型「“2ドア”スポーツカー」まもなく登場！ 丸目４灯×旧車デザインの「ロードスター」!? 「ロックスター」に次ぐアメ車な予想CGがスゴイ - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BNkliNW5jU0NQWlNKRTJ2QjdONWM5X2VZTW5qWVRIY1FZOTRWSzV3LTNZS0p2SUc4bUhOWUJ1TFhWMG96U0xsZzQzUFVzMExseWJIbmlweXNCT2ZieXRn?oc=5",
+   "published": "Wed, 12 Aug 2026 05:10:00 GMT",
+   "score_parts": {
+    "recency": 0.659,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.698
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "ミツオカ新型「\"2ドア\"スポーツカー」まもなく登場！ 丸目４灯×旧車デザインの「ロードスター」!? 「ロックスター」に次ぐアメ車な予想CGがスゴイ - くるまのニュース",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9QSGpqTXROcmNVQnNtdnlMdFpXb1FqOXVhdTRmYTFhVVBaUU9fVmhTRzBXNm5DUnd2a0RQVG56c0dxS1NPNWF2d3hIZXc?oc=5",
+   "published": "Wed, 12 Aug 2026 05:10:00 GMT",
+   "score_parts": {
+    "recency": 0.659,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.698
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "無保険で車検切れの車を運転の疑い 「ブラックアウト」メンバーとみられる男(22)逮捕 - プラメポータル",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZWnB6MjVvSjEzNktKV0Z2cUdIREtmRk01aTBkN1ViMHJ2T1NYTE5HR3BiMmtEV3NoWGMzWUlpNlJfQXVFcFpRaWxmTlhyQ1JraEhEZmt4OG1YWjVIYzV3aVpnWkpjZlJ3cXhaUFNiaE9zWHgwT1JfMENEY3p6RUU?oc=5",
+   "published": "Wed, 12 Aug 2026 18:41:17 GMT",
+   "score_parts": {
+    "recency": 0.941,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.682
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "無保険で車検切れの車を運転の疑い 「ブラックアウト」メンバーとみられる男(22)逮捕 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rYTYzVU5PRDNYdHJTRUFpZF84WV9RcnRnemFIZV96b1J3MVNqaGVfUUhSblhFMDBvdmRVZmtjTW9yQ2VGOG9oRWJnRDNnVUJDV3FuYVVCc2hNNVdsVWM2WV9JMGdpbWh3T3NFWkpn?oc=5",
+   "published": "Wed, 12 Aug 2026 16:36:21 GMT",
+   "score_parts": {
+    "recency": 0.897,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.669
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "さらば森田、“愛車トラブル”を報告 『ラヴィット！』で購入を決めた658万円“英国旧車” - 山陽新聞",
+   "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxNZWtKMDI2QTlPeWwxNHhMR0RWOWluZWpQRndNeldDT2plendGSFcwSm03X2VPMnBaZTEtd3pXSTg3a19oR3U4RGQtc2plcF9TdVRzZ21sTENVM3ZQaFpFZ1lYaGpNc1dMVzZPQTJjb0lPcnZCekE4RjhUZDBPbHZSNTBEWWNiNG51bXNuX25nbWtVSTFFaGZqaUNhODRVNTdpa3lYMHhxRnVjVTRocHlCVVFZYmY0THAwQTlnN1VzcnlMajVaOHFrbFZBWmNXSWluNWpuMFdBWGtMZ29CRV9sakoxbHIzbGJ4bHp0enQwWVJMUDluQnF4VE4xWnZSZF9zZENJMEZaNWhOQVVISW9fMDVpbEg4Y0xQNTVKcnlLdndNa0hhX2VCdFktUDVCVVNaTXNBRTlna2l2MVNTNUZRQzRONmM2M0NnckFFVGVvMW1YNzBSM01rZV9idVRSNXNwQlppaXhHYlpOT1dhZkJFcE1mLWE4bnVNcW5qcXpCU0RSb21hOW1xRmVrVWxpN1BYbktaQUdqeXJ3YkpQbGJraGpPTm5TcHBTU0VzUUoxdEZCLVpoVDRHSlktY0d5MnFIalVNbQ?oc=5",
+   "published": "Wed, 12 Aug 2026 16:18:45 GMT",
+   "score_parts": {
+    "recency": 0.891,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.667
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「息子には乗りこなせないから」。歯医者さんが近所の旧車ファンへ託した240ZG - Auto Messe Web",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZE1ZM0JfSWJkcW5QcjZnUGVMYXU1QjRvdnF0cEU5cVJOVmNTTFkxZGdYQ2Z3ZXFOTjFMQjk3TVAxYnZEaElQM1NSck83T1h3NWIyUUpnNzRMRkRGeTJPQzNTdUxCV3d0bUFDenRyM1E1Yi15aXdpdk94RmlOcGxETkFTS2Jya3VKeFE?oc=5",
+   "published": "Wed, 12 Aug 2026 08:49:45 GMT",
+   "score_parts": {
+    "recency": 0.735,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.621
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "「コペンが小さなアメ車に大変身!?」100mm公認ワイドの“シェルビーコブラ”仕様が異次元すぎる (MotorFan) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUGVtVXdLSTdjcjlTaE1ZZVNlRHY1WDBHM1BiN0J4bktNTGYwQU5CN1dTRENDaUhyZ0pEM1FKbXFCRUFxd1ZaV3ZYQ2FRTFFBMTFlQ3U3ekhPTmtCeE1OZVFEN1gyODZHbXpxNFk2TVNFVkN3NGZadFByWjc2QWtZckNudTB2a3NBdjdEQ29R?oc=5",
+   "published": "Wed, 12 Aug 2026 08:05:39 GMT",
+   "score_parts": {
+    "recency": 0.72,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.616
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "「コペンが小さなアメ車に大変身!?」100mm公認ワイドの“シェルビーコブラ”仕様が異次元すぎる【写真・10枚目】 - モーターファン",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DVU5Fakx1blJWR2N4RkpTMGltZFF6c09pb09HcmRxYjVfTGpxYVRKeTh0MGtxNnJIc015T0JkQnFIWnVDZWx5VkVZZjRKQTlPX2NiR2NXMW13UkxtZkJSdUpXbw?oc=5",
+   "published": "Wed, 12 Aug 2026 06:54:12 GMT",
+   "score_parts": {
+    "recency": 0.695,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.609
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "ホーチミン市で何年も放置されていた、フロント部分がへこんだ車がレッカー移動された。地元警察が捜査を進めている。 - Vietnam.vn",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSHB3eEE2dlZDaEpYdjJnYlc4NFRNNDRSZUNpOUIwMW9XM2xlOFN1RF9heHE4N05taHhaZWNBVG1qUGZxZ3NHT05tSm5jQ1o3ZGlHYzZjLXFZajBEU1c1cW9zUjRqNnlKbnNkX0tLMW4zSHkzOVNqRWhmaTVtY3FtLUZTcm93UHBuWkZfSjZXdzllYU5kZFZZeGhSdnRKLU5GT0hSWQ?oc=5",
+   "published": "Wed, 12 Aug 2026 06:18:12 GMT",
+   "score_parts": {
+    "recency": 0.683,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.605
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "「コペンが小さなアメ車に大変身!?」100mm公認ワイドの“シェルビーコブラ”仕様が異次元すぎる - モーターファン",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvbDlwWnhZek1xczB6M2ZaaW15VGw2a0Z5aEZxS2J5V3p0WG5OTEtIb3BrMC1HSzVrTHNvT3l2emNRckE2OUdDRDRobF9KUQ?oc=5",
+   "published": "Wed, 12 Aug 2026 06:00:00 GMT",
+   "score_parts": {
+    "recency": 0.676,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.603
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "【ミツオカ ロックスター】間近で見てもロードスターの痕跡がない…… メリハリMAXの立体感！【アメ車ワールド連動企画】 Tomb Raider (rxAbDrKRGT) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GU1IzVkNuZVRYZTJjZGU0ZlliRGdFQ0FyVmd5VHZ0SV9IOWhscDhISnloMmdhek1TeDA3Z0tpZ3lPbjVmbm05bUEzdGhMRlBPVElPT0tnckQ0a3M?oc=5",
+   "published": "Wed, 12 Aug 2026 05:12:51 GMT",
+   "score_parts": {
+    "recency": 0.66,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.598
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【倒産】中古車販売会社が破産開始決定 負債総額は2億1000万円 中古車の相場やトランプ関税などによる輸出環境の変化で販売不振【東京商工リサーチ】（MBC南日本放送） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtWU8zODdKMHdCNldNZDc5LWZjem1yLXd4UDd2dFQyc3k5ZGpBLUxENy1yRmROM0ZHZU95YVNEMWFMUHhoNG1NZUJsUV9UYU8tWmFKM1FBUlpfMnNWZjZpNktyUFprR2hQZldKZ0NlYnlmMHdKV2ZqNkpRVzRzU1U?oc=5",
+   "published": "Wed, 12 Aug 2026 11:03:16 GMT",
+   "score_parts": {
+    "recency": 0.782,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.585
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "【倒産】中古車販売会社が破産開始決定 負債総額は2億1000万円 中古車の相場やトランプ関税などによる輸出環境の変化で販売不振【東京商工リサーチ】 (2026年8月12日掲載) - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJNFdSdWVhTXdFMmRKLVl6cFBsUk1JVm9aS1B3NXcxa21BdzhJNU5kZVFWU2l6ZXdCRGNqV0RCSE9Qd2hxa1ljSFdYRFAxSGtha1paaDFMVEVZbEV6M3c?oc=5",
+   "published": "Wed, 12 Aug 2026 11:04:20 GMT",
+   "score_parts": {
+    "recency": 0.782,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.585
+  }
+ ]
+}
