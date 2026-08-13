@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-14",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 106,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "13年ぶり全面刷新!? 日産「新型スカイライン」まもなく登場!? 420馬力の「V6」搭載した高性能モデルも!? 旧車デザインのハートビートモデルどんなクルマに？ - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1bkh2UUN5LUVOT0RDODlIRFVTOGFOYUs3ZmR4aUcyOE55NjlvZTQ3NndaLWFlRHFtOHFEV0tPUGluNUpVdzRpVEYyUkpreHpZTWc3QUFJejNIU2NjZTl0Zm5yMnczSHVJU2U5Q0Zld0cwUTN3TWlVcw?oc=5",
+   "published": "Thu, 13 Aug 2026 17:06:07 GMT",
+   "score_parts": {
+    "recency": 0.908,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.672
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "ファミリーカーとして大人気！「便利」を凝縮したホンダ フリード（GT系）中古車購入ガイド（グーネット） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVzNSdnJnaEFjTlp4TWR4MUlWYVdLTHZvN21ySHBscUxNa1lFT3hGOHlZcTJJZmM1LTROMUt2WnNVYTZBLWNVUVQ4Sms1TktEc0RGYlBDY2tSMHFOR01kb21aelNOcVhsOEp0YUlCMEktb0N2TFZBcXp4QWliRXJKcnk4VkVoamdXQ0NtMjVTdHVKc0xH?oc=5",
+   "published": "Thu, 13 Aug 2026 18:00:00 GMT",
+   "score_parts": {
+    "recency": 0.926,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.628
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "＜画像2 / 4＞マツダ・ロータリー特設ブースも！クラシック＆レアカー集結「お台場旧車天国2017」 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02bHJIcGU0RUJwZ2RtRVU5LXp2Q21LaGRpT3Q4TzJTN2c2TEFxYjNpc3FmV0l3ZDlyZUpDYmlPV0RUTG5IMUlWMFcwM19qS3ZtNml6dG90X1dBQjlDa18wX1NGNXVIX3RjUWc?oc=5",
+   "published": "Thu, 13 Aug 2026 09:35:43 GMT",
+   "score_parts": {
+    "recency": 0.751,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.625
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "「初代マスタングに2JZエンジン搭載!?」アメ車好きオーナーが望んだ邪道ドリ車メイキングの極致！【大阪オートメッセ2024】 - モーターファン",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TQmlsZGtuS21yRzk1LUE1OXhiNnltYV9YMHhRbEU3SE5KSklpLXNyOEtlaGJ0WkxQQmpFOXI0RXZwbmZzell2VW54UU5ISUdlQ3VieTBhMEhWMUR3YlgzMEpWU0g?oc=5",
+   "published": "Thu, 13 Aug 2026 15:23:46 GMT",
+   "score_parts": {
+    "recency": 0.872,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.612
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "インテークはTakeda、マフラーはNAMELESS！「本場US系パーツを個人輸入」でアメ車感を極めたSJフォレスター - モーターファン",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82aWZlWnhrZk45LUdfdDZITXpVXzB3NkVCVFE3TG02ano3cS1KQWlBNWFackxfNmItNHM1eU10U0RyejVhanhrWDFZOTQ1ZDZzZE1NMkxQQks?oc=5",
+   "published": "Thu, 13 Aug 2026 06:41:12 GMT",
+   "score_parts": {
+    "recency": 0.691,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.607
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "インテークはTakeda、マフラーはNAMELESS！「本場US系パーツを個人輸入」でアメ車感を極めたSJフォレスター - モーターファン",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00SFFTM0N5b0ZZTTg4ZTFFMFZvZDl5MFRWNC1pbjREOTJwVTF6Z3FBOHZfNlZfa2o2NXk4X0p6cklBM1BfMEw3NGUwano3bDN0RTRUX2xzbno?oc=5",
+   "published": "Thu, 13 Aug 2026 06:38:44 GMT",
+   "score_parts": {
+    "recency": 0.69,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.607
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "インテークはTakeda、マフラーはNAMELESS！「本場US系パーツを個人輸入」でアメ車感を極めたSJフォレスター - モーターファン",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DYnY1ZUxWZnRWbzhYelpYZWlxTlR1RldRZENOcHZGVEFrMjlLM1FfTVJ0VTZqSHBVbnhiaW54aHpvVUFyaDhqMmR2eWx4dw?oc=5",
+   "published": "Thu, 13 Aug 2026 06:03:00 GMT",
+   "score_parts": {
+    "recency": 0.677,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.603
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "KINTO（キント）の取り扱い車種一覧【2026/8最新】月額は？中古車は？｜トヨタのサブスク・カーリース - 自動運転ラボ",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1IcjF5alBWUDdnSTM0SnNUd2Y4OGJQWkxjaWNBRkZtTHptUXJSNVN3R3dQaUlidU95T1oyVjNZVkN4djF0YVdOXw?oc=5",
+   "published": "Thu, 13 Aug 2026 12:00:13 GMT",
+   "score_parts": {
+    "recency": 0.801,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.59
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "自動車業界のマーケティングAI社員「cars MANAGER」24時間365日の事故や故障の緊急サポート「スマートレスキュー」オプションを提供開始 - prtimes.jp",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FS0Z5MTZYR3A0a2g1SFpEdk1ZbkJsRWliMWN1aHRKLUVfbVhoNXZyTmpkcFl6RUFybDRrMnQ0c29xVVB0WmFIaDhKWWQxOHhFZEZnemhFZk9zYnFTN2FBWGQ4b2ZHMTJzTEE?oc=5",
+   "published": "Thu, 13 Aug 2026 02:00:02 GMT",
+   "score_parts": {
+    "recency": 0.593,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.578
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "旧車170台が三条に集結 10月11日「20世紀ミーティング2026秋季」エントリー募集 断捨離オークションも - kenoh.com",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zb24zQmEwMzRYdFlZa2czTjZaQms2VE9PZ0dRckg4dzZCVVZOcUx5S1VpTDVZQWF4RkM1Yk42dkFPN1RvbElOcEJGOWhEd1JVMFlHNw?oc=5",
+   "published": "Thu, 13 Aug 2026 01:43:41 GMT",
+   "score_parts": {
+    "recency": 0.587,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "「ロードサービスがあるから安心」旅先で愛車が故障→40代女性が娘と電車で帰宅する羽目になった“誤算” - TRILL",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81MllMamNWVjFUVlhHR1BacFdHdDZlNmR6OEVScERlR3paZjdBeU1EUnJlTXhqSTE1WHdIQTlxc1NneGdiZWRsYUxtNW4xZkk?oc=5",
+   "published": "Thu, 13 Aug 2026 17:20:00 GMT",
+   "score_parts": {
+    "recency": 0.913,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.574
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "車内閉じ込められた女性が心肺停止…千葉県『レベル5大雨特別警報』帰宅の足に影響 - ABEMA TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4MFVXZDdWMHJkTk92TnVVLThQWFBEOGlEbDN0bUQ3VjdiM3ZUdUc3MmdJSWxRLWFPdnhBdnpyWlc3YnRzUXcxcHpNT25faXJXaXUtZGlTT2JjejJTVFE?oc=5",
+   "published": "Thu, 13 Aug 2026 17:15:34 GMT",
+   "score_parts": {
+    "recency": 0.911,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "ファミリーカーとして大人気！「便利」を凝縮したホンダ フリード（GT系）中古車購入ガイド - goo-net.com",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4TlZJM3NmZE1CSkJfb3ZMX1k1bGdBc0t2dy1GalRhX3R6cWU5Q0wzNG1nUFlzMFVwQVVKbG8xbnh6VG1wckM0YS01cnJ0SVJOeXJITVNNdGVoV3p2VjFJaFB6akVINm9mZTdtMTY4SQ?oc=5",
+   "published": "Thu, 13 Aug 2026 09:00:00 GMT",
+   "score_parts": {
+    "recency": 0.739,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.572
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "所ジョージ、おすすめの“旧車”「寝てたのが今掘り起こされたって感じ」 「家族に負担をかけない」で楽しめるホンダ“名車” - 山陽新聞",
+   "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxOZ1QybDdMeTJpQWdIMjhFd1djVnViVnpkR0dURVgyTEoxOEFHN21RaEdGWnoxSEtEdFJveEtQR1NMaEQya2ZkSWI1OUZwZHY0ZG51cklJOVdwZFVFM1RQSXVpRTFnaGt3djRSU2I5SjZsOTZtaHU3QlBtT1hmU29KRWlyQnhuUUVwcXVhWmY1ck50bGM2Y1hMeG5BUmZPNkl4eE96c3ZUeXhsX2QwVDBEeU4wSngtejhERjBTVkxieXFnOWRaZG1PSGJoR1Z4Q2F0OFltb21MUG5WcDFQdkh1OWRkOTFTMUJxOUlVOGZ1U2tsRlpBMzRvQTJpMTRtYmFzSmlnckcxd1JXWEhvS0pQLWhzWGgtYzd6c050MFRfQTI1Qnh2ZEtFYmx0Vk1wUnhRZjBscWl4Ynd5T1RzWGlJTWU0NExGMUxfczY0WTU4cVJkY0x1eHB4ZVRMdlNyN0pNZ0JlRHNtMjdRRElUVDBlVVJhaDZUUzdwVzdRZktEZjZ3TkxkRlVLVVMyaXZ2S2hZMzlmOVdKM0VsLWdxaVVNZXc1UEYtVS1oVGxSN25DX2ZZZmI3Y2hraDU3TFdtaGh0Mnl5U01wSXRzWGFCdzVNU1lIbE5KRzZmNHFZ?oc=5",
+   "published": "Thu, 13 Aug 2026 16:38:26 GMT",
+   "score_parts": {
+    "recency": 0.898,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.569
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "アウディ東大阪、移転リニューアル…新車6台・認定中古車25台を展示（レスポンス） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSFFJaFZtN0RLejVLZ0dsdkhpa2FYbDc2OVdjTGlUdmlERHJIMUhTQ1VfZXY1TmxnZ3NOR2l2NkhPZWtBLVJFbVV3dkdHSjFZTktMVFlhSlFSUkVibE9ObGNiSEhTRjFQa3RNNGZGblFCY2xVUnZUNWU3ZTk2YWM3dFpLYzA0MGsw?oc=5",
+   "published": "Thu, 13 Aug 2026 00:11:03 GMT",
+   "score_parts": {
+    "recency": 0.555,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.567
+  }
+ ]
+}
