@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-16",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 151,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉豪雨から2日 大網白里市は広範囲に冠水したまま “放置”車両は1000台超か 追突事故や渋滞も 「レッカーは7日以上かかるかも」 - fnn.jp",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nRVlwQm1pVFZ1dVFkSXBFdzZvSUhHdWZmZXFGVDN0U1RPN2poN1ZNcHcwVWpidW5qcDQ3ZTE2YkstbVlFM0diaUx0SUlXZw?oc=5",
+   "published": "Sat, 15 Aug 2026 09:25:00 GMT",
+   "score_parts": {
+    "recency": 0.755,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.727
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "【画像】千葉豪雨から2日 大網白里市は広範囲に冠水したまま “放置”車両は1000台超か 追突事故や渋滞も 「レッカーは7日以上かかるかも」 - ライブドアニュース - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rNDJScXRFaVQ2bEFIQnhCZ19RcXEyY1NOdVlxSDVDSG1ZVk9CVWxJMGFLQmZyVzBNdTJVSmZzQXIwYUpxbjI5WmcweXVSTkxCUTAxTld3VV9KVkV3M3ZuSVFvQ3RyaFJRNWtVam9xajJDMGRYVTE4VmF6SHA?oc=5",
+   "published": "Sat, 15 Aug 2026 09:25:00 GMT",
+   "score_parts": {
+    "recency": 0.755,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.727
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【倒産】1993年創業…新車・中古車販売、車検整備・板金・カスタムパーツ販売を手掛け年間1億円以上売り上げるも…代表の不祥事で経営環境一転、顧客離れ進む 破産手続き開始決定 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvdFFCTENzbEZjZFVZbWVpVEdhZlhxU2RhQVdtNTdubzFTdml5VnAyQnl5b1BrQW9uOFV1eHY3ODRBQ0ZJRzZyTy1sdmZfRmZPWFJUdzBRV0R0RXdvSWVn?oc=5",
+   "published": "Sat, 15 Aug 2026 04:20:00 GMT",
+   "score_parts": {
+    "recency": 0.65,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.695
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉豪雨の放置車両に追突したはずみで人身事故、無免許過失運転致傷容疑で男逮捕 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdGZoRWRsWEU4ejRVa1NHRUNwbDJGUGpsX0NTdmRxejF4cTFwQ0xpRXF5U1RuSnBJbFpkUW90YkNMMlB6YzIxNEw5Rm5Nc0J4SEJtaFVLTUgxMTlWS3YwTi1ocTBwTFRBZkU4enFNdmxzZWoySjlEenNCWEdnOUFJVUJiLVZyVmwySUHSAYoBQVVfeXFMTnRmaEVkbFhFOHo0VWtTR0VDcGwyRlBqbF9DU3ZkcXoxeHExcENMaUVxeVNUbkpwSWxaZFFvdGJDTDJQemMyMTRMOUZuTXNCeEhCbWhVS01IMTE5Vkt2ME4taHEwcExUQWZFOHpxTXZsc2VqMko5RHpzQlhHZzlBSVVCYi1WclZsMklB?oc=5",
+   "published": "Sat, 15 Aug 2026 15:01:00 GMT",
+   "score_parts": {
+    "recency": 0.872,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.662
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "放置車両1200台以上、フル稼働でもレッカー追いつかず 千葉豪雨 [千葉県] - 朝日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93T0FmTTRiNVRoRmRJX3AyRUl0ajhwd2RWV3dqaFB5Sm1BeGdQNkpEVmg3UnF0dnZWSVJsS0JmSkdhNEdoZGtjbHlhcl9qUk81MGc5Yzd4azdhNjRCTDVJc0lZcXZGTG8?oc=5",
+   "published": "Sat, 15 Aug 2026 12:00:00 GMT",
+   "score_parts": {
+    "recency": 0.809,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.643
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "カロッツェリア“往年の名機”モチーフの「ボックススピーカー」発売へ “ヤングタイマー”旧車ブーム受けレトロデザイン×高音質設計 - 山陽新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rSU00WmQ4LWpwWjRyTWIzbE4yYjdyYk95cUV0WHduRUtMVG9rRUlVYl9YZWJDdG1jT2ZlYlVITmRSb19jaWVOUTFoRVYxNWwxRnc?oc=5",
+   "published": "Sat, 15 Aug 2026 10:50:43 GMT",
+   "score_parts": {
+    "recency": 0.785,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.636
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "20代の初代シビック乗り！ S800をレストアして旧車に開眼！【花見の里で感謝の集いやります！】 【写真・9枚目】 - モーターファン",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FZ2ZKaG5KSEU3VWdfTzlhdGItNDZmZjJfcVVIcVRqVk5KYldBSWVWai1xX2tXM3gxaUxzMjBqVGZtWk1ib0pwQUFTTFBYdWtoNE82VVA0RTdPZw?oc=5",
+   "published": "Sat, 15 Aug 2026 01:04:09 GMT",
+   "score_parts": {
+    "recency": 0.582,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.624
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "60年前のアメ車を仕事の相棒に。マスタング用直6を積む極低エコノライン - Auto Messe Web",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNHd6ZVNCeTRiSkd3SmNyTDdqdlRMYm9mLUpsWjhydy1QaURWRVhtVmxVaWFKTlVWNFIxVDE3b3dkQS1oQ18wLVpVS3c2a2lmNHpvQ1lmUkoyOEpoSmNSNTdRbkxjYTZmNl9NZmw2Y1F3Nkg1ckR3bktfbVQ4ekc5VWpHMA?oc=5",
+   "published": "Sat, 15 Aug 2026 08:23:07 GMT",
+   "score_parts": {
+    "recency": 0.734,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.62
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "20代の初代シビック乗り！ S800をレストアして旧車に開眼！【花見の里で感謝の集いやります！】 （MotorFan） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GTW1jeC0xb2hIZTN0V0NOYmVvMHFMbHhFNzhzSVA3YWNlWWdFMWoxMUdhZ3J4TDBfYmg0NW1xOW5BRlhpMjQ2V2pWcHdxYjJiY1R2TVVSRHVUNmFjejdIdTFBYUd6NEo0MXQwSEpqVUNjTi16QWhQQnREdUJRbm8?oc=5",
+   "published": "Fri, 14 Aug 2026 23:31:00 GMT",
+   "score_parts": {
+    "recency": 0.549,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.615
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "20代の初代シビック乗り！ S800をレストアして旧車に開眼！【花見の里で感謝の集いやります！】 (MotorFan) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRDVTMXF4VzNEMExVcDhQSVktUHprNHZneG4taEZvYmFJcWhTOHp5bGVNRG1feXlwMEQ2RUdGckVtQzJWYnRTOVBKMGExN1lMR1pnaXpaNjJYUm9NV1h0UFBmV0N6Qk1Jb2RQeE1paUlKVEI0ODZSNmtCaGEtNG5LN0tPVFM1Wld6Rl8wUEd3?oc=5",
+   "published": "Fri, 14 Aug 2026 23:31:00 GMT",
+   "score_parts": {
+    "recency": 0.549,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.615
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "トヨペット・コロナ マークII ・・・圧倒的な存在感！グリルが立派なクルマ特集 | クルマ情報サイトｰGAZOO.com トヨタ マークＩＩ コローナ 旧車 - spiritgamer.fr",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HUUVESWhLOHV5S1pIb1JxVWdDUzFFRkFZeFNKTmVaOHlDV1JwV09hQmhsdC1RaUpkelQxVjEtWFpaSUlESjdyeEVFSDhtSFA3aUJUNThCYw?oc=5",
+   "published": "Sat, 15 Aug 2026 07:20:24 GMT",
+   "score_parts": {
+    "recency": 0.712,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.614
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "旧車レースに1万人近くが熱狂!? 「テイスト・オブ・ツクバ」はなぜこれほど愛されるのか - Webオートバイ",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1OS19nbU9YSnlyNF9QczQ5MTlmSlF3ZW5TSWVqWjNhU2doLUZHcTJwZ2ZPX3dVU3F6VU9NY3ctSm1BYjBPdTctaXZn?oc=5",
+   "published": "Sat, 15 Aug 2026 06:55:51 GMT",
+   "score_parts": {
+    "recency": 0.704,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.611
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "旧車、クラシカルバイクが大好き／佐藤ヒロシさんの好きな作品・代表作（2026年7月号） - caranddriver.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11ZktBOEp3TkQxUV8xRGVFVnpldjV3X0MybHNJR2txVGVSRDRCbENNeDYwcHlILWNFSkU2SllHX21uUDB6WXMybXBUSmxVMEV1U3NRcWZ2WnBWUQ?oc=5",
+   "published": "Sat, 15 Aug 2026 06:24:25 GMT",
+   "score_parts": {
+    "recency": 0.693,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.608
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "旧車ファン必見! 伝説の名機カワサキ650-W1が蘇る漫画『レストア! 』で胸熱のガレージライフを (WEBヤングマシン) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNS1uN0FmSmxjY0w0ZVVQYWw1QzlLTE85ZFhFUG1QOWhaVWRKWFpwLUJGN0NpcjZrbjAxbm0yOTVCZWhZX0tEUzdoaXFkcUtUUUM1U3hab19FM2EwVzFXV2hIU05HLVJfZ1VxcGdvWEd0LVRuVzloMEtYZXhkZXIyM21uTjlEZUhrYXM4NFN3?oc=5",
+   "published": "Fri, 14 Aug 2026 21:59:25 GMT",
+   "score_parts": {
+    "recency": 0.517,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.605
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "往年の名車、尾花沢に集結 原田旧車会が展示イベント - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bktncmN3enczLVZ1NXJmYjNQb1FvNnFMc2p0dUNyUERNTUpwR1FEZ2p1YUZqU0daQXBCODdsazB6ZDVjTWV5MmpWdVNMR1JTM1ZoZmEyLWZXRFVsRWtxSndFSlNNcm5RTXNTbTBHaExwbldUMEgyTg?oc=5",
+   "published": "Sat, 15 Aug 2026 04:59:01 GMT",
+   "score_parts": {
+    "recency": 0.663,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.599
+  }
+ ]
+}
