@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-17",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 158,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉市中央区の路上に放置された車。「レッカー手配中です」などのメッセージが張られていた - スポニチ Sponichi Annex",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSWpRUFkzakdkVU5WazZRcE42OURsVGoyTmJRQzRNdjV2dUVRSGV6cUwyQllKZzl4TVkzX0FURlN2aTFBa1hsajMwY0tRZ29JVEFzSXA5M3NfSk5jN3NqR0FfdlJqa1pHazNpREtGOWZtSThnMmp0dFQzN3hyUnlzTEw3bG40UVo5bHQ1MUhn?oc=5",
+   "published": "Sun, 16 Aug 2026 20:36:34 GMT",
+   "score_parts": {
+    "recency": 0.989,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.697
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "アメ車のインテークマニホールドガスケット交換 ～Chevrolet Nova How To Rreplace Intake Manifold Gasket～ Cami Kepke (UtDR3wy25V) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKMDVrbi14THRxak5pQmxOc1B6QWFTbk1NNF9NNDk4bjBSNGg1YjIxbngwQWVhYVc1N2pwenVDQ1ZFeHF1SnBoNXYtb2VsWlV3TkhUYWJJa3pmWTg?oc=5",
+   "published": "Sun, 16 Aug 2026 16:31:54 GMT",
+   "score_parts": {
+    "recency": 0.904,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.671
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉豪雨で放置車両2700台超か 「道通れない」 事故も続発（毎日新聞） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YTlU1UnlDWTBUTGoyY0ZsS2twcTE5eFlQU1Z4NV9sY0F1Y2h2em55NlRFbHdzYWNiV2wtN0N4dFFwdElONUVtOXNSb3FEVTNfZXlrWkdYUWdLM2stbzlCT1I5cjBwX1V6SzV2Q0lDLU1OT2tPZWU2S2VNUGxuYzA?oc=5",
+   "published": "Sun, 16 Aug 2026 11:43:09 GMT",
+   "score_parts": {
+    "recency": 0.804,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.641
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉豪雨で放置車両2700台超か　「道通れない」　事故も続発 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZkoweUR6c2g4STBCWjJIS2M2b2Q5TXBwbVlQSkNHYnl4M2xCMjRvMU9jNnA0Z2NkTTJvckZyVUxWVEtZcS01WVpJQnVIR1A5VnNsSUozX05PeGpaSDAtT2Jjd0J1R2pwOEV5Uno1UnRMTkQ1alVPcVJZMjN5OFZSRnZZS1FWcE1nbmJMU1AyeEczQVViSk5rZDdmblTSAZgBQVVfeXFMTjBxUjNxNUF1bE1wNFNnUnRNeUx5UWZUU3Q5dnZpWGZuQThzRjhvTzRHOC03d1BGU1lockJFU2NaYWdlRXN6eVVJWlY2dXdBZy1PTUtVQ2dYNm94NU50ejRGeGlIZllsR09iYlAyTkJYNWJaVk9JVnNaRzJxNEo4SkNyT2RTbnZXaFliTHlmYXFRLTA1ekVlM0o?oc=5",
+   "published": "Sun, 16 Aug 2026 11:42:00 GMT",
+   "score_parts": {
+    "recency": 0.803,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.641
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉豪雨で放置車両2700台超か　「道通れない」　事故も続発 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMHFSM3E1QXVsTXA0U2dSdE15THlRZlRTdDl2dmlYZm5BOHNGOG9PNEc4LTd3UEZTWWhyQkVTY1phZ2VFc3p5VUlaVjZ1d0FnLU9NS1VDZ1g2b3g1TnR6NEZ4aUhmWWxHT2JiUDJOQlg1YlpWT0lWc1pHMnE0SjhKQ3JPZFNudldoWWJMeWZhcVEtMDV6RWUzStIBmAFBVV95cUxOMHFSM3E1QXVsTXA0U2dSdE15THlRZlRTdDl2dmlYZm5BOHNGOG9PNEc4LTd3UEZTWWhyQkVTY1phZ2VFc3p5VUlaVjZ1d0FnLU9NS1VDZ1g2b3g1TnR6NEZ4aUhmWWxHT2JiUDJOQlg1YlpWT0lWc1pHMnE0SjhKQ3JPZFNudldoWWJMeWZhcVEtMDV6RWUzSg?oc=5",
+   "published": "Sun, 16 Aug 2026 11:42:00 GMT",
+   "score_parts": {
+    "recency": 0.803,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.641
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "【不易流行】セミトレーラー【ゆっくりアメ車解説】 - t.co",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5PUkc0a0J2cUtiZTNSWUc1c1htNllaVWo0eFV4NXZCeVFFX0pzSXY1dnhmMi1RS2VrdjN3?oc=5",
+   "published": "Sun, 16 Aug 2026 10:30:06 GMT",
+   "score_parts": {
+    "recency": 0.779,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.634
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「他人のカスタムを否定しない」。田村亮が語る旧車と自由なクルマ趣味〈PR〉 - Auto Messe Web",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8yUlhPQ25OaUZaT0RrSGpaOWI3QWdlZ1JXcXhSSlhSSHlIdk9KWFZreDdhMDBjN0Fvb3Z5MldWTzlwTERDdDh1SHZDSlJ0X2dId3Uwdi1zQm80YUNmUUhXWlVRc05BcnlHeFBYaDF2RGZZZHpxMXRkOERLdDg?oc=5",
+   "published": "Sun, 16 Aug 2026 03:48:55 GMT",
+   "score_parts": {
+    "recency": 0.639,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.592
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "【千葉豪雨】放置車両2700台、撤去完了見通せず…通行の支障にも 「修理代に涙」被災者悲鳴 - 47news.jp",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1NVFZzRUhkQW9MTmU3U3BDOVFEWWVuUlFsR0J4Um93SkpWWmNFNWhVV0F2OXM1LVdBTlFkRHlTMElDSXJVNC04ZXhUMA?oc=5",
+   "published": "Sun, 16 Aug 2026 10:20:00 GMT",
+   "score_parts": {
+    "recency": 0.775,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.583
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「他人のカスタムを否定しない」。田村亮が語る旧車と自由なクルマ趣味〈PR〉 - ニコニコニュース",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjMTMxakNnMGg1aEV3UE5uVFA2Qm1hRmgySTVqMEJqTjBzTHVoeFpYd2lPYTU4cjRPQlRLLWlvMWdET3dLU2RBZDBEcUdOb3ViS0JqYnp2ZmFFQ3A2MWgzUUI1V3U0MzVfZEhMUGhFMzdJcGpWbnc?oc=5",
+   "published": "Sun, 16 Aug 2026 01:33:18 GMT",
+   "score_parts": {
+    "recency": 0.592,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.578
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「他人のカスタムを否定しない」。田村亮が語る旧車と自由なクルマ趣味〈PR〉 - Auto Messe Web",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRSno1MVJfWHlTZHExYWlaanBWamF0TzZTbDZqNWg5WXNMZ1huUDZDOTZYb3puUFN4QmowakZRd0Z1cWpEMll3MzZ1bHlXZERSWmVZcENuWV82aFhiTllR0gFfQVVfeXFMUFFKejUxUl9YeVNkcTFhaVpqcFZqYXRPNlNsNmo1aDlZc0xnWG5QNkM5Nlhvem5QU3hCajBqRlF3RnVxakQyWXczNnVseVdkRFJaZVlwQ25ZXzZoWGJOWVE?oc=5",
+   "published": "Sun, 16 Aug 2026 01:30:22 GMT",
+   "score_parts": {
+    "recency": 0.591,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.577
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "大量に発生するだろう水没車はどうなるのか？ 相場より安い中古車買うときは細心の注意をして欲しい - 自動車評論家 国沢光宏",
+   "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNRWpkUS1sYU1CNXZrdktEUkdUY0ZCS0JUN3FaMlVBQ2JhcGJvamQ3YnJKZ2psX3ZRYW5QekQ2UzNPelBTZC15VkFUT24zOGs5TFBmdjVjbUV5dXlpenVJYkR6dk9XbGRWMXNRRUhhX29jREZTQVAwUVp5eUpVVzI2ZXdtX2dYQ2d1MEhibHJrcnRDX1h3T2FEZEJJTnp0RnF1aFVVWVI5Y1NDVWFzWjNtUjJfNEl3SmY1VkhRMWNPcnpoZmtSbV9ZWDFoTEY2NmZkZWVWN0djXzFrcjN3M3I1RTJMaG5YTDVtbDRXaGh5bWNLYi1RbEttYUtGRXJtRG55eHJQUUY4MDd5TWI5Vzl0Y2R1WHgtZk1hZlg1c0k4Uy16WHR2TXplWnBMRVNaUjYweDhCalB4RzZ4N2drXzZNVWE1N1ppNDVoNXA5LXNyLVU0Nzl3cHU4TEN4Q2xpRVRVVnpucEtR?oc=5",
+   "published": "Sun, 16 Aug 2026 08:04:54 GMT",
+   "score_parts": {
+    "recency": 0.728,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.568
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉豪雨の水没車、路上から撤去に時間…お盆のＪＡＦにレッカー要請２０００件殺到 - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aSXRfczIwcmE3djkyR01vdGtWMlhzNmx4M2RBd2lrSmExdmNIcl9lMW00Y1lfZXkzbzFZME1GMFEtTzdUbF82cXFoN1d5X1JtMzVxY1dfdTI1VVJmU3ZqVnJoNzNaZ3doSFR5YUNDYzE?oc=5",
+   "published": "Sat, 15 Aug 2026 23:45:00 GMT",
+   "score_parts": {
+    "recency": 0.555,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.566
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉豪雨の水没車、路上から撤去に時間…お盆のＪＡＦにレッカー要請２０００件殺到 (読売新聞オンライン) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbk83Z281dkp2ZGtYSW5pcm5paVBQblRmeE1ubGhWaWpjSk50UmhMRDZIbktFaVREUjgyekpoV2dEOUpBV0dTa1RQNDJCaDFYOUVqYnBiUTF0aGpEVWZKZ3BwOTlZWjFySFdEdVVYSmdBbEpfVExMMTM0Qkc4VGs0b3dwM0I1YkZoNHExbVN3?oc=5",
+   "published": "Sat, 15 Aug 2026 23:46:20 GMT",
+   "score_parts": {
+    "recency": 0.555,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.566
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉豪雨の水没車、路上から撤去に時間…お盆のＪＡＦにレッカー要請２０００件殺到（読売新聞オンライン） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUjJrbFdlSUdpb25CYXFFYnVfU0lDMmVvWlFsMUZBV2pVUHV0dWpwb2poN093c19YUjBibTVrWHU2WWFURlRWT1NvWlF3empaZm5tX2ZuaWFsWFdpa3JkRmdfVFlZWmpaVTFmanFYT1ZPR3o2LVFaS0llYkVmYUVlVTVGNHJseDF4?oc=5",
+   "published": "Sat, 15 Aug 2026 23:46:20 GMT",
+   "score_parts": {
+    "recency": 0.555,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.566
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "中古「キャデラック エスカレード」を買うなら500万円台後半から狙える4代目だ【迷える中古車ノマドへ：27】 - モーターファン",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5bnVOTm0zc0xaRHpTRWhSQWsxcVVPSFN3YXZRaEYxM1pHekVwMmt1YldsUTEyZW9faFpoSjhMVkg1RnM5b0pUWVB6MkhkUQ?oc=5",
+   "published": "Sun, 16 Aug 2026 07:45:00 GMT",
+   "score_parts": {
+    "recency": 0.721,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.566
+  }
+ ]
+}
