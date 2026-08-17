@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-18",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 178,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "「レッカー待ち」車両に車が突っ込む事故相次ぐ 千葉豪雨後、脱出用ハンマーの売れ行きが全国で“16倍”に - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjcUFaYUNRN0pxMWh0VVZDYkZoYVAtRURLNThPaks0cEduZTIwVUNlVzFQU0NqWmJxVDFmdkVuMklXcll4eG1namZCX1FQZGZrV2xYTjJkeGRmX1dvM0loSm9pR3dhSjFZQXd1cWUyUDlMNk8xUWdvTg?oc=5",
+   "published": "Mon, 17 Aug 2026 11:07:21 GMT",
+   "score_parts": {
+    "recency": 0.789,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.737
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "「レッカー待ち」車両に車が突っ込む事故相次ぐ 千葉豪雨後、脱出用ハンマーの売れ行きが全国で“16倍”に - FNNプライムオンライン",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE82NXZ4b0Vybm9Cd1E3N1UwdWk4YTVrSkw4TkZINU5LUjFqdy1LUG9vZWRFbW9kNGlERHo2alhKNVN4OVRpQWZ3Tm9FSzE5QQ?oc=5",
+   "published": "Mon, 17 Aug 2026 10:19:00 GMT",
+   "score_parts": {
+    "recency": 0.773,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.732
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "「レッカー待ち」車両に車が突っ込む事故相次ぐ 千葉豪雨後、脱出用ハンマーの売れ行きが全国で“16倍”に - Excite エキサイト",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rRERLdFU5dXduOFJfU0FzeWNvSXFwTXBZTHY4ejZJRk9raXJ4cGo4RHg1bi02QWRZMzQtdmwzWWdmNFI3X1FLWDJyV1NNWko2alhFVTkyQjFnWWtyaXcxb01uQzY1R3VRNk1TekJB?oc=5",
+   "published": "Mon, 17 Aug 2026 10:21:00 GMT",
+   "score_parts": {
+    "recency": 0.773,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.732
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "レッカー依頼急増も業者「追いつかない」 放置車両2500台…千葉豪雨で水没 放置車に追突する事故も発生 - 千葉テレビ放送",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tY2tFeXNVXzBldU9JUUtBM1FkVVZBYVhoTWNXVGtNWlpCSF9fdkhCWHlEc0lXTDlIYVVGTExETVEyZFJWeklvQWk0SVhRbmhFM2k2Y2M0NGFEMWZIVl8w?oc=5",
+   "published": "Mon, 17 Aug 2026 09:51:22 GMT",
+   "score_parts": {
+    "recency": 0.763,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.729
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "レッカー依頼急増も業者「追いつかない」 放置車両2500台…千葉豪雨で水没 放置車に追突する事故も発生 - Excite エキサイト",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVSFFRWUROYmRxZU9MS1I2QXpRb0IySVRFeHZYWkZNeV9SYmV2UGZMUmZFQUFTc29jUG9TNHdja0ZHT3A4LU1oNTlzVEstQUdhOHcyR29CVGd2RTQ0bGlnQjhqbEV6a3BraWpRSDF3?oc=5",
+   "published": "Mon, 17 Aug 2026 09:51:00 GMT",
+   "score_parts": {
+    "recency": 0.763,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.729
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "レッカー依頼急増も業者「追いつかない」 放置車両2500台…千葉豪雨で水没 放置車に追突する事故も発生 - FNNプライムオンライン",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXNmdNVU84YklyNWI5QWc4Y2tLN1Q2SkViQ1FMb1RGcllHX0xRRmxkLXJpZkJfVGIzb1p4WkJRbjJqVVZkMjF4bDU5MmF3Zw?oc=5",
+   "published": "Mon, 17 Aug 2026 09:45:00 GMT",
+   "score_parts": {
+    "recency": 0.761,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.728
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉豪雨で放置車両2500台の問題が深刻化 レッカー業者対応に追われる 放置車両にトラックが追突する事故も - Excite エキサイト",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Jc2otRHBsTldGamlpZ0RMdzkwWkU5cERXdVMySTRtZDdVX29ZVWc5VHhTVFV0ZmVVRjJJNkkwZEJMMEI2LUdPVURlRTdReFdWQjhtcERGZEZzeDdSRmNySklmSDNSeGRpUjRVMGhB?oc=5",
+   "published": "Mon, 17 Aug 2026 02:36:00 GMT",
+   "score_parts": {
+    "recency": 0.612,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.684
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉豪雨で放置車両2500台の問題が深刻化 レッカー業者対応に追われる 放置車両にトラックが追突する事故も - FNNプライムオンライン",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAycm9rby03UzNrUjVCWTF2RktBMkZNYTNmeXRwZVBMb21seW9aNGMyOG5jWWdqUUhZNVBKUU1RODhfcEdwOHFSMG5WTDFsdw?oc=5",
+   "published": "Mon, 17 Aug 2026 02:33:00 GMT",
+   "score_parts": {
+    "recency": 0.611,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.683
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「モンキーなら変幻自在！」8・10・12インチから旧車、レーサー、メカチューンまで！ 人気カスタムスタイル【モンキー雑学】 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQzJhcE9DSGI3SGVKcmFSb0YtVjIydHAxM3VvVGZsNzNEM1RXVVNkaW1id0JGVUJEY1M5YnVKeGd0bWFiU2lRalA2TV95Szl5a1N3VTUwRGZaa3QzVXl0QWo2TWZKQncyZ2VtX29OM0UwMUdHVDg2VkFhTk5XRnZUOExEMDFsQ0prVG1UbVpR?oc=5",
+   "published": "Mon, 17 Aug 2026 15:15:16 GMT",
+   "score_parts": {
+    "recency": 0.876,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.663
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "「人もレッカー車も足りない」路上に約2500台の放置車両 千葉豪雨から4日、死者10人に…行方不明者の捜索続く - 日テレNEWS NNN",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVFd3M2FySERvdmRQSE0waFBQVlhRX2I3UkxHa3lRQlNmVjhKUjc3VzI3OVdrMTBuZEFyejZ4Yk9LSVFKYlVOdUFhUk10a3dCT2xBOG4xV2VrT1QxWDR5TXRiellXZlFpbXk4dEVwYlJsSzNBUXUtRU5RcUNmYy1RV0pn?oc=5",
+   "published": "Mon, 17 Aug 2026 11:33:01 GMT",
+   "score_parts": {
+    "recency": 0.798,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.64
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "「人もレッカー車も足りない」路上に約2500台の放置車両 千葉豪雨から4日、死者10人に…行方不明者の捜索続く - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44ZENNZnd6SnN3SDBJazBkSDlxYlo3cVo4NWVuWlF0Y01EWkhuRFQ2T3J2TFRuQWpkbFhxTDBGeUhkdzZmWEtIRHFmZ0tlS01QcmdUSUJfUlpJN0NtV29fb0l2RDFRMDdZ?oc=5",
+   "published": "Mon, 17 Aug 2026 11:33:01 GMT",
+   "score_parts": {
+    "recency": 0.798,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.64
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉豪雨 放置車両2700台に レッカー要請が殺到 - abema.tv",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Fa0pIQ3N2LTVuNFdZSDlYU0hxS2VtNFJia0NmUDc3cDhCamdyUFR1dnJpdVQyeXZhSzVXT2lqZEpSNTdaNWd0czZIX184TEdfWFE3XzgxTGFISk0?oc=5",
+   "published": "Mon, 17 Aug 2026 11:27:05 GMT",
+   "score_parts": {
+    "recency": 0.796,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.639
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "アメ車で行く海！メローな波でツインフィッシュクルージングが最高すぎた！ Bastia Le Mans (g1KgEJUZe7) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zdVBpbmQ1OENzbG9hcE5MWnVFV0dzenNoM2JRWVZCQ2owR2RKcWZ4U24wUVFhYTZKaTVKaWhJOG5lWHZzM3dMRUoxWGRqYU9XOE0wdUVha054UGM?oc=5",
+   "published": "Mon, 17 Aug 2026 11:02:30 GMT",
+   "score_parts": {
+    "recency": 0.788,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.636
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉豪雨 放置車両2700台に レッカー要請が殺到 - khb東日本放送",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fR1Y1Mk1qbzdVSFVxd05iX2xEN1NaanFjXzRwMXVwZE9IUzNFODlBT05CYXE5anZiWUd5cGlIbEtoYlJBVi1teF9xQ2dnQXM?oc=5",
+   "published": "Mon, 17 Aug 2026 10:49:34 GMT",
+   "score_parts": {
+    "recency": 0.783,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.635
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "デンジャラス・ノッチ、“昭和51年製”旧車バイクの納車を報告 フルレストア済みの極上品「鮮やかなブルーの色が味わい深いですね」「カッコいい」 - オリコンニュース",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyUmZNdGZMWDc5TU5DWWZHaUdjeFRlY0Ytc2pfbGQ3aVk3Rmg5Y3ZORzZTblFlR29ob29iaG1zSlRqcHgtSzlMcXVVYVc4NXMwdFN4QmJB?oc=5",
+   "published": "Mon, 17 Aug 2026 02:48:00 GMT",
+   "score_parts": {
+    "recency": 0.616,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.635
+  }
+ ]
+}
