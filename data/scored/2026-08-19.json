@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-19",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 183,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "JAFの“精鋭部隊”全国から集結 千葉豪雨でレッカー作業にあたる2人の隊員に密着 依頼は路上に放置された車にとどまらず - TVer",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5qVENackszX1FYX045dVVncmRYMi1qZVlVX2tIY1FMQUhRVjlNT2RNOFNnSC01M2oyek5QMTA1ZlNVWVlRd0FZNmlhZw?oc=5",
+   "published": "Tue, 18 Aug 2026 16:36:31 GMT",
+   "score_parts": {
+    "recency": 0.905,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.671
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "JAFの“精鋭部隊”全国から集結 千葉豪雨でレッカー作業にあたる2人の隊員に密着 依頼は路上に放置された車にとどまらず - news.ntv.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5sY0IzajBkaUJ5dnZuZ0RRc1pzZmplQ29TUTFvSWFiMUN5RF9IT0VvelMybkZIcGpXVXMxUFEtOE5TQ0Juc25ZUkJpeTAyQ3hja0N1cUFRR0pkeUZ2Vy1kRHllaXg3em1EM3pWYVV4NWxVVFl3YXBsWTkwZUU?oc=5",
+   "published": "Tue, 18 Aug 2026 15:14:01 GMT",
+   "score_parts": {
+    "recency": 0.876,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.663
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉豪雨で残された車両、レッカー作業に同行 補償を受けるためには [千葉県] - 朝日新聞",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTjYtQkRvelpxLVlyTGRmUVkycVZGOWtsRTEtWEdTZlpwSHR5SHlDRjZoVGV4aDJkdkNoVE9sWkZnNVZyOGZtd2U0VU5XQk42Z2Q1VVNJSGZPR0xqRHdPMGFKb2ozUmVwNWM4MlJ3WWo4a0RWNjhlVFV5LWIwTXhsRmJ6LW9QVU9tV1MteE9R?oc=5",
+   "published": "Tue, 18 Aug 2026 09:32:23 GMT",
+   "score_parts": {
+    "recency": 0.757,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.627
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉豪雨で残された車両、レッカー作業に同行 補償を受けるためには [千葉県] - 朝日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiRWViaWhLZWtTSW1maThJTURwS3hDQUdBaWNoUnlQN3ZBZ3dQSEduam1oUmlCamtSLUYxenMwMENzc21vNk10LXo0MXhOcWlDLVZHQ0NQNDhrZHVPTDZtdVpNczJWaHM?oc=5",
+   "published": "Tue, 18 Aug 2026 08:30:00 GMT",
+   "score_parts": {
+    "recency": 0.736,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.621
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "「レッカー待ち」車両に車が突っ込む事故相次ぐ 千葉豪雨後、脱出用ハンマーの売れ行きが全国で“16倍”に - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjcUFaYUNRN0pxMWh0VVZDYkZoYVAtRURLNThPaks0cEduZTIwVUNlVzFQU0NqWmJxVDFmdkVuMklXcll4eG1namZCX1FQZGZrV2xYTjJkeGRmX1dvM0loSm9pR3dhSjFZQXd1cWUyUDlMNk8xUWdvTg?oc=5",
+   "published": "Tue, 18 Aug 2026 04:06:44 GMT",
+   "score_parts": {
+    "recency": 0.644,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.593
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "《2026熊本地震》「チャリティ車検」で支援 自動車整備の富士協栄（群馬・太田市）、1台当たり1000円を義援金に 9月1日から - 上毛新聞電子版",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yV0piVXhJSWdYQTZldXlZek4zSnhlRjQ4UTJOamIwTmZJSnJDSFBkeHRkcHFyTkFaVFRkTnVkR0JoTEd1S1BUY0NYSTNiQWdtSXhoVGc2b3Fxdw?oc=5",
+   "published": "Tue, 18 Aug 2026 10:00:00 GMT",
+   "score_parts": {
+    "recency": 0.767,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.58
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "ヤリスに月2万円台から乗れる！ 35歳以下限定、KINTOの中古車サブスク「U35おてごろプラン」復活 - carview!",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQV0V6bW9vbG51Xy1oTkQ2SDE5S25DakJwRHdLV3VVVHJsTTJybmF6OWxZMzk5QUhudS1uRjNZVnFza2pYeHhDS2RqdUkzTXE4aDV2eW92RzNseXlrTUZXTDNuZ3dKTDBkeDRheVUtV2ZzU1VQTEpENGZtME9lQUpkUXlGM1UxbE9OTk8zOTZ1bG04QV83cGUw?oc=5",
+   "published": "Tue, 18 Aug 2026 08:43:17 GMT",
+   "score_parts": {
+    "recency": 0.74,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.572
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "横山太一アナ、他界した親友との旅／ノッチ、旧車バイクの納車を報告【8／17よく読まれた芸能ニュース】 - オリコンニュース",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SX18wTXlJYkF2dnhINHpQcnVRVzR1NmNnM0JuaFk4cWF0bjN3UVlNZGxsWjRmc2FfaFM1TjhJMnNyeTVrczVLcllLZzJ4dmhG?oc=5",
+   "published": "Mon, 17 Aug 2026 22:50:00 GMT",
+   "score_parts": {
+    "recency": 0.534,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.56
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉市で約2500台の放置車両…追突事故も相次ぎ、反射テープで対策も 記録的豪雨から4日 撤去の見通し立たず - news.ntv.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1Wm96SVYxVENicnpIUUVwTXdvWkEwWHJKNnNyYWZsSWtaaE05MHFCdVVDOUd1N2lKUm5NaUVBaHVlVjB6ME5VbVVVSFNNRDhTMnlyYmQzNFhYd2c5aU5sM09vZGtDMEgzOFVFSnVpbExkMktsRG9yaWJscXQ?oc=5",
+   "published": "Mon, 17 Aug 2026 21:45:00 GMT",
+   "score_parts": {
+    "recency": 0.512,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.554
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「モンキーなら変幻自在！」8・10・12インチから旧車、レーサー、メカチューンまで！ 人気カスタムスタイル【モンキー雑学】 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44QUxiV2ZSYjliWnQ2XzdEd2NnS012X3hKdjRWMFlKRWw1a3diUUZUb0lGNURkREpQM2k5M0dKMUNhV0NHcDdjTi12YVY5SkhSQmdyVnNzUHVwb3Foa0E?oc=5",
+   "published": "Tue, 18 Aug 2026 13:41:35 GMT",
+   "score_parts": {
+    "recency": 0.844,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.553
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "中古車登録・届け出0.8%減 7月、取引相場は高値推移 - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Sa2RiSGd6Ym02bmZMd1Y4eXdWNm1TXzl2NVJ5UURKZ2xzdmtiYU9faURzQmhDQmJJLWJKTUlkOVlLeHl2VzF6NmIybWhLaTJtSGpYcjlSSWlrN1JOZDUyZVNFNm9QY2FxV0x5Mg?oc=5",
+   "published": "Tue, 18 Aug 2026 05:30:00 GMT",
+   "score_parts": {
+    "recency": 0.673,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.552
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「モンキーなら変幻自在！」8・10・12インチから旧車、レーサー、メカチューンまで！ 人気カスタムスタイル【モンキー雑学】 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR3NETFFvQjdhTHNhd25kSmItZGpxYTlJaHNSSjZQZ1pCcWJER1ZITFBYQWhhekJtQW8zbFQyZTVZWWxuTWhMQ29zdmRSZEx5NExlWG9Td0lkeDAzejhqYUxjTWRPNFJNRWczUFhyVjVYck9Od1VCMDJQdHFPZ2x1U25Cb1hpd2RUZ20wVDJ3?oc=5",
+   "published": "Tue, 18 Aug 2026 13:16:51 GMT",
+   "score_parts": {
+    "recency": 0.835,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.551
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "公取委、日産東京販売に下請法違反で勧告 板金事業者が11カ月で2808台の事故車などを無償運搬 - netdenjd.com",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93azBtdEpReXhaTHJMLXMwYUd6LUY3aVZhT0VRc01SZFNncHJ6czBiRm44SjRXWHpBOU9SZUhJbjdJQWlKa0pnSFJrTkc5UldsX3c?oc=5",
+   "published": "Mon, 17 Aug 2026 04:44:31 GMT",
+   "score_parts": {
+    "recency": 0.157,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.547
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "【画像】千葉豪雨で放置車両2500台の問題が深刻化 レッカー業者対応に追われる 放置車両にトラックが追突する事故も - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oVDlrLXdYX2xZSUVmRVVFUmdSZUVzVmhwWEswLXhPalhubVRMZVgtUnJLWFVNUGFBUm9ILXNDVzZDZjdOTzRXMXhhQnVtd0RFdEJjOHVpMnFyZ29DaGJhSUlYQ1l3WEFmS3VmVG9pX1NMZVEtUEs3Q0UyaXc?oc=5",
+   "published": "Mon, 17 Aug 2026 02:33:00 GMT",
+   "score_parts": {
+    "recency": 0.112,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.534
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "全高2.1m以下をキープ。ランクル250の駐車場問題を解決するINNOのルーフデッキ - Auto Messe Web",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBuXzJTeGRINFMyaUNuUHIwVUMwYlNKdEdTdXUxTl95cHB6bEZmU0VoNE1fRGNGWkFVUUpMZmJIUVR6TDJjOFN3T2xaWnJZWVNRQThHd29yMlFwb3MxY2NYWk9DNXpwa0RrUW5FSEpkYzdaWEE?oc=5",
+   "published": "Tue, 18 Aug 2026 10:19:39 GMT",
+   "score_parts": {
+    "recency": 0.774,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.532
+  }
+ ]
+}
