@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-20",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 152,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "20代の初代シビック乗り！ S800をレストアして旧車に開眼！【花見の里で感謝の集いやります！】 【写真・10枚目】 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6NjRQU3RpYnVhYlAtaTN5bERFc0RWZlFlc3JtcHhQOVRXbm92TWJrU1NoTjdnekdEdXh2NWI1WHJVV2M1VkJFdGVieEJkZ0p0S3A4RUw1NXN4dw?oc=5",
+   "published": "Wed, 19 Aug 2026 14:47:35 GMT",
+   "score_parts": {
+    "recency": 0.866,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.71
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "欧州車ラリーに挑む1938年式アメ車（Auto Messe Web） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YdXBCWHctLVVKXzVVa2RnSW5uUG9fcFA3MXBkRDNsd2ptWnQ4d1FDcHJYMVFOTzB2R3RFNU42R2FPcld5ODJIOEJnTmluT1Ewa3lsclhleTdwV2t6endpbHJ6dW8tUGZ5WWxOZFVyZnJfV2cyY1BfMzJxeHdOZVk?oc=5",
+   "published": "Wed, 19 Aug 2026 11:40:10 GMT",
+   "score_parts": {
+    "recency": 0.801,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.64
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "20代の初代シビック乗り！ S800をレストアして旧車に開眼！【花見の里で感謝の集いやります！】 【写真・9枚目】 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FZ2ZKaG5KSEU3VWdfTzlhdGItNDZmZjJfcVVIcVRqVk5KYldBSWVWai1xX2tXM3gxaUxzMjBqVGZtWk1ib0pwQUFTTFBYdWtoNE82VVA0RTdPZw?oc=5",
+   "published": "Wed, 19 Aug 2026 14:43:18 GMT",
+   "score_parts": {
+    "recency": 0.864,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.609
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "製作期間は3年。プレスラインまで手作業で再現された1970年式「117クーペ」（Auto Messe Web） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeW9VQnBXaXRSNW0wYmRjVmIwX0ZjX0JQTFpubXp1SGZvM080SFVrUThfT0xudC1NNVJOVUNLWTkzUl9sS1hNdl9od2NWd3l1SzI0M29hbHpwdWhsYlpSZG50d2FUT2NEaXhmMDJCQ2pyMkE5VGJrMnFzYzd5T0wwTGN6bDlENXJmOFc1U0pydGdOakxt?oc=5",
+   "published": "Wed, 19 Aug 2026 20:35:28 GMT",
+   "score_parts": {
+    "recency": 0.987,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.596
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "＜画像1 / 25＞時代を彩った名車がずらり！クラシックカー in Nostalgic 2days【その2】全25点 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96c0x2ajFEcXU2VlBqSS1ZT0ZxVlp2OEdPTF8wRU44R19sUkFVd1EyY19VLUFYUXJDMFdxb2NReVkzQUhkeGpIVUYyTHlydjB5a3ozZVlDUkNJUWdGQjlXWVI0MExBZVQ0Umc?oc=5",
+   "published": "Wed, 19 Aug 2026 19:25:42 GMT",
+   "score_parts": {
+    "recency": 0.963,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.589
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "道路上の豪雨による被災車両の対応状況 - 千葉市",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNHZvRG53em02MFJOX1RsWGRQOTBMQWc5RGVFclg3Y1pLMldzb1lmdGtZdUtLWUxaMGFmcFVEVHBlNElscVJTRWZRVzlsRHVoZXJUdUh5V0dKLW1FWFIyTEtkVUkwbXZTMGx4QXhzSlVHX3JwUFBLMEtMWHY4amRmLU1oXzFpUzFvNXA3Sw?oc=5",
+   "published": "Wed, 19 Aug 2026 18:04:24 GMT",
+   "score_parts": {
+    "recency": 0.934,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.58
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "日常と非日常を両立したスポーツクーペ「BMW M4」｜性能や特徴、新車・中古車価格【写真・6枚目】 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zTmh2aVZKcVZTcWJNdWx3anlqQnhLMnRhMmxpQU5vT0VvWFo0MnE4QkRXRlJaaUF4Q3lzN1Ria0JkZWVzUTZ5UTBJUm5RQnRxdEN5djMtdF9NS3RFWEl6blBBRFByOGc?oc=5",
+   "published": "Wed, 19 Aug 2026 09:53:58 GMT",
+   "score_parts": {
+    "recency": 0.764,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.579
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ホンダが活用を進める金属3Dプリンターはホンダ絶版旧車乗りの救世主になるか？ 課題はサイズとコストと品質 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWDVEWWxDMFRmd1NOekFDclF5eWJRZ1F5Q28weWs3MERuRFRNbF9mTEtnbUdhN3lmMF9pa1hJTVluZ2lIbnpWQVZtb2dPZW1qbTkyd3gyWmtvTEJWdGlYaDRJNDFFVXA1bXc3TGU3RDJRVFplUzQtZnNPdWx6SUhrZ0F3bklsN0Jjajh1RTl5SzBjXzNJWG9N?oc=5",
+   "published": "Wed, 19 Aug 2026 00:58:33 GMT",
+   "score_parts": {
+    "recency": 0.578,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "令和8年8月千葉豪雨に伴う「被災車輌 再生・復旧サポート」を開始 - ニコニコニュース",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yTXZ0YTJWaENMaHBxSlFfamd1N3U5eUlwLXFEZDN3cmw1TVIyaWxhX0ptTHlvam1fOUU1WGRTdE90dXQ1aTBvUVFfaUxEb1pRX01xdDlrcHRjSDFrLVR4UTlLVF9ORTVWQnpIVF9FLTFOSWlyLTJLbjZ5Yw?oc=5",
+   "published": "Wed, 19 Aug 2026 15:48:35 GMT",
+   "score_parts": {
+    "recency": 0.887,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.566
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "中古車でも増える“残クレ”に思わぬ罠。「月々の支払いを抑えられます」営業マンが隠す金利の落とし穴 - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KY1lpUVZsV0piZGpsWHJyLUc5NFpybXh0U3cyV3RVd0dBeEFXMFZ1UUktNUdmV0dQcTREamhlR2VoaS01Sk1OS3pVbDJheFdSNUVET3dzc29URkRwNGtDTzZHWlRXeGZBUGdydTJiUdIBb0FVX3lxTE5KY1lpUVZsV0piZGpsWHJyLUc5NFpybXh0U3cyV3RVd0dBeEFXMFZ1UUktNUdmV0dQcTREamhlR2VoaS01Sk1OS3pVbDJheFdSNUVET3dzc29URkRwNGtDTzZHWlRXeGZBUGdydTJiUQ?oc=5",
+   "published": "Wed, 19 Aug 2026 06:54:32 GMT",
+   "score_parts": {
+    "recency": 0.702,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.561
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "放置車両対策（情報提供） - 公明党",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNVVlrdjdLV1pIOVdxb0R0OUFPWFQ2UmJDV2xZbGtVbUVhSmEtZDkwNzlYR0kzd05icVdZcE84a3JxQkxqUl9VQTFKa3BXc0k0bmFNQkloM3FuSVU4VUt3bU9iclB1Y2MySmU1Y0ROTGU1MlEtSHhyMnU1LWVYLTRZd3FnbFZ0SFRJa2NzS0lVenBuS1JaT3VfOU1KTzZ2WjZDV3VxQmFHNy05cDlZZk9kOVVwYWNHLWR0N2c0S1VseDlabkhxU0lrZzVnblhzY0pLalRBVUVSYnJUdHdJMDhvSERmbnJDamZnYndhbmNkWWtnSGJEV2FValRIeng4a3dy?oc=5",
+   "published": "Wed, 19 Aug 2026 14:24:26 GMT",
+   "score_parts": {
+    "recency": 0.858,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.557
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "手彫りです！「少ない面積でも“エングレービング”の効果はバツグンだ！」新型ヴェルファイアにアメ車カスタムの要素を注入 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12WHRGQWF4NE5pWFJ3Q2xUdldadHhvTWpFcVY3V1oxTkdjRlZCM1Npcmp0cUdnNklDbEpGSVFVOFhSc0FVZzFwZ2FybUVmQQ?oc=5",
+   "published": "Tue, 18 Aug 2026 22:03:00 GMT",
+   "score_parts": {
+    "recency": 0.517,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.555
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "手彫りです！「少ない面積でも“エングレービング”の効果はバツグンだ！」新型ヴェルファイアにアメ車カスタムの要素を注入 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWldxN21sa2pHb0tDbEtsVEJqTlJzSXpnY3NncFpTeGkzNjRoakFHOERvMlNJNEdoSFBYXzF2NTJ6MHp4NmlKdllhekZDNXMyc1E1bnNXZzNUcUwwWnc0M2hIMkk5MHBOT1dXVHBtcWtsNEhycEQ4cGFGcWJ6b21EbGRDSTFJRFNndjktSjVB?oc=5",
+   "published": "Tue, 18 Aug 2026 22:03:00 GMT",
+   "score_parts": {
+    "recency": 0.517,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.555
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "8/19 軽乗市場（かるのりいちば）車検センター 三好店 ＢＭＷ １シリーズ 車検 ＠三好市 三好郡 東みよし町 - goo-net.com",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsMHFNSGpzY25POUNnakJkMjI2YzA3cEtoN1hXWG5Qb2IzcldWOGtGT0l1RExXYVdiV3NheXd2UXE1WkwtMkRsbGpfLWNFd3FZRWFjS2FrdnBNM1Q1SjdSb2t6Yw?oc=5",
+   "published": "Wed, 19 Aug 2026 05:24:08 GMT",
+   "score_parts": {
+    "recency": 0.67,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.551
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "“米国生産車”トヨタ「カムリ」まもなく日本復活！ 価格は500万円超？ 上級グレード中心＆4WDも設定？ 日本仕様はどうなる - carview!",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT1R3Z3BOVnl2Z0lwRzlTRmpXRVA4N0dLSmlNZ0RVVTIxU2NETi1CUlNIeUlvbEFNTnV0TklNdHltb3oyNF9yNk8xTHVYeWQzNVNyZzBBUm5zcmxMRmRtRkNzWWQ0bXIwRmhrcHJvUVVlZEhPLVFkZjJaUTBxSVRVMVhVcHpmSUhKVnVGcF9ORzIxRDhf?oc=5",
+   "published": "Wed, 19 Aug 2026 12:10:00 GMT",
+   "score_parts": {
+    "recency": 0.811,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.543
+  }
+ ]
+}
