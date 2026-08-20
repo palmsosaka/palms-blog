@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-21",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 158,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ダイハツ「“斬新”4人乗り4WD軽トラ」に反響殺到！ 「今出したら絶対に売れる！」「最高に可愛い！」 旧車風“丸目デザイン”×「やわらかグリーン」でしかも屋根開きスタイル！ 実用OKな「バスケット」に再注目！ - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNzB0cmlFSFlORmtqcFNTYnRPN01heUNJdjd2ZW45RVhHNVlSMWZNLWtmN01IM2sybzQwZnJxeWx2S0taaGhXamV4R1B1YmMwNHJtUXJUX3RHMmpzdzN4MjhlYzdPLWxld0dSSS1sNnIwSl9ONENJal82MlpQUjUxONIBhgFBVV95cUxPbDMxYmQwa215dl9aZnVRS0R1VVdNUXZXOTZQOGlYUXJHXzVDNVhrVkVQdmtaenpjb25rMnFRTnVXd0tJV1JUT0pRZF9nLTg4TXVGdXF4c1V6U3pONS1MVzdfZ2FYM043dVkxUEozQ1h5QjdOckFQRDJDcXc1LTd4NWpnR25LZw?oc=5",
+   "published": "Thu, 20 Aug 2026 21:12:57 GMT",
+   "score_parts": {
+    "recency": 0.999,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.7
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ダイハツ「\"斬新\"4人乗り4WD軽トラ」に反響殺到！ 「今出したら絶対に売れる！」「最高に可愛い！」 旧車風\"丸目デザイン\"×「やわらかグリーン」でしかも屋根開きスタイル！ 実用OKな「バスケット」に再注目！ - くるまのニュース",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5rSy03dDhEQWY1S1h3U3oyTGlnTVEzV3UtMzlmX0FoVVNUV2pXQ1lnN0Nxb0k0dEQzLW9VV1RSNjVSOWRkb29GRE9fQQ?oc=5",
+   "published": "Thu, 20 Aug 2026 21:10:00 GMT",
+   "score_parts": {
+    "recency": 0.998,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.699
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "堺市、高校生の自転車ヘルメット着用促進へ アキボウと協定｜サカイタイムズ - サカイタイムズ",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9iczNBTVpGUUl4ZHR6Q1VLbTItcldTaU1RRW9lbkpuMUVKNFdzWDhRSXpMa19HdThxbzEtdU1iTDlGemJOUGNCTVNESQ?oc=5",
+   "published": "Thu, 20 Aug 2026 20:30:00 GMT",
+   "score_parts": {
+    "recency": 0.984,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.695
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉市撤去の300台超浸水車 所有者大半が現れず レッカー作業の経費は支援対象に含まれない? - スポニチ Sponichi Annex",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRTBwSjhpY3kyZ2IyVzBmLUtPb245UDJ1NjdsSTl2V01fTzB3OG9OWExiNlZjNURxVklNdDdJeTVTVlJwbXczT3NvcEc2STRjbzlZWG4xSXZJRlBrSy1EVGZYejRkclFfUmFWZFlZTmlpVlU5OTVyZlR0aDkyUEVaSGFOOGo0amRfS2FRVXJ3?oc=5",
+   "published": "Thu, 20 Aug 2026 20:30:00 GMT",
+   "score_parts": {
+    "recency": 0.984,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.695
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "【千葉豪雨】水没した車など300台超保管 引き取るか廃車か…修理工場やレッカー業者もひっ迫し生活再建に影響 - 日テレNEWS NNN",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSVlobHpURGdqQ3VTdHdfZWFIcDM2SHBwdFUxQXhYOS1Eb1F6UWZiTmI3LWxmMThOc1R4cGZmbURiQ2t0V3dsZ21OZzRfcHZmaUpHYVpLSmRmRi1qcWtFakRQaml0X2J2a001b0poU3FTVEo4Yy1JTUIzRTRQS3Vtb1k4RmRrLWM?oc=5",
+   "published": "Thu, 20 Aug 2026 10:13:01 GMT",
+   "score_parts": {
+    "recency": 0.77,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.681
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "【千葉豪雨】水没した車など300台超保管 引き取るか廃車か…修理工場やレッカー業者もひっ迫し生活再建に影響 - Excite エキサイト",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfMWNwOEREN1VkRU51LTlVLTZtOG5qLWk2eUd3bVhfaXdBb2VRQTc4cWg3ZDVuQWduaTJvWmhwNkVMQk1pVUtxYzZ0SmExMFNYQ29Kc2NoZG1RMkxmVnpZZjVyZFZnZk9wS3pfWXBR?oc=5",
+   "published": "Thu, 20 Aug 2026 10:14:00 GMT",
+   "score_parts": {
+    "recency": 0.77,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.681
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "大型トラックをけん引していたレッカー車が電柱に衝突 神戸大学近くの交差点 けが人なし / 兵庫県（サンテレビ） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mLU4wYlJOZHJJVC1MOThTMktMT1IzdU4xWUVKV3FMdnBCWThhUkg3UjhNUmpvWWRGWmp1Y1hIRE50M2YyNkZmalZsZlJ0cWtYdE95dmdvX0lKMnZFbXRPVVppY2tqOXVmU0Fid2xYaWxmeU1GeFdjWU5oc1RCQnc?oc=5",
+   "published": "Thu, 20 Aug 2026 14:14:53 GMT",
+   "score_parts": {
+    "recency": 0.854,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.656
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "【速報】トラックけん引中のレッカー車が電柱と衝突 付近では停電も 神戸市灘区（読売テレビ） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xemRibHRUbklvcjZ6UFdENVhIVDJta2RkRnRGT2FISHdhWXBRLUUyQWdkV3pYTmd5WUZFckQzVlpTUm95Z0VuLXhsaVpmQTJFTFRJX3ZPVUdtb21oZDRaNlZEX01YejQ4MUNER3VEVFBFZUNFcGFjZHdoVVJOU1k?oc=5",
+   "published": "Thu, 20 Aug 2026 12:22:01 GMT",
+   "score_parts": {
+    "recency": 0.815,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.644
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉豪雨 浸水車両レッカーで業者が高額要求か 県が注意喚起 - NHKニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jVlVoLUtlNGxmSl81dkNkMS1GV0dMSHBHRkRxSkVSSlNHREcyREdXbk5yVDBNS082cm5pV0RRV3Q0MTB0cDAwY2VWSHhRb0ZBa003dzlWaXZJNE55UXhj?oc=5",
+   "published": "Thu, 20 Aug 2026 08:24:41 GMT",
+   "score_parts": {
+    "recency": 0.732,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.62
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉豪雨から６日経った今も 浸水車両の対応に追われるレッカー処理の現場 - Excite エキサイト",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qQ0k1TGlfY0tYU2l6OEU1OC1BcVZ3QVJHNnBTZnJzNW9DdzZYWXlHWUNENHhHX1hIYWhrQnNVenIwVjl4R0twc2w4MHhFSTBKcVVGUjhxN2dFNnk0X2hSVlBveFB6S3RmTEhhMTVVUnh5Z28?oc=5",
+   "published": "Thu, 20 Aug 2026 01:59:00 GMT",
+   "score_parts": {
+    "recency": 0.598,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.58
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉豪雨から６日経った今も 浸水車両の対応に追われるレッカー処理の現場 - 千葉テレビ放送",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YX2lpcFR0dm1sZ3BIWTBEaW5zWWNCelF2V2hlYjdFUGVqNWVJaHNQNGVlOW5heG5TYk95V25ZWGdWQkYtMW1CTGNkUVFnVWFvVXBlamVNcnNna2gyTHNV?oc=5",
+   "published": "Thu, 20 Aug 2026 00:48:00 GMT",
+   "score_parts": {
+    "recency": 0.574,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.572
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉豪雨から６日経った今も 浸水車両の対応に追われるレッカー処理の現場 - NEWSjp",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5IYWxsNm1zSWRJd3lPd3h4azBaaWZjRTIxVG5YQ2pYYWN6UHdON2xpOXpFWlJFcV9ld1B0blRURWwxZkZ5QzFiWm9RaHVNZw?oc=5",
+   "published": "Thu, 20 Aug 2026 00:48:00 GMT",
+   "score_parts": {
+    "recency": 0.574,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.572
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "中古車『予算250万円』で買うなら「ヤリスクロス」と「ヴェゼル」どっち？ 狙い目の年式とグレードを比較【中古車ガチンコ対決】 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb2dld3A4NlR0d3h3NEJLYlhPalRUMDlkclY2ZGdKR3pkVE9SSDNaaVFVNC1sY2NtM3FTNTlSZFduLXlrZHUtMmFmUnBGQVkxODVsMUNXemhrVlZieV8yaEdwSWRSM29UQU5CaTMtVXgteWRZb2dCRDBsSkJvN2tnSVJnbzBXWEVJ?oc=5",
+   "published": "Thu, 20 Aug 2026 08:00:00 GMT",
+   "score_parts": {
+    "recency": 0.724,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.567
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "中古車『予算250万円』で買うなら「ヤリスクロス」と「ヴェゼル」どっち？ 狙い目の年式とグレードを比較【中古車ガチンコ対決】 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwRDRfRXBwNTZQb3QweG9zM3FxMjBWeTg5SmpKWTA3SGgyZUlrYmJsT3BnenE3emJDbDV5ekVxSUtEM0Y2b3pLbVdQZGRhZw?oc=5",
+   "published": "Thu, 20 Aug 2026 08:00:00 GMT",
+   "score_parts": {
+    "recency": 0.724,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.567
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "【千葉豪雨】市内の幹線道路の“放置車両”撤去が完了 路肩へ移動した生活道路の放置車両は20日から順次、撤去へ 千葉市 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xSW80a2pfSTUzMVVtaTlyTDh2RWZIWWJoeElJZE4tZGR0RTdYYWxLVE1mSWctb3VzQkdGWVFabzI4a3BKN3g3eWVLaVVWRU1aV3VfckktTV9ZQ1JBVWt1SXpFNzFqalgtcXVDOUNSeDR2QmdRMkhmNw?oc=5",
+   "published": "Thu, 20 Aug 2026 12:37:33 GMT",
+   "score_parts": {
+    "recency": 0.82,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.546
+  }
+ ]
+}
