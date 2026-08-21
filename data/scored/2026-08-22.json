@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-22",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 145,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "神戸市灘区でレッカー車が単独事故 信号柱に衝突、積み荷散乱 一時交通規制、六甲山から続く下り坂 - 神戸新聞",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oMGdlY1JpOWlwVEtKVjJWUEpQQUtBaTZwcE9GSjV6b1AtMk9TMWQ0SU9ZVmREMTNlWmZfNmtabENSTnlTQ2I5aDI1UHNDcWJCUkZYUGJyajRNbkxnRmF4cFEwTzg2Z2NhaU5N?oc=5",
+   "published": "Fri, 21 Aug 2026 10:31:00 GMT",
+   "score_parts": {
+    "recency": 0.778,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.733
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "「ブレーキが利かなかった」レッカー車が衝突事故『フェード現象』が原因か…7年前に9人死傷の急坂で再び（読売テレビ） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hSXBVYTVCdjg3WVc2VmJYMXFibXpfS3M2NDFvUUlRUGpYZ1puY0pSQXVJRHE4bUp3eGt3NER0bzNYSmYyUTY1a2JUcFRBY3dOdV9ndDRYSmZMQURsbUxsSzhzNy1UOFhCdkhITXFzTlNTaXlaRDVTaTZTajM4TGs?oc=5",
+   "published": "Fri, 21 Aug 2026 07:57:00 GMT",
+   "score_parts": {
+    "recency": 0.724,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.717
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "中田翔（元プロ野球選手）さんにとって、旧車は出会い　新車のランボルギーニはお金があれば買えるけど、縁がなければ手に入らないクルマもある - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQY19iaU13R3h5Vzkwbi1wYVp4NVYyUzVNdk1qRXpuSkFUTlNYLXd1Nm9DNVpNOERMZTJCUFVGSVZvckluemNFT2ZzS2F2X1h5aXROQVNZbW9KdnRDZkkwamljTVkxN3A2VXNpR0Nxa0dNalM1ankwdXAxMVJuZlpVYjRoTFpab1pZLWw4amZVU1ZfaHNLNGtxWmMza2tWdF9VbmRLM0dBMFBJcTlLQW9MbHVBQnN3UFBja01vQ1BrVkUzeGpsOC0xZEhWYUgwUlh0YlBV0gGDAUFVX3lxTE45eUYyeHJkaDZ6YTZ4dzB3Q0FfNzRHVC1aakh1czh2V0NfcVFKb0RZWlZUanI1ZjBDanlFRUt5cnJJQXBxcVI0cjQ2MzlqcWcwSC1SM1Z5TzA4Qk1lM0lsNHFyWUlBSm9falhfWmxpcEJlckdVVzJFVUU5bE8wSE9DTDdz?oc=5",
+   "published": "Fri, 21 Aug 2026 21:05:34 GMT",
+   "score_parts": {
+    "recency": 0.998,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.699
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "#7 : 坪井・福住がF1マシンをドライブ！旧車テストを独自取材 - ABEMA",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGVzRpdGc3Rld1ZkpGb0hzUHh5QUo1ZW9HNGlxX0RrTm5naVpMQ0xPV0JYaVpDUDkwelRQUE14YVRMS3ZzNmI1LURHNFVjdVVib1FadHJuVk9aY1JoMVcwQVp0X3hlTEhV?oc=5",
+   "published": "Fri, 21 Aug 2026 12:21:34 GMT",
+   "score_parts": {
+    "recency": 0.816,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.645
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉豪雨で放置車両2700台超か 「道通れない」 事故も続発 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hRjNuRHBBOWx4WVRvcWtoSHFWYVBiNzBqNnJXV2RFemp5cEt1bzE1RmFBY2Z0TklFcnhyNm52dE5UOE1FUW1wUnUtNXBSaXVQN0txbDdrUjNVYVpTNWp5RF85Nk5XY2pIMEJJRGRPaFozUFdCV1plaQ?oc=5",
+   "published": "Fri, 21 Aug 2026 10:17:02 GMT",
+   "score_parts": {
+    "recency": 0.773,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.632
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "走行不能車のレッカー依頼で高額・悪質請求相談相次ぐ 千葉豪雨 (毎日新聞) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaUlIdjJWeGtXdTgzcEtvcU40N2lqM2ZUOHUxaGMzNXNQQm1XQ0t2VWVxX3E1eURZMG8wYUlIR01vR1d2U083YUFGaG9kQzRITUxJYTJaRHBkZ3VmMFoxZnMxQ0JrRU1KSjM5anFkS2xlSUpoRmQ2T2NCcUo0X1ZZNG5QN1hTWE1EMGZ1RXZ3?oc=5",
+   "published": "Fri, 21 Aug 2026 09:12:53 GMT",
+   "score_parts": {
+    "recency": 0.75,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.625
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "走行不能車のレッカー依頼で高額・悪質請求相談相次ぐ 千葉豪雨 - 毎日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96a2FCRV9ZV3JwTzFjSWlGNXZYaEc1d1FuVThSclVUQjlGRmZYNnhCZnl6TjVUSkdnRWs2cWtLQ0dyMlNBcjJLQnpqalIzdVd2UlZvd2kxWmdtbXc0b01oSml4YWdiQi1q?oc=5",
+   "published": "Fri, 21 Aug 2026 08:00:30 GMT",
+   "score_parts": {
+    "recency": 0.725,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.618
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "水没で放置された車両２８００台以上、千葉県内の道路は故障車で塞がる箇所も…レッカー車足りず撤去難航 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwMEQ5clp3QW9kcTJLNVczY01ILXdob2hXb1lLbGNBZlFRQ1VycG5XOXZfZm5JUGZ1T2xSWDVOOS13NVh2QVlQTmd0cXU4aEsyNHgxYXFrQmIzZ2Q2S2xFNlBqZzZWbHhEWEdhTTI1MVU4bnROdzJQTlpoNUYzTEU?oc=5",
+   "published": "Fri, 21 Aug 2026 05:02:00 GMT",
+   "score_parts": {
+    "recency": 0.663,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.599
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "トラックをけん引していたレッカー車が坂道を走行中に電柱へ衝突 神戸市灘区 - サンテレビ",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52eGxPUGEzN3VhZkNZV0VZTXNGTlZKcTl5cmJicENuOFc2V2c0RVR1Nkw4RDB2R2JnTm5IOHo0NU10UEZwYnpUV1BGYVVpMEFMZHRSVFpIemItcVk3UkRsNVhtXzJEOGNY?oc=5",
+   "published": "Fri, 21 Aug 2026 03:18:00 GMT",
+   "score_parts": {
+    "recency": 0.627,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.588
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "【火花飛び散る瞬間映像】トラックけん引のレッカー車「ブレーキきかなくなった」猛スピードで坂下り電柱に…神戸・灘区 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5bmhhOWdtdVlPYjA5YUpLWWpVVElGME55bjFsQ0MtTkVrZTcyZjlVQVNwRmFkYk8taTU0WkRMVlhuYjUzTFFaMlBoYTcxR0FyeElKU1NXb1hldzJMQ04wMXpIeGh0UTQ?oc=5",
+   "published": "Fri, 21 Aug 2026 03:08:00 GMT",
+   "score_parts": {
+    "recency": 0.624,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.587
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "【映像】衝突の瞬間、火花が…“ブレーキが利かなくなった” トラックけん引中のレッカー車が電柱に衝突「フェード現象」か - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uMVhicE1NcURiN3ZGTzdfWVA1cjBGR0wwZlFuT2dLdkduTlM4eVYxckl2azNfaDJVWklsZE15OHBLclRwQ2NVUU90ODJRVTl1ay16VnY5RHBUeUhEeDZWQTFTOGVYVWZwWlh4Ml9iZnFkczNJSDZqZmhua3hlZnM?oc=5",
+   "published": "Fri, 21 Aug 2026 02:55:01 GMT",
+   "score_parts": {
+    "recency": 0.619,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "日産公式より新型エルグランド (E53)の納期が最大7ヶ月へ長期化！一方で中古車市場は1週間で90万円超の大幅値下げと飽和状態に - Creative Trend",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6TW00YW5leDdOal9zeGNpc3A3RUVGRVNJVzdQTHdBMlR3Yk1kYXFoWEE4R2oycnh3bzVlamxXdUdIdFo1RHllaUdrVktTQ3o4TkxXaENvT2l6UdIBWkFVX3lxTFB6TW00YW5leDdOal9zeGNpc3A3RUVGRVNJVzdQTHdBMlR3Yk1kYXFoWEE4R2oycnh3bzVlamxXdUdIdFo1RHllaUdrVktTQ3o4TkxXaENvT2l6UQ?oc=5",
+   "published": "Fri, 21 Aug 2026 09:20:05 GMT",
+   "score_parts": {
+    "recency": 0.753,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "日産公式より新型エルグランド (E53)の納期が最大7ヶ月へ長期化！一方で中古車市場は1週間で90万円超の大幅値下げと飽和状態に - Creative Trend",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zeXE2bjVzZkN3ZjR4bHE2aGpfQjNCQUd5VEtFc0JQdkpYSTc2VEJFLU9rdURRUnhvOFFfRWQ5cDMwcW92S25CQVhtMUVLTW5T0gFQQVVfeXFMTjN5cTZuNXNmQ3dmNHhscTZoal9CM0JBR3lUS0VzQlB2SlhJNzZUQkUtT2t1RFFSeG84UV9FZDlwMzBxb3ZLbkJBWG0xRUtNblM?oc=5",
+   "published": "Fri, 21 Aug 2026 09:20:05 GMT",
+   "score_parts": {
+    "recency": 0.753,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "10代目ホンダ・シビック【UK中古車ガイド】 取引価格は高めで推移 好バランスが高評価 英国で前期型は100万円切りも - AUTOCAR JAPAN",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fOUczUEpQRmdPSzRRYV9yUDJWb2xQcnRYeUFlbGJTdHJDRnF1aE1saTMyanBadnZLNHFvcndVRjh6MWNJOEVld1hYbw?oc=5",
+   "published": "Fri, 21 Aug 2026 09:05:00 GMT",
+   "score_parts": {
+    "recency": 0.748,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.574
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "10代目ホンダ・シビック【UK中古車ガイド】 取引価格は高めで推移 好バランスが高評価 英国で前期型は100万円切りも - carview!",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLUtEcjZGYXd1Sm9Gb0NoMHlIbEJyLWJXVnRTOEpjbU14QU11a0lTRUlQV0s0U2xLZmtiOTFSUHNQd3kyMG5KNElIMnRHZTRmX3ZqZGMzdy1nY3FFM0UxbVdvcmtmY0FTNHFrS0l1OGx6TzJRZHNfemJQZXdUWm9BUVpvVFU4ZFV4cEdSQlZxWUR0Z2lL?oc=5",
+   "published": "Fri, 21 Aug 2026 09:05:00 GMT",
+   "score_parts": {
+    "recency": 0.748,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.574
+  }
+ ]
+}
