@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-23",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 176,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ダイハツの斬新「4人乗り“ちいさいトラック”」に熱視線！ 丸目ライトの旧車デザイン×ガンガン積める荷台が最高！ 今こそほしい「バスケット」とは！ - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9EZWlWWGp4M2xnUzRuaC1ydUNGRGNjWWVPTEh2bmw1ZGM2Q3Bxd014RmVveEFReXlfWWZOWmxWQ0hWMjRfN3lubEZKR0ZGYXQwcVpPX1ZGbUx2aFpPcGpSN09MYjAtWExWRmVoWlkwWVZwYnM3c09oQQ?oc=5",
+   "published": "Sat, 22 Aug 2026 16:29:03 GMT",
+   "score_parts": {
+    "recency": 0.903,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.671
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ノッチ 4台目となる納車されたばかり“愛車”を公開!妻に内緒で旧車バイク購入「やりやがった!」と驚きつつ一緒に喜ぶ夫婦の姿に反響（めざましmedia） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vdjdmaU50WnYyS0I0NWc1cXJONWRlaGZ5ZEdsOG90cmV2RERiWFFHM2VoUndoQ1UtajVhbUo1QUM0NHhhc3l3QnpJOFRtWWFUdHJqMnJnT0NJWXRpRXVDcERjdEthdUpPZzR2OWlyM0xseFVUSzNPQlczblpsT1k?oc=5",
+   "published": "Sat, 22 Aug 2026 11:53:13 GMT",
+   "score_parts": {
+    "recency": 0.807,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.642
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ノッチ 4台目となる納車されたばかり“愛車”を公開！妻に内緒で旧車バイク購入「やりやがった！」と驚きつつ一緒に喜ぶ夫婦の姿に反響 - めざましmedia",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IWHpOa1dnX1lZRGMwaE5VeTZaOVFyMTVjZ2xJVDB2TVNlM2JoT0Mtb1dzZmFKVDg0d0JfcTQxY2p5RHJtZWRlSDRhaGh6N2hyOEJOZmc2MnJ5ZlU?oc=5",
+   "published": "Sat, 22 Aug 2026 11:52:00 GMT",
+   "score_parts": {
+    "recency": 0.807,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.642
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ノッチ 4台目となる納車されたばかり“愛車”を公開！妻に内緒で旧車バイク購入「やりやがった！」と驚きつつ一緒に喜ぶ夫婦の姿に反響 - 千葉テレビ放送",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MdC1ldEVzQ0pRbkhhZFl2blQ2eXh0aEVyM1AzUEpuV2k3RHRreWk4aVBLOUoyS0ZjcDJNbDdDX2VMR0JIOEJKM0xkQl9GUVJUSXFCS3RVVFZmLVpIU1Zv?oc=5",
+   "published": "Sat, 22 Aug 2026 11:53:28 GMT",
+   "score_parts": {
+    "recency": 0.807,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.642
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ノッチ 4台目となる納車されたばかり“愛車”を公開！妻に内緒で旧車バイク購入「やりやがった！」と驚きつつ一緒に喜ぶ夫婦の姿に反響 - プラメポータル",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1obXBEcndOX0Q2eDRQLWNLb1A5UGtqSzZrd2V2a1lTR0lNZ1lSZGJ3ZUg1S0hNWkxoRU9YWUw2Unk1V29KaU96QUFHQm1ZUTN3cHJYUDNQZmhLRENKWmJFZk1fd0Rpa2RfYVA3Wnhhd2JWbm1zS2ZrcjB1WUxLV0E?oc=5",
+   "published": "Sat, 22 Aug 2026 11:53:00 GMT",
+   "score_parts": {
+    "recency": 0.807,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.642
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "洗車してもボディがザラザラする…線路沿いや鉄工所近くで付着する「鉄粉（もらいサビ）」の恐怖｜古田昌也 - mbp-japan.com",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzMUFmZHpQdUNKUGtRZ3VMQzRBRXBCdWZwYjRhRXItaW9qOXgzbElwNW1USlFkdFFldTlqUm94eFliX25QU0FQNFgtbHpaNWN2ZG82U2lpVEt1YXZZOXc?oc=5",
+   "published": "Sat, 22 Aug 2026 21:01:16 GMT",
+   "score_parts": {
+    "recency": 0.997,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.599
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉豪雨の被災車両、レッカー移動に「４０万円」…現場にも一時保管場所にも見当たらず盗難被害の例も（読売新聞オンライン） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpX1RmN1Y0SVpiYllBR3RJV3dtbjdvX3hkNy1FcFNaTjFWR0lWOHg3MFZfQzZFaFllUTVzUE01aEFGbW5sUFVQUlZIT21UYTR3eUxQQzU2S2d0aEtxeDBJamw3WHRNYVRaMnFFeGhOUUd1OThEbGU2ZV9tOExWX1k?oc=5",
+   "published": "Sat, 22 Aug 2026 03:00:24 GMT",
+   "score_parts": {
+    "recency": 0.622,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.587
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉豪雨の被災車両、レッカー移動に「４０万円」…現場にも一時保管場所にも見当たらず盗難被害の例も - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUktKazVtdGg4TEtNSjU3SlNtd2pIOEprMDFPZ0k5Vkw5X29WbDFiSGZ0eTRNVDR5cThnb2JSODlXb2xEU0gtX19OT0V3dzA1TjRSWFBGeTFuNHdIYTZobUJGN0NVblg1ZjZval9lLW1vbzh2SXRLUEFad3k2SzlOakgxRmRKY2xUR3fSAYoBQVVfeXFMT1JLSms1bXRoOExLTUo1N0pTbXdqSDhKazAxT2dJOVZMOV9vVmwxYkhmdHk0TVQ0eXE4Z29iUjg5V29sRFNILV9fTk9Fd3cwNU40UlhQRnkxbjR3SGE2aG1CRjdDVW5YNWY2b2pfZS1tb284dkl0S1BBWnd5Nks5TmpIMUZkSmNsVEd3?oc=5",
+   "published": "Sat, 22 Aug 2026 03:00:00 GMT",
+   "score_parts": {
+    "recency": 0.622,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.587
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "【画像】被災車両のレッカー移動に40万円…令和8年8月千葉豪雨の影響で不当請求も - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAtMnpyQS1oQjdkejc0ejdSN29OUDVHbDZ3bnRITG9YNkxxLTYxdEctbi02d3dfQmZTbW5NZlZsOWc0ZGxsRktIbkxuMzhCTkhJeVJ3MnkxY1dSVEFRcktUWTFmZUktZzlOMXBMVHFJemhIbng5QXhYaVppWDA?oc=5",
+   "published": "Sat, 22 Aug 2026 03:00:00 GMT",
+   "score_parts": {
+    "recency": 0.622,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.587
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "走行不能車のレッカー依頼で高額・悪質請求相談相次ぐ 千葉豪雨 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85MFFrdE5LUWhNWkFmSi0yMVZxbkVoWkhqckVjZGZXSEJVbUlteXJzOVlyYUQ4VmE4amFGZVBNRncyQVZtd1VoeXlZTndCbFR3T2d4clhqd2gtZjI1T0pjazdBN1BUWnpvRC1JNkIwcnU5bGktaDQxdA?oc=5",
+   "published": "Sat, 22 Aug 2026 01:36:23 GMT",
+   "score_parts": {
+    "recency": 0.593,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.578
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "「時々焦げた臭いがする」事故多発の下り坂でレッカー車が電柱衝突 過去5年で『フェード現象』事故7件（読売テレビ） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zQWwteDdYSDhVN1d2dlU3WWVWWllMT1ZuakRiaHczaHVweDhXR1U2MG81blRLU3lUV1FqM2RaZVFrMDZReGdwOTZkbC1DT2QzYXBwX3hTck9zaU1lUm1OMWhSSEFnU29QOU5JN1pPT2FCM0YySHU4YU54T1BYaG8?oc=5",
+   "published": "Fri, 21 Aug 2026 08:04:01 GMT",
+   "score_parts": {
+    "recency": 0.227,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.568
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "「九死に一生」カビが生え水が残ったままの水没車 見えぬ先行きに不安 - ABEMA TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tdHpfMmFjUlg5enoyQkxNdFVEWEpNVUNVQlI3aURsQlRsM0R3TWFwWHlycm1mcGNZcTNqTWZrbjJfYWFQem50SVVBaGhLUS1zV09mLQ?oc=5",
+   "published": "Sat, 22 Aug 2026 16:00:37 GMT",
+   "score_parts": {
+    "recency": 0.893,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.568
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「エアコンの吹き出し口から黒煙が…」仙台市内の中古車販売店で車両火災　車１台が全焼　けが人なし - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3OTR0TElJT0FuRUpyMnJncDhUWXZJdC0wSEtDNklKM0d2RVY4cXUyNkJUQXVDd3FhRlIwcEFsdmJXOTVKZEdTakZxS0E0Vk9fSWM0eWo5cVBYekJuZmZwLWZEWl8zT012czc1M25qY9IBdEFVX3lxTE1lZkpXUGhvQXR5NHpNU25hTmxyY0tZajBGN1kxbHhTNHNCakVoN21iRXVvZkdVQzlfcFRKOU4yWEp5OW43d1NlZThDYjRGNmwwMVhEd2x1aDlveUhrbVB2ZVdER1NxaTJDMDBia0huVHNHYURU?oc=5",
+   "published": "Sat, 22 Aug 2026 07:16:00 GMT",
+   "score_parts": {
+    "recency": 0.711,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.563
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "【自動車保険】マイカー購入費平均約268万円！「車にいくらお金つかっている？」購入費用・維持費を調査！ - LIMO | くらしとお金の経済メディア",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aUG5CTDVUdFpabkRfQUxRTmlTQ2N5ZVdJRF8zY2Nrd3k2T0pEcV9VYmQ3NkJPMm1kNmhDT255LVNDTEZCcTU5RmYyNTh3NVFXRTJCWEpR?oc=5",
+   "published": "Sat, 22 Aug 2026 06:13:02 GMT",
+   "score_parts": {
+    "recency": 0.689,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.557
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ダイハツの斬新「4人乗り“ちいさいトラック”」に熱視線！ 丸目ライトの旧車デザイン×ガンガン積める荷台が最高！ 今こそほしい「バスケット」とは！ (2026年8月22日掲載) - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NTXBibkV0UHZadWYwanJBNHFNdHh4TGE0b3VORXBJeDRWZElEVnJKR1lfa0F4Mm5jMjdkTndheDFDbm9YOUtoRUtPVmxZRGdsbkptYzVxTjNzX3pCQ1E?oc=5",
+   "published": "Fri, 21 Aug 2026 22:10:00 GMT",
+   "score_parts": {
+    "recency": 0.521,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.556
+  }
+ ]
+}
