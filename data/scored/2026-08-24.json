@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-24",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 135,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉豪雨、車両撤去でトラブルも レッカーキャンセル「２７万円」 | 全国のニュース - 福井新聞社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50YTlrWUI4Mms4Q19LMUg2ek51aUlrbXFHLTg4emVfbWJQODdDWENPVm9sZHNuV3VJYkNsaVpIQWdNNkFEbHhuNHNHNVgzS0stdlo4UFlMRlhRYTdEaUE?oc=5",
+   "published": "Sun, 23 Aug 2026 20:36:53 GMT",
+   "score_parts": {
+    "recency": 0.989,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.697
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉豪雨、車両撤去でトラブルも レッカーキャンセル「27万円」 - 北海道新聞デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wMGtXUnVyLVBiNGtyT0RQM21FWUF6OGVPb0xFcmN3RnBkUExxbEJvLTE5eF9SQnRNU2dsVWk1ZlZIYnR3NnRCYkY0N2dPOTYtZEJDYU5yOHNUdw?oc=5",
+   "published": "Sun, 23 Aug 2026 20:45:49 GMT",
+   "score_parts": {
+    "recency": 0.992,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.697
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉豪雨、車両撤去でトラブルも レッカーキャンセル「27万円」 - 西日本新聞me",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1veV9YRGlVZTBRX2NYMHExWllRN1ppa0d3UEZVTk14YTdjZmVaUlEtMERiaVUzVWpiMFVUdlB1QVBtODBqOVBPZmU1ckJZbWU0VFFsOXN3?oc=5",
+   "published": "Sun, 23 Aug 2026 20:36:53 GMT",
+   "score_parts": {
+    "recency": 0.989,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.697
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉豪雨、車両撤去でトラブルも レッカーキャンセル「27万円」 - NEWSjp",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4ZVk1MjIxZ0FzdDlHSExDcURWaHNzZkJUR3NseENkaWxjRHBHRkQ3MW9ubldTUVI3YkV5bEZZWlVROHY4LWNYaVZZa2RBdw?oc=5",
+   "published": "Sun, 23 Aug 2026 20:36:49 GMT",
+   "score_parts": {
+    "recency": 0.988,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.697
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉豪雨、車両撤去でトラブルも レッカーキャンセル「27万円」 - Excite エキサイト",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9manlZY2N2emhuMlNkZ3VmaDFzT3ZBN0pGaVRfUnFkX0FiMmdTcl9scGZrZWxWODdWN1ZXTllsWHBzMWpXWGtIVzkzR3Btc0FTX2FoRHFUYUNxeU8zMWpWQUxBVG9QRTFnTnM0U2Vmc1Y?oc=5",
+   "published": "Sun, 23 Aug 2026 20:37:00 GMT",
+   "score_parts": {
+    "recency": 0.989,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.697
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉豪雨、車両撤去でトラブルも レッカーキャンセル「２７万円」 - 宮崎日日新聞",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96Q3FTT0x2SDNNN2ZlVkJKaExRUnM1WEhveHB1cTNScTRIb1g3aEluTWh2UUtKdEM5RlZibUFqV1VTRktyejVnZExTUjg0a0RQTmh6b3J6UWpfSUtmTzZVbjFSblAyWFZqTWlIbVdKd3RzbXdW?oc=5",
+   "published": "Sun, 23 Aug 2026 20:36:00 GMT",
+   "score_parts": {
+    "recency": 0.988,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.696
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉、車両撤去でトラブル 豪雨被害に便乗、レッカーキャンセル料金27万円（写真・画像 1/1） - サンスポ",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZlhmWUlfbWJ1bk5HeXpQQXZfdjhFVFRnS1VHaXRuSFBCV0tRVHRveW5XbGRwckk1MnhoNWl2U2U4QW1mcDdVY1V3QzVjVlFhVC1lX005eVRTektXc1ZSYjRta2llenNzQUlsOEhkVUlIOXllU25OU0xaMWZYbGpWUE1ZaUNzcktWd0hCcG9seDRIeDlINVBnYUg3NzJPTjhE?oc=5",
+   "published": "Sun, 23 Aug 2026 19:39:00 GMT",
+   "score_parts": {
+    "recency": 0.968,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.691
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉豪雨、浸水車両撤去でトラブル レッカーキャンセル27万円 被害に便乗、今後増加も - 産経ニュース",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TMndVNlVFa0FKQ240d01BclZ5REd4OFhnelpGS18wM1lIQVlXTC1lNXZIcURsM3h1VGM5NE1ZVGlVMzVSM1RsN0syUlhwZG9wX1lWekEta0RZNXdmVFNsVEp3eVB2SjB1X29scXg1c0pVdjJTa0E?oc=5",
+   "published": "Sun, 23 Aug 2026 18:50:53 GMT",
+   "score_parts": {
+    "recency": 0.952,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.686
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉豪雨 水につかった車多数 JAFにレッカー対応依頼相次ぐ - NHKニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CbGFIVGhLMHh0MVhvQmpYVHpnb0VfdnljeUNlMWFfb1NENDdNYmV6V285NGl4VFhwdlRVVWxwVjFfczFqOURnbVRqVmlOQnJWMlYybi1XY0hzMHVzeDZV?oc=5",
+   "published": "Sun, 23 Aug 2026 12:02:11 GMT",
+   "score_parts": {
+    "recency": 0.81,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.643
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "【産業調査】RACCOの方が月1万円安かった！BYD RACCO vs 国内主要軽EV・ガソリン軽自動車 5年間総所有コスト＆ファイナンスを試算したレポート｜【第二ブログ】経営者が読むNVIDIAのフィジカルAI / ADAS業界日報 by 今泉大輔 - note",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lTS03djBaZjFhMERKNl84Sm00cDBuVWZtMEU5VWxENmlISFNjWWhuR0ZwY1hmNjU2YTk4VnNKQXFhekFTell6dE04RG9iSjFWUV85djdGTXdGVndQaHc?oc=5",
+   "published": "Sun, 23 Aug 2026 20:30:56 GMT",
+   "score_parts": {
+    "recency": 0.986,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.596
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "画像1 / 16＞ホンダの旧車＆名車約60台が元気に走行！ホンダコレクションホール20周年走行会開催レポート - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTV2dmMnlrbVZQRTdMU19TeVllZG9JcTNZeUJqUE5LWjlzQmY4RTMtNFhDa190MVV1a0Q0NDFxZ19oNjFjd3d2WUZYOG5ldV9rY3lNanhwbGdMZjZydktwa3d2bEVJSE13Z2c?oc=5",
+   "published": "Sun, 23 Aug 2026 19:06:22 GMT",
+   "score_parts": {
+    "recency": 0.957,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.587
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉の記録的豪雨では車の水没が相次いだ＝8月14日午後、千葉県大網白里市（酒井真大撮影） - 産経ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd0k1NldUdzdRM1Y4dTBqbkJHdVZkUXZ4TTQ1Mk5lM2Vwb0VPby1IOEJmQkdqUC1BUWxmS2Q0UU1mZWpfMjhxSmFpTzJTdm5udy01SEZyS3E5RFdYY3N6S1NMWjVCcWtpUGpFWkUyR0Fua2dPRXFWcVZFWXNXM2RLdVh3aWJBQXdZMlEtTWo0UUdUQWVXRkVNazJCQW5nWTR5UXc?oc=5",
+   "published": "Sun, 23 Aug 2026 18:50:00 GMT",
+   "score_parts": {
+    "recency": 0.951,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.585
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「そんなにするの？ こんなに古いのに？」夫が買った1000万円近い旧車…初旅行で起きた“異変” - 千葉テレビ放送",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyZFdhV2V2SHBlc3l6LTN1Nkw1b3gxdUh3YkpHQjRlR0ZOSXBIVG0zOUdsTkRpMWdZWEh4MmJucjhKbW9iZFhPV1M1eVlydlVmcmFaYUJqeTVockhfN1c0?oc=5",
+   "published": "Sun, 23 Aug 2026 02:11:32 GMT",
+   "score_parts": {
+    "recency": 0.605,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.581
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「そんなにするの？ こんなに古いのに？」夫が買った1000万円近い旧車…初旅行で起きた“異変” - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12UW9KYlFTYUZvV1d2RHZmYXBZR1pNZFBqNzhfcDNnNHhmVjlITXVLNzZQbW1KMUYxRUFRWGNmM0l5N3NHaXVtclRlNnNudEhNcnRfUHVuSFBNcUZOcWxINllyMTZSUEY5cEk4OVhncHVOMlR5M0lqbFZXQ0JRZlnSAX9BVV95cUxNdlFvSmJRU2FGb1dXdkR2ZmFwWUdaTWRQajc4X3AzZzR4ZlY5SE11Szc2UG1tSjFGMUVBUVhjZjNJeTdzR2l1bXJUZTZzbnRITXJ0X1B1bkhQTXFGTnFsSDZZcjE2UlBGOXBJODlYZ3B1TjJUeTNJamxWV0NCUWZZ?oc=5",
+   "published": "Sun, 23 Aug 2026 02:00:00 GMT",
+   "score_parts": {
+    "recency": 0.601,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.58
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「そんなにするの？ こんなに古いのに？」夫が買った1000万円近い旧車…初旅行で起きた“異変” - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS0hpY1Y2VVdsYmVYX2pPUTh3cVZ4eXp1QjRMdWNjWjNVMGVsdndkT2hvT29iMjQxVkdkSDVlSUpsbzBrSEJkQm5SVFk1VUNCTlhJVDlDcG1ZeVZYNjByekMwbi1QUTFKcXpUQm0tQmhqTm12RDRUajNPQ3BEcWZ6SU1vTdIBf0FVX3lxTE12UW9KYlFTYUZvV1d2RHZmYXBZR1pNZFBqNzhfcDNnNHhmVjlITXVLNzZQbW1KMUYxRUFRWGNmM0l5N3NHaXVtclRlNnNudEhNcnRfUHVuSFBNcUZOcWxINllyMTZSUEY5cEk4OVhncHVOMlR5M0lqbFZXQ0JRZlk?oc=5",
+   "published": "Sun, 23 Aug 2026 02:00:00 GMT",
+   "score_parts": {
+    "recency": 0.601,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.58
+  }
+ ]
+}
