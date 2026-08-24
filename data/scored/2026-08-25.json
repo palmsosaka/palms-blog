@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-25",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 149,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "レッカーキャンセル２７万円… 車両撤去でトラブルも 被害便乗の悪質商法注意 千葉豪雨 - 千葉日報オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzMjR6ZXhUX0JYZDBjY1ZLUWo1YTBBbEJaQU9fQl9VSllyUUdwcjdLSE1OY1RzdmxMUWdsNVJsZXVDcTNFdEIxSTgwUjdwdGtYM1laOVROYTM?oc=5",
+   "published": "Mon, 24 Aug 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.973,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.692
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "豪雨の中、車体の下部が動かなくなった車をレッカー移動してもらうのに120万ベトナムドンかかる場合、それは高いでしょうか、それとも安いでしょうか？ - Vietnam.vn",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWG8wdUNac3ZhY2IxYml0LVFtTXE3Z2xlYzlINFp3ZUF3UWxqaEptbnl1OVV0bnZEZ1NtSmR6R3QwTkFUUkdQcGdHclMzOGxHUmF2UV9vVEhNQjZfaGdLY2pHbFE3VERlbDRxR0VuTjVNbHoyamhHclJzWWZJNDVHWGFrekNMVW1ocldzX1QzX0ZrdHhRRkdIRjNyWExIaDQ?oc=5",
+   "published": "Mon, 24 Aug 2026 13:46:41 GMT",
+   "score_parts": {
+    "recency": 0.844,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.653
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "損保ジャパン、自動車保険料を5%引き上げ 来年1月、修理費高騰で - 朝日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40VmNRc0tKazEzUmNPQl85c2VWdTk1VGg4Q3plV3ZqM3dRU2tabVduUTFTZ2tpTEI5Y2oyX0NGbml2dXhLZUJTNm5NVFVpMDcteHVMTFBNZ2ZwS1hmbndJTF96cmUwemM?oc=5",
+   "published": "Mon, 24 Aug 2026 10:33:28 GMT",
+   "score_parts": {
+    "recency": 0.777,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.633
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉、車両撤去でトラブル レッカーキャンセル27万円 豪雨被害に便乗 - 日刊スポーツ",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT2t0dXNSU0o1VjUxTjZod0RLejRMaXVwZVVMOWFJQjRaOUlBTnNFWVY0T29ldElWZ0R2bFh3MS1MWG9ObTZCZFNLRVlRNVpMT1dYT29NOUhfaDExTDE5NkZwMG9ZUEZrSGtUMGJ5Rmh3N01Ybzh6aVNINDVjMUhZc29UcHlCbWU5M2IwQ3BR?oc=5",
+   "published": "Mon, 24 Aug 2026 09:51:04 GMT",
+   "score_parts": {
+    "recency": 0.762,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.629
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "公取委、日産東京販売に下請法違反で勧告 板金事業者が11カ月で2808台の事故車などを無償運搬 - netdenjd.com",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93azBtdEpReXhaTHJMLXMwYUd6LUY3aVZhT0VRc01SZFNncHJ6czBiRm44SjRXWHpBOU9SZUhJbjdJQWlKa0pnSFJrTkc5UldsX3c?oc=5",
+   "published": "Mon, 24 Aug 2026 07:44:55 GMT",
+   "score_parts": {
+    "recency": 0.718,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.615
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "車両撤去でトラブル レッカーキャンセル２７万円 千葉豪雨被害に便乗 - 千葉テレビ放送株式会社",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFSkd2TlByVWVmSVpmcFJ5SWViNlZnOVp4a3h1aGN3Q1BjcGxra3F2TjJUWlNjcTFKZDVESU5vcU5FVlV6dldDMS1yWk1mWlBwS0gyQnl2TjItVHNRMklz?oc=5",
+   "published": "Mon, 24 Aug 2026 06:30:00 GMT",
+   "score_parts": {
+    "recency": 0.692,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.608
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "車両撤去でトラブル レッカーキャンセル２７万円 千葉豪雨被害に便乗 - NEWSjp",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fWHdVSjBMeEI0bkRRZnFYWEQ5RHMwcTFBdG0yc3FVR1lmTTFLcXA3MzY3ZG1PYm15M0NmY0lKaWUxOFRYb3k3dTV4WVBHQQ?oc=5",
+   "published": "Mon, 24 Aug 2026 06:30:00 GMT",
+   "score_parts": {
+    "recency": 0.692,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.608
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "画像3 / 9＞時価2億！世界に1台だけ現存するバイクがここに！世界の名車・旧車が集まる大分・由布院「岩下コレクション」 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWLUZKbTN0aGNJVi0zNl8tYWgxNjN0SVlDeTFEM0ZVakFkZFdlSktxbGdmckdkM3B2ejRBUVJRV3RlRk4zbkxHYXJzVXcwaXlaTHRLd2EyR3lDZ1dyWUM0bE43YUVJSzVFT2hPMGc0QWVTRTBmZWl2YW9xbw?oc=5",
+   "published": "Mon, 24 Aug 2026 05:27:59 GMT",
+   "score_parts": {
+    "recency": 0.671,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.601
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "終のクルマこそ見栄を張れ!! お値段以上に「見栄え度抜群」の中古車4選（ベストカーWeb） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb0lEU3k3SlY5RzRyYkdIWU40MTlmX0ozRHZxR3ZUYmxxOW8xR0pnbGN1b3NpRlg4VGEzaGg4Sk5sbGR2XzFLZjlsYnB6amo2ak9fREZQaExJVHU3SlZoWW5KN05sRjFzUWs4Z295eGJtcGhreG0yMWUwQWxmdDctX2JVdWNQQU5nOE9CMHB2Z2ltbFU3?oc=5",
+   "published": "Mon, 24 Aug 2026 13:00:00 GMT",
+   "score_parts": {
+    "recency": 0.828,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.598
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "終のクルマこそ見栄を張れ!! お値段以上に「見栄え度抜群」の中古車4選 - bestcarweb.jp",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wLW9QWlJVQmM1UTN5bk9iaXFhQ2Y4a1JQSFBBejZ4SF9Ld0FZVl94a3l3T1VZTVYyLU5qSzdVRWdnX0J6bGJlX3ZNSVFjUTVkRzVndnZkNA?oc=5",
+   "published": "Mon, 24 Aug 2026 13:00:00 GMT",
+   "score_parts": {
+    "recency": 0.828,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.598
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "200系全盛のなかあえて100系で勝負！ 極太SSRメッシュを呑み込む鉄板叩き出しオバフェンと1980年代昭和旧車スタイル - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNV9Fa2lSMWNmSXFQemlnLWh0bkd0bnJyWUF2OTZIMVNEZ1F6eG9tWURKMkVfcmo2Q2h3a04tTXYzRmJyQW5Zd0picl80ZTNiek51dzRGWUU2MWdteWsxdW1XdEtsVlRVZmxvMFpVbFctQ3VXM09BNWg0UFg1TnFYT2VNS1pNY2ZhSVdqc0R3?oc=5",
+   "published": "Mon, 24 Aug 2026 03:05:00 GMT",
+   "score_parts": {
+    "recency": 0.621,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "損保ジャパン 自動車保険料を来年1月に平均5％引き上げ - NHKニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HaWpDRFk0c0hlMjN3U0lKVUdYb2Ntb1QwbFJUMzVmRGhBTmFWREZpMkhYNFFpUklabWZlaUtMclJLYTFBWTFaVHdGb0JIeC1pSFVTbjRxRVN4Ym5TbjN3?oc=5",
+   "published": "Mon, 24 Aug 2026 10:37:06 GMT",
+   "score_parts": {
+    "recency": 0.778,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.583
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "車保険料、平均５％上げ＝来年１月、物価高騰で―損保ジャパン - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oSGlPWmx1bk1EbUhDempEU3lQTVhaTWZZUU1RMUcwb1hJV0liUjFLUFRiaVNNb0h4VGdrZUNSNnhNRFNrZGM3UUtMN1Vrc3lfRXpyT2xBZ1JNQ3lHQ0E3LURPYVh4WTY5bFM1dnZjVFJPc3BlTnNfdWYyVmTSAYIBQVVfeXFMTUhxeFhpLWYyOG1IYzBXMjRtajQtYUJrT19WREI1OHVueHRNMDVHeTRzZmFTUTBqM052dmxKeE4ya21ib3JTME04R05DUl9aVER2Tm9INXZWSF9yVGxzMTlIYklhQmtJakUzejNud2Y3M3dCOEdmNmd4SmlBUFNCRkM4UQ?oc=5",
+   "published": "Mon, 24 Aug 2026 10:34:00 GMT",
+   "score_parts": {
+    "recency": 0.777,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.583
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "自動車保険料、５％値上げ - oita-press.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9fVjc1em9GbXNGVFo5el9vb1JuTFdtWGJ1VXVUeC00TFdjam5BM0RPSGdVaDRxeTluRHlfNXdPb1oxRFBmdkVzeHVVR05MX2xuNVlrLVNDOTJiSXJvWVFlbjlOOGJnSFR3RmYwLUVnRXlYZjUyNnZXNtIBhAFBVV95cUxNNHlqdUNHXzl2NVV4WklhdVo1M1FnQzhScDIzX1VmQURQbVVOd2k5THgzeTB1REg5WDBNTF9wQU9uYkNaWFNTS1NoOEtXNk9mR0hEdGFWR2l5cC1pd3RPT1luWEluMGhhRDdWdVl5R3UzMVM3dDlFa3k1YzEtTlh3Z1pHeWY?oc=5",
+   "published": "Mon, 24 Aug 2026 09:43:03 GMT",
+   "score_parts": {
+    "recency": 0.759,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.578
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "損保ジャパン、自動車保険料５％引き上げ - 徳島新聞デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUN3ppdS0yM3BkM2FoS2lmRVJhc1JISS1feXEyMWlZZUlaZ09oWU1rLU44bDJwcWVFWTU0VFkyblI2Q1BVWDNHOVNTVkkzbjZ2SkhJMWRR?oc=5",
+   "published": "Mon, 24 Aug 2026 09:22:15 GMT",
+   "score_parts": {
+    "recency": 0.752,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  }
+ ]
+}
