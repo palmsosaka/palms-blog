@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-26",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 189,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "冠水で車が動かない｜ネットのレッカーに電話する前に保険会社へ。30万円請求の事例あり - ジモはる",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DdFNzTkRKZDNTY2FWMjhua3NIdWhsQ29fdXRrY0RyVlJyMFpFT2EyeFRGY0J0SFN5dDUxdlB3OXBQek5IRC1XNTFyYVdZdV9fSlJ3Slk5eU8xc2Y4b29ic1MyLUt4T01TUlZ5d1J3?oc=5",
+   "published": "Tue, 25 Aug 2026 10:31:38 GMT",
+   "score_parts": {
+    "recency": 0.777,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.683
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "損保ジャパン「5%値上げ」に怒りの声殺到！ “ビッグモーターのツケ”と受け止められる「無保険車増加」の懸念とは - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWc2xYb1hldEM2T0FHWENNeUtWdnpGVXJIcFpoMGxldjVvak13azhGai1xenEyNEkwX2RLbGhNOVBwVFZ0WEFtMmdWTG5LWThXZHdaYXhuZzdDUkpMYlpmMkk2LThXOUZzeEtIRDhR?oc=5",
+   "published": "Tue, 25 Aug 2026 20:26:54 GMT",
+   "score_parts": {
+    "recency": 0.983,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.645
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "BMW R80GS 車検整備（モトラッドカスノの作業実績 2026/08/25）｜バイクの整備・メンテナンス・修理なら【グーバイク】 - GooBike",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DNzhaX3B1NFBEUjNCM25Xbl9xVVRPZkM5MTJlUE1yeng3TzJZaWVtZU9zclJkRDZtY244SG54QXB1eUpqVDEtRlNxLVdlLVRQX0E?oc=5",
+   "published": "Tue, 25 Aug 2026 11:54:00 GMT",
+   "score_parts": {
+    "recency": 0.805,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.642
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ルーテシア（BJ）がトップ浮上 2026年7月の中古車値下りランキング（グーネット） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdGduTDNLRy01ejBvdTJGY3MtRHJ2akl5R0hRenhUVHp4Y2dPRHBQWTVmZnJhR0dJdjZlU0JfNFQxWXk1VjROT3NYVDh1TFJmbFRNRnI2X2FfVi1lQUd5dGZwRzNVVUJzN2Qzb1pNSkk3ZmgyYllIbmx2M1JHY1NQcW1oVmxOOUx0OWRDTDNoYkM4VU95?oc=5",
+   "published": "Tue, 25 Aug 2026 17:55:15 GMT",
+   "score_parts": {
+    "recency": 0.931,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.629
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "ルーテシア（BJ）がトップ浮上 2026年7月の中古車値下りランキング（グーネット） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS182aENTUVN4S0pkcFZGM0FYRTNZY0RmS084ZE5wdnNydUdNTmlzTWdfWHVsOW9Ec25LV1NwdFd2TDd3Y0dNTDV3bEdNZFJhLXJJYlQ3SEUyNlhUYlF5U2VJNmxBRU5ORWJEZWk1NHNLa3lFQXh2b296RHlLME01RHhCSU91MVFvclI0bWJSSE43OFJSazVN?oc=5",
+   "published": "Tue, 25 Aug 2026 17:55:15 GMT",
+   "score_parts": {
+    "recency": 0.931,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.629
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ビス留めフェンダーはあえて「ボディ同色」。19インチ深リムを収めた旧車風ハイエース（Auto Messe Web） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QNzlkV0ZBX2Juc3g1Sm5UVkxNRFUtcW9RTlF4Q3dZRVhBamhsdzd2eFBqQkZlSktCYXlnREVITXNoS19HY0k0YmxPVDR1V2ZsSjh0dkN6Z2dOaVhwMWU2VGJRMURQZzJ2SlhzMjQ1MVRhcHJNX2VGQmluc1ptdFk?oc=5",
+   "published": "Tue, 25 Aug 2026 20:55:40 GMT",
+   "score_parts": {
+    "recency": 0.993,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.598
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "「10万円、車検代で今月ちょっと厳しくて」5年たっても話に触れない弟に、私が静かに見せた一枚とは - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWX1RxMTYzSUU0Wm5tR09pMEFiaXdIZ3V3ZlUyR2MteGt5YXpnN2p0bzEtV3BDU3ZQdHVseHRZb3UxYkhGbnYxQ0dBb3V6djFTOXRadnNweU8wYkdTV0NYbWRKOGo3ZFBPSHg1Qmdwd0RHNVFYVzNUNQ?oc=5",
+   "published": "Tue, 25 Aug 2026 12:37:04 GMT",
+   "score_parts": {
+    "recency": 0.82,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.596
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "＜画像9 / 23＞【全51点】超貴重な昭和の名車・旧車がズラリ！ 日本の名車コレクション［1/2］ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IZHI4YjQtNFhORV8tdXI1eGt6RUVuQkdlUjFNSGVZYXBnaWZ4RXg2c2ljRm9JYURERS12RUlSUEFFSlV5aExsRTVmRTRuT0RGOUw1WGVPUzlCT1pOdDBxU3NubThiUmFaclE?oc=5",
+   "published": "Tue, 25 Aug 2026 04:18:47 GMT",
+   "score_parts": {
+    "recency": 0.647,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.594
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【納車ひと月目の作業その3】マフラーカッター取付け！ SUZUKI フロンテ FRONTE 5MT 昭和62年 1987年車 5速マニュアル F5A アルト 旧車 Cameron Brink (anNUCsgsnk) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hakd4NFFnZjZKNmdROGZZTXRFdWtNcFdLdkx5M2RnWXQ3QWNUVHd6TVl1U2VQcFZPc2JRQTlmVjlFRUh5SFRlWFpJVUF6R0RudDBOeGFEQnl1V3c?oc=5",
+   "published": "Tue, 25 Aug 2026 02:39:05 GMT",
+   "score_parts": {
+    "recency": 0.613,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "豪雨災害が落ち着いたあとに出てくる二次被害！ 悪質業者が流す格安中古車は水没車の可能性アリ - ニコニコニュース",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GdkUzTE1wYm1DVEYtVmVEUG4teXk1WGowVlBwU3JvRWJEaU1yWnN2X19mMDdxVVB3SUdUc2ZVMHdRRGxLUDRmSGhoUUotekJDRFdSWTQ0Ry1TTFdkSkFNYzVveDNtWlJGUnJGLVhlVm1xenU1NzUzLXVzbw?oc=5",
+   "published": "Tue, 25 Aug 2026 09:42:16 GMT",
+   "score_parts": {
+    "recency": 0.759,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.578
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "豪雨災害が落ち着いたあとに出てくる二次被害！ 悪質業者が流す格安中古車は水没車の可能性アリ（WEB CARTOP） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWlAzZllBdV9JYmkyYzhBQ28wby0xaTJsWFRtbVhtZXg3MTg1MDZmMEpJbGZveWdmeEpYeFozendjWUJXS1BnaFppMUNPNXN3bWV0TnRwNlpTYWRXdWZMZGpZc1JwdkJ1Y3JzWlVsa2x4aENFakJoOHh4XzNiWVBPUldmWUZvbHhZ?oc=5",
+   "published": "Tue, 25 Aug 2026 09:39:57 GMT",
+   "score_parts": {
+    "recency": 0.759,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.578
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "【100万円下落でプレ値崩壊も？】「ランドクルーザーFJ」中古車が90台超に急増。転売特需の終わりと“本当に欲しい人”に届く出口の光（carview!）(3ページ目) | 自動車情報サイト【新車・中古車】 - carview!",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOHZqaUJCSFQwMkt1aEJCenktYmcxZGtVREEycHdPS0poT0NVNGVpREZKODdSNWdjT1FxeDlqTGFObkw4bTNWOGFPWnVBSGhJdF9pSE5lNFpRZXdfcUR3dHI0SHVEa3ItYTdOQlg0bWcyYXp4S2ZSZkM2Wmphdks5X0swd2ZYb3B4Mm95MnpydzNEYzlQQ3c?oc=5",
+   "published": "Tue, 25 Aug 2026 09:30:00 GMT",
+   "score_parts": {
+    "recency": 0.755,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.577
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "ルーテシア（BJ）がトップ浮上 2026年7月の中古車値下りランキング - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE11WkhUT0pva3dRZGp5WHhHWi1rOGJZYXZYRTk3YUpQcUVxay05NkowelhRM3U5VGdvXy14bmlXTUxmRngtOGUzR3hOQ19NcUx4dHpXQ3RpMzJwMTZ1bmpZejFYNHFXeU5MTzB0bVJEeWlrcUpQQ3FHTlR30gF6QVVfeXFMTXVaSFRPSm9rd1FkanlYeEdaLWs4YllhdlhFOTdhSlBxRXFrLTk2SjB6WFEzdTlUZ29fLXhuaVdNTGZGeC04ZTNHeE5DX01xTHh0eldDdGkzMnAxNnVuall6MVg0cVd5TkxPMHRtUkR5aWtxSlBDcUdOVHc?oc=5",
+   "published": "Tue, 25 Aug 2026 08:55:00 GMT",
+   "score_parts": {
+    "recency": 0.743,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "マツダ・キャロルがトップに 2026年7月の中古車値上りランキング - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XRkJxdlVhSWxvNm5BdndSX3JGYXVCbkpLRFM5bjNweU85dXREbWhsVHkwbXB3U3A3LXMxU0oxek9kUVB6YV9Rb3lwNFFxdWhVVTRIR1dGMUNjck4zMkJ0YUtyYlhLVlFPRGcwWEdsSTBScG5ZVXZxQkhn0gF6QVVfeXFMTldGQnF2VWFJbG82bkF2d1JfckZhdUJuSktEUzluM3B5Tzl1dERtaGxUeTBtcHdTcDctczFTSjF6T2RRUHphX1FveXA0UXF1aFVVNEhHV0YxQ2NyTjMyQnRhS3JiWEtWUU9EZzBYR2xJMFJwbllVdnFCSGc?oc=5",
+   "published": "Tue, 25 Aug 2026 08:51:00 GMT",
+   "score_parts": {
+    "recency": 0.742,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.572
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "マツダ・キャロルがトップに 2026年7月の中古車値上りランキング - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5lYlIyVXp4Rjh0c3dSRTU3SU9MU21Xa2lGaXpZX01UWDgyQk92MERINDRENHpGTmVUV3MtOTJSYWhIWVdNR25CREplaTlTMFNNclV3dE9jckE5ODhNclFOTGpKYWRTVjRKa283TU9TdFE5RWNHOEVIZ3ROM1NqZ9IBekFVX3lxTE5XRkJxdlVhSWxvNm5BdndSX3JGYXVCbkpLRFM5bjNweU85dXREbWhsVHkwbXB3U3A3LXMxU0oxek9kUVB6YV9Rb3lwNFFxdWhVVTRIR1dGMUNjck4zMkJ0YUtyYlhLVlFPRGcwWEdsSTBScG5ZVXZxQkhn?oc=5",
+   "published": "Tue, 25 Aug 2026 08:51:00 GMT",
+   "score_parts": {
+    "recency": 0.742,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.572
+  }
+ ]
+}
