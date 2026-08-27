@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-27",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 137,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "愛車から「ガラガラ」「ジャラジャラ」40代男性が帰省先でレッカー搬送されてしまった“異音の正体” - TRILL",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNY3NROTlJNk1MSGpfckVNWDN6dk1pTTVNY3QwRFRob21GdlpSaWszTWsxcy1sTEJzYjJOWnNoTzVsTkNHSE9YUnFrM0tyYUE?oc=5",
+   "published": "Wed, 26 Aug 2026 17:20:00 GMT",
+   "score_parts": {
+    "recency": 0.855,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.656
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "愛車スポーツカーに「満天の星が映ってる！」→よく見たら「大修理」が必要な\"重大トラブル\"だった… SNS上で「気の毒すぎる」と大バズりした\"かなしい災難\"に共感の声 - くるまのニュース",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFByVWNoTXRoUkJOUXMwSnZVWUE3SWVmZEtrMTl6ZGQzVkRpb1JfaUVOZnRpbmpROEZxaDNiZVBncERpc0FoZGVUNVdrcw?oc=5",
+   "published": "Thu, 27 Aug 2026 00:10:00 GMT",
+   "score_parts": {
+    "recency": 0.997,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.649
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "災害時に車を移動、レッカー会社と須賀川市が協定 千葉豪雨では2800台以上被害 福島 | TBS NEWS DIG - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pekhlMHo0M25PTDNoVlVMQjc5Q1VEUUpUcnk5V3lkb19uQVNSdF9mLTJLSjRmd000N2pHeC1oZ25WVG1kNDlwT0NuX3VIeGtDZVhmSHNnZU9Ib1pa?oc=5",
+   "published": "Wed, 26 Aug 2026 12:49:04 GMT",
+   "score_parts": {
+    "recency": 0.761,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.628
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "くっきー！、「初期から憧れてた」アメ車と対面 試乗でさらに興奮「男くさいわ。めちゃめちゃいいな」 (ENCOUNT) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVnN1bkJUVlVBTHp6UnFQMzJYeE9RZm84ZTRla0w4SElCcENrdEE5NkhHMUNZdFVUcjBKdTVPRnF5VXlieC1oZmR2aGlMclNheEpIX3hxSWdKLUI5ZTJUYXdQNllYMU00S1J1QndwM25ORGE3ak43aVJNNmdDOTF2dzM5UEdqZTJfZHlsT2h3?oc=5",
+   "published": "Wed, 26 Aug 2026 12:20:00 GMT",
+   "score_parts": {
+    "recency": 0.751,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.625
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "くっきー！、「初期から憧れてた」アメ車と対面　試乗でさらに興奮「男くさいわ。めちゃめちゃいいな」 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU1M3akVlcUdfcE44dGRwSHZRTzJNdkpmS3IyN2oza2pScFlNc1BXRlp4SUhvWFNpWVBNY1ZmUDBQcHY4T3hTWVZPbU90VFIzZHlaUlp1TVlDX2xaNlBnRW9oOG1veXVwbU5fdDY4cHhyWEdoUjVrNldPOWFpekNYeEF3R3J3RnhC0gGIAUFVX3lxTFBTUzdqRWVxR19wTjh0ZHBIdlFPMk12SmZLcjI3ajNralJwWU1zUFdGWnhJSG9YU2lZUE1jVmZQMFBwdjhPeFNZVk9tT3RUUjNkeVpSWnVNWUNfbFo2UGdFb2g4bW95dXBtTl90NjhweHJYR2hSNWs2V085YWl6Q1h4QXdHcndGeEI?oc=5",
+   "published": "Wed, 26 Aug 2026 12:20:00 GMT",
+   "score_parts": {
+    "recency": 0.751,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.625
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "公取委、日産東京販売に下請法違反で勧告 板金事業者が11カ月で2808台の事故車などを無償運搬 - netdenjd.com",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93azBtdEpReXhaTHJMLXMwYUd6LUY3aVZhT0VRc01SZFNncHJ6czBiRm44SjRXWHpBOU9SZUhJbjdJQWlKa0pnSFJrTkc5UldsX3c?oc=5",
+   "published": "Wed, 26 Aug 2026 09:07:41 GMT",
+   "score_parts": {
+    "recency": 0.684,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.605
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ユージ、愛車の46年前・1200万円超“旧車”を公開 超井戸田興奮「こういうタイプのカスタムあるんだ」 - 産経ニュース",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUWHFzTWo4OEpCTE9nWTRzMncxN2xlMktXZTQyN1ZfTms3RmdBNVZIWk5IZVlEWElTaDRRUGI2V0l3WW1lZ1NDRUs5U2lubGJveW5UUU51cWtqOXhfMi1vWTZfOVc1MzNzYklFNE5ya2NSSXVTUkE?oc=5",
+   "published": "Wed, 26 Aug 2026 09:01:09 GMT",
+   "score_parts": {
+    "recency": 0.682,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.604
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ユージ、愛車の46年前・1200万円超“旧車”を公開 超井戸田興奮「こういうタイプのカスタムあるんだ」 (オリコン) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZFlKVWtZRTFRZTl4NVYya1BfckVZVGQ5R1F0R2ZjcFpMVC0xTzJRazVvczMwdzd6dVA5Zjl2M3F2VmhhOVlwX0NQSkg0ZmNGRmhwNVgyMnJZb3pVMVBrWUNVc0RLd1loOGlwNEduS2VwNDhYSGtsbkM5b01nVTFwLXE3UF9HN1ZPcEpoQl9R?oc=5",
+   "published": "Wed, 26 Aug 2026 08:10:00 GMT",
+   "score_parts": {
+    "recency": 0.664,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.599
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ユージ、愛車の46年前・1200万円超“旧車”を公開 超井戸田興奮「こういうタイプのカスタムあるんだ」（ORICON NEWS） - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ2RyNFhJN2NRNE9CY0JWX1VEcE9SY2gxaWVzWUs2UmNOOGNRQk5CNU93MnNRNDNldzZDNkx0UDR5UkxzQXFtREN6M01iSjRuYVN0OGpfeGRTMzlMdUt2bkphcXpnLUhPckJkcFFFVzU2SzBzbG5ieDdHVEtvWkUtNkQ3LWI3QQ?oc=5",
+   "published": "Wed, 26 Aug 2026 08:10:00 GMT",
+   "score_parts": {
+    "recency": 0.664,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.599
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ユージ、愛車の46年前・1200万円超“旧車”を公開 超井戸田興奮「こういうタイプのカスタムあるんだ」 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ndGVQcTFFR0NONUFveUtOdzdLNUxSTkJxNUtXX1FJOUlXazFXaTBPMmEtbXAya2t3T1I2VWJ2ZGhZVUpQbUVvMW9uMmx3V2U1eGlHZHEzTkk3SFJpVEhN?oc=5",
+   "published": "Wed, 26 Aug 2026 08:10:00 GMT",
+   "score_parts": {
+    "recency": 0.664,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.599
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【旧車】洗練されたデザインとクールなローダウン 平成6年式 トヨタ クラウン ステーションワゴン Vix (64jvKrCUZr) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVWlA0eHNrVlFhUkU3QUxlZEpQdWRXZU9rUldvUXBMZ3BhOG9sQzVYMG5JdmpwU09mamF0bGhZVEhlbUUySmJVR3Roa1RxTHhCeTY0bTZWcENKU1pNazRhcQ?oc=5",
+   "published": "Wed, 26 Aug 2026 07:16:29 GMT",
+   "score_parts": {
+    "recency": 0.645,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.594
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "災害時に車を移動、レッカー会社と須賀川市が協定 千葉豪雨では2800台以上被害 福島 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Za1huNy1IV0NwZUJ2RXB6SVAzWS1YUm45OC1NT3hOQUp3TktkQXlTbDdwZVZaR2JNOTYyTjdaQUx4MkZQbXF5X3hTSzVSVHdYZHZ4cmhTVDB4NXkxTWZYMU9JT1Y?oc=5",
+   "published": "Wed, 26 Aug 2026 07:03:00 GMT",
+   "score_parts": {
+    "recency": 0.641,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.592
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "【知らないと損】軽自動車の保険料が変わる！「7クラス制」と自賠責の仕組みを徹底解説 Real Madrid (saTjoNZDFs) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GTTZ3MWVXWERVd0ZLNS1VYVptZkNZaFYwdFdCWGhuSk5aSk55blpWNkw5alRmVEdhRUpEN255UW5PbWZEWWVYT29uMHFnQ0VBTVdQelFQWkM4Z2s?oc=5",
+   "published": "Wed, 26 Aug 2026 13:59:32 GMT",
+   "score_parts": {
+    "recency": 0.785,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "65年にわたって造り続けられた空冷ビートル。年代によって、もちろん細かな部分で変化し続けてきた。これを見分けることができたら、アナタは立派な“ビートルマニア”だ！【前編】 - 月刊自家用車WEB",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TNUp1b21hYXI1YURCaDJVVGJGUkZlS3BHRGpMdWZ4WEJtNUdla0tnQnpHbERxVGZaZ2ppREk4d21raE8tTEdGRjYyU2NCUjlq?oc=5",
+   "published": "Wed, 26 Aug 2026 21:20:00 GMT",
+   "score_parts": {
+    "recency": 0.938,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.581
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「迫力がスゴい…」日本が世界に誇る歴史的名車。登場から48年を経た今もなお色褪せない。6気筒エンジンの圧倒的な存在感が印象的な［ホンダ・CBX 1000］ - ヤングマシン",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sVEVQTmlQeVFLSFY0SHhyTXlOYVgzTWRzUlprUVJkWXNWd1k4MmZKeGRTSnFIS3NBOHZ2dHBlUkZ6LUFBczQ0bkUwdjZZa0w0SjFWU2hfOXpHWkJ0TWllUUlTQUlCVzlEV1dMU0hSa3piSHJxUHpJ?oc=5",
+   "published": "Wed, 26 Aug 2026 21:10:00 GMT",
+   "score_parts": {
+    "recency": 0.935,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.58
+  }
+ ]
+}
