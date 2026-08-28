@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-28",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 142,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "1981年から展開が始まった第二世代の空冷Zシリーズは、どんな進化を実現していたのか？ 旧車探訪記・カワサキZ1000J編【1/3】（MotorFan） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUk1BaWFkbVQ1eklxYkMyTjBEQ25ray0tanFrUjExVDVrWmF5eHNuY3YwM25qa2NIXzlycVNDa2gtb2h5eVVvSGUzY0N6NTB5Q0VoaVhFc0E1ZnBoN1R0V2RvZmRkWU5Wb1VpSy1reTJ0dEpDMnlOVkdiVU44WTczZTBpeGJSVjFL?oc=5",
+   "published": "Fri, 28 Aug 2026 01:10:00 GMT",
+   "score_parts": {
+    "recency": 0.921,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.676
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "三菱ミラージュ サイボーグZR試乗記｜シビックと競った90年代ホットハッチの今【旧車レンタカー】 - JAF Mate Online",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJRlBzVjlJRmtPQVAtQXFZV1UtakIydzVDX0lvYUZWaDJsNDNXc2FZYVFiS2Zia2x6RERsdTlmcm1VM3g4UUNsLWZTS0VvczZhYjF3WXM5dmZBX21oN1NV?oc=5",
+   "published": "Fri, 28 Aug 2026 00:03:14 GMT",
+   "score_parts": {
+    "recency": 0.898,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.669
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "三菱 デリカD:5（CV1W）追突事故によるリヤ周り保険修理｜リヤバンパー・リヤゲート交換・バックパネル修正 - goo-net.com",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hN2N4d0VyZllaWC1BVzFPODdMU0pOWjBDN2NMOV80OHpqYUttQUpmOGMyYUpUYUM1bzNjUHBfMnBIUk0yUFVrRWxaNlpNSE1zLUJpcDBDXzhKcmh5alZWQkhyOG1sN3I0?oc=5",
+   "published": "Fri, 28 Aug 2026 03:00:09 GMT",
+   "score_parts": {
+    "recency": 0.959,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.668
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "旧車好きのジュニアがテスラでドライブ！自動運転を初体験！【テスラ モデルY】※再アップ修正版 Reform Uk (p1NOX91wfH) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04NVVad0haMFFQNFkxZVRzcm9semJVMVJKN3Uzam5ic1hjNC1oXzloSUJFQ2dkWnI0b1BOTDVLUi1rX1ZDNF85ejA2WjlrbmVHbGVqMndpdG5PRVk?oc=5",
+   "published": "Thu, 27 Aug 2026 23:33:24 GMT",
+   "score_parts": {
+    "recency": 0.887,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.666
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "伊藤かずえ、愛車シーマ驚きの走行距離が話題⇒「おめでとうございます」「旧車乗りのかがみ」 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YWFlGRWxkb00wVk14UGlhVWg4SlBUbVFQSEdEQkdkSVVhTk5VOV9PUF9IZUczNmdNZ3RZbWRNbmh0WFRRX05TQTdtMXdKRVJTT1Z3SWgwWVljQmVaTEZaZGhTcXZRV3E2RzNYcDFn?oc=5",
+   "published": "Thu, 27 Aug 2026 11:57:18 GMT",
+   "score_parts": {
+    "recency": 0.645,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.594
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "くっきー！「車の概念ちょっと変わってしまったかも」憧れのエルカミーノ＆センチュリーSUVを前に野生消失＜試乗最高！＞ - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92eV8zN1loaGw3S0VtVmNHZTZxSEQ0eDhmTmRXQVZBR19QNUIzdnQxYjBWLXJBWE5pd1ZQak11T1VQc0xlVTdTdXF1a1hRalFoUEJnN2llRkZNdHk5V1FJR3VpWjNQX0xkYXJKZmZFYTZrQzVpTnB3TU05bk1PRkU?oc=5",
+   "published": "Fri, 28 Aug 2026 03:00:00 GMT",
+   "score_parts": {
+    "recency": 0.959,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.588
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "伊藤かずえ、愛車シーマ驚きの走行距離が話題⇒「おめでとうございます」「旧車乗りのかがみ」 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51UjVkYnJWRFJoRUwwTm1TY3RTVDNHNU5yQUNZcWxGWGJ5TmVUUmd6WEtFa3ZKRlFBbGNMMWE5bldJLXRKN1lFaEdfWUwxQ1lBOTRKQWotOFpGNjl2NUo4MEQxcHpJc2hEOWFrZFVUVGpsZmpQZlZUOGhKTlZ3b1E?oc=5",
+   "published": "Thu, 27 Aug 2026 10:50:01 GMT",
+   "score_parts": {
+    "recency": 0.622,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.587
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "「発売直後からプレミア価格に」米国で爆発的な大ヒット。入手困難となった48年前のマツダ車。しかし当時の日本では色眼鏡で見られていた［初代サバンナ RX-7］（月刊自家用車WEB） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM0lsUVNKdkItWmNGRWI5bkk1RllZa2NKMGtxcGc5MXdLa0xJSFNKSU93c00ya1RGbjd1RXRmMEZicTRwcTlrby14TzFSUnhmYUVJS1RDcnN2b2VTNE44b1M0eEUxeUhIUVBJcWUxZnhSTXVuSnNVUG9UUlhXVjRzR0Via0pJWHUwZHNrNFZ2VGs4TlRZ?oc=5",
+   "published": "Fri, 28 Aug 2026 02:55:00 GMT",
+   "score_parts": {
+    "recency": 0.957,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.587
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "第110回 自動車保険のマイカー共済は良い保険？【おすすめ出来る】【お金の勉強 初級編】 Mediaset (04CeJkqOzm) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHLU5zZ2p1QzFYUzhlQjduQzJ6RGlpaGZYNU5HcUhTTEFfel9JcEZ6cWpEbGx0dGZaNjVqMmVtTjk1MVhPQkFJd0lZbDByMU12TDBveDNsOWRDVWM?oc=5",
+   "published": "Thu, 27 Aug 2026 18:36:35 GMT",
+   "score_parts": {
+    "recency": 0.784,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.585
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "マツダのロータリーエンジン搭載車にBMW 7シリーズも 乾いた大地に眠る廃車 38選（中編） ジャンクヤード探訪記 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NcW9PZFFYZ2NTc1BNZ3prQTNUSHB2eWJIdFVkcUt0NGRtWS1yZXNxenVma0pJUC1SMVNZWXFDeTNQMVNqR01ZOVI1aXA1ZG1xVFJxSkQydi1lenYtZmhz?oc=5",
+   "published": "Fri, 28 Aug 2026 02:25:00 GMT",
+   "score_parts": {
+    "recency": 0.947,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "乾いた大地に眠る廃車 38選（前編） 日産スタンザに1955年式ビュイックも発見 ジャンクヤード探訪記 - AUTOCAR JAPAN",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5HS0pqVEN5a0JHRVhUQ1VUT1lmbk5KSGZibEdfNzlJemVtOXBwNW95NXNEbDNIbm1ja0JhcDF0NWFOcklxNzdUbXFvWQ?oc=5",
+   "published": "Fri, 28 Aug 2026 02:05:00 GMT",
+   "score_parts": {
+    "recency": 0.94,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.582
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "車検不適合車を販売、旧ビッグモーターの中古車販売大手に賠償命令 地裁西条支部判決 - 愛媛新聞",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80VURGWmFsXzhpSHc1TV81Q1NvWGt2TTBPUTJheUhlRzJYSDdELWRvTUtkUGx3UnU0R3FENVg2UGZPSnZDcV9hZVlYOFZFeU5LM2llUkJKVWxycTVmTG1DTw?oc=5",
+   "published": "Thu, 27 Aug 2026 09:52:03 GMT",
+   "score_parts": {
+    "recency": 0.602,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.581
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "クルマ、何に乗ってるの？ 僕たちの愛車紹介 #46｜ホンダ シビック - KURU KURA",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KYy10N01DR2R0V0t0QzMzZUowZl9zcl9OOC1VeFhTTHAzdUx5VzFja3pKNlBTZjRRWm9sTE9WOFFIV2QtSkJJMmlQU29YRVNBbVpXckRibURYQlA2UWFjRzRna0E?oc=5",
+   "published": "Fri, 28 Aug 2026 01:53:34 GMT",
+   "score_parts": {
+    "recency": 0.936,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.581
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "IKURAさん主催「IKURA’S AMERICAN FESTIVAL 2026」レポート今年の夏の富士スピードウェイも、アメ車好きの天国だった！ - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSXlJZERobC1hd3JCaWQwcTFHQUhXZzFSUVBwVnZtbVhDQndfTDJkRkhXOVhhX2FGbHU2WGQ1ckJnUkpUNHJUcTJSa0ZzaUdkbVY4MEJZYlplc3lyUGJqUXpzVVlvMUFNOGdBY0xscHotRE93SmJ5T2JOQmNteVRPVmYtcFFuZEhO0gGIAUFVX3lxTFBJeUlkRGhsLWF3ckJpZDBxMUdBSFdnMVJRUHBWdm1tWENCd19MMmRGSFc5WGFfYUZsdTZYZDVyQmdSSlQ0clRxMlJrRnNpR2RtVjgwQlliWmVzeXJQYmpRenNVWW8xQU04Z0FjTGxwei1ET3dKYnlPYk5CY215VE9WZi1wUW5kSE4?oc=5",
+   "published": "Thu, 27 Aug 2026 10:00:00 GMT",
+   "score_parts": {
+    "recency": 0.605,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.581
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "カーネクスト、石川・富山豪雨で相次ぐ車両の水没・冠水を受け、被災車両の引き取り・廃車相談に対応 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xUEpwcTF1ejg2MVdPV0Y2VUZuVWhZZWVodUMweEpVRy1FbEVlbFZuUDBzZ002aWdEbExMemtJNkVVYVN5MlhaVUlTaU9KUGNYWHNGTDFMdWEtMnJHWXNPLTIwNXZNNklzMUE?oc=5",
+   "published": "Fri, 28 Aug 2026 01:26:53 GMT",
+   "score_parts": {
+    "recency": 0.927,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.578
+  }
+ ]
+}
