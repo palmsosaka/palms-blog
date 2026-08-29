@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-29",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 174,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "“乗りやすい・イコール・高性能”をテーマにして、理想のライディングフィールを徹底追及‼ 旧車探訪記・カワサキZ1000J編【2／3】 - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YY3hGZXhpRG9RaGp0bDZOT3pzWFVRV012OFo5UHFNa2FBSzB3UTY4X0dsMXVGX0tjSGRlQ3RRQnNIczYwMFZ2WUFTSVVoVzFoRlNrcFhKVWVvdXNfRXZFYVRBUWZwX2hE?oc=5",
+   "published": "Sat, 29 Aug 2026 01:10:00 GMT",
+   "score_parts": {
+    "recency": 0.963,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.689
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "🚗✨加藤浩次＆ヒロミ、伝説の旧車をよみがえらせる！55年の時を超えた挑戦🔥 Athletics Vs Phillies (1mBFMIGV3F) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82U01YZWtNN3FvOGM0LVVpQUs2V2NENkN1M2gyTnJ3bXJvT21TdEx2UnBsaF80aVZfMndsWnpOcnRIMXBzYjBxMS1zV2trcGZCZ2xZbG9OZXJtZDA?oc=5",
+   "published": "Fri, 28 Aug 2026 23:23:08 GMT",
+   "score_parts": {
+    "recency": 0.926,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.678
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "2026年2月『稲旧★旧車ミーティング』#改造車#街道レーサー#グラチャン#旧車#族車#昭和#車好き#80年代ロック Gilles Villeneuve (1HXL4vm1ls) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DUXh6TzBfaXlYREx5RmVzTWZBbGVHTkhYbk81SEEyMVgxcVJBZktLNVpWSzlQVkQ3c1BsRThtblR6ZE9zMnRLdGpzMXZIUEdMM0s5c3F4aGVEUWs?oc=5",
+   "published": "Fri, 28 Aug 2026 23:11:27 GMT",
+   "score_parts": {
+    "recency": 0.922,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.677
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【週間ランキング】「倉庫のボロ車がまさか…」事故車のミウラが約1億5000万円！ナットブレーカーから名車、キャンピングカーまで今週のクルマ記事TOP5（8月21日〜8月27日）（月刊自家用車WEB） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaFpncUVYVW51bWJnUnhFelo5Z1dDMll4eHBobE1lTDVXVV9LVTJpSUpuMXh6N2paS3hDcW4zaU9xVlJ2UmFpV0E4TE83MU9DRFpoQWEyT3lia0xpN1ctbDNkZlByTDRrZ3Y4S3hVT3FkeGlSMVJqRnNFbHRXbmRZVmYtNjdoQlgtbnNHakZxRkc2TEE1?oc=5",
+   "published": "Fri, 28 Aug 2026 22:10:00 GMT",
+   "score_parts": {
+    "recency": 0.901,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.67
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "＜画像2 / 4＞マツダ・ロータリー特設ブースも！クラシック＆レアカー集結「お台場旧車天国2017」 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02bHJIcGU0RUJwZ2RtRVU5LXp2Q21LaGRpT3Q4TzJTN2c2TEFxYjNpc3FmV0l3ZDlyZUpDYmlPV0RUTG5IMUlWMFcwM19qS3ZtNml6dG90X1dBQjlDa18wX1NGNXVIX3RjUWc?oc=5",
+   "published": "Fri, 28 Aug 2026 20:46:55 GMT",
+   "score_parts": {
+    "recency": 0.872,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.662
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "2026年6月『サマーツーリング2026』#改造車#街道レーサー#グラチャン#旧車#車好き#ツーリング#海#夏#サマー#千葉 Quinte News (kqPoqJi0t9) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrdGpZSGxvdi1jUHJBbFhlR2FadmEyVzhtMkNVZGM5WnZoclQ5QlJCd2hCVVBJSmtzeGV2bW9fcWVnVXYwTjNyZ2VtSUtydmt2WTRPamFhQmRmZEU?oc=5",
+   "published": "Fri, 28 Aug 2026 18:01:06 GMT",
+   "score_parts": {
+    "recency": 0.814,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.644
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "50年前のアメ車を買うそうです、、、 Football Scores (k7EBEJJqM0) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIREJtOGNYbVJmT2ZUcGdEOURzYmdIck5aYi0xZU5LZ1dYMk91NU85MGdoMk4xOHV6RHFKMWNGbkEwcF9wak0zQldreTJMQW1Zc0pFS2pMdnBPWnc?oc=5",
+   "published": "Fri, 28 Aug 2026 17:11:59 GMT",
+   "score_parts": {
+    "recency": 0.797,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.639
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "ソコカラ、中古車取扱台数が「前年同期比188％」事故車・廃車で培った事業基盤を生かし、中古車買取を拡大 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Yb2FxOGhWSWR6aks3VU4tUFJna3NROWtCb19VTnA1MDhsZlYtdm1IWi1Qc2JqTE5teUVRUTg1dFFMWWNsUVJ0blNGbHFhQlFyc0xQWG1QQURIdkJwXzRjSjhxVWR0Z192RUE?oc=5",
+   "published": "Fri, 28 Aug 2026 07:30:02 GMT",
+   "score_parts": {
+    "recency": 0.595,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.629
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "旧車の現実【AE111/LEVIN】 Sunderland Vs Man United (3xTLkWSKZk) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0ybFB3QXpDSnpOc2xkV2VZTDZXNXFKZ3JJZ3pPdlNQcFNRbDFKQWpVM2lWeWFaeTh4STJMMzh0cUpZU2ZnNjRWQkJ2bThFZG9DeTRZZm9IRzAwcms?oc=5",
+   "published": "Fri, 28 Aug 2026 14:48:20 GMT",
+   "score_parts": {
+    "recency": 0.747,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.624
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "600万円で一度は乗りたい輸入中古車、アストンマーティンなど「今選ぶべき」モデル（レスポンス） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQlgyNGtBRC14SjNNWjJJYks3eUxfMENtYmE2VUhFaTdRRGcwWUs1U3lHVmVWSVExQW1WY1U2Y3pKNWF1eE12X1dadnRfY1F2R0JySHpUOVhQMklnTV9fcGh6U0ZHUUFJcFZoRDBXbjcya05RTnlVcnlOT0tnLVRHVmtRWjFrRWk5X3pRMU5NaWhUaWlp?oc=5",
+   "published": "Fri, 28 Aug 2026 22:38:04 GMT",
+   "score_parts": {
+    "recency": 0.91,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.623
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "600万円で一度は乗りたい輸入中古車、アストンマーティンなど「今選ぶべき」モデル - レスポンス（Response.jp）",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sS1pBdHR6SktvTzc0RnpWTlNVLVhBT294OEl0dUVzN3ZDeXVZby1obmR6b1dRTnFxeHZYTkJNYUQ2SUQ2WWNTVHpZM1JjR21tUXM5NDVzbXNGc1hJVHZZ?oc=5",
+   "published": "Fri, 28 Aug 2026 22:00:03 GMT",
+   "score_parts": {
+    "recency": 0.897,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.619
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "絶対に売る気はないと固辞する主を5年かけて落とした旧車の数奇を辿る - ニコニコニュース",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9oSC0wX0JSSU02cW9ULUJDV2UxZVRhWWFOeGF5RGFINW53eEl5VkhzUG5mb1pqdV83ejI5ZE1KbkM0N3NHTE5rRW5yVUpVVkEyYXVSWnEwaDRHRmdPVTZhbzBZRzE4MDJ6dFFlR0JGeTlQOU9GZHJSRHozbw?oc=5",
+   "published": "Fri, 28 Aug 2026 11:03:36 GMT",
+   "score_parts": {
+    "recency": 0.669,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.601
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "真！薬師寺流第３話 東海⭐️旧車ミーティング富士GC第１弾 Inflazione (OEXqIGV0rL) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HRVJtSE9ueUthZUx4aHdQV1Q3YlhmSk94SUotSUpoQjlSTzY0ekg2X1Rab190T1h5d0FVY2hBZ2t0SWhWcTZxOFhiYTV5QndRTmhZMHdLZDFpOTA?oc=5",
+   "published": "Fri, 28 Aug 2026 10:50:01 GMT",
+   "score_parts": {
+    "recency": 0.665,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.599
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "輸入車が一堂に　石川・金沢市で輸入車フェスin KANAZAWA開催 - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lS2d3b0Y1NFhxbldCT2l2TWlZcU8ySVRDQjRLVU9kTXVZWTdOWENJSEpaT2tSVUFJRHR0b01CTXMyQXRnck5VTHl0SkYweURkaUNndFVRNGlvZEo1ZmlfQXBRam1NdTZkS19sc1NhV2NOZ9IBd0FVX3lxTFBGak5YZGRCM0hJLUZLQWdaR2FfNm8tWUJQY1FZV19uZHdxUnhLLUxFZWNaSzNGUld3SUhvRVpBb2p4djRaWEljZTBOMFpFSldkaHF6XzlHNzBtWnpETHNBbGFpMUpvTW90YktkQ01HZTZSbWx6TWM4?oc=5",
+   "published": "Sat, 29 Aug 2026 02:41:00 GMT",
+   "score_parts": {
+    "recency": 0.995,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.598
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "画像1 / 16＞ホンダの旧車＆名車約60台が元気に走行！ホンダコレクションホール20周年走行会開催レポート - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTV2dmMnlrbVZQRTdMU19TeVllZG9JcTNZeUJqUE5LWjlzQmY4RTMtNFhDa190MVV1a0Q0NDFxZ19oNjFjd3d2WUZYOG5ldV9rY3lNanhwbGdMZjZydktwa3d2bEVJSE13Z2c?oc=5",
+   "published": "Sat, 29 Aug 2026 01:00:52 GMT",
+   "score_parts": {
+    "recency": 0.96,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.588
+  }
+ ]
+}
