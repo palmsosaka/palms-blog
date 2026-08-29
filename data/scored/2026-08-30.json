@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-30",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 156,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "【アメ車】55年前の愛車が残酷な姿から帰ってきた…泣きそうです… Brock Nelson (4W5Aw4m6Nf) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nNmhldEVzUzJwRVdCR1NtbmNjQk1xbGJHZWxSb0FZbWpzQXAydGI0c21CQlpiTmpqZmxsVlFIT1Y4OGRaQVpSU0FHS1dybVc5eVNnNEJiWnZyeG8?oc=5",
+   "published": "Sat, 29 Aug 2026 16:30:23 GMT",
+   "score_parts": {
+    "recency": 0.868,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.66
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "【アメ車好き必見】日本で1番やばいアメ車屋はやっぱり衝撃すぎた Raffica Di Vento (B92MTw9k43) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BakwzWGtKTUV6T2laMm5WdUpOcHpPSWo0eC1DdUpjM3RPUE9sR3d0VmZQejRFdzYteUdZa04tMXpBMFlaSVktd2p4YkY2OXM4YlN6RnJ4ZE1MdU0?oc=5",
+   "published": "Sat, 29 Aug 2026 13:03:12 GMT",
+   "score_parts": {
+    "recency": 0.796,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.639
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "2026.5.24 「東海★旧車ミーティング富士GC」 #富士グラチャン #改造車 #街道レーサー #グラチャン族 Coquimbo Unido - Universitario (9uGJ6HIvhN) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13TG5fa1dQRV9Wb2tJUEZUUDdGZ2pwQ194bDVOX280U3V6Zi1Vc0c2OWllZmdORG1lUHMwY1RrVFRQaDFSdS0zRjJia3lEYTVtb3JzY2M1S3JvTlE?oc=5",
+   "published": "Sat, 29 Aug 2026 12:53:19 GMT",
+   "score_parts": {
+    "recency": 0.792,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.638
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "【憧れ】アメ車を乗り回すとんでもない先輩女優さんがやってきた Supermercato (Yfv0BXOJEt) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WYTI3VC1GQXRzXzVKc1I2UTdzRmtmaS0wSnlFdGpqakt0Nm16ZEdhZzBjVHlFTVFjWXFGMUFFQ0lxN3NtOWZlTFB5OTdqMG5HZk93Ymt6Q3ZkS2M?oc=5",
+   "published": "Sat, 29 Aug 2026 11:10:08 GMT",
+   "score_parts": {
+    "recency": 0.757,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.627
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "公取委、日産東京販売に下請法違反で勧告 板金事業者が11カ月で2808台の事故車などを無償運搬 - netdenjd.com",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93azBtdEpReXhaTHJMLXMwYUd6LUY3aVZhT0VRc01SZFNncHJ6czBiRm44SjRXWHpBOU9SZUhJbjdJQWlKa0pnSFJrTkc5UldsX3c?oc=5",
+   "published": "Sat, 29 Aug 2026 10:22:40 GMT",
+   "score_parts": {
+    "recency": 0.74,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.622
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "本日のドクターヘリ（ピット）搬送：スズキ・アルト人間で言えば定期健康診断の車検。 パッと見は元気そうなアルトちゃんですが、お腹を開けてみると……「おや？ちょっとお疲れかな？」というサインが出ていました。 - goo-net.com",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JbVdKbFJKcnRmemQtNi1jRlRNMlVGUGUxWHFTTkR1WVVxS0dpREtYclV6Ym42R3dMNjV1WGZNYm5FNjAxa19iOWU1VTNZcWw4UzZxRGtUWTREMnIyZWdZTS1vNzY2NVQt?oc=5",
+   "published": "Sat, 29 Aug 2026 11:12:42 GMT",
+   "score_parts": {
+    "recency": 0.758,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.577
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "2026年１月『NEW YEAR MEETING 茨城』#改造車#街道レーサー#旧車#昭和#車好き#80年代#新年#ミーティング Merlin Argueta (H9sI16u787) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FSGFaQmxrXzltRUc5NnRZZzBSai1MTXk1UDlCZi12TkJnZ1hYMTgwcHpDeEFGWE9kRkZSS000RHRtSHZvMG0ydjlkendqZnhXTGtET3R1SU5JMUU?oc=5",
+   "published": "Sat, 29 Aug 2026 02:34:08 GMT",
+   "score_parts": {
+    "recency": 0.577,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "BYDラッコ、220万円の軽EVなのに保険料はベンツ級！修理費200万円で維持費の罠が発覚!! - t.co",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE81QzZMMDVJbEZ2NHdMMGxsTjAtSEtZZlZTLUdGdFhHd0VRcHlaUDhlYmZTWThUaEhTM1lz?oc=5",
+   "published": "Sat, 29 Aug 2026 21:13:56 GMT",
+   "score_parts": {
+    "recency": 0.966,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.57
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "日本の中古車高騰に裏にある「輸出バブル」！ 発展途上国に「普通の日本車」が大量輸出されていた - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPalBpU21sUF95M3Q5a054bC1OQzVGWkQ1b2tKS3hqMzlQdEpiNW9TRUpaQ3I4RUJKTW5oNjNuM2FVb3ZVUkhUXzNEbVpSeDhtVG1jQ25ZaWRjY0NNd0RZNVNXbTdNSnJrQkRDYXVQclhGV2lXTVlxdV8wZUVEdjNZN2lpUDFKSTNR?oc=5",
+   "published": "Sat, 29 Aug 2026 09:11:25 GMT",
+   "score_parts": {
+    "recency": 0.715,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.565
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "真！薬師寺流第４話 東海⭐️旧車ミーティング富士GC第２弾 Tristan Da Cunha (mh0UcOh551) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSVjVBX1RXQzdwOGJnVHBkRTd1X1psODR5eUExdlIyb2pyWWZrX2t6eU5OMUNhRHFUbDQzcy1YMVEwMUhGcHZ2RUl6bVJvdUZpUkc4VzJGSE91UGc?oc=5",
+   "published": "Sat, 29 Aug 2026 00:40:00 GMT",
+   "score_parts": {
+    "recency": 0.538,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.561
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "違法改造車を作って陸運局に呼び出されました… Wemby Ejected (Ol9Nteuo2H) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vZzFTVVJwY1BoX1VjdGZ4anVoR2NvNi03alpOZW9tRHlOcXQzaGw3UFJGYXdsWm16aTk4VGEzVEtTcVdZVHMxVkV2ZWJTVmV6TmwyaEdmaTF0RkU?oc=5",
+   "published": "Sat, 29 Aug 2026 16:27:23 GMT",
+   "score_parts": {
+    "recency": 0.867,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.56
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "＜画像2 / 2＞お台場の“旧車天国”にマニアックな車＆バイクが集結 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRLS16NE5IWVZrQnZVWEp6dzNnN3E3c1ZHcnZzalhjVHAtd1JMYUQtMXlNN3ZGbkdEaW1xWDhjRGdNaF9OOHU1UV9qMHNBZG1ZbjlwQ3Ayai1XSEc2UzZXUnpZLXZwWUFm?oc=5",
+   "published": "Sat, 29 Aug 2026 00:04:37 GMT",
+   "score_parts": {
+    "recency": 0.526,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.558
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "ベトナムでは、約8万台の退役車両に認定された整備・修理センターが存在する。 - Vietnam.vn",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQekR1clFuM0VHeWpScWVBSk5SWGxodndJdHFUUGdqWWdpMFV2Q25yVGxfVkR1bG5SdUg5Slg1SC12SDg5S2FFU2ltMzd0ZG9CXy1MRldxUlUtMXBEbWFXa2JpMEdLVGdCYk1IQnlwTGg2NWFSY2dkaDQ2eFNMQ0d0RG1yV3IyUnFNdU00Z19saGhsSm9mUEdTMlFPLWF2X0k?oc=5",
+   "published": "Sat, 29 Aug 2026 06:23:37 GMT",
+   "score_parts": {
+    "recency": 0.657,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.547
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "【続報】九州自動車道上り八幡～北九州Jの上下線と東九州自動車道下り北九州J→苅田北九州空港で一時通行止め 車両火災の影響 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWdzBNLW1Pck82bm96RHZtNmhSdE05VklId0lqcGhBNThiX0pDQ09HaXA2ZVVTZG5hRlYzQXNSTGNwelhYU29McWN2ZkFseWdqeVI2Y05jZ3ktZ0prTm1seFhKS3dkS1VTZVpKVXBKTldRaVNwX3p5eQ?oc=5",
+   "published": "Sat, 29 Aug 2026 14:12:44 GMT",
+   "score_parts": {
+    "recency": 0.82,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.546
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "画像15 / 22＞イチョウ並木を旧車100台がパレード！「トヨタ博物館 クラシックカー・フェスティバル in 神宮外苑」レポート - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtb2xTRnFhcFM2Q1VYX3JpekZPRDRjSE9oWmRVQUNvRG5XSVd2V3R0dnBHd1BVLXJyVHVjd1l5RXptX2duOWw1MUo4MDlFT2pDWHEyWW9vLXQ5VHM2TzB5em9Eb0huaGVGUGc?oc=5",
+   "published": "Fri, 28 Aug 2026 22:12:53 GMT",
+   "score_parts": {
+    "recency": 0.487,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.546
+  }
+ ]
+}
