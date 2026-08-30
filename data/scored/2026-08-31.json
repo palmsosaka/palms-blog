@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-31",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 124,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "スタントマンによる交通事故再現も 自動車学校で交通安全学ぶ「夏祭り」 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54cjdicGtRU3BzQ3UwY0JvXzlId0psX0hvU0JVbWZnaE9OMlVwZVJ3RFI3djcyTEpUdFFsOTlVMm1xTUlsRGtCdVpTRlJoN3U1ZUxPOWdTRjZBbWtIVmxr?oc=5",
+   "published": "Sun, 30 Aug 2026 16:00:00 GMT",
+   "score_parts": {
+    "recency": 0.855,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.656
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "中古の軽が高騰!? 「平均落札価格138万円」で過去最高を更新！ 日本の中古車が高騰するワケ - bestcarweb.jp",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5za3VnVW1ZV09QckJvTV92b2hvb1V6SHdySnhoTVQ1RWVSV3JPOE5MdXREbHI2MWJQMGl2UTRIZENsOG9TV1JzYS1nN1V2cTBUcllkcGFtMA?oc=5",
+   "published": "Sun, 30 Aug 2026 21:00:00 GMT",
+   "score_parts": {
+    "recency": 0.959,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.638
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "事故で高額賠償になるといくらかかる？自動車保険は安さ優先で大丈夫か - マネーフォワード",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkWVhLZkNMOG9MaWt1RTlLNU83VmpZOG4wa2JPYVY0WER2ekR4OFlDM2kwWEJIT1BRR2NuVlpONS0xd2xQcnVpUEJrRS1KbFdqYXY0bnUzdVB4Y2YyVkE?oc=5",
+   "published": "Sun, 30 Aug 2026 02:44:32 GMT",
+   "score_parts": {
+    "recency": 0.579,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.624
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "キンコン西野亮廣 激シブ旧車の愛車・マスタング披露に「ヤバいっ存在感！」「カッコイイ」の声（スポニチアネックス） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCQ2xZN0pESTVPYkJzcEtDdmdzM2xLcTV5QkgzZ2xVdmplVnNaMm5rdkw2bWdjMldwZmYtUXBQMlA0cC13bFZGUFI3anlfQXk3ek9oMlJYaV9nQ1RGM1EzT05XVVNrZldscTM3bUdlVllwaGY5RGJlMDVzdmw2VHc?oc=5",
+   "published": "Sun, 30 Aug 2026 09:59:11 GMT",
+   "score_parts": {
+    "recency": 0.73,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.619
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "キンコン西野亮廣 激シブ旧車の愛車・マスタング披露に「ヤバいっ存在感！」「カッコイイ」の声 (スポニチアネックス) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV2JVUTFUVFVqanRjNFNlQ1FwQ2FmVER3UHBfVU1vR2JmSlQyTlhnWXhKRWRXRDAwX3NUSWcxUHJWcU5lNU05ZGN6QnkzS21URER4ek5UUXlXU3NOZExma3oyTVVoNUVNaG80WjhycjI0dGJ4QTAyNzd3UV8xRHJUalBITXRzUU1GREJaTmJ3?oc=5",
+   "published": "Sun, 30 Aug 2026 09:59:11 GMT",
+   "score_parts": {
+    "recency": 0.73,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.619
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ワクワクする旧車が大集合！ブタケツもハコスカも大集合！ Canelo álvarez (PuOO5BpuD5) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pVnpWUVhMcEJ1Q19SVm9BeEZLc0I5WXBvZzBUOWJpYnBIV0NsS05VTjFTTWRndEczUzNCM1NOTUlEUHpieGdCV1I0b2ZXQ3VXZGFaWmh1N1RSM1E?oc=5",
+   "published": "Sun, 30 Aug 2026 07:30:22 GMT",
+   "score_parts": {
+    "recency": 0.678,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.603
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "マン島TTの英雄とコースを走る特典付き! 214馬力で800万円オーバー、15台限定レプリカ仕様「BR1000RR-RファイアブレードSPマクギネス30周年記念車」登場（WEBヤングマシン） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPam9uMzBlRnRnczF6RmVpZ0dyM1kxNDgwdE8wVVo2Qm9Yb2ZCZFhqNWc4bTVPWTJHcWlSYTE3VUx0T20tUG1fM1JFb05CcUlOSlF5YVBfVUppRVNpTkJENWVBaHZkcjVzWjNtNDR1RW9NLWJ0ZmVZR24xNVc4SVUzSWJJMWs1RnVBZ0lsQm02Zl9zVndl?oc=5",
+   "published": "Sun, 30 Aug 2026 22:10:00 GMT",
+   "score_parts": {
+    "recency": 0.983,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.595
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "トヨタ・ライズが12カ月連続でSUV販売首位。RAV４が２位にランクアップ（26年8月の軽自動車を含むSUV車販売登録ランキングTOP20）（カー・アンド・ドライバー） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPai1KcG1EODRoTEE3cnNBZ1lWS2hmZVRjaEpDVjZOTk1XX0FYQUJ3aUxKaEs0ODRBNHB3bDdmZDgtMWJtd1hxbFBSMWU5NHlkVXB4cEU4UXlxd3pLSFNsVnBPek8wa2RSa1hPMzJTUTQ2LTZiYnVUeWc1OU1YZ0pUSDFBR3RfemhmTXlNY3ltQURXRVZu?oc=5",
+   "published": "Sun, 30 Aug 2026 21:35:00 GMT",
+   "score_parts": {
+    "recency": 0.971,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.591
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ユージ、愛車の46年前・1200万円超“旧車”を公開 超井戸田興奮「こういうタイプのカスタムあるんだ」 - 山陽新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rRVhadGduYUdJM05nZWRfZWJlMnhIT09jdy1oSDFQam9wb3VKZkVMdXU0X3dkc09mWHgzY2NvRjdYWVlfcjlBR25vLTBoSEliNmc?oc=5",
+   "published": "Sun, 30 Aug 2026 19:51:27 GMT",
+   "score_parts": {
+    "recency": 0.935,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.581
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ユージ、愛車の46年前・1200万円超“旧車”を公開 超井戸田興奮「こういうタイプのカスタムあるんだ」 - 福井新聞社",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93ODk3eGVWMlRsaUhRR1Z2QjlpUTdMSWc4Wk9Yb3MxdjdJTFhuTmZyNkg2X2UzYTF2TF82Wnl6b2VwcDR0VENwSWF2bTd6ZTYxNnJ5eHpNTk5XbU5nRWx3NW81MGpnbHFMNk9Zbw?oc=5",
+   "published": "Sun, 30 Aug 2026 17:45:48 GMT",
+   "score_parts": {
+    "recency": 0.892,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.567
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "週2～3回しか乗らない70代の車、タクシーに切り替えると費用はどう変わる - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5UWkzUnhfX1RBSkwzbXlvYzVUdGZRQ2EtYm5maXBtYVg3ZjRiaV9rSGRMMndVZXBHV2JTcE5meDRkdDVwTmJzUUpCM3JlQ3h3eGhFeDB1eFQwTjhFVFE0?oc=5",
+   "published": "Sun, 30 Aug 2026 17:24:33 GMT",
+   "score_parts": {
+    "recency": 0.884,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.565
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "「BMW Z4」に乗るなら今か!? 狙い目となる世代とグレードは？【迷える中古車ノマドへ：28】 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE54MnhLUXZwRWJwX2k4M0JUdEFZby0wZ1BlMEdwM1ByUG9TM2liMG5vMENydzVEUzVxcmU4TEZJM1ZnRjBSd3h5UzJNejVyUQ?oc=5",
+   "published": "Sun, 30 Aug 2026 07:45:00 GMT",
+   "score_parts": {
+    "recency": 0.683,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.555
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "「BMW Z4」に乗るなら今か!? 狙い目となる世代とグレードは？【迷える中古車ノマドへ：28】（MotorFan） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNHp2a0pnWFRYNXZBMWtaWU9ZT2VXNXNucm5sSnZhX091NEhfUkkteE90SHNIX2M0bHdZVllNM0hjVGlvNEZ1Nmc4WDhBQmxkVHJjdWlsYjV6M2hJTTZwOUhjcUVCS2NxSzBQc2RXZFRGaXhJaGtJMURxQkZ1YUNybXdKU25QMnBP?oc=5",
+   "published": "Sun, 30 Aug 2026 07:45:00 GMT",
+   "score_parts": {
+    "recency": 0.683,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.555
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "【スズキ アルトラパン】【車検・整備 バッテリー上がりの不具合】 - goo-net.com",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtNXdNRDlFRk42eGZpdVd3dkowTkdRcGlqbHduZnNhLTFlRFItSFY0NUJqeGQwZndiakthMVB4YldZX0tYNFBqWkJmVzVEUzRxR3RxZGNqQkRPUU1YbElqc1AzSQ?oc=5",
+   "published": "Sun, 30 Aug 2026 07:20:55 GMT",
+   "score_parts": {
+    "recency": 0.675,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.552
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "“乗りやすい・イコール・高性能”をテーマにして、理想のライディングフィールを徹底追及‼ 旧車探訪記・カワサキZ1000J編【2／3】 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FZlM3aFVtaUtvYjRzSWxOV1F4czdiQ0xVWUdoLUJhMDJHSV9NdGItS1JEV0ttNVRwdkJMRUhvWkhyV0JPaTlsM2ZQU3BGd01sMDFib3lRM193QQ?oc=5",
+   "published": "Sun, 30 Aug 2026 14:43:08 GMT",
+   "score_parts": {
+    "recency": 0.828,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.548
+  }
+ ]
+}
