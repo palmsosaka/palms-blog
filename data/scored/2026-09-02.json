@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-02",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 145,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「メーカーが旧車を大切に」「アップデートされているのが熱い！」「神対応すぎる！」など反響　ヤマハ往年の名車「RZ250」復刻パーツ発売にファン歓喜 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jVHp1YmdZSDd0UmsxWXpQemI4eHN5U2JyZkRuUG1XSi1sbkJJY0s0TVlYQnUya1J4ekFXVUtYdWJleFZGOFZyaEk2bzIzYUpJSERrSEZtQlZOd3V1TVczZVppaXIxX2Raa3dPZ3VEQXU3SExMcXlTVGlB0gF_QVVfeXFMTXJ5eDVRM25vY1dtR2k0bjZydUNkTUxsV290WVRNWVhjQ3BuZG9mN1JPLVRaTkRmOEU3TjM3dEt5c1p0aGY0SnF5YU5URVBhbDJXNEtGaUNYRmpKVEh3Nlk0UUJlM2ltcmljdWUxdERodHRoMDNCOEFXaFhmZndQNA?oc=5",
+   "published": "Tue, 01 Sep 2026 22:32:18 GMT",
+   "score_parts": {
+    "recency": 0.993,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.698
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "『なんでも鑑定団』タダで入手した“72年式”カワサキ伝説の旧車、本人評価額「540万円」→“ド級値”にどよめき「このレベルは市場には…」 - オリコンニュース",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1scnpiR0FLWG5hWkN4ZFNoNkpFV2l5Q21SUk9JTHI4WTFoWUhuZjFsNjVmNXROcDdoV3RCd2NNUXA3YWl6TDI5dnZHREpJMVRnZ1E0bkwxdlV1QQ?oc=5",
+   "published": "Tue, 01 Sep 2026 21:00:00 GMT",
+   "score_parts": {
+    "recency": 0.961,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.688
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "『なんでも鑑定団』タダで入手した“72年式”カワサキ伝説の旧車、本人評価額「540万円」→“ド級値”にどよめき「このレベルは市場には…」 - sanin-chuo.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTSktjYTNYOE1Jb3lHZlZrWnRYb1hrMTFOQjdheTJVcnZKYWlvNzlXV2VReEJocDJkZkRLOG84am04RjdmMXFObmViQlNvWWk0cjMyakhNeXVGM00?oc=5",
+   "published": "Tue, 01 Sep 2026 21:00:00 GMT",
+   "score_parts": {
+    "recency": 0.961,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.688
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "『なんでも鑑定団』タダで入手した“72年式”カワサキ伝説の旧車、本人評価額「540万円」→… - T COM（アットティーコム）",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LYzFIWEEwRU5kYVBvcC1EOWxoT0VGc1RqQzBrVjdZZmlRYmx0YTNad1A5R3hyT1p3MDRHM0R3RF9MWWtseWV4VkF4bGZTV281aktOMWJzOWE?oc=5",
+   "published": "Tue, 01 Sep 2026 21:00:00 GMT",
+   "score_parts": {
+    "recency": 0.961,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.688
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "タダで譲り受けたカワサキ旧車が鑑定団で1000万円の評価を獲得 (2026年9月2日掲載) - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ubUtuVVVDdmc1OTVjeUF0Zm9GN19GMjhpMGVxcFBhaEhZTHJyVkFYVVVSV3BDNWhXOTdZanpxbmRLRWRPYnNUUXVHRXd6UWEzLUQtTW10cVVLbUlaWGc?oc=5",
+   "published": "Tue, 01 Sep 2026 21:00:00 GMT",
+   "score_parts": {
+    "recency": 0.961,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.688
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "フード・マーケット・アメ車・バイクが集結！「SAGAMI VIBES PARK vol.3」を9月5日・6日に開催 - chiba-tv.com",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GYWxSbFNlckpralBhZnAzeUp2S21yazNhMmJ0M2RDRWRxSlpHb3o3T2g0NDVibDdJWEZ1NFdIajRZMjUzNDM0WTFKRTFmTVhPQlZ5NmdETDB2WTk0OGRF?oc=5",
+   "published": "Tue, 01 Sep 2026 17:53:35 GMT",
+   "score_parts": {
+    "recency": 0.896,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.669
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "豪雨後に出回る激安\"水没中古車\"に注意せよ!!（週プレNEWS） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40SEN2c3NPTW1ZSlZoLTRwTDNOUFh1NjZYdzE1SGtuSmZLX3JTQklGdThmUDNIdDgyNUJsNHJIWE10aTllMVZiZktYcGtXaG02czZraDBSYmVmRDJic2pZZ2lFVGJVbnlTY2FuYVlQaUFGbXo1c0MxaUNWQ1FsQVU?oc=5",
+   "published": "Tue, 01 Sep 2026 21:35:03 GMT",
+   "score_parts": {
+    "recency": 0.973,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.642
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "豪雨後に出回る激安\"水没中古車\"に注意せよ!! - Excite エキサイト",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05d1BoOXV2NThnTXBScEJBRjFFZm9GbVRaSTJIMUVkampJbmNvQUhFc1Vxa2pYa09SalRtRU5LYmJ3LW9VS2J0ZDBSMXFxcXFIQUU2b1hmQ2Iwdl9pUUVhZVdDYW9Ddw?oc=5",
+   "published": "Tue, 01 Sep 2026 21:30:00 GMT",
+   "score_parts": {
+    "recency": 0.972,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.641
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「旧車から最新GRまで知り尽くす北陸屈指の老舗！」RSサンサイ【SPECIAL SHOP】 (MotorFan) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQakQxNXlKamN2dE9IbEU2dkdWRFNKVGdYN0hsaTl1QXpSbnNSZExJTWxxWVdpMEVwMVFtdzh1RURCN2FpSjJQZUNuMTEyb1NhY2hkRDV6aVJXeXdNTnB2LUYxeVU3YWs2U2xnS3ZUdEl3Y1lyaEhHSFhGdkZxMjNFaHJBTm9HZ2dGQ243UUN3?oc=5",
+   "published": "Tue, 01 Sep 2026 12:46:56 GMT",
+   "score_parts": {
+    "recency": 0.79,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.637
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "車検館「2026年 オリコン顧客満足度(R)調査 車検 」関東 第1位を3年連続で獲得 - MOTA",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1TR01Tck5rWFBPMTZrNUVKZlNIMGdyQUw3d3lQeVNkOGxxdVpWYkNiYkliVUNyb2N5bXNqdlhHbWdtVDkteDcxSVZB?oc=5",
+   "published": "Tue, 01 Sep 2026 20:07:46 GMT",
+   "score_parts": {
+    "recency": 0.943,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.633
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "自動車保険の等級制度を完全攻略！仕組み・事故割増・引き継ぎ・セカンドカー割引まで Reese Witherspoon (RnprGsRmWm) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPcGMtN2NmNXJSdE1vY0hraU1KTVY2TF83Ql90cjBJdjNDSl84QVZ3Sm5tMFJ2T25FRXgyTzVnS0ptUkpCcXIxWE0xc2M2SVV4NUFaLU5KdzdOYUE?oc=5",
+   "published": "Tue, 01 Sep 2026 03:22:47 GMT",
+   "score_parts": {
+    "recency": 0.594,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.628
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "満足度の高い『車検』ランキング┃【ジェームスの車検】が3年連続総合1位、「見積り対応」「担当者の対応」など全8項目中4項目で、3年連続1位（オリコン顧客満足度(R)調査） - MOTA",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9fMGtNQUtlTkNBU0RWSllHSm8zNGFZOExBdHRWbmlnMTBkTmFIUGd1eWZhU29tN2VNdDNkel9LN2k5Z0Fnb3FROVlB?oc=5",
+   "published": "Tue, 01 Sep 2026 18:07:42 GMT",
+   "score_parts": {
+    "recency": 0.901,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.62
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "雑誌売買欄発見から4時間後には自宅車庫。サンオレンジと当時ものパーツが映える1974年式初代日産「バイオレット1400スーパーDXバン」 - Auto Messe Web",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YM255NGJLV05xR0FsbUxJdHB2ZGJfUkd1OUo5Wlh5WTNyb2ZITUwzcGh0d2l5Sm9LTk5UajZDQnJCd3N3R3JNZFFKTjE4QzE2Smp3Y3o1cjllTHNNWE800gFfQVVfeXFMTlgzbnk0YktXTnFHQWxtTEl0cHZkYl9SR3U5SjlaWHlZM3JvZkhNTDNwaHR3aXlKb0tOTlRqNkNCckJ3c3dHck1kUUpOMThDMTZKandjejVyOWVMc01YTzQ?oc=5",
+   "published": "Tue, 01 Sep 2026 21:30:29 GMT",
+   "score_parts": {
+    "recency": 0.972,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.592
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "『元.営業が解説』中古車を最安で買う秘密の方法と絶対やってはいけないNGな値引き交渉 Avs Vs Porto (4VhL5ebWD7) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nTUtCOVlld0pxWlhaUy1ORFZhbnJtN2Ffel9zMXNLUFhEaGhWcUswZ2Y2aHMwdk9EOXVfWjZka1p0LW5FXzJlOHpPVFlteE9oSG5RU1lmQThLdWc?oc=5",
+   "published": "Tue, 01 Sep 2026 13:19:26 GMT",
+   "score_parts": {
+    "recency": 0.801,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.59
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "「ゴージャス＆マッスル！これぞ”アメ車”だ!!」『第33回ヨコハマホットロッドカスタムショー』でアメ車カスタムの真髄を見た！ - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85d1VXNGFZUk4xVlBQZ0pYaElEbHhJQVpTaGVuTTMzTGNmSkVUWFZpV2VjeE5PZHBmaXQ1SGEybjcwNDQtSUdIQVRBT1BzOURuRWVWVnlB?oc=5",
+   "published": "Tue, 01 Sep 2026 04:02:36 GMT",
+   "score_parts": {
+    "recency": 0.608,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.582
+  }
+ ]
+}
