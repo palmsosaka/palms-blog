@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-01",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 149,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "堺市役所前で「自転車でつながる堺2026」9月19日開催 9月1日から申込開始｜サカイタイムズ - サカイタイムズ",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBGaUlJYmhyNGFXSEhPbnRQdG9CUkY1UzExWXB3MXVaaXV4WmFwd1JxWTZCaTFucTNzQjlzbHRJR3A1WWR0SW9lZlpPQQ?oc=5",
+   "published": "Mon, 31 Aug 2026 20:30:00 GMT",
+   "score_parts": {
+    "recency": 0.924,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.677
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "スズキの「ちいさな“軽”クーペ」！ 旧車デザイン＆3.2m級コンパクトボディがイイ！ 丸目の660cc「直3」搭載モデル「LC」とは - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWmQ3QnI3Yzg0dGFNZ1FSLU5mWU1qQ04yZnJWaGJhRFhZQi03aGNST0ZvQTB2ek0weUFBb1p2dGNlNS1HclBQT3M3ejF5X09nVjJ2Rmo3aVlJUnY5Ym5jdnAxWEV3RFJPNW5kV2xRZFUzU204VUg0VmJUUGJqVXVHWUhUeE0zUdIBhgFBVV95cUxOWmQ3QnI3Yzg0dGFNZ1FSLU5mWU1qQ04yZnJWaGJhRFhZQi03aGNST0ZvQTB2ek0weUFBb1p2dGNlNS1HclBQT3M3ejF5X09nVjJ2Rmo3aVlJUnY5Ym5jdnAxWEV3RFJPNW5kV2xRZFUzU204VUg0VmJUUGJqVXVHWUhUeE0zUQ?oc=5",
+   "published": "Mon, 31 Aug 2026 20:30:00 GMT",
+   "score_parts": {
+    "recency": 0.924,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.677
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "値上げ続く自動車保険 車両保険の種類・免責で負担軽く - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxZGtOcG91amRjaTJseEh3ZktVOVRDWmdaTVFEcWhUdjJOclZJVk8xLVNweWZIVENmTTNRZThNWkhSMHVPdV83VEg4VzRKVGFYVmpwdWdfdUV3QWJHcVlQbEhMZFI3QWRUaWpUMw?oc=5",
+   "published": "Mon, 31 Aug 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.892,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.618
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "「列車の写真を撮りに…」JR飯山線で線路脇に車が転落 レッカー作業のため約3時間半にわたって運転見合わせ 上下3本に部分運休や遅れ けが人なし （ＳＢＣ信越放送） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DaVBveTlaMWtkZ2Q1S3pCdTdFQ3JnSU5DYnVTbFNMZ1RadzRLeUpmMkM3NTViQWVRMGx6RDA4V2M5OTJQNi1tcE52Wl9vLU5pSW13c2FVUWRLUlBPV2otVWJKYjJLSzFFYVVYOWE2UDRXc1B1bENDWnY3MVJySjQ?oc=5",
+   "published": "Mon, 31 Aug 2026 10:23:12 GMT",
+   "score_parts": {
+    "recency": 0.713,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.614
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "「列車の写真を撮りに…」JR飯山線で線路脇に車が転落 レッカー作業のため約3時間半にわたって運転見合わせ 上下3本に部分運休や遅れ けが人なし | SBC NEWS | 長野のニュース | SBC信越放送 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wYkNQb3hnN0daeHdkV3gzSVFsVVYzcU5mTFBCX2JoekxoNllMSXloRFduUTZ3WmVwTUluQWhyb3ltS1F5Zk4yOXYtemotRXVmcDJKWnIwR3U5QQ?oc=5",
+   "published": "Mon, 31 Aug 2026 10:22:00 GMT",
+   "score_parts": {
+    "recency": 0.713,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.614
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "「列車の写真を撮りに…」JR飯山線で線路脇に車が転落 レッカー作業のため約3時間半にわたって運転見合わせ 上下3本に部分運休や遅れ けが人なし (ＳＢＣ信越放送) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYUZzVzVCNm9pSWdtUFRaZHRDZDNFQ0VkZWU0aG9POW1uTDl4MDRsaFBHY3d4VmdlWjRhYzB1N0tpbTNhbnRsUVN1aDAxSjBMSUF1Q1NBUk41cmpEY25YelhGRXVrbm5sNnlLdXN0YWdxZGJVSlJoT0xuSEJRQTdLd281OTRrY1FYVXNqT3l3?oc=5",
+   "published": "Mon, 31 Aug 2026 10:23:12 GMT",
+   "score_parts": {
+    "recency": 0.713,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.614
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "全長4.1mの新型「“ちいさな”スポーツカー」発表！ “職人手作り”軽量ボディに「スープラ」と同じ3リッター「直6ターボ」搭載！ 旧車デザインのモーガン「スーパースポーツ400」登場 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTkFJZGJfY3JIeksySTJTZ2VFQnFXdDk3Yl9XQ1QxUFM4YnE1RFY2ODJTT2QxWkRoX3FzdkpPUTNrSjFCUmJSdlNXS0RxcEdsZ002bjhhTXI0WXdQaWVXZG9sVkZvYjFYQ19ZTHV6MWFhdnFkTWpMWXRjcEdUMEpTNdIBhgFBVV95cUxNYXNZelZHVVFmUnQtQi1Ma1piTmFjaTJyaVdsUW10YUNwdVhFUlVoalFOeVJZeEZzdzdzby05U0lMRE42ZzZMWEFTdktYVEVVcldxQTFLd1NDSS1LOUk4SGNIaUlKU0dudklXdFBuTEVEVTJ2eERvclZnTEhnVU5nOFVnc3RrZw?oc=5",
+   "published": "Mon, 31 Aug 2026 10:10:00 GMT",
+   "score_parts": {
+    "recency": 0.708,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.613
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "全長4.1mの新型「“ちいさな”スポーツカー」発表！ “職人手作り”軽量ボディに「スープラ」と同じ3リッター「直6ターボ」搭載！ 旧車デザインのモーガン「スーパースポーツ400」登場 (2026年8月31日掲載) - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByYkFZd0dwZE5qTndXZEo2UGJiZmttcFZERmk0Z0pzYzdaTXExOGlUenBoSjVKTzJyTFhLVk5PTG5YQi10YTZXZXp6d0lOczFPTkp0TnU2NGZKOXlZbEE?oc=5",
+   "published": "Mon, 31 Aug 2026 10:10:00 GMT",
+   "score_parts": {
+    "recency": 0.708,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.613
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【画像】全長4.1mの新型「“ちいさな”スポーツカー」発表！ “職人手作り”軽量ボディに「スープラ」と同じ3リッター「直6ターボ」搭載！ 旧車デザインのモーガン「スーパースポーツ400」登場 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5hc09RZEtPMnB3Z21Ca0hJUGtkaUNET2NJUTNGam16RjNuQjdkOHBWd0VHODVDcktGZEl0MUZNc3lFOWtJTENfRHpPb1hEOTd0THBmU3hoaU9Pd0c1cFU3WTd4MFBJWEViX3NxckxnYVlCNV9BT29KMVgyOFg?oc=5",
+   "published": "Mon, 31 Aug 2026 10:10:00 GMT",
+   "score_parts": {
+    "recency": 0.708,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.613
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "プチ神コスパ中古車：レクサス ESは「買い」だ！たった3年で3割超オフの高級セダンが欲しくなる3つの理由 - リセバ総研",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkYlFxSGlQRzFYU0NqLVN2bWxPVWdNdV9odXNnUXZYbGo3TXUyWlBWMTVreFQ3dW0ySl9nTTluWmQ3SndaWWg2anVLbTZvMmRReExZSjBDbVZ0YjRxcjJjOFBLU3FsTFRTbzA0RQ?oc=5",
+   "published": "Mon, 31 Aug 2026 16:00:19 GMT",
+   "score_parts": {
+    "recency": 0.83,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.599
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "【プレ値崩壊＆新型車ラッシュ】新型「エルグランド」の転売相場下落が話題に！ 8月の月間アクセスランキングトップ3 - carview!",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSC1HeFFQOTg4T2RqeXoxbUVGRk0zcmkxenJLUVJETnh3eVZnWV82VlFiaXVaSzctSkZOM3gyX3BlVnUxZWlQQy10Y0pIN05WdGxRcWo3S3JQZHFhSmJvQW51cGZNTjJPZ1ZwNUR1Y2Q0YkZnUE44TEU0VXV4T0dlcHFYMHdHS18wWDRqLQ?oc=5",
+   "published": "Mon, 31 Aug 2026 23:30:00 GMT",
+   "score_parts": {
+    "recency": 0.986,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.596
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "【一騎打ち】ドイツ車対フランス車 全く異なるようでいてどこか似ている？BMW M2 CS 対 アルピーヌA110 R 70 究極のドライビングマシン対決！ - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZaUx5Z19RdExjNW9pclhYT0t2LU1XcnkwWkMyZ2ItdzNzTTllSFNFRm5zVklZeFpRX0h2LUZCYWpVTFFTWlZ0d3B3aHQ0Y1ZDSnFxUVl3NjJsOUpiWEt5TlZJajJfTUJPQXFhdktXbkRoZV9OTldMb3VTZWZKZFE?oc=5",
+   "published": "Mon, 31 Aug 2026 22:59:45 GMT",
+   "score_parts": {
+    "recency": 0.976,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.593
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "車を手放したら生活費はどう変わる?年金家計での試算結果を紹介（LIMO） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DcmVfU0JxeWZlVVNhUVVOY29VM3NNQlJTOWY5MmJQclZCT21nRHd6ZGxoZTRLSTkxNkxwUUxWNXhlOTJkMDBvVW1TcUxOcGhVenRCak1jWmU2eEpWNU85cUZWVFNUZHBLZm9Da1hKYWZTUUhMRXlqaW9iazFNTVk?oc=5",
+   "published": "Mon, 31 Aug 2026 22:18:06 GMT",
+   "score_parts": {
+    "recency": 0.961,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.588
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "\"59年\"ぶり復活!? 新型「\"4人乗れる\"超ちいさいクルマ」！ 扱いやすいサイズと多人数乗車を両立した「ムルティプラ」後継機ムルティプリーナ・コンセプト伊国モデルとは - くるまのニュース",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01bm9naWZsOGVmX29FYkdCQlU0ZmlKRUNzemtVVXF3OFc0aE50dENNa1dvN1lRMlk5U0x4QUs1cFJQUEhzQ2pEcGoyUQ?oc=5",
+   "published": "Mon, 31 Aug 2026 21:40:00 GMT",
+   "score_parts": {
+    "recency": 0.948,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "記録的大雨の福井で熱中症警戒アラート…レッカー待ちの車も - ABEMA",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84eTZkOWh0bVYxUjZFNzJSN1hsSERGeUE2ckI0QkdzeEhnNzNhbjQ2ZjhKLWNveEVtN1hjNVVoLVNYc2lIUmJRdUtCZE5fSmt0dXFFWTFLOEJ5cXc?oc=5",
+   "published": "Mon, 31 Aug 2026 03:53:06 GMT",
+   "score_parts": {
+    "recency": 0.578,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.573
+  }
+ ]
+}
