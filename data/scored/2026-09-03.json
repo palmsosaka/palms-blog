@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-03",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 145,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "1960～1980年代車のユーザーを支える、ダンロップタイヤの豊富なラインアップ 旧車探訪記・カワサキZ1000J編【3/3】 - news.yahoo.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HSmc2b1JFT1lJcFFwMVVDSDlqVkthWk9pQ1p3V1hHckdwazcwUXROdGpiR3NWSUtFT1dWOGpBTnRobDh3MmtkTWktYmNCc09ndGNGeUhBNENkRkRjNWlZM0ROVWpFUmpNcUpfNk5XMUFVOWhiWW5pODFvT3Qyb2c?oc=5",
+   "published": "Wed, 02 Sep 2026 22:14:40 GMT",
+   "score_parts": {
+    "recency": 0.987,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.746
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "2ストエンジンのクランクを再生 「東洋硬化」のめっき技術と「井上ボーリング」の独自製品 カワサキ「マッハ」で旧車レースも好調!! - バイクのニュース",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9meDFnbGNYOExUZkJpdUNaX0tDNTFhaHV6SUhFUDcyLUk4WXRXRFVwcTFsaFRTSExfb3VNV3JjdkQydG5Ub1pnbw?oc=5",
+   "published": "Wed, 02 Sep 2026 06:46:46 GMT",
+   "score_parts": {
+    "recency": 0.665,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.599
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "A氏が運転していた車は、他の車と軽い接触事故を起こした。 車両の塗装が一部剥がれる程度の事故だった。 事故の過失はA氏が80%、相手の車が20%と算定された。事故直後、相手の車の搭乗者B氏に特別な負.. - 매일경제",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QOTNWR2duczFFeV91Mm1iU3NGX0RGeUNkdWM3bk9wUnJ0QUV4QUZab3VNTEprWk03ejdPZVRFX2hCQVNaQVJmR3dUNVZHeWViVXc?oc=5",
+   "published": "Wed, 02 Sep 2026 06:31:48 GMT",
+   "score_parts": {
+    "recency": 0.659,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.598
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "2ストエンジンのクランクを再生　「東洋硬化」のめっき技術と「井上ボーリング」の独自製品　カワサキ「マッハ」で旧車レースも好調!! - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsVlVVSUh4Yk1QY21aQi1fNEJFbGhUVG1WbHVTbDZHLUdnVzJKTF9HaDNjSURVSlQzWHl1TTFSSmFwRmViOEF2RFJNOWhlRTM2WUN2VmVUT3VCRjVDNUs0WnJKbkxuVXVnbHBrU3I3UENreVZEOXh6ems3eWlidTDSAX9BVV95cUxQbFZVVUlIeGJNUGNtWkItXzRCRWxoVFRtVmx1U2w2Ry1HZ1cySkxfR2gzY0lEVUpUM1h5dU0xUkphcEZlYjhBdkRSTTloZUUzNllDdlZlVE91QkY1QzVLNFpySm5MblV1Z2xwa1NyN1BDa3lWRDl4enprN3lpYnUw?oc=5",
+   "published": "Wed, 02 Sep 2026 05:55:00 GMT",
+   "score_parts": {
+    "recency": 0.647,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.594
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "2ストエンジンのクランクを再生 「東洋硬化」のめっき技術と「井上ボーリング」の独自製品 カワサキ「マッハ」で旧車レースも好調!! - news.yahoo.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT1p3Vkc1ZW5FVXE0cEY3RDRnYUVPVWlTSC12X3FnQUZ3SkRXVy1rZmZrZkhfVGZTNnZySW5UV1hEMHNrdU1rYlZZUG91YmxoZnBXVlZEMFUwejQtaS1TbVVEWlZCWjV0X0dzUGFsdGhDQUpnM3NCejY1UzdSa2x5VXlyWkl6M0R5ZS02T0ZR?oc=5",
+   "published": "Wed, 02 Sep 2026 05:55:00 GMT",
+   "score_parts": {
+    "recency": 0.647,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.594
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "不動産並み自動車価格、シンガポール渋滞解消策の代償 - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeE9LUjVGMG1LTElYT19fYkxqQjVmdTRwcFFaS2xQdGl2aUY3bVhHV1U3eE5iWjFYNXBmVkhodFRUWGRuUHZaOUhSalcwMWJqUlptWVA1MzNFZ1JvNTF1QWp4dFF4S3ZjV0Z4OXhnU0hLMEs5WElRVXZHTXJKWWk2Y2tmNHpZV05DYjJMdnF2Wk1xTUFpbG91QVlhSE9LckxqYUNVNXdfVVZIeTZ3bThwamMtYzA2Z0FRaWZseWUtQldvRjdDbGtNam9XeXhLcHhqaWc?oc=5",
+   "published": "Wed, 02 Sep 2026 21:53:00 GMT",
+   "score_parts": {
+    "recency": 0.979,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.594
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "豪雨後に出回る、激安中古車に注意「水没車であると明示せず販売も…」 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50blEyMHlHYUFmYWlkY1hHYThQOVpFRXFDUkNUTHBsN3lnbjhzZi1La2lFZHZRcUxHQ0V5MmdheUxhcmE2VHhHQzh3NldrWlJqeVdwMTBWS1pwS1dWajFF?oc=5",
+   "published": "Wed, 02 Sep 2026 10:24:22 GMT",
+   "score_parts": {
+    "recency": 0.74,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.572
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "【10年落ちのN-BOXが100万円超…】高騰する中古車より、残クレで新車「シエンタ」を購入して短期で売り抜けたほうがいいかもしれない説 - carview!",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcmpXM25oUmpBbHE1Zk5aV0R3eGZOQ1p0LVlkd2hqV005Z2J4MTJsT0l0Mk1CSlhVb1NZMDlfMkViV3FreWs0QWkya3JDemowa0dDMUQxVmNLbTlubjlHMDAzVDJ2UjItclpiRFJfLWtIazAtMmZYbnNrNnBIa3hUS1g0QTdBdDBlUTZVcA?oc=5",
+   "published": "Wed, 02 Sep 2026 10:00:00 GMT",
+   "score_parts": {
+    "recency": 0.732,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.57
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「開運！なんでも鑑定団」伝説の旧車の鑑定額にどよめき (2026年9月2日掲載) - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5zX0VDVGsybXdnb21ZRjluN241REttNVcySW5BQU1uLVQ2djBZN2ZES3AwR2M4MWZSZlRLVUhrTDd5aTVWekxqVVh5N21mTWpYYm1ua2dMYVVobGFNMXRFNVdEOHFGMG1La2FrS2Z6X3NUZVJSRzF3?oc=5",
+   "published": "Wed, 02 Sep 2026 01:50:16 GMT",
+   "score_parts": {
+    "recency": 0.562,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.569
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "平成の王道カスタムで狙う「硬派な旧車風モディファイ！」【ハスラーカスタム】【写真・3枚目】 - motor-fan.jp",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PaFktNFRYU0g4WmxGZGM0bjRJdmpjaFY0LWVGb3BZVHQzZ3pwZTRGQk96b3pVVFlBRmdsbm5LTG9Dbno4bGtoMURILWo4RU1LN1B2RC1uWHY1SjF0WjRGQWlvdGlVLVk?oc=5",
+   "published": "Wed, 02 Sep 2026 00:58:31 GMT",
+   "score_parts": {
+    "recency": 0.544,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.563
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「旧車なのに令和最強!?」EF8型CR-X現役ジムカーナ仕様の衝撃！【写真・8枚目】 - motor-fan.jp",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80eUFwNDQ1bDVEVG5WcDhRd1JHQk5XR2x0TWZEdXg4ZER5VFFmR0JJMnY1a1loMUZ1RUxjVmpfR0ZWUjF0djRnUXhWbmNaYmowMmxYWWt1Umotcml2eUE?oc=5",
+   "published": "Wed, 02 Sep 2026 01:00:07 GMT",
+   "score_parts": {
+    "recency": 0.544,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.563
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "日本にはこんなにアメ車がいる!?『MOONEYES Street Car Nationals』に個性派マシン数百台が大集合！ - motor-fan.jp",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zMmFtV3VMTFNUS1k1U1BLVHNWX05ReTQtNjRTd0dKWjFvcHlBc3VKcjZ1dFhQQ2xjQnVoUFhndk0tVVdlR1hYTEdRSHNHOGpwVXdxUUh3?oc=5",
+   "published": "Wed, 02 Sep 2026 00:36:25 GMT",
+   "score_parts": {
+    "recency": 0.536,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.561
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ホンダが活用を進める金属3Dプリンターはホンダ絶版旧車乗りの救世主になるか？ 課題はサイズとコストと品質 - motor-fan.jp",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLXJjYXpBZnEwNTR0aDY2MVFHd3J5U2FEbHNSWWxQNnpVZDJpaXA5SEc3eExaZF85Q1Z2UGx5cVdoR3ZncHVWYk9IZzdxampmUlJvbGNuTmt3LWtxcUowWEFJemluTnNpa0MtQTRJNmlhd05NVjN6M0lOWkRpMVNBTGZGVldZeFFyejFkdWhod1QwQnlOYnBRX3UyZE9BeFFkZ0dNMG5n?oc=5",
+   "published": "Wed, 02 Sep 2026 00:30:09 GMT",
+   "score_parts": {
+    "recency": 0.534,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.56
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "「コペンが小さなアメ車に大変身!?」100mm公認ワイドの“シェルビーコブラ”仕様が異次元すぎる【写真・10枚目】 - motor-fan.jp",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DVU5Fakx1blJWR2N4RkpTMGltZFF6c09pb09HcmRxYjVfTGpxYVRKeTh0MGtxNnJIc015T0JkQnFIWnVDZWx5VkVZZjRKQTlPX2NiR2NXMW13UkxtZkJSdUpXbw?oc=5",
+   "published": "Wed, 02 Sep 2026 00:13:44 GMT",
+   "score_parts": {
+    "recency": 0.528,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.558
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "フジツボマフラーで車検適合の安心感。田村亮が語るMR2とカスタム〈PR〉 - Auto Messe Web",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LLVlSZ3RPWkpQSElDTFhNRTNRVF9NMWJ4RW9UQnN6Q1l0anZabHBlN3RNX3FuT2s2cVBYV2IwYXV2UUpvR2VybUU0TFZBYy1rYnU5SGVtMVZPaklMelNXQXB0blh3REJoSVZ2M2NmUjhTM1c1LTRZUWlsak1tUnc?oc=5",
+   "published": "Wed, 02 Sep 2026 08:03:40 GMT",
+   "score_parts": {
+    "recency": 0.691,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.557
+  }
+ ]
+}
