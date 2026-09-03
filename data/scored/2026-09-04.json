@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-04",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 133,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "国道36号で信号待ちの列に乗用車が突っ込み7台からむ事故「ブレーキ踏んだつもり」病院搬送者はなし 北海道北広島市 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54a0VTNmNuZ0hkMnFxUEFleV9nRkFzZHNlczhWMk91X1duN1QtQ21lR09EVUw0YnF2aGlPdjNpRkY0T1lqV2hpRnUwZGNJYXF3NGw0QWVGNVREUGNaR2doM0RKMVVsaVU?oc=5",
+   "published": "Thu, 03 Sep 2026 09:37:00 GMT",
+   "score_parts": {
+    "recency": 0.724,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.617
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ラリー仕様から王道スタイルへ変更。1.9Lへ排気量拡大したカローラレビン（Auto Messe Web） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVkFuQ2FhVFZGOVhYLXE0S1RPSzZGYTZDTVBmWlV1b0RDZHpDWjhEVEZ6YXNHbUJkSUF6NEVGdlRsSVJWRlZtWkFGZU9YWlUtcnoxZEcyWDFQMzFMc3lIejVsNVBYd1NXSEJmUVJ3eklTTUVyQU5QNUVvaUsweGc2UVNfZkdneFRn?oc=5",
+   "published": "Thu, 03 Sep 2026 22:00:14 GMT",
+   "score_parts": {
+    "recency": 0.982,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.595
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "【2026年9月最新】ミニバン値引き相場！セレナ・ステップワゴンの購入攻略（月刊自家用車WEB） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNV9RclNCZ0JKVkdEeVQwNTJSeklDbEU2SDYyZGVvWTE3NkxHMXlhRGJac2JWRU9kcndXMEM5OUN4UWE5N2ZPY2d3M3FUczNQMDFQVFVrcnpEVU1Kb2Y2dFQxU1M5MENWV1BuSmJUNWdmdHF4M0o2YV9EQXRsWWIyQkIycEx2Mm1K?oc=5",
+   "published": "Thu, 03 Sep 2026 21:20:00 GMT",
+   "score_parts": {
+    "recency": 0.968,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.59
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "【2026年9月最新】ミニバン値引き相場！シエンタ・フリードの値引き額と購入攻略（月刊自家用車WEB） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNjY5dU94X3VJUUttV0ZZLVg1cmJ0RzhHRFlkOE5OV0tCdlN5bGpsZDRiNEl5UHAxemVUR3NHcWt0TU5admRUQzJWdzdkdXRPQlAxY1kwVjFuVkoyZDlBVDRUa1hYQzlQZThFTlNLaGYxUnpGS05UOWxKNDNyS3ZpRVFWb2J5Xzlp?oc=5",
+   "published": "Thu, 03 Sep 2026 21:10:00 GMT",
+   "score_parts": {
+    "recency": 0.965,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.589
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "ほぼ新車なのに1割安い!? ディーラーの「試乗車」が意外と狙い目なワケ！ - bestcarweb.jp",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRZ2F5NHNERzdtLXlqYTVSNjNaTkN0b0x0UEJKeWFTUmVwSnNHdElsdjlTd3NOSVFPNDN6T0txdWhQeG1ld2gzUUhyeVM5RjFYMmN2RGZhOA?oc=5",
+   "published": "Thu, 03 Sep 2026 21:00:00 GMT",
+   "score_parts": {
+    "recency": 0.961,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.588
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "「第７世代」ブレイク芸人 高級愛車「ボルボ」に乗る姿「オシャレ」「ハンドルほっそ！」「かっこいい」ミキ亜生 - article.auone.jp",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoc1l1a3p2c21MVEZIcDFzcTM4b3ZaS1ZuQWg2Q1NXZFc2WVgxTG9NRjIwbFM5TGxYdzNyX2NOQmxUQk9jVEdOUFV5WGJHNFJfdGJ4M2tRQWFuOGl4RVF2WUtlanZpMzNlWFJ0ZDVn?oc=5",
+   "published": "Thu, 03 Sep 2026 20:57:15 GMT",
+   "score_parts": {
+    "recency": 0.96,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.588
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【写真・画像】菅井友香、1000万円カワサキ“伝説旧車”に大興奮「父がハーレーとかカワサキとか大好きで…」 | | オリコンニュース - 佐賀新聞",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByMlVGZldHR0wwelZyQkFrNHI2clVUWnJPYzR3eDhXTzVQTGo1VVlEWXRvSVJGaENIbldLMkFJNWtwTVdTMFoxT1A2NDh1VXNQQW9maGtQTzd1amNTUy1EeENYbXE?oc=5",
+   "published": "Thu, 03 Sep 2026 04:25:36 GMT",
+   "score_parts": {
+    "recency": 0.616,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.585
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "菅井友香、1000万円カワサキ“伝説旧車”に大興奮「父がハーレーとかカワサキとか大好きで…」 - 福井新聞社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yeGpOYUtPSEdUTlJwMXRHalIxeFhuNE45Q2pZSEdiN2EtOE5SS1pYREtuS2dJZkpNeVBXWVRKQnhLLXNINlBPYzNTUHlQeDMxZnVIeXVlZnRCZkRMOVE?oc=5",
+   "published": "Thu, 03 Sep 2026 03:00:00 GMT",
+   "score_parts": {
+    "recency": 0.586,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "画像・写真 | 菅井友香、1000万円カワサキ“伝説旧車”に大興奮「父がハーレーとかカワサキとか大好きで…」 7枚目 - オリコンニュース",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NaFpiWjRHRDhRUTJHV0g3aktmYnZ3V05zUE5YdjFmdVhHb29seEs1RWpqUE5GbFE5WmVhdzNCYVpGNVJJZUdOS3ZrWEtteEZLNVcyeXJCbGVaQQ?oc=5",
+   "published": "Thu, 03 Sep 2026 03:00:00 GMT",
+   "score_parts": {
+    "recency": 0.586,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "画像・写真 | 菅井友香、1000万円カワサキ“伝説旧車”に大興奮「父がハーレーとかカワサキとか大好きで…」 3枚目 - オリコンニュース",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kREtqNmR4ZXh6Uzl2MGxqRmZHaWFMT3JCZ2tpMmdPTmFjUHh6MjFxYjRMTmlZSnhvVjI3UnhSOU5RY1JnZDdRdWkzUlduX3RvdFE4M1YtTnludw?oc=5",
+   "published": "Thu, 03 Sep 2026 03:00:00 GMT",
+   "score_parts": {
+    "recency": 0.586,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "菅井友香、1000万円カワサキ“伝説旧車”に大興奮「父がハーレーとかカワサキとか大好きで…」 (2026年9月3日掲載) - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ESTEtV3dNVE50emhUdnUyd0hjTlBFUlpjd3BLSjZpRmNJMl9feGtwWnBWd29FcTBxSHlUV3cyb2JxQWI4R0dzRjlJTUlUbGxxMjBkYlM5WWo4akRzNlE?oc=5",
+   "published": "Thu, 03 Sep 2026 03:00:00 GMT",
+   "score_parts": {
+    "recency": 0.586,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "ミキ亜生　愛車の93年式ボルボが修理から戻ってきたと報告「今年壊れまくり」も「可愛くて可愛くて」 - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqY1lfbVByRXhVSmJneS03NVR2N0Z5RlZSM3dXdHJRMEZaY29BSVhmRFR0TW5ETFJ2cVBtTGVNQ3pDWktBOEZZVlZMS0NsWERtRHFLaXNYQVNsaFdpMzl0U181czFsS3kyeWI0TtIBckFVX3lxTE51aDQwUkw2NnFBZ1pPWmZ2RGZFWVdGWEdaTVg3dkN0V3RzVVZWWXg0dzhzSTF2bkNMNFZRcExxRXV3UExzYm1DcTAxdC05SWhIWVo3VklMbndKOWZ1VHE4QlFlMmZvS19adEtzbW11U0VOUQ?oc=5",
+   "published": "Thu, 03 Sep 2026 10:18:40 GMT",
+   "score_parts": {
+    "recency": 0.738,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.572
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "高齢事故防止へ更新時の試験強化　ペダル操作、実車で確認 - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yYWpVRWdGVl9XZVNQRVIyZWprSlJNZjFJTlhDTGdzSE8zbFRRT3BoaFloMkpNdVdHSmk3RUxzN2lhQjJpTUYzdDQ2dVFYZllnbUJtQmhvQTFPa2JnVFZHRG5ycTJ2blFGYlY1RWVxTEo0cFhE0gF0QVVfeXFMTjJhalVFZ0ZWX1dlU1BFUjJlamtKUk1mMUlOWENMZ3NITzNsVFFPcGhoWWgySk11V0dKaTdFTHM3aWFCMmlNRjN0NDZ1UVhmWWdtQm1CaG9BMU9rYmdUVkdEbnJxMnZuUUZiVjVFZXFMSjRwWEQ?oc=5",
+   "published": "Thu, 03 Sep 2026 01:20:29 GMT",
+   "score_parts": {
+    "recency": 0.552,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.565
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「これが令和の旧車像!?」快適性に振り切った240Zが凄すぎる！【写真・2枚目】 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wZl9ReUhmQVlFMFp3QVNhbVl2M00yV1ZVbGExVVEtMEpsTlZMUW15RnBON21Nc0ZhbkFIRE9jc2lyay1sZWFWNUp6V01kZl9DVVZsSDdqdllNWWNQbTNnMTJoWXc?oc=5",
+   "published": "Thu, 03 Sep 2026 01:00:28 GMT",
+   "score_parts": {
+    "recency": 0.545,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.563
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "激レアな旧車からド迫力ハーレーまで！雨の富士スピードウェイが熱狂した『IKURA’s アメリカンフェスティバル』の注目マシン - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZOE9xMFFEQ0tjSUR3aTBtUlVMYVZyaDhCeUFibzYtZmxiNW1tdm9xdXhabnJDbU11OWZOdlFEcXZsY2pBdWJXcE9YR2lwbE5QOVBsdFVB?oc=5",
+   "published": "Thu, 03 Sep 2026 00:56:34 GMT",
+   "score_parts": {
+    "recency": 0.543,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.563
+  }
+ ]
+}
