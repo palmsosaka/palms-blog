@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-05",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 187,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "廃車200台置き場困った 大雨被害 氷見の業者、レッカー依頼続々 水没被害「1日10台増える」 - UQライフ",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOFY2YlBYWjNUVjNFbG5zT0lZLXRTa2FoMHJMbHBGRVlxMVNxWGlJSHZnWmp2SGVNRGE1ZDEtTGpxbzlPTXV4MWhnNmdfVkI2OHVtbUgxazBCVkJZNk9IQXlLSjZiSGZVN1hsX3VKUVUxdzdwdjBQQm1ZbV9GSUtZYQ?oc=5",
+   "published": "Fri, 04 Sep 2026 20:14:49 GMT",
+   "score_parts": {
+    "recency": 0.951,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.685
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "廃車２００台置き場困った 大雨被害 氷見の業者、レッカー依頼続々 水没被害「１日１０台増える」 - 北國新聞",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41bjFhS3lRbnJyLWJKRWRBdURWck40NEZBNGxyYVlaU2c4d042bC1Vd2J1UDlSdkVKOUNRWDFkWE1YWV95d1M4TWVWRGJ2d2lLVVFFMW03OA?oc=5",
+   "published": "Fri, 04 Sep 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.946,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.684
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "廃車２００台置き場困った 大雨被害 氷見の業者、レッカー依頼続々 水没被害「１日１０台増える」 - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rYjNuVjFZc3RfNEVtN3prUWdFWFVhbzVnUWZVNmNOX2RDY2ZuNEhlX0d3YjVmdHRUNHg4WjN0MHZFU09Wd3FiUWZpbw?oc=5",
+   "published": "Fri, 04 Sep 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.946,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.684
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "廃車２００台置き場困った　大雨被害　氷見の業者、レッカー依頼続々　水没被害「１日１０台増える」 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT2RqT1I1TGNLWW1kZnpzOU9JeUxTV1NLaEdKSkFqeGd3LWxtUVpyQW9maTQxV19qVEJNTEt5SDJZMDJINTY2YTItcm85eGlJVDRXcGtjeGx0eVpqalNWSjRaRXYyY0pYNFdPOFNiMUtZRm9wVExxb0h6Y2FaZThCdlpyRnFiUHdX0gGIAUFVX3lxTE5PZGpPUjVMY0tZbWRmenM5T0l5TFNXU0toR0pKQWp4Z3ctbG1RWnJBb2ZpNDFXX2pUQk1MS3lIMlkwMkg1NjZhMi1ybzl4aUlUNFdwa2N4bHR5WmpqU1ZKNFpFdjJjSlg0V084U2IxS1lGb3BUTHFvSHpjYVplOEJ2WnJGcWJQd1c?oc=5",
+   "published": "Fri, 04 Sep 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.946,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.684
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "阪和自動車道で貨物トラックの単独事故 大阪府内の区間で一時通行止め - 京都新聞デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52enNVWWRLWDhZTFBmaUFWWmNJRm9qeVJ0YWxkR2Z2eHNFQ2xHLUtib1dOZ0NIc0JjRU8xNnJSTHN2TGszbmVub2xfVl9zVlJPZ1dncS1jTlU?oc=5",
+   "published": "Fri, 04 Sep 2026 08:00:00 GMT",
+   "score_parts": {
+    "recency": 0.696,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.659
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "今月10日から自動車事故で負傷がひどくない軽傷患者が8週間を超えて治療を受けるためには審査を受けるようにする「8週間ルール」導入を控え、大型損害保険会社の損益費用が改善されるものと見られるだけに、今後.. - mk.co.kr",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwQTA2UGR1ZnRLdkp3ZGMzRVIybkJIWkdTWVdDSldsMHlUcEhTd2k0ek1vbmFKczJHaDNXVXRTNEExUHdBRXk2OThCQ2FUenFhY1E?oc=5",
+   "published": "Fri, 04 Sep 2026 05:55:49 GMT",
+   "score_parts": {
+    "recency": 0.653,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.646
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "中古車輸出、UAE急減をロシア・アフリカが補完 - LOGISTICS TODAY",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9vZTVFdm5Md0dBVnhKNVd3ZGJyVGttRDhkdGhHTXJUeG9oOXlWTWhHY3RsVkRvVGFnbWRZTzVxMy1GNjBmcVN6Wg?oc=5",
+   "published": "Fri, 04 Sep 2026 19:30:00 GMT",
+   "score_parts": {
+    "recency": 0.936,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.631
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "「依頼は通常の何十倍」水没車が多数 氷見市に殺到するレッカー依頼、長期のレンタカーも底をつく状況 - Excite エキサイト",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zaVk1bW4tUUJWLURIb3FhczE0YzdpczRHX1c1MUhzYTdOS1ZQRXJJRl9Vdm5RcHBRNUFNUVhiekVCTkRSX1BaRUx1WDluTmVOX2lDSWlXOHRkS0llalg0NHowRUVpWW1QT0RUZVBR?oc=5",
+   "published": "Fri, 04 Sep 2026 11:05:00 GMT",
+   "score_parts": {
+    "recency": 0.76,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.628
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "「依頼は通常の何十倍」水没車が多数 氷見市に殺到するレッカー依頼、レンタカーも長期貸し出し分は底をつく状況【富山】 - Excite エキサイト",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wazBqSGhtRFlTZ1lpMkJlRHVoODhJN3ZBS1Ayb1BvRlY1ZW02Q29rWGV0c2pGcHc0dVZULXlkaEtHM19kdDdlWUViVW54NjYzaDZUMzB2c2FHZTFlTEdkMVBidlF4VjRSSjd1bGpR?oc=5",
+   "published": "Fri, 04 Sep 2026 11:04:07 GMT",
+   "score_parts": {
+    "recency": 0.76,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.628
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "「依頼は通常の何十倍」水没車が多数 氷見市に殺到するレッカー依頼、長期のレンタカーも底をつく状況 - FNNプライムオンライン",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5MbjRBT3hlZHgxbXpCZDdEcXp5Q2pxM0VtcFVXRlJRbnVLTGF3UkdzU3lmbEtvYjFkMzAtWnBrWkp5R2d0NmhZdE9VRjBYUQ?oc=5",
+   "published": "Fri, 04 Sep 2026 10:50:00 GMT",
+   "score_parts": {
+    "recency": 0.755,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.627
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ホンダが活用を進める金属3Dプリンターはホンダ絶版旧車乗りの救世主になるか？ 課題はサイズとコストと品質 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLXJjYXpBZnEwNTR0aDY2MVFHd3J5U2FEbHNSWWxQNnpVZDJpaXA5SEc3eExaZF85Q1Z2UGx5cVdoR3ZncHVWYk9IZzdxampmUlJvbGNuTmt3LWtxcUowWEFJemluTnNpa0MtQTRJNmlhd05NVjN6M0lOWkRpMVNBTGZGVldZeFFyejFkdWhod1QwQnlOYnBRX3UyZE9BeFFkZ0dNMG5n?oc=5",
+   "published": "Fri, 04 Sep 2026 10:46:57 GMT",
+   "score_parts": {
+    "recency": 0.754,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.626
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "1950年代のアメ車なのにこんなにコンパクト！ナッシュ・メトロポリタンはアメリカのセカンドカー市場を獲れるのか!? - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fSlB2RHlpSmgwaGNpOUsxMFVNbWpaRFgwT241MjhaRXQtTGJRR1dhY2NOLXYwU2wwc0YtZ0MzN3hRdmpQeHJRUDFSdllhMV9Od29fRHBLQQ?oc=5",
+   "published": "Fri, 04 Sep 2026 10:42:51 GMT",
+   "score_parts": {
+    "recency": 0.753,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.626
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "「MALAISE ERA」ってナニ？『IKURA’s アメリカンフェスティバル2026 』でアメ車暗黒時代の貴重なサバイバーを見た！ - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuY0hVRGIyM0pCSjNjR1p2T0hmTTVRMWE4a0lBWUNDOXVCdjFwZURKaTBWXzY4UTRFS2JfVFpNQ1VaNnhxbU9YbVppTVdrdi1nV2tKbmxR?oc=5",
+   "published": "Fri, 04 Sep 2026 10:37:22 GMT",
+   "score_parts": {
+    "recency": 0.751,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.625
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "「依頼は通常の何十倍」水没車が多数 氷見市に殺到するレッカー依頼、レンタカーも長期貸し出し分は底をつく状況【富山】 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2eDJYa3YyN1lxd2hkcGlpYmVrSVplbktYZkw4U3lSRWxxeFg5N3UwbWdma1F1aGVqbHFfWDZMUmVaUXdKWVFRUnVRWUhoTkROUncySHpHRmxXVnZ1QTJzb1NXTTdiSzZhQTNVTWM3VmtrS3gzUkVtUnhaY09mQVU?oc=5",
+   "published": "Fri, 04 Sep 2026 09:56:21 GMT",
+   "score_parts": {
+    "recency": 0.736,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.621
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "「依頼は通常の何十倍」水没車が多数 氷見市に殺到するレッカー依頼、レンタカーも長期貸し出し分は底をつく状況【富山】 - FNNプライムオンライン",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtRG5ZdVkwb0ZDa1AtM3FWT29jTW1KSDdYb1JPeHRPdDRMVnpwSUEwdk9oSDNnNG5nT2ltNXBOR3RKM3pfZkM3U2VhZUhUQQ?oc=5",
+   "published": "Fri, 04 Sep 2026 09:55:00 GMT",
+   "score_parts": {
+    "recency": 0.736,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.621
+  }
+ ]
+}
