@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-06",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 133,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "アメ車好きの父の背中を見て育った娘　今は整備士として油まみれになりながらビンテージ・シボレーをレストアする　受け継がれてゆく父娘の物語 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yZHBUWWtBUG1VZG5iTEl3QmkzTXQ1QmpLOWpkc3pzWW8ybm5NcUQ5c2pOY21FZ0RQZ1JHZ0RlUkpXX0JDWUZxWkxZMTI5R0xXdUkyeWh4bFdEbkR2Z1FwUHJMRG5lZko4UjFTY192U0Z2YUF3aU9aYW5TdW5RZ9IBgwFBVV95cUxNdEJ4YTZsTVJlYWJ6bHJxRXFSQm9KcTBBVFNacmhKM2htdXVPMjFJSHFqVlNLM0QxV3JheUEtb25CUzV4aXNpOTRTSWY2N09BUURZNWwtSl9fRXVsRTN5VFd2eE14U05yME9NNzFHMFBJLWx1aDZjeUlKeUQ3ZU5LSk9hcw?oc=5",
+   "published": "Sat, 05 Sep 2026 21:06:47 GMT",
+   "score_parts": {
+    "recency": 0.973,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.742
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "氷見市の大雨で水没車が続出、廃車200台の置き場が限界に：レッカー依頼殺到で見えた豪雨被害の深刻さ - wiseit.jp",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CeGZFZDhfV0x3X3RXSnozazVwb2RfbGFaNHdUT3dQMHEtSU03UjgxV2xfeFZnVnNMSnNTRENHd2x1c0ViVFRGeTkzNm90YjhNQ0pXX0JBQm9RZw?oc=5",
+   "published": "Sat, 05 Sep 2026 13:43:45 GMT",
+   "score_parts": {
+    "recency": 0.82,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.646
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "CKB横山剣さん１周目！取り戻したアメ車愛を存分に語ります - tbsradio.jp",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xS0wzQWxPRGdXY3gxUndtTEhNQ1dlRTFJam9GelhqQ3F6bEQ1UmVHVFVfSmFVSW56dFBCWUl5UWdHWlJIeUpMQ3UzbmdmV1B2Unc?oc=5",
+   "published": "Sat, 05 Sep 2026 08:30:00 GMT",
+   "score_parts": {
+    "recency": 0.711,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.613
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "旧車好きのケンコバ、入籍翌日の妻の“手のひら返し”に衝撃 共演者も驚き「ええー!?」「こわっ！」 - 千葉テレビ放送",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qU2w5OVpJMml2N01kZGxfdXRKcUFXWkFIR1Y0NWFEYWlhWmJzUy1IV05WRS1xLWFjemVKX2sxSGx6bHd5N2U3Q2czeEtyWUxfUklzVlFObjg0aGV5eTVSMUZhZEs?oc=5",
+   "published": "Sat, 05 Sep 2026 07:36:18 GMT",
+   "score_parts": {
+    "recency": 0.692,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.608
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "旧車好きのケンコバ、入籍翌日の妻の“手のひら返し”に衝撃 共演者も驚き「ええー!?」「こわっ！」（ENCOUNT） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4bHdQZ19NSE40LUMwbDhzRUQ1NExfY2lzWmFNUkM4OFdwQ0R0WlJ0dEozQkxpNnQ5bWlEZ0VIMEhwV2d2YkEtQkdPYmh6dzNzT3pmNWZxX200SFM5N2xtUmZJM1hVUGNKTlRCd19jZTNYNTRhWDExTDJPX29JX2M?oc=5",
+   "published": "Sat, 05 Sep 2026 07:22:19 GMT",
+   "score_parts": {
+    "recency": 0.687,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.606
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "菅井友香、1000万円カワサキ“伝説旧車”に大興奮「父がハーレーとかカワサキとか大好きで…」 - 福井新聞社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wRUdjeUhuaGMwNV9TaDdqSjlwRFg1X3Mzc19iTFNKYmNrd0k5eFhJUktITHE5TGRJVjdWZnhBNjZoejQyWFRFRm1QM0dJY1lVOXZKWjVNRk5WWjh1WWxRdFZPajNNZw?oc=5",
+   "published": "Sat, 05 Sep 2026 19:12:20 GMT",
+   "score_parts": {
+    "recency": 0.934,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.58
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "国交省、車体整備に特化した初の統計調査 2026年夏に実施 事故車修理の指数や賃上げなど把握へ - netdenjd.com",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00ZlM0T2I0SXFxU193ZnBFc2RvdmkxdHJhakJyQm1NUE9UMnByR1J2a1BJaDYzelR6ZTdUNDhMMXR2MUcyWHB5enU2RnItSHlRbVE?oc=5",
+   "published": "Fri, 04 Sep 2026 17:41:44 GMT",
+   "score_parts": {
+    "recency": 0.402,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.571
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「壊れない旧車を作りました」半世紀前の初代アルファロメオジュリアを“国産パーツ流用”で現代化！【写真・6枚目】 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yRlM5U3lBUHlfd1JQX29IUHY1V2FGNzZSaVhBaVQ2dlBxQm02b0x5R1RzbDJEUVJFdnVnRUQ4X09jYjdDWWpVT001dEFYeWhpQUZyQ1A0WFltaGRrZm0yUVEwcHZTWERaYURTSQ?oc=5",
+   "published": "Sat, 05 Sep 2026 01:04:39 GMT",
+   "score_parts": {
+    "recency": 0.556,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.567
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "平成の王道カスタムで狙う「硬派な旧車風モディファイ！」【ハスラーカスタム】【写真・6枚目】 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvTlNJQTNCZ0I1MEdSdEpaUDFOanBUZ0dxck1FTlYtSUs1enc0Zkg4SFhYdDVwampsM0dKbE9Ta0hpbmM5Y01kNzQ3cThNSWhTZEs4ZWZEMHQ0Y1JiZHNWZGdDeEc5Znc?oc=5",
+   "published": "Sat, 05 Sep 2026 01:02:53 GMT",
+   "score_parts": {
+    "recency": 0.555,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.567
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「壊れない旧車を作りました」半世紀前の初代アルファロメオジュリアを“国産パーツ流用”で現代化！【写真・8枚目】 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVblFUT2dyTnlHc2NQTmprVEdvU05Gb0dGSW9NREl2dm9OUlhlQ21ySTV2UHVXaXVTRWNXSTVpX1Rwa2JncE1NQTNmUWZtN3p3QkpNUHJQbThFZG16ak9kTmh1YXV5Q1pjdFd1Mg?oc=5",
+   "published": "Sat, 05 Sep 2026 01:00:48 GMT",
+   "score_parts": {
+    "recency": 0.555,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.566
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "インテークはTakeda、マフラーはNAMELESS！「本場US系パーツを個人輸入」でアメ車感を極めたSJフォレスター - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12MV9HMTJIZVVIWmhuc2twSHNaMHBKSGl0bXhqTXpFY3dVS05iTzZUQUJCNXhKSmlzNjZLT3EyYlFLU1VkS2JGVHBTX2pvT1lRbGJpby1pWV8?oc=5",
+   "published": "Sat, 05 Sep 2026 01:00:38 GMT",
+   "score_parts": {
+    "recency": 0.555,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.566
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "＜画像1 / 25＞時代を彩った名車がずらり！クラシックカー in Nostalgic 2days【その2】全25点 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96c0x2ajFEcXU2VlBqSS1ZT0ZxVlp2OEdPTF8wRU44R19sUkFVd1EyY19VLUFYUXJDMFdxb2NReVkzQUhkeGpIVUYyTHlydjB5a3ozZVlDUkNJUWdGQjlXWVI0MExBZVQ0Umc?oc=5",
+   "published": "Sat, 05 Sep 2026 16:29:02 GMT",
+   "score_parts": {
+    "recency": 0.877,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.563
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "自宅に「見知らぬクルマ」が！ 怒りの「勝手にレッカー」「タイヤロック」は絶対NG!? 泣き寝入りしない「無断駐車」の正しい対処法とは - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSnhNUXBDNzhZOXRNb19jMUctMl81VWpsSU5RdjV3Z3M2TXdwTXVZeERVT04yU2NyTXREUWF5a2ZjSWF1d2JYYm5aLVl2Z0VGc3dBUXVvc05ETF9GUmpLZEc3aXVJQm5feDdOVUJmekdVcENxV29Oa05nV0ZJdURScjF4QVdSS3dHd3fSAYYBQVVfeXFMUENtSHliMGk0blpTU3o5cWhyNkZMTEVBS3pQaFgzZmxGbXY0aS1KT3pGNXVVMmdqeGpDTG9fLXlmbkY1RnRYRFBSbzROelctTzNpLS00aFdSeGxOVFh3MXRuQ0VSTktCOVlXVUJaRlFHYlcxNXBIczlIemhtaEM2RndVVExzd1E?oc=5",
+   "published": "Sat, 05 Sep 2026 00:10:00 GMT",
+   "score_parts": {
+    "recency": 0.537,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.561
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "自宅に「見知らぬクルマ」が！ 怒りの「勝手にレッカー」「タイヤロック」は絶対NG!? 泣き寝入りしない「無断駐車」の正しい対処法とは - くるまのニュース",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3c2l0cFE2X1RNQUxUbG8xeGI4aWlxQmZabG1uV20xdUNQNl9pNVd4dUt1V29RR0dpclhjTmk0SFRsdUw0YkxFLTB5aEs?oc=5",
+   "published": "Sat, 05 Sep 2026 00:10:00 GMT",
+   "score_parts": {
+    "recency": 0.537,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.561
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "威厳と先進技術を融合した最高級サルーン「メルセデス・ベンツ Sクラス」｜性能や特徴、新車・中古車価格 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FU2VBMGFmU1Z6Q3BRYlZHSGxwN0IwV2Q5NkdacXhNbUVGbkFQVGhobWxBZ1UwSTA5VXVJMzNRVl94QUxvTGRfUVZtUWxaWWp4VlBRT3ZnODBvX0RaV3lnQmMyZkdxQ2pZcnM3bnVYUXFJWTA5cDV1aU9YOA?oc=5",
+   "published": "Sat, 05 Sep 2026 00:53:04 GMT",
+   "score_parts": {
+    "recency": 0.552,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.516
+  }
+ ]
+}
