@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-07",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 131,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "液晶が消え床に穴が開いたV8アメ車2台で旅行。「13年超重課税」に疑問だらけの旧車生活【Key’s note】 - Auto Messe Web",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0SVc2WGs2cUhfdDFTc01tRXZmc0Z3VkZmZXQ3QWRwUjNmUGhCck81bUdqZkxia0FYZy05a3o3ZTh0ZTRRMHBqUHYtN2stVTBDZ29na09yMDZ1Z9IBX0FVX3lxTE5BM2tUTkhmTFMxRUZyMUdzMWZIY000ZHpoNlhZRnJES0xuTWdpd2s4VUNTRFRwYnhqSDBiYVdBQUhKRVV2S09ubm1HcUNuNHQ0Nk5nVDZuZzM5NjVwOFRj?oc=5",
+   "published": "Sun, 06 Sep 2026 06:04:36 GMT",
+   "score_parts": {
+    "recency": 0.658,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.697
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "ソウル市がシェア電動自転車をレッカー駐輪不足で利用縮小懸念 - CHOSUNBIZ - Chosunbiz",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWWpZdE1ya2xIRm1nZlZ2YUkzOEI3OXhDd29wODUzLW5HWWtxVzNGS25BbmFFTEpWNkdEelFsX09YVk1uREdYa3AzVm9TbVBPOWhfUnpFNjhiWUJBUXNjRV85cndjZVhTSkJkYzRPNjVQM3lBeDRRVUo1WVdEYU1oQ1QyU2FnbEtxR2RpbmVR0gGOAUFVX3lxTE9Zall0TXJrbEhGbWdmVnZhSTM4Qjc5eEN3b3A4NTMtbkdZa3FXM0ZLbkFuYUVMSlY2R0R6UWxfT1hWTW5ER1hrcDNWb1NtUE85aF9SekU2OGJZQkFRc2NFXzlyd2NlWFNKQmRjNE82NVAzeUF4NFFVSjVZV0RhTWhDVDJTYWdsS3FHZGluZVE?oc=5",
+   "published": "Sun, 06 Sep 2026 21:00:00 GMT",
+   "score_parts": {
+    "recency": 0.969,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.691
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "北米のジャパニーズ旧車スポーツ＆軽トラ人気は氷山の一角！ 日本の中古車価格が高騰する本当の理由（WEB CARTOP） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yWTJZNmpPaGtIZ3RkcDdzbWw0c1lta1N3N0FNVXlic1pEVVpwWkFqMzZFVVRQdWtqNk01NkRyZFBqdnlUcDlkZjJWWXZtcTE4ZHlhUmh4M0xadUVjT1BDbngtbk84Q2huRkZnd3FKcEVyRVdMLVdrbUdpNFc1UjQ?oc=5",
+   "published": "Sun, 06 Sep 2026 08:40:09 GMT",
+   "score_parts": {
+    "recency": 0.712,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.664
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "北米のジャパニーズ旧車スポーツ＆軽トラ人気は氷山の一角！ 日本の中古車価格が高騰する本当の理由 (2026年9月6日掲載) - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92RVEzTldILXpCRDQ1aHd4aTJxOExmNnVLdC1LMXRRM216b1lQeGRyWjhiMzFMOXh2MFNJVmhUREg5R2xTTVNzMmI0eXdqUG5EU08xV2h5c2JhUV9tMlE?oc=5",
+   "published": "Sun, 06 Sep 2026 08:30:53 GMT",
+   "score_parts": {
+    "recency": 0.709,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.663
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "北米のジャパニーズ旧車スポーツ＆軽トラ人気は氷山の一角！　日本の中古車価格が高騰する本当の理由 - WEB CARTOP",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NTWo2VXMtNEY2a01CaFMyWTk1dzRwMkR4azZkOWJJdVFtZTkzS1pQSko4b0dqY1VDWEpHZ2dBZGh4QUpMaV9QaFFlVHdFXzdxZUM00gFYQVVfeXFMTTNhRWgyaGxlTEVjenUyZVRaYzV3OW03TUFVVTZKZmJvenJ3RERIZF96XzJ0SXFEeHNYSldLakNPNnkyQmg4RlRNTDVpbkUzaUs0TmNmRjFyQQ?oc=5",
+   "published": "Sun, 06 Sep 2026 08:30:53 GMT",
+   "score_parts": {
+    "recency": 0.709,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.663
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "約34年ぶり復活の新型「“MT”スポーツカー」が話題に！ “旧車オマージュ”のデザインにV8エンジン搭載！ 後輪駆動＆“3ペダル”で楽しそうなマクラーレン「McL 6GT」に大注目 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhRFhqUDVqV3Zvd2tuaHVRN1QzUkxOeXFRSVdkUGhPRmhwTTRNQTFoQklkS2JCemJvT1JvWmlqWjJMdUEtUnJ3NFBJTXV2TWtQUW5MN1JocGJOeUY1Y3lzVzVnU21RSElJMU9MR0F1NnMzaVA5ZzZEXw?oc=5",
+   "published": "Sun, 06 Sep 2026 15:38:40 GMT",
+   "score_parts": {
+    "recency": 0.858,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.657
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "業界の裏を知る風雲児・中野優作が忖度なしで伝授!! 絶対に失敗しない「中古車選び」の新常識（週プレNEWS） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNlVUNjFUUEljWmlielJncWI2S0VuclR4bTVMMHpKSWEtWDRLMGhzMzZzaGVnY0RQckV2MGNaSTYwNlJ5c2VZcS1kdC1zSGs0bVhFbmkwRjI5cHhWalJjZDhkUXBhX29sWFdtTldYeHhJMVFnLUNOdV9HaFAxMzhsSEk2UnRibXRROUZKWWd3?oc=5",
+   "published": "Sun, 06 Sep 2026 21:11:54 GMT",
+   "score_parts": {
+    "recency": 0.973,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.642
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "業界の裏を知る風雲児・中野優作が忖度なしで伝授!! 絶対に失敗しない「中古車選び」の新常識 - excite.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIUzdMeTY5QmM2Q2FCUVJpSGxJbFRRTkRacEh3MGVJVzRpbVZXU2FNRTFJbmw5YVg1eVRxNjJrR2ZreTl0dVpESldHcDZSUnVoY2djR2I4OThMYWpvc2VtU2xVRjNxZw?oc=5",
+   "published": "Sun, 06 Sep 2026 21:00:00 GMT",
+   "score_parts": {
+    "recency": 0.969,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.641
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "伝説の名車「W1」が現代に息吹き返す！旧車再生のロマンを描く最新レストア漫画の魅力と、8月に発表されたカワサキ2027年モデルの最新情報を総ざらい - 千葉テレビ放送",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5COWtFOWdqb241TE9KWTlsZXc0aUthYlh2MXVlaURMcHY1a09ucWxtS1BBa3VBa2x5WVVyelNtelhzdFhHakdJMmdoUnVZZ19vS05YYlpKaE0zZjR1NDJJ?oc=5",
+   "published": "Sat, 05 Sep 2026 23:13:45 GMT",
+   "score_parts": {
+    "recency": 0.516,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.605
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "伝説の名車「W1」が現代に息吹き返す！旧車再生のロマンを描く最新レストア漫画の魅力と、8月に発表されたカワサキ2027年モデルの最新情報を総ざらい（WEBヤングマシン） | 自動車情報・ニュース - carview.yahoo.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSTYyVkJiVnIwZWZRY3V6YmI5a2ZsQnkwMEpvbUZkb0tlTGphOGMzcWJqamJhTm9WUGhWaHM2SFZNNUlMZ1FiRnNzemt4Z1Y0LUV4dlZIM0VmZmpJZlpaN2xsV1dwTGlvRy0xN05jal9IY1lLSm9XSi1VUjF6aWkyUl9ILUQ1MGEzX2xabWtjRnl6aGVK?oc=5",
+   "published": "Sat, 05 Sep 2026 23:10:00 GMT",
+   "score_parts": {
+    "recency": 0.514,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.604
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "懐かしの90年代「ハイテック」なスムージングとカラーリングでアメ車チックな【ハスラーカスタム】【写真・5枚目】 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92d0RPUHEzMEowM2RtbTZPX2VLbGV5QUN1LVU1Tno2bTZZV0pZd0xSYktHNzlYelhCZWFPcFFlVjZNOFRSNjAtTUNfWXFIRm40aU43NktnaW56T2t4YzM1ME9FZ0U1NTQ?oc=5",
+   "published": "Sun, 06 Sep 2026 01:00:15 GMT",
+   "score_parts": {
+    "recency": 0.553,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.566
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "7割サイズ!?「全方位でアメ車感が全開！」70年代のホットロッドをリアルに再現【箱バンカスタム】【写真・2枚目】 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yRl9WbWlzQWZxdzFVTUo3N1VPMm10MTNzdmh1QnA1c0gxcHhMVWFFRE5YZGw4R29NUkl4cmhKN1NlUjU5MDFWLUJfZU9YeW5pZGdKc2QyRi05U29UOVB6SHNBZWMxVlk?oc=5",
+   "published": "Sun, 06 Sep 2026 00:55:48 GMT",
+   "score_parts": {
+    "recency": 0.551,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.565
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "町長が率先して開催に漕ぎつけた新たな旧車イベント! 【第1回ゆずの里 毛呂山町 昭和平成名車展示会】 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6MkdMMGNXWEY4V29qX0VKbFBOUXhrTzZUcFI2b0JHaDlXbG53NTgwOTBlSGZfVjJNUXl5WkM4dUR4d1JZQWpnYlRRVXp0MmlIaWloRzRsSjM0S3ZISlE?oc=5",
+   "published": "Sun, 06 Sep 2026 00:33:49 GMT",
+   "score_parts": {
+    "recency": 0.543,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.563
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "オリオン通り アメ車集合 - 下野新聞社",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qRGJCUDBwdWNvdlQ4ZEhvbGo2cGxUblJrMDJaU3FVQWd4eXNMXzlobXE5REs4OEYxODZQOHoyNWxzdC1mWVF5VWlFaTZDRXVnUTJBemlhUExFQ0E?oc=5",
+   "published": "Sat, 05 Sep 2026 23:18:44 GMT",
+   "score_parts": {
+    "recency": 0.517,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.555
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "公正取引委員会、ホンダ茨城南に下請法違反で勧告 車両1014台を無償で運搬 ホンダ系で初の勧告 - netdenjd.com",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzSDRSMWpmQ2xOTjZyU2ttbkc2ME9HaXJMUXVXd0Y5YW5TM2dVOEg5ZHRReWNLbWQ0RDQ5Q195RE9sRVYwbE5PWTJRRnA0TzJ5anc?oc=5",
+   "published": "Sun, 06 Sep 2026 10:53:49 GMT",
+   "score_parts": {
+    "recency": 0.759,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.528
+  }
+ ]
+}
