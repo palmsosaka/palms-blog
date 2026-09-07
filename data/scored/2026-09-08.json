@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-08",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 143,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ミツオカ\"新型\"「\"2ドア\"スポーツカー」まもなく登場！ 「今から待ち遠しい」「ロックスターの再来なら胸が高鳴る」声も！ 旧車デザインがイイ「ロードスター」な予想CGが話題に - くるまのニュース",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1IMVpVMUxuLWpYUE1tY0diaG5LLW4tMFZmdDVQc2R5T3ZDWFViRXg2V2k1YXc3UFdMb0YwdllmLWNfSkcyU3FtelpJNA?oc=5",
+   "published": "Mon, 07 Sep 2026 20:30:00 GMT",
+   "score_parts": {
+    "recency": 0.946,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.684
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ミツオカ“新型”「“2ドア”スポーツカー」まもなく登場！ 「今から待ち遠しい」「ロックスターの再来なら胸が高鳴る」声も！ 旧車デザインがイイ「ロードスター」な予想CGが話題に - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9tZXZHaDJJQ0FYYWdDTWJaMFg1dnR6RG1fS1BNVk1XTTVXWHRmb1dNWnhwYnpLbFpjalZJTGF4VnNGczZzRC12MFlFOUZCLXlOTkw1clEtMTFQS1VfXzlROVRISVJsUmxLQUp30gFrQVVfeXFMT21ldkdoMklDQVhhZ0NNYlowWDV2dHpEbV9LUE1WTVdNNVdYdGZvV01aeHBiektsWmNqVklMYXhWc0ZzNnNELXYwWUU5RkIteU5OTDVyUS0xMVBLVV9fOVE5VEhJUmxSbEtBSnc?oc=5",
+   "published": "Mon, 07 Sep 2026 20:30:00 GMT",
+   "score_parts": {
+    "recency": 0.946,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.684
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ミツオカ“新型”「“2ドア”スポーツカー」まもなく登場！ 「今から待ち遠しい」「ロックスターの再来なら胸が高鳴る」声も！ 旧車デザインがイイ「ロードスター」な予想CGが話題に (2026年9月8日掲載) - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OeUJzQU41dEw3YVBocnFzSkdWY3o3Q0xvdmp1YXoxRTRIT19ScVhlaEVRM0d4aUVqUzVJTnFEMHBDdVByTUtTdmZPRFNZM09rVjNBVVBscVN3QUVxYlE?oc=5",
+   "published": "Mon, 07 Sep 2026 20:30:00 GMT",
+   "score_parts": {
+    "recency": 0.946,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.684
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ミツオカ“新型”「“2ドア”スポーツカー」まもなく登場！ 「今から待ち遠しい」「ロックスターの再来なら胸が高鳴る」声も！ 旧車デザインがイイ「ロードスター」な予想CGが話題に - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3WTg4OE1LeVJteFR4N09TQmRWZndTbXpZWjVuLUxGRHFINktTWHhIMnNyR1BwcUdHbDc4UUEtNGxscjhLMTZtNEpwMmNRSE1lSTVsOW5fZE5zRUl3S3VN?oc=5",
+   "published": "Mon, 07 Sep 2026 20:30:00 GMT",
+   "score_parts": {
+    "recency": 0.946,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.684
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "堺署管内、交通事故死者が今年4人に 堺警察署が安全確認呼びかけ｜サカイタイムズ - サカイタイムズ",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44dXNVQlF3NVdVU19wc1JISEk3WXlOX09iYzZXYjZrek1JTEhOMmZUNU1TZHJTS0V6TGlkZHRabkF5cHByN183cF82VQ?oc=5",
+   "published": "Mon, 07 Sep 2026 20:30:00 GMT",
+   "score_parts": {
+    "recency": 0.946,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.664
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "商用車もサブスクの時代へ！　KINTOが一部改良を受けた「プロボックス」の取り扱いを開始 - WEB CARTOP",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aNVJsZXNiWDhzekdUTXJmcEYwY0JxTjJEZDB5bXE4S0h6UzhoUTJtS09CUGFhVkpDaVhOc050Um1WeWNwUEViT19sUG9qY182YUlr0gFYQVVfeXFMTlNrREplNUVQc0VBNVBzVVdwT2V0ak9BLS14dV9nZFFxVXFxTzJfeWpkZUV0T1pwM1loaHhVTnR5NWItM2xtVFNNUFo1RUJMX21RWGVrb0FLMg?oc=5",
+   "published": "Mon, 07 Sep 2026 22:00:11 GMT",
+   "score_parts": {
+    "recency": 0.978,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.593
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "「中古車市場に溢れる国産EV」大暴落の理由と電気自動車が安く買えるタイミングを解説します！ Max Schuemann (8ThfI9ExWs) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56WUg2a3RiaFJjbDhvZ05EM0JxeXpoNmM4bkdscWVDS1l5bjVPMFhhTjdvbS1meXoyVjg5c0ljdTF2OF80V196S291Nng1a0NqbEJyNUhITUdiZ0U?oc=5",
+   "published": "Mon, 07 Sep 2026 13:50:59 GMT",
+   "score_parts": {
+    "recency": 0.808,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.592
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "架空の無国籍都市〈円都〉を走る国産旧車たちに目が釘付け！岩井俊二の傑作『スワロウテイル 4Kリマスター』劇場公開 - news.yahoo.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZWNvZmVEOElPR2E0UjBZc1FFZi0zekEyazM1aV9EMVYxNTRKV3FZZXNSbGdfV3VuSE1JM2MyY1piNDc1VmdzZmV6eWh2VDNGOGRZOVRsaDdpeWFFS1lnWjFLalFmNjBKcTdVSmpVSXJzN01jclNmT3lPeFp0WWtWY01CRjhGejduanI5TWJn?oc=5",
+   "published": "Mon, 07 Sep 2026 04:13:00 GMT",
+   "score_parts": {
+    "recency": 0.607,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.582
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "架空の無国籍都市〈円都〉を走る国産旧車たちに目が釘付け！岩井俊二の傑作『スワロウテイル 4Kリマスター』劇場公開 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqWExsWWZfRUdZNXhFQjQ1TU5JTXUxa25iQUQ3RDdRYUp5SzJFbmxNTTBOeEZQNDNuZWhaRHBMU2lhMWFMMFVZSU9RQ19iUGM?oc=5",
+   "published": "Mon, 07 Sep 2026 04:13:00 GMT",
+   "score_parts": {
+    "recency": 0.607,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.582
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "架空の無国籍都市〈円都〉を走る国産旧車たちに目が釘付け！岩井俊二の傑作『スワロウテイル 4Kリマスター』劇場公開 - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MQW54RDRacFJ4NVE3emJiUDQ3Mm04a2dvU1lEM2pDa19GN0JHVm00MzBtbjljWTd2bW8zUnloaFZMMXVzYm9yalJOME42ZklnOU1UbWRYYjVVcy0wMVhWTFVFS28zeHVp?oc=5",
+   "published": "Mon, 07 Sep 2026 04:13:00 GMT",
+   "score_parts": {
+    "recency": 0.607,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.582
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "ローン、保険、代替確保… 重なる負担、生活圧迫 被災車両の所有者苦悩 千葉豪雨（千葉日報オンライン） - news.yahoo.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BbWxHbnhldzNGTl9VX2tBaTNmaS1CYVE1RjFZQ0JaS0VxczUtTHB2WlVfTE41ZF9KSGh2dkt2RWZ2MW1zaXgtejRzWVB1QWhsU280cnpXNG5ZOGY0N3F0T1hOUkVKN2RGR2tOX0pYb2p2SFVyUERvQ2pDTklJcGc?oc=5",
+   "published": "Mon, 07 Sep 2026 11:03:14 GMT",
+   "score_parts": {
+    "recency": 0.75,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.575
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "中古車競売価格、8月1.9%高 円安で海外需要増 - nikkei.com",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyZF8zVUdUQUNPRW9Qc25jSGNqN2xwMzR3TFdxMk4yZjd0Rm51TGt0b2xZM1lkeDdBaEFJOXBCSnpRQjBONElhQjJodG05VmFnaXYxRkY3TlFzZEFra2c5MDgtV1A5SHlXUUtDcg?oc=5",
+   "published": "Mon, 07 Sep 2026 10:19:53 GMT",
+   "score_parts": {
+    "recency": 0.735,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.57
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "「依頼は通常の何十倍」豪雨で水没した車が多数 氷見市に殺到するレッカー依頼、レンタカーも長期貸し出し分は底をつく状況【富山】 - chiba-tv.com",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZMHdneTZqR0JzbW4waEI5OE44VHpzR1RxSmQ0U3o3QjAwaUVLWlo5OW1FUUxQMVNqTWlULWpUaVBwZlFVSGlkZm5IcVBxR2FCd3l3a2ppUzZwOV9pWms2bHM4OUc?oc=5",
+   "published": "Mon, 07 Sep 2026 00:28:31 GMT",
+   "score_parts": {
+    "recency": 0.529,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.559
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "北米のジャパニーズ旧車スポーツ＆軽トラ人気は氷山の一角！ 日本の中古車価格が高騰する本当の理由 - carview!",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWm1xcjFCNEh0cFh4bDJ6SWxwSzZpVGd3SXZ3Snd6MG9Ed29hU2lxV2UySEZpQnZTXy10bmlrQldMWEstX2lsaUVPbVVUQmsxakk4X19YUmVCTU80Rjh2d1RxS3ZzOVJsN2NUWDFuOC1ndWpKMHJGelZoVTA2R1VGR1dBYXNoTDQzSHd4WjA5eDF1RDVY?oc=5",
+   "published": "Mon, 07 Sep 2026 08:30:53 GMT",
+   "score_parts": {
+    "recency": 0.697,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.559
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "「依頼は通常の何十倍」豪雨で水没した車が多数 氷見市に殺到するレッカー依頼、レンタカーも長期貸し出し分は底をつく状況【富山】（FNNプライムオンライン） - news.yahoo.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2eDJYa3YyN1lxd2hkcGlpYmVrSVplbktYZkw4U3lSRWxxeFg5N3UwbWdma1F1aGVqbHFfWDZMUmVaUXdKWVFRUnVRWUhoTkROUncySHpHRmxXVnZ1QTJzb1NXTTdiSzZhQTNVTWM3VmtrS3gzUkVtUnhaY09mQVU?oc=5",
+   "published": "Mon, 07 Sep 2026 00:23:00 GMT",
+   "score_parts": {
+    "recency": 0.527,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.558
+  }
+ ]
+}
