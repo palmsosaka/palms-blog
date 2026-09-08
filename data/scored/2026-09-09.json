@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-09",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 144,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【旧車バイクのような気難しさゼロ】あの頃の憧れに最新技術が凝縮！スズキ「GSX-8TT」とホンダ「CB1000F」大人が選ぶネオクラシックをプロが解説 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KbE4zbWlOa002cGQ5SVh3Yko5eWN6aVNXLVNVMmxoWFY0bEprUUdnYUNQZVJ6aTV0S0ZWclJ6Zy1NZTAtM1J0OWpTNm5jaG5ZbV81MnZRUGd5Mk5DZ1AySm9sS0lmTWxzN3RWdWd5cE01LWpIOW5v0gF8QVVfeXFMTkRtdW9URHM1dHpXQjF4Vk5xSjdEaWhEMW4tbUxsRXZzZWxERUp4Rmt1YzBZZjJYaGRJaHMwSnZ5WmQ5eFVtckhxQnJSR0g1ZEhnTDdCOVUzSkhVZlljbGVNMnpNSHktelJXVFF4b1dKOWVWVXBNZ0w4c3V3RA?oc=5",
+   "published": "Tue, 08 Sep 2026 22:07:47 GMT",
+   "score_parts": {
+    "recency": 0.981,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.694
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "LA市警が「ストリート・テイクオーバー」取り締まりで570件の違反切符、車200台をレッカー移動 未成年者も大勢摘発される（9/8） - lalalausa.com",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE41QXVJcTJ5bHVEOEQ3THBUcHpRRlczeklISnpJbkhOOWxkUDgtbGlxQUp5S3dPT3hsQl9WZG9tVUxGZFJlR2ZsQzRTdTQ?oc=5",
+   "published": "Tue, 08 Sep 2026 19:09:38 GMT",
+   "score_parts": {
+    "recency": 0.92,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.676
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "旧車のHIDをもっと明るく！ 手軽にLED化できるカシムラの新バルブが救世主な件！ - bestcarweb.jp",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB6aExpcTdXbVZ1MjVBYkxpQmVUa21rM0RjQXpydkFkRDU1b3ZPTVhYMUpzSXBXZVJoaldLbERDbUt0eDhPTkk2VVJR?oc=5",
+   "published": "Tue, 08 Sep 2026 13:30:00 GMT",
+   "score_parts": {
+    "recency": 0.802,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.64
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "『中古車でもこなれた価格になってきているので初代e-Powerはお勧め。』 日産 ノート e-POWER juboさんのレビュー - carview!",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV3hEQUVWZE9qZjE2XzAtX3prNnR1ZWE0eTFVUU05UTUzVDBLMEFyVTlfLVp6STV6SnVOdlhZTDh2RHZwVVgtMm9pYWtrSlVnVVJBcElQTE9xQTczdXRVUXJFWm55OThET2V4SC0yTXhvdDZscmx3NkpJSmt3S295VUxaSGVoZE0?oc=5",
+   "published": "Tue, 08 Sep 2026 21:23:50 GMT",
+   "score_parts": {
+    "recency": 0.966,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.64
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "結局クルマは見栄なのか!? 隣人に「お高かったでしょー？」と言われる中古車5選 - bestcarweb.jp",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52NC1qNGpBb010V25ldXFEUXMtUXNVRDVxeWdkNjlHTTVhRHJld01WeDg3UWtPVUU5RkJUeGYyNkxEUW1pdzA3UlZmaHduM2s0Q2JHSEZSbw?oc=5",
+   "published": "Tue, 08 Sep 2026 21:00:00 GMT",
+   "score_parts": {
+    "recency": 0.958,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.637
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "公取委、日産東京販売に下請法違反で勧告 板金事業者が11カ月で2808台の事故車などを無償運搬 - netdenjd.com",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93azBtdEpReXhaTHJMLXMwYUd6LUY3aVZhT0VRc01SZFNncHJ6czBiRm44SjRXWHpBOU9SZUhJbjdJQWlKa0pnSFJrTkc5UldsX3c?oc=5",
+   "published": "Tue, 08 Sep 2026 08:06:59 GMT",
+   "score_parts": {
+    "recency": 0.689,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.607
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "深リムは旧車だけじゃない！ レイズ「VOLK RACING 21A」19インチが現行スポーツにハマる理由 1枚目の写真・画像 - レスポンス（Response.jp）",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEdWRteDNDMDNMUlFZZzJLaXVCdVhpZHNGSjBRMVU2eURnM09GSFpGV2tpRW9jTW9qVGdUcEwwM2pldkZleGFpWVl3QnAwUjVzc0U5UXFCRTY2NTUzVzNkc1BsZWdqdDZpTElYSQ?oc=5",
+   "published": "Tue, 08 Sep 2026 05:28:25 GMT",
+   "score_parts": {
+    "recency": 0.634,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.59
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「59年前に登場、欧州基準の走りを目指したハイオーナーカー」 旧プリンス自動車から継承された『G型エンジン』と『流れるウインカー』…、先進技術を纏った高級車【初代・日産ローレル】 - 月刊自家用車WEB",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zT3VBWjJxejh6NGtGOVBKUHlaV1UzeHNLWXIwdlZBbXBTakxlNDFKVDFlckFyamFDZUhkYnBad0luVFJiMjJRTmV3azdhVlE2?oc=5",
+   "published": "Tue, 08 Sep 2026 21:20:00 GMT",
+   "score_parts": {
+    "recency": 0.965,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.589
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "深リムは旧車だけじゃない！ レイズ「VOLK RACING 21A」19インチが現行スポーツにハマる理由 - レスポンス（Response.jp）",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52Nm5zNmw1U1NUY1lOTkozSDltc1g0ZmF2V3l6UHQ4OFJQdDZqVW5QYzlSVHE1Y2NSNFlhVVNKLUYxTmxHTmRIQTBZUHlxcVZ6eWlVMlJLSFJpUDVoY05B?oc=5",
+   "published": "Tue, 08 Sep 2026 03:00:04 GMT",
+   "score_parts": {
+    "recency": 0.583,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.575
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "深リムは旧車だけじゃない！ レイズ「VOLK RACING 21A」19インチが現行スポーツにハマる理由 1枚目の写真・画像 - レスポンス（Response.jp）",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzYUdUU2JsZ2RDSV80OElUR09FTEVTaDlUREhZU0RoWjQ5ZnF6dXloamVqUG1kY2RqbE0xSkR3Z3YzRkRUX1l5ZTZZS0x3Njh5NVZwMGwxWnVhQUVIRG8zM2hBQmhlWE15bWM1SVU4WQ?oc=5",
+   "published": "Tue, 08 Sep 2026 03:00:04 GMT",
+   "score_parts": {
+    "recency": 0.583,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.575
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "旧車カタログ スズキ ハスラー/RM 昭和52年 Suzuki Hustler Coreweave Stock (AC1CIutXUe) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BSTAtbG42cTdhX09ycG1razlCclFQaGRUT2FnSlVPMmxzNHFXTmhtbExINlplc3E3dm5ZQUp1MjNvaTdpbEtPODJ6bVBBWHJHa3J3bEdsd1FNbms?oc=5",
+   "published": "Tue, 08 Sep 2026 02:49:58 GMT",
+   "score_parts": {
+    "recency": 0.579,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.574
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "これぞ王道カブカスタム！ミラノレッド×旧車パーツで仕上げた一台【スーパーカブカスタム】【写真・3枚目】 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVZmlZYXBfT0xJc1lGM0lpNE5kRXEyOXdKVFFHTWpfWWhmRW9WSDRpY1RaM3pMbXBZMFpFbzhvckdyczVLRGxNd3FhczV5ZXRKZnBQNnlkWQ?oc=5",
+   "published": "Tue, 08 Sep 2026 00:20:34 GMT",
+   "score_parts": {
+    "recency": 0.528,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.558
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "運び込まれ続ける水没車 対応に苦慮 氷見市の自動車整備工場（2026年9月8日掲載）｜KNB NEWS NNN - 日テレNEWS NNN",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbThCVFVhR0F3RjNMUEMtcVlXeVFPa1MxMWp5c21hSGtmNE9BS0tXU01WSTVlbFZZa2tVZmJ1bEZhNWNnd2VjVHluMUNiNmtaWVlnUzdUamhSUHppYUxpLVBUT2xxTnl0SWRkT0J0R3hSNy1TVnM3V2pvUkVhOGlVWU1QNFhBWXM?oc=5",
+   "published": "Tue, 08 Sep 2026 11:08:00 GMT",
+   "score_parts": {
+    "recency": 0.752,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.526
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "日車協連が総会、2026年度は独自の塗装工数検証を継続 外国人就労の新制度対応へ専門委新設 - netdenjd.com",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SRU13UW4yRVdxR2wyS3RnWFNna2d4NEpKcUEyN29fWUpZQmQyZ1A4WnlqSUgyMWNRbVlyTUFWV2FIUmw1UWNGT0J6NXBnQmwtVkE?oc=5",
+   "published": "Tue, 08 Sep 2026 10:20:53 GMT",
+   "score_parts": {
+    "recency": 0.736,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.521
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "カレント自動車、中古車業界の「信頼・透明性」の向上を目指すロールプレイング大会「U-CAR MASTERS CUP」に参加 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80b0hESFdzbTB5dDVaQnc2NlBjWUctOTQwUkYwU3RDWjctNi1Wd2gxMmFVSERXOFFJSTBuVjJkNlRnNi1MYjU3ZVNtUEpOUm1hWEoxUUxiUThUZlFMMko3SmpPWUp1T3JmV2c?oc=5",
+   "published": "Tue, 08 Sep 2026 02:10:01 GMT",
+   "score_parts": {
+    "recency": 0.566,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.52
+  }
+ ]
+}
