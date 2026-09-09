@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-10",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 151,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "最新車からカスタム・旧車まで大集結！ 沖縄県最大級「オキナワモーターショー2027」開催決定 - car-moby.jp",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hM2lMV0lkTmxXUG1lMDF0U3c1QWlhMUwzMHE0dGN4T3pZRlU0VzJkYXBDUzhGYllrN29FTUVoTWk5TmtnNS1hMXZoU05TcURYSEJETjcxcXNSMktBQ2U2eE9qNF9taWpoTzZSeEozSzNlcHkxN29COA?oc=5",
+   "published": "Wed, 09 Sep 2026 22:01:43 GMT",
+   "score_parts": {
+    "recency": 0.984,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.695
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "新型キャデラックCT5は、アメリカン・ラグジュアリーの逆襲か!? 最新のアメ車のセダンに迫る!!! - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SMDUzcHY4VjB5X3lpRXl0LXBRRkVwb1doOS0zYU1PLU52SE54Vk1LSXBzc21DVnJJU3VLTGNrT21GN0lXZnVPWkxRVWlmVmJTaXhoVWE1Z24wN2l2OVNKa3VYaTZwOUF6cWpHSklJN2JoTHhacHpvbE44el8zdVk?oc=5",
+   "published": "Wed, 09 Sep 2026 21:22:14 GMT",
+   "score_parts": {
+    "recency": 0.97,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.691
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "「そんな型番あるわけねえだろ！」業者が怒鳴る→現場で謝罪…義父から受け継いだ希少な日産旧車、守り続けるワケ - ENCOUNT",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sS3dPb0laWDR1elpxbFRTUTFHamRnQlhmLTVwVDd0T285Ql95QWJBUmZHS29aaHl5dUlHUUpzUVZfRzNvS3ZFeDlRVDd3SlBXd2hN?oc=5",
+   "published": "Wed, 09 Sep 2026 10:42:54 GMT",
+   "score_parts": {
+    "recency": 0.748,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.624
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "名古屋の豪雨、路上に残された車200台 一夜明けレッカー車で移動 [愛知県] - 朝日新聞",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMzhrSi1kODZlNDNYdzhCUFNCclhNX0RtclNlSHBEZjd5Y0ZSRjBEMVZDOUszMXBDTVFOUTQ2eS1femFWTDA5UmJjUWlRLXdkTGNPNndaQkM3SVdXeHNXb2w3VTg4UWxqQUozUDVlaGxjZG8zUGo4RUZSUGRkMmRVOFVXbkFSUTg5X1NZV1ljdXFWZWotNW9lVE1WSEF0RUVqSTBtQk45LXQwR21TUW1kN2FtdnVTVFJETzFNTExFakZ2Y1IwcHpj?oc=5",
+   "published": "Wed, 09 Sep 2026 10:05:00 GMT",
+   "score_parts": {
+    "recency": 0.735,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.62
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "名古屋の豪雨、路上に残された車200台 一夜明けレッカー車で移動 [愛知県] - 朝日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RQVVZTFJ3WGxfaXdFWnYxUEJlMFBSZWtzLWlNaXFUb2JURGZQV0lRYWR4S3RQTWJZU0pSV09lWHpmVVBodTZ6eUxONjI5NnNOZEtVWmM2MGx5dzcxWkhTdTZtcG5zcFk?oc=5",
+   "published": "Wed, 09 Sep 2026 10:05:00 GMT",
+   "score_parts": {
+    "recency": 0.735,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.62
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "名古屋の豪雨、路上に残された車200台 一夜明けレッカー車で移動 (朝日新聞) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ3Q1eHM4OU82X1RuWUg2aDRVR0lIS3RwSnI2S2NFaFlMZ19NZUdxZDA1ai0zQ1M5SHlTUENiNF9wcHBDNUtPclhfUGw1NUZXRlJNc1pWQWxwYjBjX196WW1PMjlFQXVWbS0yQnVrdllVcEx1OENNTW5RMldOWFBmWFlpOTFQV0Y0cFVQTlFB?oc=5",
+   "published": "Wed, 09 Sep 2026 10:05:00 GMT",
+   "score_parts": {
+    "recency": 0.735,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.62
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "自動車保険の事故対応に焦点をあてたNPS®ベンチマーク調査2026の結果を発表。NPSおすすめランキング1位は東京海上日動 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90ZW5Od1ozd3ZHR1RZS2dMYnFBa2JMakhsb3dMcm85cEV2TExvbmVJSnNVbnphQUMtSi1RclRoV1JYYTV2Q2tBa1dCRExPNnpZSHduSlpuS2xZTDVfU254QlloTGJGM1pCdHc?oc=5",
+   "published": "Wed, 09 Sep 2026 02:00:02 GMT",
+   "score_parts": {
+    "recency": 0.567,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.62
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "車検で「今すぐ交換を」と勧められたら…断っていい整備、断らないほうがいい整備の見分け方 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00eXQ0TEhLWEZoZ3NGdkZxY0xyTXJZTERqU0xDdTZGTW5VQVpVbVdMTHl5TnNjY014bkJRNW9NX1hoWHZ6WmFtY0t6NmJvdWM5Z2txaUg0U3BFeHRCUWt4U2tlMlg2UDZveDVGbm80eFFhM1hjVjlXYg?oc=5",
+   "published": "Wed, 09 Sep 2026 17:46:32 GMT",
+   "score_parts": {
+    "recency": 0.895,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.619
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "旧車・ヘリテージカーのイベント「オートモビルカウンシル2027」出展受付中 11月30日まで - CAR CARE PLUS",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14ZG9NakZHRWFnanEtRS1YeFF5dUIyTk03T0laOG81WWgzVnZwQ1NxcXVxQXUxZWpWZnpjbWx4Z0dZV094NVpvVHIyc21UOGtKckllM0JqZFY1MEZaOUVUWldR?oc=5",
+   "published": "Wed, 09 Sep 2026 08:21:13 GMT",
+   "score_parts": {
+    "recency": 0.699,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.61
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "「そんな型番あるわけねえだろ！」業者が怒鳴る→現場で謝罪…義父から受け継いだ希少な日産旧車、守り続けるワケ - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcFJOVDhfTV80c2h5Sk9mT3VRMm4temgtWXpRN2Y3a09GOGR1bmQwdHJlNjI1bG5PWkoxVmsyZ2xRN1YzM195RGJQbW9jX0ZXSllWelVJS1RzdzRoNW9CUHdhOTZVUU5WR0dzY1BuV2FEYm9OSVVrRkZ1MnpXcVBrcDMtUmdtTTZBWFNpdtIBiAFBVV95cUxQMzF2RXFmSnFUX3QzNjlmbmo1aDVFc0RBUFgtenF1OVR1cTgxb09KNDlXYzZLdDhkVF9xZi1tYWhJVHhWeXBtU3NZWkNIQ2NHa1NsWGRjWnBsVjk2ME05Q2paSDlieG5DMXhRdkFNQmxUQ3RTczJ4RkZMZmczeVp5YzUtWlV0N2M0?oc=5",
+   "published": "Wed, 09 Sep 2026 07:10:00 GMT",
+   "score_parts": {
+    "recency": 0.674,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.602
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「そんな型番あるわけねえだろ！」業者が怒鳴る→現場で謝罪…義父から受け継いだ希少な日産旧車、守り続けるワケ - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtX1NRRUs4U1ZSV09acmFkeTMycEdQQjRIZS11ZnJza09oSk5pdklLWnpNYUhURTNXQXNPRHcycW12dHJLUDBudGZMMFdaX2tfZ3JZSld6ZnRUOF9IUk1qc1VlZTdfd1dXNzlSRXVHX0JzcnluN1c4cUY5UmpjaE0?oc=5",
+   "published": "Wed, 09 Sep 2026 07:10:00 GMT",
+   "score_parts": {
+    "recency": 0.674,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.602
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「そんな型番あるわけねえだろ！」業者が怒鳴る→現場で謝罪…義父から受け継いだ希少な日産旧車、守り続けるワケ - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX1VpZVBSeGsyZE5kSVc3LVpuZG1nYjU4Y2hMX1A4SVBTNjR5RnpQbjNLdzFwVmJBSWRFZWlBOFMtM2Z0MHFFVUhwLWkxZXgwNFlTQnRxZzlMWnN4cHhyWXdtQkdmV1VTSWRhcXZ5Wkh5dlgwbFo2akQwd0haSkxyT1VoNWx5MW5iRkN2ddIBiAFBVV95cUxQMzF2RXFmSnFUX3QzNjlmbmo1aDVFc0RBUFgtenF1OVR1cTgxb09KNDlXYzZLdDhkVF9xZi1tYWhJVHhWeXBtU3NZWkNIQ2NHa1NsWGRjWnBsVjk2ME05Q2paSDlieG5DMXhRdkFNQmxUQ3RTczJ4RkZMZmczeVp5YzUtWlV0N2M0?oc=5",
+   "published": "Wed, 09 Sep 2026 07:10:00 GMT",
+   "score_parts": {
+    "recency": 0.674,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.602
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "中古車流通の粗利管理をAIで完全自動化、集計精度99.99%のAIプラットフォーム「売上粗利DX」提供開始 - ニコニコニュース",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkdGhBRkp4a0dSaW5qcnNsaWNtb1F3dGNLRTVNYThmbFdOSm5mb1BPVHRnVDNfcDNyQlYwUXYtWEx0LTlKaWRVMG44V09kYkhhaUlValUxOVNlWGNrWW1YUU5HaExBc3I5MTBvWVZRUDhNYlBMZk9adEFBQQ?oc=5",
+   "published": "Wed, 09 Sep 2026 14:48:34 GMT",
+   "score_parts": {
+    "recency": 0.833,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.6
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【成功と失敗の舞台裏・名車の商品企画室 No.01】ユーザーの期待に振り回され続けた、迷える〝日本初〞のミッドシップカー『トヨタMR2＆MR-S』 - 月刊自家用車WEB",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HLTY2MFpjUEczQkNNeHB2YzBtY0g2VmVUeU5MX0ZWNVc5bjhFbURMRUVnaGMybXZsVVMxV3Q1Y280aTgwR041YlI4M0dldVRj?oc=5",
+   "published": "Wed, 09 Sep 2026 21:10:00 GMT",
+   "score_parts": {
+    "recency": 0.966,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.59
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "旧車やレアアイテムが集結するカーマニアの祭典！ AUTOMOBILE COUNCIL 2027の出展エントリーが開始（WEB CARTOP） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDN1l2bXBpMU1qOHBucTJJa3I5czlMN2FMMGVpcFNWOTdyZy1aRVprOFJkX1NMbDJMYi1DNXdhSG0wZFhweVpyOTZpdkVRZktyd1VPQ25HM3dNMHRDaHc0dndaa0ktc01vWld5bDNUVW1FQmdVRmxiTGpXb2p6RlE?oc=5",
+   "published": "Wed, 09 Sep 2026 04:10:22 GMT",
+   "score_parts": {
+    "recency": 0.612,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  }
+ ]
+}
