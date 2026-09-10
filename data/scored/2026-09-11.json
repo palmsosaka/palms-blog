@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-11",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 138,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "8月中古車登録･届け出､2カ月ぶりプラス 新車販売増加で - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82ZHRqNHNHcVVCREFqRHowcnk5R0xUNXRqVkYwSkFHMFk5V2hVT3oyQzdIMGEwMlAwNzFJRFE4SF9uZTdOY3FTNWthV1ZzTnZMMjNXMjdEcU50YjhKaG9fSWM0VHJISUFCQ1dLTzRDN01jVFB5VkVwMmcwMHZXY2s?oc=5",
+   "published": "Thu, 10 Sep 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.941,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.632
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "紋別でレトロカーフェス2026 13日開催 自慢の旧車を展示、キッチンカーやライブも - hokkaido-np.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMC1STlhVb0dUaUstUmtVT0V3MGZ4VVpMNzAzOWI5Y2lYMXdITU43TV9hMk9NR2RrbTFsc3Npa1JaRzZ4eGxrQUx2UDdCa1VDMzF4UzJ3TXNkVTVZQ2FKc1ZiUzJ2MjRCTDVVODBWa2xJeFBUM2FsT2VfeXBGWUZoenA0NFo0d3pKdU1saXhNWQ?oc=5",
+   "published": "Thu, 10 Sep 2026 09:46:50 GMT",
+   "score_parts": {
+    "recency": 0.728,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.619
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "紋別でレトロカーフェス2026 13日開催 自慢の旧車を展示、キッチンカーやライブも - hokkaido-np.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zR1Q5WHY1VHRvbHZiREQ0MWN1UkJOSnZIMjVlZDRmaUd5d21RT3hFRWJiQVc3bzh2ajJIdWo4RUNmZ1EyWWNxS3ROZTJhU1lRRXBRUWRaZnoxQQ?oc=5",
+   "published": "Thu, 10 Sep 2026 08:42:17 GMT",
+   "score_parts": {
+    "recency": 0.706,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.612
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "名古屋の豪雨で路上に残された車200台をレッカー車で移動させています - やさしい朝日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10Nm9WX1l0ckdNbXh4MWJud05EdGNzM1EtMWpiVUVNSWpFVUwzeE9rQmJ5TFZnX2hFdENLcjZpMXNIazhQT25jRng2YnJBZFlaN00zZ3gzMUMtVlR5bFVzZmk2U0dIMW8?oc=5",
+   "published": "Thu, 10 Sep 2026 07:18:06 GMT",
+   "score_parts": {
+    "recency": 0.677,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.603
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "名古屋 記録的な大雨で後片づけ続く 車のレッカー依頼も相次ぐ - news.web.nhk",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95WGxKcFJRQk4tOGo2SnMwM2x1VUNjSENLV0V0bllVQl9iSnhDRXpDSGlJak5ralRFb0hzTjJjVEtMNm5heG1PWmoya084Q3pLNFdnQmw3dXNIUDJGUVln?oc=5",
+   "published": "Thu, 10 Sep 2026 04:41:56 GMT",
+   "score_parts": {
+    "recency": 0.622,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.587
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "韓国中古車市場で二極化…キア・セルトス3%上昇の一方、ヒョンデ・グレンジャーIGは4%下落 - BigGo ファイナンス",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WeldIODdaQjVQZHVwQ2ZVOVF2LXYwSzF6cUlCaXdycmEtN1JDUmV4ZzhFU2hJaGxVbXNZZExyZ1JsMmxFWFNka1BOeWpVNTEwZWpvWm9CVXoybmk3N0laMlhidTFUbEJOUlhrSk9WcW5wX1ZF?oc=5",
+   "published": "Thu, 10 Sep 2026 11:25:00 GMT",
+   "score_parts": {
+    "recency": 0.762,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.579
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "韓国の中古車10台のうち4台に性能記録簿にない修理痕…AIスキャンが明らかに - BigGo ファイナンス",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaZXQ2MzRCTXhUWU9NNlh4NGVKNUJQSmlWeTFyV2dqNzdMZlFtQnFqTTVySE1Fd0l4aE5rcFBIS3RNMXZLUEZoM1ZuOC1rZGg4WDR4NnBqN244czdOM3B2WV9maGlTSnprVjRDSlZmWFQtTVds?oc=5",
+   "published": "Thu, 10 Sep 2026 02:55:00 GMT",
+   "score_parts": {
+    "recency": 0.585,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "8月中古車登録・届け出、2カ月ぶりプラス 新車買い替え増加で - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NQTJZdmtzeFctM3FKVmEyckVxMXRWaG5XcTAta1RqN2xxbDVMR0trUlJ1TUhMc0pYVTQ3VHVndVMzWnlaVnZ3bXhidWZjVWF3SlpZMW1WN0d6dXRDRTBaYVRlbDhRM3RXNUZ5cQ?oc=5",
+   "published": "Thu, 10 Sep 2026 08:49:49 GMT",
+   "score_parts": {
+    "recency": 0.709,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.563
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "虹技、姫路に大型門型クレーン レッカー委託不要 - 日刊工業新聞",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BZVBFa255M0RiUzBqdmZ3dFZjamN5Y3BCV09xcmhpVDNVQXhTVWh3U0Jsc3NCbHJTcnFYVTZaQktDbGh3WmxxcTJIWnpTQXk2WW1rZmVRMWY?oc=5",
+   "published": "Thu, 10 Sep 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.941,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.562
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "１個80万円ってヘルメットだけで中古車が買える！ トップドライバー直撃でわかった最新レーシングヘルメットの世界 - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeDE4X182a2ttb2lzcHhycTFNWTBFb2h2TWNDTV9zZ1VpandxS2Z0VzFKM0tXMkUweTJISEJXMmg2SWRmLTVSaWk4WVl1YU1ERDZVbXFySFNQakEyZnF1TzlUb0lzS3Bsb2EwY05JVnZKMXkwbmJnVU1mS1lLaFpNd1JvTVlqaEk5?oc=5",
+   "published": "Thu, 10 Sep 2026 08:20:39 GMT",
+   "score_parts": {
+    "recency": 0.698,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.56
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "１個80万円ってヘルメットだけで中古車が買える！ トップドライバー直撃でわかった最新レーシングヘルメットの世界 - carview!",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ3RsU1gzaTRGQjFJV1FXRUoxZ3YwQ2U2R1dsNTNmaHVEQmN0eWFxT0YzMm95eUFKelk5SFpLZUVXQjRXRUpoUXo5aFU2QmF4ZFcta1hnRUFzWndJdWNmQzlEbEs1OGJhc01pbWJ2X3BPRER4LWRxVlVNZ2VMT3EzaTlCeWlCek5BOTVQc2luSUQ0empBLWIw?oc=5",
+   "published": "Thu, 10 Sep 2026 08:20:39 GMT",
+   "score_parts": {
+    "recency": 0.698,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.56
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "スバル「ジャスティ」ボディカラー6色を新設定 運転支援機能もアップデート（グーネット） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbXduTXFEVmswR1g2VC1FVUxHRnVZc2djNlNQcUZINWwzUmFfYlZaMnFFeUZoS3lhTE9ET1B0ekQyUUVSV2wwUDFGR1UyVTRjek9tNjY1NmZZQ0pPVHpEZjJxUXBSbTk4VXA3blpKVTczTDZqV2lnMEdpZXdIc2E1d0lSV1d3VXM4LW0yME40UXBfcEd5QmhV?oc=5",
+   "published": "Thu, 10 Sep 2026 15:32:57 GMT",
+   "score_parts": {
+    "recency": 0.849,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.555
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "いすゞ フォワード クレーン ４段クレーンラジコン付 差し違いアウトリガー ワイドボディー長さ５４８ｃｍ（北海道）の中古車 - goo-net.com",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFR1dUNFozNU9CZXpBVnJFUC01emJOcDd2QmN2eFVmbkdWa2ttVjlwU3ZOcWFWVEdKTF9vR1RkLWN4RlpONkg1LUtkREIyQ2hUeVdGSGNhVy1xTXNEZ19sUVZyajE0b0lnMGJ6dWVSOEt1X0M5ZUJyaVo4T1Y?oc=5",
+   "published": "Thu, 10 Sep 2026 07:09:54 GMT",
+   "score_parts": {
+    "recency": 0.674,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.552
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "最新車からカスタム・旧車まで大集結！ 沖縄県最大級「オキナワモーターショー2027」開催決定（MOBY） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaXd6aG5WaGZvYkpHTEdQRzV1enJGckxhVHpzVURnU1NWMDNlS29DNmRTX1ROcTU1bnh6bGVNYkhUb05LNURhcGNjS1dnN1NGeGpDZ3FZRnJRd0Nsb0Q1ejJQaXMxdm1NYXBNcnpQZ3BRTHd5am93MmdnUEo2cTUxMF9QY2s3TzByUEcteUVzeXZjZUpm?oc=5",
+   "published": "Wed, 09 Sep 2026 22:00:00 GMT",
+   "score_parts": {
+    "recency": 0.483,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.545
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "雨の日のドライブでヒヤリ…スリップ事故や視界不良によるキズ・凹みから愛車と心を守る「くるまの総合病院」の処方箋 - mbp-japan.com",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54TmhHMzh1WmRIUWxfaVJMejVzYzdYeWtiQXk1TmVIOTNLSFItM2ZOaFoxX1NsMW54OVBZeENOWkI1WnU5OGZfWWV0eFNwb2lnTHo0ZmV5bkdPWXpRREE?oc=5",
+   "published": "Wed, 09 Sep 2026 21:19:18 GMT",
+   "score_parts": {
+    "recency": 0.469,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.541
+  }
+ ]
+}
