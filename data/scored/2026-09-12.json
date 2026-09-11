@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-12",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 127,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「古臭さを捨てたS30Z、ヤンチャさは捨てない！」 電子制御のL型フルチューンで作る“大人の旧車” - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBic1pfaFZjYmxBdDZYU1JUTG9vX3ZjTml2NEJzaFBVclJkbHZmNnEyajdjcTlHWDQ0Y2JwYjJfWkFNb3BSRllnNUw4MDZlZw?oc=5",
+   "published": "Fri, 11 Sep 2026 21:30:00 GMT",
+   "score_parts": {
+    "recency": 0.972,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.692
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "台北の工業高生、自動車の板金塗装など学ぶ 5人が日本工科大学で実習|姫路 - 神戸新聞",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54aGh6RFRfZF81SFI5enJaZ2RHdWRUZDd5WW5iT08yZ0h3M1ZNOTlMRUdjdjgyb0REYWlPMFRvM0haLXdLZVVrZ29hSU1BNVF1enFRYlFKdXl3THN5czFQSUlYUkxoZzZrcHp5aUNR?oc=5",
+   "published": "Fri, 11 Sep 2026 20:10:00 GMT",
+   "score_parts": {
+    "recency": 0.944,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.683
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "名古屋市内で少なくとも200台か…冠水した道路で動けなくなった車のレッカー作業続く 1台で運べるのは多くて1日8台 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHNVVrWGZ0bEQtQmxCejRYenIwdTZuOVJEbEZaMkxtMjluRDhiUGhGOGlwYlZfMlA2d0E3VVdBRzVIbmM0YVBWUGd1VzFHMWhZaGtuOGtpcmF1XzJmUFRUem0zUklsMVA2UHVxQUpvb0QyeDV5LWZCMEkySUI5WEE?oc=5",
+   "published": "Fri, 11 Sep 2026 08:20:10 GMT",
+   "score_parts": {
+    "recency": 0.698,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.609
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "名古屋市内で少なくとも200台か…冠水した道路で動けなくなった車のレッカー作業続く 1台で運べるのは多くて1日8台 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSnVDVEVneng2WlR3TEFiR0c2elVENGM0Y01WY3Uxekk1bkNoSG5XdHlWb1hvQU1kTkNod1ZVSlU1b1BDV180NGcwSGhLRkJEMkxxaXNqaGpZLURJLW81aWVmVWVaMlRPQW1zSnlTYkNDNUhzM2tZX05NRVg5dC1qYUZidVZEOUR0VURKckx3?oc=5",
+   "published": "Fri, 11 Sep 2026 08:20:10 GMT",
+   "score_parts": {
+    "recency": 0.698,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.609
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "記録的豪雨から3日…名古屋では一時冠水した住宅街の道路で車のレッカー作業続く 業者には100件前後の依頼残る - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GVTNnbXRhYTcwOTYzM1YtWU5PdUtlclNiTk9sZDcyVnJDY2J4aDlHR1JwVU1WSjBVLWhveWpaNXNrMG03NjY3ZmZZbHRsQzZrV3hNSXBvUzB2eHNtV1IySTRJTU1LTnNTNE1YNy1aV3NKNWlEbmZUQw?oc=5",
+   "published": "Fri, 11 Sep 2026 05:42:46 GMT",
+   "score_parts": {
+    "recency": 0.643,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.593
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "記録的豪雨から3日…名古屋では一時冠水した住宅街の道路で車のレッカー作業続く 業者には100件前後の依頼残る - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XSDBDbkg0OU54VDc1cFpQYUVaZ1J0NzVpV0dISEZJOVFuR2VSREI1N2w3UmxHM2g2VWlESG5GUnQzUGV0allHQzlteEFzNWdCZnRzR0tQczRPOXBCNzFabkNIVUVRS0kzSTFYUVNSQkNSMWJTZzF0YVczTjl0bEE?oc=5",
+   "published": "Fri, 11 Sep 2026 02:55:25 GMT",
+   "score_parts": {
+    "recency": 0.585,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "記録的豪雨から3日…名古屋では一時冠水した住宅街の道路で車のレッカー作業続く 業者には100件前後の依頼残る - Excite エキサイト",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VSkNrbzN5Mk9PaFFpNjd6cjJMSHluV3BsU2g1UkpPMGVFSmEzNGlVUDA1M3M2R1ZHWWdpUjRuLUxQWmtqZkV3WEt5dW5manBoaXFMeUxBb01tcHJ3WThYOGRZRDVIVjk3VlgtQnlYcW9aUHc?oc=5",
+   "published": "Fri, 11 Sep 2026 03:04:00 GMT",
+   "score_parts": {
+    "recency": 0.588,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "車検でリビルト品を活用した予防整備！20万km超で見直す3部品 - goo-net.com",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qdjAwVzdLeXZSd0VITFFfU3dHUjdYS2YtaERaSmxnS0xTemNVYkVkQS1RNW5jLWY0dElybk5KX3JzNm5fZnlfeEpyb0IweGU5UUZEX2tMZ2FGdzZYSC1hdHI3WWhmUlVP?oc=5",
+   "published": "Fri, 11 Sep 2026 09:50:48 GMT",
+   "score_parts": {
+    "recency": 0.729,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.569
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "＜画像14 / 30＞【全51点】超貴重な昭和の名車・旧車がズラリ！ 日本の名車コレクション［2/2］ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91TkM5WXRIUS1id1FWTFZhZ0NLUUVvVlowbjRfeHpqVEtzQUhBbE11WDUzQmdhSHR4MGRPa1lwZnZndzZVRUl0NVdaV25zbUxWTVZubTUyYkVoTWZxc0xNeWpwLXhLbll1Z2c?oc=5",
+   "published": "Fri, 11 Sep 2026 01:21:00 GMT",
+   "score_parts": {
+    "recency": 0.552,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.566
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "深井駅徒歩10分圏内に「イオンタウン堺水賀池」 来春開業、9月26日に起工式 - サカイタイムズ",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5xTGQtVks1QkVrS3NKUWc0ekw4eFRLMnk5NGZVQVBwSXh1NG9uR2VTQWwzanl6SEt2ekNzN0dlbC1VVjZXWWRQWnZmaw?oc=5",
+   "published": "Fri, 11 Sep 2026 20:30:00 GMT",
+   "score_parts": {
+    "recency": 0.951,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.565
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "画像1 / 16＞ホンダの旧車＆名車約60台が元気に走行！ホンダコレクションホール20周年走行会開催レポート - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTV2dmMnlrbVZQRTdMU19TeVllZG9JcTNZeUJqUE5LWjlzQmY4RTMtNFhDa190MVV1a0Q0NDFxZ19oNjFjd3d2WUZYOG5ldV9rY3lNanhwbGdMZjZydktwa3d2bEVJSE13Z2c?oc=5",
+   "published": "Fri, 11 Sep 2026 16:58:13 GMT",
+   "score_parts": {
+    "recency": 0.878,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.563
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "人気中古車実車レビュー【ボルボ V60】上質さと実用性を備えたステーションワゴン（グーネット） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZVdWSDN5eFVCMjlCWFhNTkdaNUJYRXVoVGlDMHJ3ZHk5U1RZWGhYOG5TU0hKa0pLZWw3bjg4eENud3Y0MWZFQnJhSzZTd09qMmlZZVlLRWlxdE9DMDQtekxKRUowVk1RQkFHUEhyaDRSYXhSTE1tZy1lU2Q3RVprQ2JNZnBKZzRT?oc=5",
+   "published": "Fri, 11 Sep 2026 08:00:00 GMT",
+   "score_parts": {
+    "recency": 0.691,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.557
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "iPhoneが折りたたみスマホに参入...大画面は素晴らしいが、価格は「中古車と同じくらい」 - J-CAST ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pdXdhZmdRaWxOa2J3NTZYVnl4QjhLci1uSVF3bGRCSkNaY2h5ZVBXNUFEY2l2Tk1hZE1CUElXMnNvOHg2QzVSNFVxZDVxcjkzMHNNZTNIMkJvV21WUXZr?oc=5",
+   "published": "Fri, 11 Sep 2026 05:45:00 GMT",
+   "score_parts": {
+    "recency": 0.644,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.543
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "【2026年8月】中古車買取実績から見る「買取車種ランキング」TOP5を発表 SUV・ミニバンなど5カテゴリーを調査 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1URU11ME5iUkRPYzA0Z2FJZHRTcjFYdjh5TDl1eTZTQ1AtOEZUQjlNLWZBOFNYcEdSQW5wZ2JlaTJkd0hFVko2X0lqOV9CY1Q0Vmtjay00QUFUNGl1UVphY0xhZThSNTd0TWc?oc=5",
+   "published": "Fri, 11 Sep 2026 03:23:12 GMT",
+   "score_parts": {
+    "recency": 0.595,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.528
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "まだ続く修理工場に被災車両 あとから故障も、潜在被害なお多数か [千葉県] - 朝日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TaWpMNVU2Q2RvZjBYX0plelJYUm9GVmpGRDlxVEx2U25FdjFyMUVwWldwRVdaTjY0WW5sTzU3cG5VaFA0QVJtbS1BY3NKRTBaRnJfZWpHU0I3V211UjFKNS1iNDFBMzg?oc=5",
+   "published": "Fri, 11 Sep 2026 02:15:01 GMT",
+   "score_parts": {
+    "recency": 0.571,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.521
+  }
+ ]
+}
