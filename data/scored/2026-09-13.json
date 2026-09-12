@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-13",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 120,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "元“青汁王子”三崎優太氏、愛車『ポルシェ』で事故「停車中にフルスロットルで突っ込まれた」 お互いけがなし - AGARA紀伊民報",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MaDg2YlVVZ0FHNHJBQlJEMEN1M2JrUnNlNjJERVRQd0IwM2NhX1VTVFFLR2RLRDU1SVgtZHQ1U01URzMtSEpTWHc1VzA1TlJuLTc4ZmQ0bXFaQUgwb1E?oc=5",
+   "published": "Sat, 12 Sep 2026 09:40:00 GMT",
+   "score_parts": {
+    "recency": 0.729,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.619
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "元“青汁王子”三崎優太氏、愛車『ポルシェ』で事故「停車中にフルスロットルで突っ込まれた」 お互いけがなし - TOKAIネットワーククラブ（TNC）",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10Zk9mTFFhVjhGMFJQM2xLcTRnck5kb25CV2FSVDdyQVJjQURYWnp0bDR5TXJBWGNmZmxwY3d6WGl6R1pGYnFETHN4Yk1UdFdONkt0M3BlOEkxZw?oc=5",
+   "published": "Sat, 12 Sep 2026 09:40:00 GMT",
+   "score_parts": {
+    "recency": 0.729,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.619
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "阪堺電気軌道ダイヤ変更、天王寺方面増発なと - 阪堺線で見直しも - マイナビニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5bG5yWGlzc0lUTlIwZm1XMWY1cFhlaF8tamdSOVZVSUppR29yV0RTeENHQkVhVDZHU3NVYndERURuaUZ1MkZPc2t2N2ZvYWVTOVpLVnVGUlJUWVd3?oc=5",
+   "published": "Sat, 12 Sep 2026 22:24:16 GMT",
+   "score_parts": {
+    "recency": 0.994,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.578
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ケーニッヒウイング！「ド迫力のワイドフォルムにクギヅケ」旧車テイストも取り入れたハイゼットジャンボ (MotorFan) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNjhMaGQ4UVd4OE5td0JPV2lGcDZLYXJacUp2b1VROU9MaUNnVldmNmtya2FwZ1lEb3pZSk9pT09JcW1OTmllNHdtR1FVUEktZElzMzVkYjFFQVdFWUl1RHByQW83SDlrX0w4Y09PVDBLdHg2ZklOS0ZuRVU4SVpVeU4tMTRtSWFCdGUzWUV3?oc=5",
+   "published": "Sat, 12 Sep 2026 03:03:00 GMT",
+   "score_parts": {
+    "recency": 0.591,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.577
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "まさかの“修復歴なし”!? 千葉豪雨で大量発生「冠水中古車」の恐ろしい実態「水没車」を見抜くポイントは？ - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5MTR2X3hwYkdsWWo2cjd2eUxKRTFzblRVOGdRMWZhV1o2eW1JRm1NcEZ5RXJTbC16cXBsamhNY1JvZGxIclFsdDNuaXVHMklHRWZmU2FpSXVOWEx0OHFyVVRLVGZ0Z2tSTFJyMnBIcmFuMHFNODNEOFI4N1ZGQlk?oc=5",
+   "published": "Sat, 12 Sep 2026 10:12:00 GMT",
+   "score_parts": {
+    "recency": 0.74,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.572
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "まさかの“修復歴なし”!? 千葉豪雨で大量発生「冠水中古車」の恐ろしい実態「水没車」を見抜くポイントは？ - Excite エキサイト",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hSmRoVVdSN3JaOFJLMXR0d2hvaHR5cENHeUFzVEJBMVUwSUdkR2xkYUxsZzNoZk5TZDFZV0xBNGNoaFBDR1pIcjI3Mk1LR2tRWjNBREkwMWFZbFh5aGl3NWRUeWlxY3M?oc=5",
+   "published": "Sat, 12 Sep 2026 10:12:00 GMT",
+   "score_parts": {
+    "recency": 0.74,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.572
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "秋祭りで予約制「堺市乗合タクシー」5停留所に影響 9月20日、10月2～4日 - サカイタイムズ",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RRW56TC15akFqam51YzlrOHQzLVlpTHo5MU5rZHpEbkdpc041LUMwT2RubU9xWEZ6SWtYMDh0OFFDaU0tOWtzV2VINA?oc=5",
+   "published": "Sat, 12 Sep 2026 20:30:00 GMT",
+   "score_parts": {
+    "recency": 0.955,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.566
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「古臭さを捨てたS30Z、ヤンチャさは捨てない！」 電子制御のL型フルチューンで作る“大人の旧車” (MotorFan) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU3lIbU9GU1pxUFlQYUhTdnIwUXdrU01LajA0S2trcHFVbGcyYU1aNWdOR0x0Q1A0amtsUEZtcS0tcmpmbkRoV1ZpR3VoekdNRVZtcERBUWJ0b2ZEaXM0VzZ3cGhjTFNOUjl3ellRTnFhVVNvaFE0UDdfV1k2ZFpiNnVva3ZobHFYVmRIYmJR?oc=5",
+   "published": "Sat, 12 Sep 2026 01:10:12 GMT",
+   "score_parts": {
+    "recency": 0.552,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.566
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「井桁ホイールを復刻！」トムスの旧車サポート事業がさらなる深化を遂げた【東京オートサロン2026】 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvYXpoRTlSU1JDNFZyNnZHbG1sWHRwNS1GNkwzM2FIcC01b3c3clVtV3pnUGlpd2RNQUkyVDZpYW40c1Jicl9rUFQxOC1RNUtmWVZCTWVPTXVEQQ?oc=5",
+   "published": "Sat, 12 Sep 2026 00:43:49 GMT",
+   "score_parts": {
+    "recency": 0.543,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.563
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "名古屋市内で少なくとも200台か…冠水した道路で動けなくなった車のレッカー作業続く 1台で運べるのは多くて1日8台 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wckwwUDNTX1BuNmdCNGMzLUZmOWloOUpHclA3SXhVY1IyTXplUFVxZS1JZkdGRktYc0ZJUEJNc2xTcU9MeURIU29FS3FnRlFiM0h1N2l5OXhsMXNvMEtDdEpsWVlDYWFkVVFkbDVR?oc=5",
+   "published": "Sat, 12 Sep 2026 00:08:58 GMT",
+   "score_parts": {
+    "recency": 0.531,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.559
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "＜画像2 / 4＞マツダ・ロータリー特設ブースも！クラシック＆レアカー集結「お台場旧車天国2017」 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02bHJIcGU0RUJwZ2RtRVU5LXp2Q21LaGRpT3Q4TzJTN2c2TEFxYjNpc3FmV0l3ZDlyZUpDYmlPV0RUTG5IMUlWMFcwM19qS3ZtNml6dG90X1dBQjlDa18wX1NGNXVIX3RjUWc?oc=5",
+   "published": "Fri, 11 Sep 2026 23:20:16 GMT",
+   "score_parts": {
+    "recency": 0.514,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.554
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "レクサスの頂点に立つフラッグシップセダン「レクサス LS」とは？｜性能や特徴、新車・中古車価格【写真・2枚目】 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Ka0I1MWQ0dVB4VGRDd2c1c2lpX2NVaFk4SkpHRlpmbFdMV2ZhVzJmWXVyTkdMTy1jTlprT2VJRC1CMkhraWtqWWwyV1FMczVLZkxyNTRVSjFET1FZVDlmbEpILTk4X1U?oc=5",
+   "published": "Sat, 12 Sep 2026 01:02:25 GMT",
+   "score_parts": {
+    "recency": 0.549,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.515
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "日常と非日常を両立したスポーツクーペ「BMW M4」｜性能や特徴、新車・中古車価格【写真・6枚目】 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zTmh2aVZKcVZTcWJNdWx3anlqQnhLMnRhMmxpQU5vT0VvWFo0MnE4QkRXRlJaaUF4Q3lzN1Ria0JkZWVzUTZ5UTBJUm5RQnRxdEN5djMtdF9NS3RFWEl6blBBRFByOGc?oc=5",
+   "published": "Sat, 12 Sep 2026 01:01:19 GMT",
+   "score_parts": {
+    "recency": 0.549,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.515
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "レクサスの頂点に立つフラッグシップセダン「レクサス LS」とは？｜性能や特徴、新車・中古車価格【写真・9枚目】 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5RVRKLVo0LWtBaDIzS1pWaWhKaEFVMEtneWVaVzJMUk8xek9tVjJ1Zzc2cS1XLUFkSmkzQVZxNFZwc3VIUjNaWjR5SXhCMjNTN2FxaEo2bzZQbW56dHEtQmh4RWV2WWFVblg3Rg?oc=5",
+   "published": "Sat, 12 Sep 2026 00:43:32 GMT",
+   "score_parts": {
+    "recency": 0.543,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.513
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "画像5 / 9＞時価2億！世界に1台だけ現存するバイクがここに！世界の名車・旧車が集まる大分・由布院「岩下コレクション」 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNcGtra2tXaFJJWjhZTEdfb2RzYmNiYWNzVFFwYkRZRnhBRUMzR1g1WmhZbjFXYjA0dkJUQXkwX1FraFhkaER0RWFPOTMyRzlXdllxRExpS2hVdVZzc3Q1alNRdTh3bVJ5WFpOaDc1VW42UnVjRTlKLWxNWQ?oc=5",
+   "published": "Fri, 11 Sep 2026 16:27:38 GMT",
+   "score_parts": {
+    "recency": 0.371,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.511
+  }
+ ]
+}
