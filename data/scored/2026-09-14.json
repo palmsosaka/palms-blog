@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-14",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 119,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "あえてインパラを避けて選んだ1962年式「ベルエア」！ 20歳オーナーが語る旧車DIYの美学（Auto Messe Web） - news.yahoo.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95ZWRCenRSRlZmYlAtN0phLURGU0lqX3lMRkJBbV9FcnRZaXlvb3hza1cwWVIyNGFFSWU5UzExTTBkMXZycVlsX3VHc1A1RGNJUnNHd3Q2cWVrN0tqdkJrUFdxQ3B0OXhzYUkzNjQxaUlybnJTLTRQWDg5WE9ELWc?oc=5",
+   "published": "Sun, 13 Sep 2026 21:43:25 GMT",
+   "score_parts": {
+    "recency": 0.98,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.694
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "「車検も保険も全部コミコミ」でプロボックスに乗れる！KINTOが商用車解禁で打ち出した太っ腹プランの全貌 - 月刊自家用車WEB",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE43Vy1fckFXdGxTNnRQd3R3cXd0UndDTkVyYWZWUUZYajFJRXo3WWc1UlRoLUlwXy1lWlJwNzNnMGpiSWRoTzJVeXVsWkZ4VEtD?oc=5",
+   "published": "Sun, 13 Sep 2026 21:00:00 GMT",
+   "score_parts": {
+    "recency": 0.965,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.689
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【旧車レストア】早くエンジンかけたい！ 素人が挑む三菱「ニューギャラン」のデスビポイント調整 (アスキー) - news.yahoo.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWkhiaU5MNWlPdXdnTENrbW1qQkVMU3R1LXBycGplSjlzR1hvQnM3dGJXZEsxWUdtdlJqT3dDaDlGSTJLVTc5ZElITGtQaG92YW1MOE5qcDVJdjVwLTZ3MVYzNG40eUowQ1J3WHVOWlBfWGtOa19UYnUzbWl6VXlqa1ZPcDN6dWc3em5CNzNR?oc=5",
+   "published": "Sun, 13 Sep 2026 09:48:07 GMT",
+   "score_parts": {
+    "recency": 0.732,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.669
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "「肉の煙には勝てません」アメ車＆バイクを見ながら食べ歩き！ ガーリックシュリンプにスペアリブ【相模VIBES】 (MotorFan) - news.yahoo.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUmxHaGc5QmxzNGdEc3hQRTAyZS1DSFYzbVZrX09UOVNLVmRkV19XS3JmeXNoVl9McnI3Z2JnbEszQ1I3YjZWYVY0WmNKT1lWb29iT0UxUGVpRl9vckFma0xiQ1RNOWt5cXlJeHpyb1JSMUZpV0FvV3p2YldScjZDbU9rTjloS2kxeWt2RnZR?oc=5",
+   "published": "Sun, 13 Sep 2026 14:46:09 GMT",
+   "score_parts": {
+    "recency": 0.835,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.65
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【旧車レストア】早くエンジンかけたい！ 素人が挑む三菱「ニューギャラン」のデスビポイント調整 - ASCII.jp",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kaVF0ckc1ZVFUa1Zka284aEhRR0cza2pueGR4d01lbEdGQnpsNWlaalVUOW5LSzA0OEYtbGd5Y2g1ZUd2U0VRcjFjQ01RYzNTaGNvTmpNU0JrbWJLTXZZ?oc=5",
+   "published": "Sun, 13 Sep 2026 06:00:00 GMT",
+   "score_parts": {
+    "recency": 0.652,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.646
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【旧車レストア】早くエンジンかけたい！ 素人が挑む三菱「ニューギャラン」のデスビポイント調整 - Excite エキサイト",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBydk5sa1FiUVR1azh3SmtSekFTSjBobGRxQ3dHRnJrVFlNTkVHdUlub29PLXp2cnBQV3hnWlNkTl9UTk8wX0pHWFBqam5mTEQ5eUNLTVZ5YkpPRXNSanZwOQ?oc=5",
+   "published": "Sun, 13 Sep 2026 06:00:00 GMT",
+   "score_parts": {
+    "recency": 0.652,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.646
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "旧車が並びウルトラマンとの写真撮影も！商店街に昭和のにぎわいを再現〝ゑびす昭和横丁〟大にぎわい【高知】 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNN0U4NzBEbEtkZnhJZlFCUWFSZHNZcm9Xbnd0QjNLdUU4TVUwelNyOVY0Y0Y1T05FbnRrS3pJWnduOTMzS043V3VYRmhjMXplalNyMEExeFFWd3JxTmVn?oc=5",
+   "published": "Sun, 13 Sep 2026 09:14:00 GMT",
+   "score_parts": {
+    "recency": 0.72,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.616
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "旧車が並びウルトラマンとの写真撮影も！商店街に昭和のにぎわいを再現〝ゑびす昭和横丁〟大にぎわい【高知】 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wM1JwamJaUzdXV3pKbGdKMjh1MC1CM0VUNkl1WV83RnU1aWN3OVVySFluUkNVUVRSV0JpcTVqSUdQdHFOd0h4S1RRWnBTV0Vrcy1MUWF4YTBob0c0MkFUUHdwUTc4a2ZyeTRZLUJrNjV4MlpLUVJz0gF3QVVfeXFMTjAzUnBqYlpTN1dXekpsZ0oyOHUwLUIzRVQ2SXVZXzdGdTVpY3c5VXJIWW5SQ1VRVFJXQmlxNWpJR1B0cU53SHhLVFFacFNXRWtzLUxRYXhhMGhvRzQyQVRQd3BRNzhrZnJ5NFktQms2NXgyWktRUnM?oc=5",
+   "published": "Sun, 13 Sep 2026 09:14:00 GMT",
+   "score_parts": {
+    "recency": 0.72,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.616
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "旧車が並びウルトラマンとの写真撮影も！商店街に昭和のにぎわいを再現〝ゑびす昭和横丁〟大にぎわい【高知】 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12ckFkODFVdnBlWVA0anhzMnZTLVMtXzR5cEZremREOHFKbWpkajFzQTl4R0FtblpIdXNKV1pfdi00M2RSQ0dqc2RfNXVPcDVQZTVRa05xRHpYeDA?oc=5",
+   "published": "Sun, 13 Sep 2026 09:14:00 GMT",
+   "score_parts": {
+    "recency": 0.72,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.616
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "旧車が並びウルトラマンとの写真撮影も!商店街に昭和のにぎわいを再現〝ゑびす昭和横丁〟大にぎわい【高知】（テレビ高知） - news.yahoo.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wemNJSUtEOEdIZl9pWVdoZ0FvX29zYkN3a0l4aUJQWlE0cXE0aWRVb1ZUSlZBWWY5RklkNkdJWTNBUkVpMzc1akh5bE5uMzNnODhnbG5fSXhJU3VGQW5YLW95NXRJSDFQSkNqWjM4Ym0wN1AxQVhXd201V2VVOEU?oc=5",
+   "published": "Sun, 13 Sep 2026 09:15:31 GMT",
+   "score_parts": {
+    "recency": 0.72,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.616
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "「肉の煙には勝てません」アメ車＆バイクを見ながら食べ歩き！ ガーリックシュリンプにスペアリブ【相模VIBES】（MotorFan） - news.yahoo.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15aWJSLUdUZDhIdkFSMG9MbzlkYzVYZlI4YWY4amRoYmtnc2NkS2hRRFlLRHBmSS1fT3FndjNYVUVNX2VrZkxtdFNkV3Y2LUo4czUwWFVXQlVkSjgzRzZZUzFBeDJJT0JKbzhBTTVWZ0xVSDkxRDZ0MndnTy1BUUE?oc=5",
+   "published": "Sun, 13 Sep 2026 09:00:00 GMT",
+   "score_parts": {
+    "recency": 0.715,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.614
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "「肉の煙には勝てません」アメ車＆バイクを見ながら食べ歩き！ ガーリックシュリンプにスペアリブ【相模VIBES】 - news.infoseek.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RSUdnbG53MzVKYTlVbG8xbG5tMDZMLTB0UUJwQ05uZm4teVpNUzNvLTlYeG1FSU5MZll5bE50TVo0RFlsRjV0T3VwSEZla0lvcW5uUkxfclhQd2dtUm1YVDRSc01Rb2Nl?oc=5",
+   "published": "Sun, 13 Sep 2026 09:00:00 GMT",
+   "score_parts": {
+    "recency": 0.715,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.614
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "「停車中に突っ込まれ」高級車がレッカー 相手は高齢者「だから許す」…ネット「寛大すぎる」 - portal.uqmobile.jp",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdkFKSmhOandvbGxWMFVacUVKZGFTcjNoYmVSVGxNRVZNNHlEdFdFWTFrNVEycnNDV2s1cG1qVHBUZGZUd0E3dmNDdzBxcW1wOU55MmhKU0w5bmNSR24zUEx1VU5jYXYwaS1jOTJoNkVDdEJEQTY1SW5Vd05uT1cwSw?oc=5",
+   "published": "Sun, 13 Sep 2026 00:07:00 GMT",
+   "score_parts": {
+    "recency": 0.53,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.559
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "「停車中に突っ込まれ」高級車がレッカー 相手は高齢者「だから許す」…ネット「寛大すぎる」 - ENCOUNT",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yS25KWHJXb19QTm02Vno5TkdmT1MzaFl4U0Y1LVRzMWVXVGk1cUlRZlVTNTc1U1dKelQ1WlRGZ1RxN1BwWkZaZlBzdGJPZnMtY0pZ?oc=5",
+   "published": "Sat, 12 Sep 2026 23:55:22 GMT",
+   "score_parts": {
+    "recency": 0.526,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.558
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "「停車中に突っ込まれ」高級車がレッカー 相手は高齢者「だから許す」…ネット「寛大すぎる」（ENCOUNT） - news.yahoo.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9taV93Mmk3UzNrZjBHQ1RSSXVNY1ZYY1J5b0JlbWFTc3U1c3BZSS1WUW1pTTdsSTdBSlprdzZzazdRUUpwZi1ZYnFVN1dITXdkMTBycklFV2JRQV9HUlB6MURLcDFyVDlYaldsUEVjR3hlZ29EQ3dtYk0yeVNNNEk?oc=5",
+   "published": "Sat, 12 Sep 2026 23:51:09 GMT",
+   "score_parts": {
+    "recency": 0.524,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.557
+  }
+ ]
+}
