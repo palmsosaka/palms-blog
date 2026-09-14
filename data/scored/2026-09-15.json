@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-15",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 141,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "70台以上がズラリ！ アメ車、旧車、国産車にバイクまで“乗り物好き”大集結イベント【相模VIBES】【写真・12枚目】 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVENpeUlkMHNtUk15b3VwelJ5QnNOdWJkbmpVc0dQZnBTbHpkaHFxMXB1MWxtWjdjTGpZS3V1Q1hPeVBLVzUtVk1UMjVoM2p5QTNTMkRqNnhWUzIyZGlRcUFYdXBSR0psWTBZdmZzWVlrZDV4cGFhX1JmeGJKQnlicXJoVGJ3eldCVFZSY3ZLWUFyVnI0VjFwTndyVQ?oc=5",
+   "published": "Mon, 14 Sep 2026 05:06:32 GMT",
+   "score_parts": {
+    "recency": 0.616,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.685
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "70台以上がズラリ！ アメ車、旧車、国産車にバイクまで“乗り物好き”大集結イベント【相模VIBES】【写真・16枚目】 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRnoxY0UwRTl6T2lYcUtiSFhKUm5hbTNsSnJnVWtzZnd3N1RyRk4wSm5YY3NFcnc3LVNuOE96b0Y2RC03bHhfVDdxVzE2T3NpbUk0SFY0TnF5WWU5SWZvVkpPRUY3dDBjYm9VNXdKMG9HMFVrRnpIMGRmYUM4dnhnY3ZPMERHWHRsLUVWSEhYVzlNNWJkN3VaOUxIOXY?oc=5",
+   "published": "Mon, 14 Sep 2026 04:46:23 GMT",
+   "score_parts": {
+    "recency": 0.609,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.683
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "ホーンリングはダミー構造。1960年代アメ車風に変身させるネオヴィンテージステアリング - Auto Messe Web",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TcmpSb2dJeW9uUUFuMl9UR3dYSEJSNnJObXp3eWhSYndtdW5uR2g3V0hsVVJSZzN1UzNwQ1llT0tXdE53cG0wYVA5NHd4aF9LQ0QyMHR1cWg3eXc1ODZ3?oc=5",
+   "published": "Mon, 14 Sep 2026 17:54:21 GMT",
+   "score_parts": {
+    "recency": 0.883,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.665
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "70台以上がズラリ！ アメ車、旧車、国産車にバイクまで“乗り物好き”大集結イベント【相模VIBES】 (MotorFan) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVzBXRjB3TUxsbUhMcHpnbDZhaWp5YTV1RHpxWDNJcmJTYWlyZHlhNUdDOHAxaUFiTmlQWWRMLUYycjJnelF4TnJxZHRaUHNVSFc2VkdOVlFzYTRkSWVuNGJ5MTdXU1FTMWFtb0FJWWIyeF8xWjRkYmd3cUVtR3hpWFhYWGRjeERUREIyQ1Vn?oc=5",
+   "published": "Sun, 13 Sep 2026 23:58:25 GMT",
+   "score_parts": {
+    "recency": 0.509,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.653
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "70台以上がズラリ！ アメ車、旧車、国産車にバイクまで“乗り物好き”大集結イベント【相模VIBES】（MotorFan） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yUW1RRTV5WXdvSDlNZkt2QzJaNXVIRGlENTg3Z0NIankwX2NuOU9qMG1nZklZRU9mNzFhbmk3d1M5NEpKZWY2MWRxdUZVMlBZcWMwa0hCQmVDNlloWUFoSlliazFqdGhGclhnSE1KNUpsWDBNTXpOR3dfMkFIVk0?oc=5",
+   "published": "Sun, 13 Sep 2026 23:00:00 GMT",
+   "score_parts": {
+    "recency": 0.489,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.647
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "70台以上がズラリ！ アメ車、旧車、国産車にバイクまで“乗り物好き”大集結イベント【相模VIBES】 - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXSnlLQTA4NHZ0VVBWWWUxcDlKdnhER0M0WjdRaWFndVFtQ1JZaEN3NVFJRmJPRlkxbzZVVGw3YXRjOEdJaDJkeWx3U1gwb2t4OVRvV2pFVVpOaHNPMHRXUHByby1aNzdG?oc=5",
+   "published": "Sun, 13 Sep 2026 23:00:00 GMT",
+   "score_parts": {
+    "recency": 0.489,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.647
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "56万9800円の“走る軽トラ”が楽天市場に登場！ 免許・車検不要で30kg積載、四輪特定小型原付「ブレイズ イーカーゴ」 - 月刊自家用車WEB",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5YR2trWE9LeDJlUGZzMi1ieVB1djJWNjBTNXliNkYyd21UQWFyZm5rUTdTSUFJMkk0QndCZGVQV0pwVXRIeWJJM0pnTkpnd3df?oc=5",
+   "published": "Mon, 14 Sep 2026 21:00:00 GMT",
+   "score_parts": {
+    "recency": 0.947,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.634
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "ホーンリングはダミー構造。1960年代アメ車風に変身させるネオヴィンテージステアリング - ニコニコニュース",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MYkFnSHZ3anNYcTRKblo2MzlZM2hfeEs3NDgwWkNhd1RlQ1FqUFVXLVJlUGN1V1pMQ1BMZE1DWmJmNVJJREFLdlVlRU1VNTdoclI3Qg?oc=5",
+   "published": "Mon, 14 Sep 2026 09:33:43 GMT",
+   "score_parts": {
+    "recency": 0.709,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.613
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉豪雨から1カ月経過も復旧進まず 被害額300万円…廃車もレッカー手配つかず - ABEMA",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyLTI5RDFwWV9kLTJNVk5hNGF6NDl6dlNLRFlJLW9xd0RDazk3WkJxc1B3d1JnR0p1WTFEa0FfOWdya2Q5VlV5b0xKbm9JQjF2MHNaejFrRnZhZWs?oc=5",
+   "published": "Mon, 14 Sep 2026 07:55:31 GMT",
+   "score_parts": {
+    "recency": 0.675,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.602
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉豪雨から1カ月経過も復旧進まず 被害額300万円…廃車もレッカー手配つかず - テレ朝NEWS",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlakMyTHROc3QtR0dRbXZONEpMS0JValFKS1JPNE81SnR5ZThja2cwMnBZN2hhOF9wWXVkeVhvVXpSZm1lRG1iUXpkamJIR0RnQzBNbDB5SWZSVUhmaW5kWEZic2lPRHViSlBFaS13TkZQUQ?oc=5",
+   "published": "Mon, 14 Sep 2026 07:28:00 GMT",
+   "score_parts": {
+    "recency": 0.665,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.6
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉豪雨から1カ月経過も復旧進まず 被害額300万円…廃車もレッカー手配つかず（テレビ朝日系（ANN）） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM09HQzltNVkzSjRBNW9jVlVpWDhUVmEwN3NvNVlhdjhjUmNZZXQxZ3VMLU1aVUh6RVlzZXNZVEFTUTZMdFZlaGc5WHVieFc5b2w4UG5GQ3BSQmhGS2NSM191XzNCVGZabjlqRUVhanhVQTlnSXQ1VnhOMmlZS3dWa1M0MnBaTDJK?oc=5",
+   "published": "Mon, 14 Sep 2026 07:30:34 GMT",
+   "score_parts": {
+    "recency": 0.666,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.6
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "【画像まとめ】千葉豪雨から1カ月経過も復旧進まず 被害額300万円…廃車もレッカー手配つかず - テレ朝NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTlUyakpYMzJyVXpZNmNNNXZJMTFSbkpsUXlwT0RZNndqbU1CWDhHMXdFMmRkdWZmX0VHelhTRTlSUXAtbUwtcF9MUnZiaENaZFhKYVE5SDNYR1czN2dPcUtpZlRJN2dqdnVNU2tHUnQwRkVoWXJOZEgyM1IyZm1RV3B5NjFqanFIcU5CeXUxcnpabm1aMWFtYzg2bnhXLWtDVnFpMS04ejlpLVRUMGxzY2lWVW1EbGhPU2c?oc=5",
+   "published": "Mon, 14 Sep 2026 07:28:00 GMT",
+   "score_parts": {
+    "recency": 0.665,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.6
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉豪雨から1カ月経過も復旧進まず 被害額300万円…廃車もレッカー手配つかず（テレ朝NEWS） - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPenpmUVlDS2VDUjJiVl9jS2c2Q01rYTlrUUhIdEhFMk5SY2RHc3pZZVk0SzVBOU5ZMVlhZGwtTko2VTg2Q1hrWXhyM2F1MFNxRmVHOTh1dWFUYWRscHNoTklXaF8xeWhGT3R3ZDdyandvWTBhcGFldUVtbmE1N3B6SF9SN3JMbkJjbjZYT3RibWk?oc=5",
+   "published": "Mon, 14 Sep 2026 07:28:00 GMT",
+   "score_parts": {
+    "recency": 0.665,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.6
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "【写真・画像】千葉豪雨から1カ月経過も復旧進まず 被害額300万円…廃車もレッカー手配つかず 11枚目 - ABEMA TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xSS1BMkdqTDkyREMzazlpcThDLWRjYTlfZ1lnaGQxMWo4WTZjNVYxY194cEx6ek53VWg3N2VYcEtHS01vVTZGOGJtdGI4NEFqcUFxa2poOVdGNFN2bFRRZDhB?oc=5",
+   "published": "Mon, 14 Sep 2026 07:30:36 GMT",
+   "score_parts": {
+    "recency": 0.666,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.6
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "【写真・画像】千葉豪雨から1カ月経過も復旧進まず 被害額300万円…廃車もレッカー手配つかず 1枚目 - ABEMA TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4SDdSS25hTnpob0tmVlY0SjY1cmpaVkJ2dzFLS25XV3VHRU5sUmhBRjlmeWtQVmdUSjhYVjJHWEtZd1U5TDRHejJzT0dfbEIyczFORXJ6YlZQQQ?oc=5",
+   "published": "Mon, 14 Sep 2026 07:30:36 GMT",
+   "score_parts": {
+    "recency": 0.666,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.6
+  }
+ ]
+}
