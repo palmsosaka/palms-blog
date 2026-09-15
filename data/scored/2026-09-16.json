@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-16",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 123,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "「車検も保険も全部コミコミ」でプロボックスに乗れる！KINTOが商用車解禁で打ち出した太っ腹プランの全貌 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93VWZMTWUxZUxDWmJUS1g4MGFQNTFyWFJDenVrbkZiTG5IQmNodGZEdEJPbjhJWFFEcTNCRXQ5SFJocklVSlNjTmFhbFg3NUJXRlRrTXZnMkpmMVN4cGl3LW04anpKbmhOWm02cHYzRnIyb0JXMkxjS09JNUhraTg?oc=5",
+   "published": "Tue, 15 Sep 2026 22:07:22 GMT",
+   "score_parts": {
+    "recency": 0.977,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.693
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "物価高でもクルマを手放せない人たち――外食は我慢しても「自動車保険」は削らない？ 削減対象に挙げた人はわずか2.3%、家計の現場で何が起きているのか（Merkmal） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNGN2NTBVZTU1LWs3cWVRT2p0Qko4aVV3TkN2SkJKb3BYRXQ5SmxuUkNIM2sxWVE5cHFEYW9IZjBOeDZhM3JtWGhZbUpSdVRPZmZmR1hDa0JBVHg1YTBWRVhnQkVuOFRCaUVNWHZUYnBSRFNSTTlyeEtHRHR3R0dhZFphTlZxUkZH?oc=5",
+   "published": "Tue, 15 Sep 2026 22:21:00 GMT",
+   "score_parts": {
+    "recency": 0.982,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.645
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "千葉豪雨の被災車両は約3万台と推計 うち約1万5,000台は車両保険の対象外 - news.nicovideo.jp",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2aU9GUVJFT21BR1BtbzQ2VTBGRU9tY1B3TnVUNmNBc1JtbldObkFWek16eDMxZm9MSWg3WVYyaUtRR2I1cFdZdkNRRTBveXUxYnhjTlpTY0JLMjZNRktqZXczSVJiU1gwcjgwa1RqeENwWlp6TWJhejBvUQ?oc=5",
+   "published": "Tue, 15 Sep 2026 15:48:30 GMT",
+   "score_parts": {
+    "recency": 0.846,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.604
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「50年前の昭和車がチート仕様に！」往年のブタ目マークIIにトルクフルな2JZエンジンを搭載!! - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBFeW1lMmRfNXFyS2ozYnNzM1I0UlNGMXRWcGI3WnFNN05JR214ZDlVUVpsWlpfNVdEb0pFR0pJZGk0QUpRc0JGQUlkclFEdw?oc=5",
+   "published": "Tue, 15 Sep 2026 22:30:00 GMT",
+   "score_parts": {
+    "recency": 0.985,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.595
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉豪雨から1カ月経過も復旧進まず 被害額300万円…廃車もレッカー手配つかず - ABEMA",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyLTI5RDFwWV9kLTJNVk5hNGF6NDl6dlNLRFlJLW9xd0RDazk3WkJxc1B3d1JnR0p1WTFEa0FfOWdya2Q5VlV5b0xKbm9JQjF2MHNaejFrRnZhZWs?oc=5",
+   "published": "Tue, 15 Sep 2026 22:06:10 GMT",
+   "score_parts": {
+    "recency": 0.977,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.593
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "【オールカマー2026】勝ち馬予想の金言録「オールカマーはアメ車馬力の米国血統に逆らうな」 - 競馬予想のウマニティ",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBM0U1bTZBYWtxYXY2aWpWdW13ZFAwSkpjRDFuWTNmbmRzVDg4dTFqTkFwa0lZYlZUeGRxNU0xSmMyS1pSNWVCZjBRbGw5dnNyeTd0SElLbFpHZWtYSUhLTnJvbEVrU25h?oc=5",
+   "published": "Tue, 15 Sep 2026 06:00:00 GMT",
+   "score_parts": {
+    "recency": 0.641,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.592
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【9月29日～12月18日】＜KINTO Vintage＞特選旧車レンタカー「博物館キャラバン」 アルテッツァレンタル開始 - トヨタ博物館",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94b01NelhwV2VmNUtwMWo2cDUyVHhuMkVKSUhXWFNHY3U4NFJNSWFIcnZ5czhvSDNXRFNxR1Bvd00yT24yeFcwZHBYTENUQXVYcmduQzlZeVNvc3FNM1kzMENwVFgwSTU1ZXc?oc=5",
+   "published": "Tue, 15 Sep 2026 04:36:13 GMT",
+   "score_parts": {
+    "recency": 0.612,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "中古車の購入代金200万円を横領した容疑、養父の43歳の男逮捕 「借金の返済に使った」 南但馬署 - 神戸新聞",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQMHdiRnVsSVd6MlB1aTBrMmRiSmhRRFNiQ1k5SkkxMTlhX005V2VhQUJ6R3VLZ25MbUFQZVNWYlNBeHJzMlltS0RRcFlNUVJDb3hkQ1lGZHVpbnJpZ1kzZ1A1bU1YQVlsbjZj?oc=5",
+   "published": "Tue, 15 Sep 2026 12:00:00 GMT",
+   "score_parts": {
+    "recency": 0.766,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.58
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "「肉の煙には勝てません」アメ車＆バイクを見ながら食べ歩き！ ガーリックシュリンプにスペアリブ【相模VIBES】 (MotorFan) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcEU2WXUxbVRhUXhCRk1JZE5EV20tcGkyZmVEazh3TDRGTzJ4bHdiM1ZVcEJYY21lVjdrazJRblllTGdDdnQ1VVlZX1FSc2M5aTVoLUNCMG9FamJNNnllcVhaZ3EwMkV1M2F1TTZHckxaSjA1R3FGTElZWjJRbWx6bXlRbVNSOVJrYUdlRndB?oc=5",
+   "published": "Tue, 15 Sep 2026 19:47:06 GMT",
+   "score_parts": {
+    "recency": 0.928,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.579
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "51年前のアメ車でスマホの音楽を楽しむ！ 1971年型オールズモビル『カトラス』を現代オーディオ化［car audio newcomer］by 東京車楽 前編 - レスポンス（Response.jp）",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lY2NFc1J5TlhSUFBFYVVRTGhoMDlvcFlEZHZUNnUwZV95eFhnYlZ5dWYtQmRUOGpZTzB2WmJTaTVmR2x4cXc4REY0MXE4bnhTTk1nM3NVRHl2ZjZKSU5N?oc=5",
+   "published": "Tue, 15 Sep 2026 02:30:03 GMT",
+   "score_parts": {
+    "recency": 0.568,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.571
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "51年前のアメ車でスマホの音楽を楽しむ！ 1971年型オールズモビル『カトラス』を現代オーディオ化［car audio newcomer］by 東京車楽 前編 1枚目の写真・画像 - レスポンス（Response.jp）",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoa1VXLXBGWVBUV1o1VTBGejZXRjloc2RVRG85V0dVYkEwSlplSXlRcWd2a0l0Rk1PbjlRX3ppeTRUckt0WDdxU0dvcDZCZHpSa2x1eTBQTWlJLWFYdEpjVEI0b2FwSUFYMWx6QWJWRjVLQQ?oc=5",
+   "published": "Tue, 15 Sep 2026 02:30:03 GMT",
+   "score_parts": {
+    "recency": 0.568,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.571
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "90年代の“はたらく旧車”に注目！伝説のバイオレンス映画『殺し屋１ ４K』でゼロ年代の新宿・歌舞伎町を懐かしむ - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Kc2g5ZFA3X1dSQml6T2RqcXh1NVJyUFRZOGpKZkpoVmtzc2tkckcwbXNLdUZ0QVZEcFdfOVViUV9iaXlzd1JUeURJbF8yaHVhOFNidWdR?oc=5",
+   "published": "Tue, 15 Sep 2026 00:30:35 GMT",
+   "score_parts": {
+    "recency": 0.527,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.558
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "画像16 / 22＞イチョウ並木を旧車100台がパレード！「トヨタ博物館 クラシックカー・フェスティバル in 神宮外苑」レポート - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUMjRIclRTOFBYWnBYSGFFY3RqWVFsa3JxRWhuUlZTWVdXUFBOV3VyOTJUdkZoaGZCekYtWU41TXBON3pvdlc4NG1yc2hYNmNPT0FJS20tSE5HaEVUbDJYYWVMU0NCRnU2M0E?oc=5",
+   "published": "Tue, 15 Sep 2026 00:20:18 GMT",
+   "score_parts": {
+    "recency": 0.523,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.557
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "＜画像14 / 30＞【全51点】超貴重な昭和の名車・旧車がズラリ！ 日本の名車コレクション［2/2］ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91TkM5WXRIUS1id1FWTFZhZ0NLUUVvVlowbjRfeHpqVEtzQUhBbE11WDUzQmdhSHR4MGRPa1lwZnZndzZVRUl0NVdaV25zbUxWTVZubTUyYkVoTWZxc0xNeWpwLXhLbll1Z2c?oc=5",
+   "published": "Tue, 15 Sep 2026 15:18:12 GMT",
+   "score_parts": {
+    "recency": 0.835,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.551
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "画像3 / 9＞時価2億！世界に1台だけ現存するバイクがここに！世界の名車・旧車が集まる大分・由布院「岩下コレクション」 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWLUZKbTN0aGNJVi0zNl8tYWgxNjN0SVlDeTFEM0ZVakFkZFdlSktxbGdmckdkM3B2ejRBUVJRV3RlRk4zbkxHYXJzVXcwaXlaTHRLd2EyR3lDZ1dyWUM0bE43YUVJSzVFT2hPMGc0QWVTRTBmZWl2YW9xbw?oc=5",
+   "published": "Tue, 15 Sep 2026 12:13:34 GMT",
+   "score_parts": {
+    "recency": 0.771,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.531
+  }
+ ]
+}
