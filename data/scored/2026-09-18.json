@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-18",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 138,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "自動車の板金塗装専門店「池内自動車」、直近4年間で累計修理台数10万台を突破！ - ニコニコニュース",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43ZUN0Wlo1dTFTS3JMSDJFSDM1ZDdYTkhpb3hNay1qbjR6eGw2Qi1rZjFVVEgxRGs2eE04bl9FOENzbDJyaVlSNGhCcUhNUV85WlJXdnNvWEZDMWRrWFZDMUJBR2MtUUpS?oc=5",
+   "published": "Thu, 17 Sep 2026 16:30:13 GMT",
+   "score_parts": {
+    "recency": 0.861,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.708
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "「500万円」中古車を購入した23歳男性→3か月後、カフェ休憩から車に戻ると？“信じがたい光景”に絶句… - TRILL",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SZDQxMGo5OVJqMllDbXExUTBWVWhyb29ObzM5Q0k4d2hBejBFY2R5RTllRXNmOGdXazhWaVdKbjBrbnVxNFFtRHR6d2Mxd0U?oc=5",
+   "published": "Thu, 17 Sep 2026 21:35:00 GMT",
+   "score_parts": {
+    "recency": 0.967,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.64
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "太陽光だけで最大40km走行可！ 雨の日の送迎や3人乗りもこなして車検ゼロな全天候型EVトライク「EVジェネシス スリールオータ」（Webモーターマガジン） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYlV1UHZQZTFEbzAxVFFMc1NRT2ZmU2liRExoWnhoTU14UlNZSnM1OWFCV0lPUFdMTHo5TXRRZzlieWJYTlRSeUtSVnBScHNvVVdCMzdwVkZCY2h3aFg1ajh5amlLUVFXbERMVWk0Uzlna2NCakNucnk1Tl94X29VQ1VEcXJjSi1m?oc=5",
+   "published": "Thu, 17 Sep 2026 20:55:00 GMT",
+   "score_parts": {
+    "recency": 0.953,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.636
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "再生に向けた鈑金から創造芸術への昇華、旧車を生み出すメタルワーカーが目指す頂…日本のBP職人がLAZZE工房で初研修 - carcareplus.jp",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RZElHanFUR0s1UUVfOGE0Y3EzaU1pU29DRHk1NUE2YWM4bmp0Z1BGUU50dWNjdXQzbGg5NUlsTnlaNGVuWDAzalI5RW9UM3RBcEdrcTFaT2VCSk1rUWxRUGZ3?oc=5",
+   "published": "Thu, 17 Sep 2026 12:06:50 GMT",
+   "score_parts": {
+    "recency": 0.77,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.631
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "記録的大雨で水没した車両 11月まで無償レッカーで買い取り 自動車リサイクル会社が坂井市に臨時の車両置き場を設置 - TVer",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5EYVNsZnNCbHU3UjZZUGlaZ3F2M2NHWnJ0ejVMRDBTRkFVeC13VTJsLVRCLTE1aHA0dk9jc2p0TWREWHlVYm10QndTNA?oc=5",
+   "published": "Thu, 17 Sep 2026 11:31:19 GMT",
+   "score_parts": {
+    "recency": 0.758,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.627
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "記録的大雨で水没した車両 11月まで無償レッカーで買い取り 自動車リサイクル会社が坂井市に臨時の車両置き場を設置 - 日テレNEWS NNN",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM1J6OFZDOXVmZ0FnR29GSzIxbkE0TXdLMVJRMkJmNWNLSy1YM2ZjUm5hakkzYnkzRzFJWWlXWjVRVUhQZDRzZGZRdzItRXdYa3M0Zkp5VF96S3BSQmpwTHAyWG55YlM3bXozSGlENUZuc2FrY0tsR1BzMU5GcUp5TG5tcFkxRlk?oc=5",
+   "published": "Thu, 17 Sep 2026 11:00:00 GMT",
+   "score_parts": {
+    "recency": 0.747,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.624
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「今見てもやっぱカッコいいわ…」40年以上前のモデルとは思えない！ ひと目でわかるカラーリングとアルミフレームが印象的な名車［スズキ RG250Γ］ - ヤングマシン",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GdGc3aGVuUXhiZEo0Y0lKWFBwR3dyZlNhQU0tNV9tZl9Ta0I0d2VSVFRWbDFfTS1WdmpWRklrVGhIeDNMZ3l4M1JBczAxLURfeFBaTVR2Yw?oc=5",
+   "published": "Thu, 17 Sep 2026 21:20:00 GMT",
+   "score_parts": {
+    "recency": 0.962,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.589
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "山中崇、『VIVANT』アリ役の撮影裏話 堺雅人のすごさ＆まさかの失敗 - オリコンニュース",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PbzVlUTgzcHZLQ0VwdkszYVQtOE92TWhCdEVZby1BZ2N6ZDBxa1ZmZzhPQjRvYVNSdTNfZGNWdUlZNlVFRjhzOC1Ec3VUc2M?oc=5",
+   "published": "Thu, 17 Sep 2026 22:20:00 GMT",
+   "score_parts": {
+    "recency": 0.983,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.575
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「まっすぐ走れない」「半年で廃車」…“妙に安い中古車”を買った人の悲惨な末路（ダイヤモンド・オンライン） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV0s5QlNma1JZazlNSU9hUWRpMldWemhBVUVJUmlkM0QwZjJEa3NSYWc4b3hMbWstT2o0Y3dfa1IwR0ZNZ1hfRUZBSy1VeFl6RERWRHVlUHRBY3I2TTA2SUNmcS0yZG9SZUFVRUdvQkpWUjFZdFFuMjVBSzNic0tuRVlkVUhsN0dZ?oc=5",
+   "published": "Thu, 17 Sep 2026 09:30:36 GMT",
+   "score_parts": {
+    "recency": 0.716,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.565
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "シルバーウィーク、堺で何する？ 9月18～23日のイベントまとめ - サカイタイムズ",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xS2dIbXk3cjA1SmFUY0pOcEVmaGJBZkRxNmRTYWNyMXo3X1F4eS1vcy1QQ1BYMzczaXMtNmJ6cml2Nk1IS0dOVDVRbw?oc=5",
+   "published": "Thu, 17 Sep 2026 20:30:00 GMT",
+   "score_parts": {
+    "recency": 0.945,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.563
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "「空振り出張査定」「早いもの勝ちの電話競争」の負担を仕組みで軽減、MOTA車買取への加盟1,500社突破 - ニコニコニュース",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82dmxsMDdORG1tby1rREU3RDE0dkZtdW5oRDR3XzZUWTV4QzkxMlRWOHRudTVIVEducEFHTm1SRlQ0dm9ya0NVaWVYeVhJQjlFSXhEREtQdzI4dF9udUNMZFEzeUJaYVhsN3ExSnl5RHZudkpjS2EtakZBNA?oc=5",
+   "published": "Thu, 17 Sep 2026 17:18:17 GMT",
+   "score_parts": {
+    "recency": 0.878,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.563
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "保険詐欺摘発金額毎年1兆ウォン自動車·実損保険過剰診療などの原因全体加入者保険料負担引き上げの恐れ - 매일경제",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfNXJmTXJBRURQOUdfVHFsNllpX3hsVG50aXYzQnhMZzVuU242a2RrWnZZc1htUEU1X1UyLWVoVjdNLVJtX05TbHZGS2phN191TGc?oc=5",
+   "published": "Thu, 17 Sep 2026 07:13:20 GMT",
+   "score_parts": {
+    "recency": 0.668,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.55
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "レヴォーグ 車検 名古屋市守山区 - goo-net.com",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95UERjYVNEekJ6ZjladGdBdm5UU0FXQlBGc1ktZ0t5eEV4cWRLQU9vRXJkY3UybmR1ZVBBZV9fSW9XR2wyMm9xRFlOMmZ6dTJpdzR2eUQ4RTZuOUVOcTNhSXBTdw?oc=5",
+   "published": "Thu, 17 Sep 2026 01:46:42 GMT",
+   "score_parts": {
+    "recency": 0.555,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.516
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "町田啓太さんと宮崎優さんの豪華タッグ！初めての中古車購入に“安心”を届ける「カープレミア」新TVCM「はじめての中古車『納車の前夜』篇」を公開町田さんの温かな笑顔と真剣な表情のギャップにご注目！ - Mantan Web",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZUnUycW1TcGFRQzhMZzg3emZ2YXhMeW9xc2ZSM0g5UUNkd1V3d2E1OEJJa2Z2YmY2YlVMWV9vSnB4OEF0Z0trZzdtR2xaeTgzaVdzQjVDYXRmVGNZeGJoSXJ0SFpFdnl4bmZpODB1cno3eHpDd2c?oc=5",
+   "published": "Thu, 17 Sep 2026 01:30:20 GMT",
+   "score_parts": {
+    "recency": 0.549,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.515
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "レクサス「IS」に特別仕様車。精悍さ引き立てる、新開発のBBS製アルミホイールに注目 - goo-net.com",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX1BaOGhQd2FHeHlPbnExc2tDUk15dmlkelEtLUxQVF9EZTJ2QUdYYTI4WjJQZHFYYTFZM3dDb2k3elB3QUhKNEJONjY4U184ck5lWjd2RE9UbV9RLTdnaXNnaVptaEFSbGFpRXVOR01sTFg3ZXplandnRnl3djZGRjlIMA?oc=5",
+   "published": "Thu, 17 Sep 2026 07:58:24 GMT",
+   "score_parts": {
+    "recency": 0.684,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.505
+  }
+ ]
+}
