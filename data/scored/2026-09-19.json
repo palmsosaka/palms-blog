@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-19",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 151,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "アメ車の群れにぽつりと佇むフォルクスワーゲン。海を渡ったラビットピックアップが語る北米の風 - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZEFpWTVVaVhaT1hkQ2xHYTNONUVnbHBCX3NqQVhUeHZRRGh1UW9NYUNNZnduVmQ3QklROGRoMUhjeVk1N1RwRmZ2WHAwQVZqUDluOXZFcnJGZ2hYMHNXdmNESTR3d0N5NmRtcFJzb3huSEpoamNaWGpTbkwtc0Q4bWJ6aE5yS25O?oc=5",
+   "published": "Fri, 18 Sep 2026 22:00:38 GMT",
+   "score_parts": {
+    "recency": 0.982,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.695
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "旧車のレストアを手伝って！ - TVer",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iYlNZcEZwOWFudk1yYVpraFZXTUdTZnVGRjNZRjlqTVIxcHB0YWVoNVFUS0s5eXBRTXpyNG5QbFhXckUybGl2cVNQMA?oc=5",
+   "published": "Fri, 18 Sep 2026 12:31:58 GMT",
+   "score_parts": {
+    "recency": 0.784,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.685
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "■旧車ミーティング収益から今帰仁村に１万５千円 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CbzMxOEcxTGpmUGFhR3VhVUlrU0J6MnlTYkRwcnVkb0dxYk5kUEtmSE5mQTY2VUMzeWJzUDAzdTdDTE5Ka3BtbmtCNTk3Z1BqWGVld2V5VGNtZURmenc?oc=5",
+   "published": "Fri, 18 Sep 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.94,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.682
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "日産 セレナ ハイウェイスターＳ－ＨＶアドバンスドセーフティパック 後期型 両側電動ドア ナビ（埼玉県）の中古車 - goo-net.com",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PN2VCc294OXZBRnQ5cjFEY2tncnBLVS1CTEwxekRqczhLaDBVdUZOMXFUa0tKSWkzNzV5SHJBZzlVc3lxOUlwRUZveU5FRElMRGJHckNncGhwajhRWU9ZQkdXaGRtZDZMN2FxbmM2WkNlbUhZRHdCYzFQS18?oc=5",
+   "published": "Fri, 18 Sep 2026 17:49:54 GMT",
+   "score_parts": {
+    "recency": 0.895,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.618
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "8カ月待ったRSワタナベ製復刻ホイール！ L28改3.1Lと6速MTで走るケンメリ（Auto Messe Web） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUW1UaWdTY29QUDhBUlU2TXotQXhoQzB5V2pjd0toOGNoT2tOTkdpMnd2NFhaM2lndERlY18xVDhPWlZvSHkzZnZXX1ZHVzdKMVFrRmJHVlJkeFdNeXVrS050V2NqYlEwaWJhaF9GTm9mSWNlVVFOZzNHSEVJdU84dFdsa2RTMy1K?oc=5",
+   "published": "Fri, 18 Sep 2026 22:30:44 GMT",
+   "score_parts": {
+    "recency": 0.992,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.598
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "人気の「絶版旧車」のプライスタグに驚愕!! 実際に走ると感じる「遅い・止まらない」はホント？ 「旧車はこんなモン」で片づけるのは間違いかも - バイクのニュース",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9YQkRQSlZCVlE4d1d6WU8xOUZBaUZxQnVzdjMzcjdyTmdDSUpYaGh6c05rRmdOYy1MREdNVC15TUV4YnBxVXNudQ?oc=5",
+   "published": "Fri, 18 Sep 2026 06:01:47 GMT",
+   "score_parts": {
+    "recency": 0.649,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.595
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "人気の「絶版旧車」のプライスタグに驚愕!! 実際に走ると感じる「遅い・止まらない」はホント？ 「旧車はこんなモン」で片づけるのは間違いかも - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBMXdselFlenRUQ2cyNUNnRjdYSW94RjVXUzg3SVcyaV9fQk12MGRvRFZKdFZ0STBCZlNuUDdKQW84NVc0RFJCaF9tdXM2b0hydWhaeVRlUFYwOXVVUk5mYTZpdmQxTGZBOWh4Wi1wa1VfZy1PN3NzaVNURGdqRVk?oc=5",
+   "published": "Fri, 18 Sep 2026 02:45:00 GMT",
+   "score_parts": {
+    "recency": 0.581,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.574
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "人気の「絶版旧車」のプライスタグに驚愕!! 実際に走ると感じる「遅い・止まらない」はホント？ 「旧車はこんなモン」で片づけるのは間違いかも - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSndIZXhfNnZOS1JNOVA3bEp2cGx3ZDVqUjlfOWYxMW03bUNLdFZVSGdobG5iR01RNHB0ZEZmRWNwN2ZHX3l0MU9wRXFsQ01xdGZWcDRmZmxSMkQwRnUxWTJSdG5UUVpWYkVqdFZKVDc4S3AyTVgyUlVsV3ZpNWlpREQ0dEdHNXl2cUM0bDFn?oc=5",
+   "published": "Fri, 18 Sep 2026 02:45:00 GMT",
+   "score_parts": {
+    "recency": 0.581,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.574
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "中古車相場は軟化、バン・トラックのみ上昇目立つ - LOGISTICS TODAY",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5SdFR5SVVQallmRkE3QXpNZ0ZDSExzY1dGbWlFWE9aVzl0OWRxX1UwWDMxdDltN25PMjlrLTRDVjVWQ1ZWbUh5d2pR?oc=5",
+   "published": "Fri, 18 Sep 2026 09:55:16 GMT",
+   "score_parts": {
+    "recency": 0.73,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.569
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "盗難車に別の中古車の車台番号を取り付けてウソの新規登録をした疑いで逮捕 男女4人を不起訴処分 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUDZ1d01VWTM2LU1NOVk5OGpvNWtESDAyNTdJRzJkQXdObGZfbVhkS3lGcHRvcUpySTg1VEhqUkphNWdUSXRrbERuelpLcEhVUmM5M3Uzc0NaWEgtemFQeVZ3VU9YeEUzc2UtZXZtX1pyZEdtcDZPaWpUZ3RYUVRFZkJCTFRHNjNZckHSAY8BQVVfeXFMTkxKNW82N1J2Z0VVNjF1QzdKbmtUNThWcjRuMHVLclZCR3NmcU5MUnB0UlhBQXdQd3dUaDAyM3lJY0xFRWtCODV6RHM5RDl3Zm9heHI2SUJVcDczOF9EamNGWjQ1ekFmVVJaWVJGMl9OeVdiR0Izdl81cWZzSl9yalA2OG4zazNlYTBuS3l3UGM?oc=5",
+   "published": "Fri, 18 Sep 2026 08:02:00 GMT",
+   "score_parts": {
+    "recency": 0.691,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.557
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "「秋の交通安全運動」前に警察と地元高校生らが交通安全呼びかけ 「事故を未然に防いでほしい」大阪メトロ・新金岡駅に書道部が手がけた作品掲示 | MBSニュース | 関西の最新ニュースを分かりやすく。 (1ページ) - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rVGJCNVE0QlRFOGdmODcwOEotTkRzZlloQU84bzVwRWVtel90WGhqRHotRmJNclV3OC1IYk55V2Z0elBBdm1DSjhYYVI1RXUzVTRacG9wMXdpTUV2M0Z3eGthOUFnN3M?oc=5",
+   "published": "Fri, 18 Sep 2026 10:51:42 GMT",
+   "score_parts": {
+    "recency": 0.75,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.555
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "「秋の交通安全運動」前に警察と地元高校生らが交通安全呼びかけ 「事故を未然に防いでほしい」大阪メトロ・新金岡駅に書道部が手がけた作品掲示 ｜Infoseekニュース - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwUzFrX1B4dGdIUzZxdmxESmVfbUJrQVFTbVNNdmppTkNjRUlEN3dVSHAzM3J1S3RZWUl4XzRNMnFRaGlIRWE1THYzTEtGZm5WUldsQmdZR1ZNcXgt?oc=5",
+   "published": "Fri, 18 Sep 2026 10:51:42 GMT",
+   "score_parts": {
+    "recency": 0.75,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.555
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "予算500万円で輸入SUV「ポルシェカイエン」「BMW X6」を狙う【お得に輸入中古車選ぶなら：14】 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vNXZORzZqTFB2YUotQUpLeXZJbXFRX1lMa2EySlVQeVJuazdXdkNmTXhOOHQxWWtpeDR1WFc1SVE1YzhGNWVzSGszMjdPdw?oc=5",
+   "published": "Fri, 18 Sep 2026 07:45:00 GMT",
+   "score_parts": {
+    "recency": 0.685,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.555
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "海上自衛隊 練習艦「しまかぜ」一般公開 in 堺泉北港 第5号岸壁｜2026年10月4日(日) - 陸自調査団",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ1NSS2tEYjhuUU5QMDEyd1RoSnFpeExsLUVCOTRFd1phWFd0ZXZoVHhHcHlOSTV6cDI0WkYyendNaFdpa0pmdERJT0FKWnNXZGxKUWs1NWc0V19iNFM1Vmw0b3IxY1M5dkItbjE4SlhlVWNpWEJXeXA2RjRaZjBlOE1mUlFvdWY2UUE?oc=5",
+   "published": "Fri, 18 Sep 2026 18:29:19 GMT",
+   "score_parts": {
+    "recency": 0.908,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.553
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "「災害は待ってくれない。」被災地に車を届ける備えを、今から。 - クラウドファンディング - READYFOR",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xUXZydFNJcXl1QkRGMlRSeVhvNC1TZUhCWF90VEcyRUpiNzRhbEVOVURlMnZKRmVzTlFEbWYzVU9Bdm83NnJHaEJMNFlnQnBPMEQ4Ng?oc=5",
+   "published": "Fri, 18 Sep 2026 13:48:33 GMT",
+   "score_parts": {
+    "recency": 0.811,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.543
+  }
+ ]
+}
