@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-21",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 127,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "夏の暑さ・冬の寒さでアイドリングストップしない？エアコン使用時に車内で起きていること｜古田昌也 - mbp-japan.com",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xS3hLUnFrbHhjWmRJcFlFaXZRRzZQd2QtMHVoWUMxSHMtYzIxMEgzWVRWLW4zMjdJaWRiRlVuT0JWUjU5MERDWkFmMlgzOFQ4ZGtIT3FlMWJrSU9ybFE?oc=5",
+   "published": "Sun, 20 Sep 2026 21:01:09 GMT",
+   "score_parts": {
+    "recency": 0.964,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.589
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "車購入後の後悔「維持費」が最多の13% 車種別ではSUV多く - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2WE5SNjRLblhscXllblhSYWlKdEhSVC1ubUFhbXQ3UW1PemxQQTFqU3JxQS1WWV9OR1I2NTltTE5XcHg0c3VXTE1NejI2V0NvOWRISlBuRUJabHZiVkVRbUFpbXFlaG1QRUdmSA?oc=5",
+   "published": "Sun, 20 Sep 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.943,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.583
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "古い中古車の「底値」は上昇？ MOTA調査など - レスポンス（Response.jp）",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83bFF2bzhZM1pwRXVIWjdZQWd6WHZXYXREVlRjTzRiaTU0SEVZZVh3SnhLMmppazVBbnFUeXJvOUdoZld3U1lVVDgxU213c3gyZDdoZ2s3NlR1VDhscm5J?oc=5",
+   "published": "Sun, 20 Sep 2026 11:00:03 GMT",
+   "score_parts": {
+    "recency": 0.755,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.577
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ホンダが活用を進める金属3Dプリンターはホンダ絶版旧車乗りの救世主になるか？ 課題はサイズとコストと品質 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLXJjYXpBZnEwNTR0aDY2MVFHd3J5U2FEbHNSWWxQNnpVZDJpaXA5SEc3eExaZF85Q1Z2UGx5cVdoR3ZncHVWYk9IZzdxampmUlJvbGNuTmt3LWtxcUowWEFJemluTnNpa0MtQTRJNmlhd05NVjN6M0lOWkRpMVNBTGZGVldZeFFyejFkdWhod1QwQnlOYnBRX3UyZE9BeFFkZ0dNMG5n?oc=5",
+   "published": "Sun, 20 Sep 2026 00:10:36 GMT",
+   "score_parts": {
+    "recency": 0.53,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.559
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "89年前の希少車「走れますよ」 長野の商業施設に“昭和の旧車”大集合「若い人に古い車を好きになってほしい」 - ENCOUNT",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DNzBsMGhMZVFuRGJQdnhSRjltN3F1ZkFfUndOQVpXLVY1VnVRUi1UWEtSZm4yOXhjWFNjOHNmQ2M1ZW1CTjFEZWZnck1vZGhRZHRZ?oc=5",
+   "published": "Sat, 19 Sep 2026 23:57:09 GMT",
+   "score_parts": {
+    "recency": 0.525,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.557
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "89年前の希少車「走れますよ」　長野の商業施設に“昭和の旧車”大集合「若い人に古い車を好きになってほしい」 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOT0xfZzN1d2cxUl9NbXhjWjJOVzQ1d1haZ000c3hRSFIycDFqUG5Vd3ZNWENCS2hXRDdLZmJvcER2RXV1OHVMbkFrdGFWMjlLRjc3RHA2QjU5ZXpHRmZFb2hReTFWNXVuLXNtektmeHBNX1BTbFJyTVVqWHVxbXdJd0czZ041Vm8tMXF3cWtPa1RRWlo3TTNVeHAtc1FjNDZNNlg0bjRHSWZ0MUJ2WWZyMk9nTHdpZnY0VkxwWC1wTzYwZkF3OWxkU19tSHZ5ZWRjR2FCM3FPR2jSAYgBQVVfeXFMT1J2TVlMalR3Y185aEJBLTJ6UVlNYzEyY2VDTjFId3N1d1NmMnNsQkppRlg4UGJpUzVMX3FiUW1VQjVlX2kyaWRydEVpQzlRSW1sOVJkRmZtVzhBOHF2TzhjbmdlaG1iZHlRN1R1TGJ4dE5lbTNveTBONzZCSXR4eGxGbDFlRFpyXw?oc=5",
+   "published": "Sat, 19 Sep 2026 23:53:55 GMT",
+   "score_parts": {
+    "recency": 0.524,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.557
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "89年前の希少車「走れますよ」 長野の商業施設に“昭和の旧車”大集合「若い人に古い車を好きになってほしい」 - 千葉テレビ放送",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01NE8tM3czem9Vc2lTU1E0SXpPbkdjSGFBb05nTEhIbGNERG9EUlZLbEhkREptN1kyWEpralBtZkx0Z2JERFhBU1NZOWphSDlHWWJTWDA2cjNpV0FISjNJ?oc=5",
+   "published": "Sat, 19 Sep 2026 23:52:24 GMT",
+   "score_parts": {
+    "recency": 0.523,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.557
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "89年前の希少車「走れますよ」 長野の商業施設に“昭和の旧車”大集合「若い人に古い車を好きになってほしい」（ENCOUNT） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbnFnNUt5QnR1eDlVRU5WSjFLME96SHhjOEpKYjhaV1lxMlp4dzBJc0NwM2g1RC01Nm1pejRiOUlfT2Faa3BKSXVmY1otOTM1RWJuQzVpd0xKaHFGUlFZSW5TZjREdHNTcTlURVkwU2JlZHllMjZuREVHQll4ZkF0YTNhazR6UzM4?oc=5",
+   "published": "Sat, 19 Sep 2026 23:40:00 GMT",
+   "score_parts": {
+    "recency": 0.519,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.556
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "89年前の希少車「走れますよ」 長野の商業施設に“昭和の旧車”大集合「若い人に古い車を好きになってほしい」 (ENCOUNT) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeVhHbjg4VmJsQkZiLTNBenl1UzJXS0d1V0VuZUE5ZkNKdTRTUHN6eXg4R2pqc2dUX0s1ZjFTWnVwWjJ3dmRKOGZNSllzZnZmNmtja0FCUGtrXzlTZWNYNmdzYWpqNU5ma20xaWtRYXdDdlQ5a1p2Ri1qZVhrQjBSaFJBR0dpdFo0ZzkyY053?oc=5",
+   "published": "Sat, 19 Sep 2026 23:40:00 GMT",
+   "score_parts": {
+    "recency": 0.519,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.556
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "遠のくアメリカンドリーム－中古車も高嶺の花に、平均価格470万円超 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40SWlDdWc1di1RLUVhTW0yb1hQcGFkU2wzUFI0VTN3QS1kT2l2YUx1ejBDYlBSX3VheTZxc2Y3LW5FWXFzekh1b2dHMVNVbzNiUmhWM0czeG1fSFZDUkdkQk5oS3I2YlU?oc=5",
+   "published": "Sun, 20 Sep 2026 07:30:00 GMT",
+   "score_parts": {
+    "recency": 0.682,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.555
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "画像1 / 16＞ホンダの旧車＆名車約60台が元気に走行！ホンダコレクションホール20周年走行会開催レポート - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTV2dmMnlrbVZQRTdMU19TeVllZG9JcTNZeUJqUE5LWjlzQmY4RTMtNFhDa190MVV1a0Q0NDFxZ19oNjFjd3d2WUZYOG5ldV9rY3lNanhwbGdMZjZydktwa3d2bEVJSE13Z2c?oc=5",
+   "published": "Sun, 20 Sep 2026 15:00:38 GMT",
+   "score_parts": {
+    "recency": 0.839,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.552
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "画像24 / 37＞【写真特集/国産車編】ホンダの第1号車や歴代CB、YDS-1、マッハ、コレダ…バイクの名車が集まる「岩下コレクション」全37枚 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pdG1qLTNaRXgwWERLZGY4dG1UU3BUbTRrS250U3dWb2JFaTZWeGxlalcyNFhWTk9aTWkySWhzV1JBTzNTQmJoNkFkZVJ4dEJFVThqczZKNFpPRW92Q2dwcWtidERCTHlwV3pKaVNhWnYzUHRsdkRQNlN3Zw?oc=5",
+   "published": "Sun, 20 Sep 2026 15:09:14 GMT",
+   "score_parts": {
+    "recency": 0.842,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.552
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "水漏れの原因はラジエター？車検で発見した3つの整備ポイント - goo-net.com",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5rSHlucERfLVNWV3FnTXJmWDRNWkxLeEFPUnZnMzlHT1dITnNxMjQ3dzVWRVNlc2pGMXNianpOZWNuT2ViQkk0RjN3WjB5eUh1RkZTeGpkbHUwNzg5TmExTUl2Yw?oc=5",
+   "published": "Sun, 20 Sep 2026 06:25:29 GMT",
+   "score_parts": {
+    "recency": 0.66,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.548
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "新車160万円のニッサン「超\"本気仕様\"スポーツカー」が凄かった！ 丸形ボディに「専用チューンの1.2リッター快速エンジン」×5速MT搭載！ お手頃だけど\"ガチ仕様\"の「マーチ12SR」とは - くるまのニュース",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81Mm5BbWF1UGlOanNsYWtGNVNGMUZtUG1PUGtoSVNKM3RkRE1jN3ZvN3NFVDY4a2VTeWk5VzRZOEgxcldWRXMyODVFSQ?oc=5",
+   "published": "Sun, 20 Sep 2026 11:10:00 GMT",
+   "score_parts": {
+    "recency": 0.759,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.528
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "「潜在整備士」の復職支援 自動車関連16社が新団体立ち上げ 国交省と日整連もオブザーバー参加 - netdenjd.com",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WS0dmWG52SEt5YzVYdXoteDNZU1NKbUdXUU10bmZuQWJjd3BzQ2NLLUhIZ04yRGw5M2hyR0NIRkNzbHpubU12bExxN3BCQ0o2SWc?oc=5",
+   "published": "Sun, 20 Sep 2026 09:54:05 GMT",
+   "score_parts": {
+    "recency": 0.732,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.52
+  }
+ ]
+}
