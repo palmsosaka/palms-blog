@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-22",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 134,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「“毎日乗れる旧車”を作りました！」350馬力のDR30スカイラインと歩むリアルなカーライフ - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zWlI0RU5FR3U3ODdWMi1OalhZeDJfVW5XX3Y4Y043SkZYbkQydFFZTGZLMDJtTXdOc1FDSGktMk5MamNFM09HXy1NOU1wQQ?oc=5",
+   "published": "Mon, 21 Sep 2026 22:30:00 GMT",
+   "score_parts": {
+    "recency": 0.975,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.693
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉を吞み込んだアンダーパス、レッカー業者が明かした「セダンタイプの車が真っ先に水没した」理由 - 現代ビジネス",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1ZlRhaGFJMUV1aElKYlY2WVN2UEZTYW1RaWphMGJIaGxTVjhOSnhURnlDdFV3QVFOOE9RdFp2X01mbmlGcl9GWnpWSi0wRTJsbVVnNklFc2w?oc=5",
+   "published": "Mon, 21 Sep 2026 21:57:47 GMT",
+   "score_parts": {
+    "recency": 0.964,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.689
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "50年以上前のアメ車が激変！ スピーカー＆サブウーファーで蘇ったオールズモビル・カトラス［car audio newcomer］by 東京車楽 後編（レスポンス） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56OUM3MDNTZkJGVDNzbDV0ek83Tml3d3Jaem9udnJIOHA4aTNWMWQ0ZTk2T2ZaR1RGSWlJc2hGQnc1RTBSSXFVTUUwYTlNMlVibVJsbTRheTVWbWJ3QlpkRVFsNnc3QU5GdlVRV0hpNlpjNENUQUJ0dnF2NU1XMEU?oc=5",
+   "published": "Mon, 21 Sep 2026 21:32:19 GMT",
+   "score_parts": {
+    "recency": 0.955,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.687
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "千葉を吞み込んだアンダーパス、レッカー業者が明かした「セダンタイプの車が真っ先に水没した」理由 - 現代ビジネス",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GMVZmcnpXY2FULU1UUk9zZDVQbGktNmpnRlppc1FnR3JNb0FqV3pyaEU3NnR3Q2hQNUh5bUtVT09vd3JuSGk4MGVQMXZRcEU?oc=5",
+   "published": "Mon, 21 Sep 2026 21:03:42 GMT",
+   "score_parts": {
+    "recency": 0.945,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.684
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "自動運転より「オイルの匂い」？ Z世代が“修理地獄”でも80〜90年代の旧車に求める「アナログな快感」 (WEB CARTOP) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaUl1UGg4SVNiOWtNTXpEVVI5WGg3NEg5MHVtUHFRbzM1dkNYb1Q2aHpka2dtcy1STzE3dEIwbHV6NWIyU3F3eDV4V1c2UzBZenhLdEhiNlNpaklQWEc3MTQtUFFiNFJqZnBNQUpyQmxuMlVxUzdWVEk4cHY3eHVuVndOQXlnbjlQNmFXNUxR?oc=5",
+   "published": "Mon, 21 Sep 2026 10:43:41 GMT",
+   "score_parts": {
+    "recency": 0.73,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.669
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "自動運転より「オイルの匂い」？　Ｚ世代が“修理地獄”でも80〜90年代の旧車に求める「アナログな快感」 - WEB CARTOP",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UV1NBM1N5OVFMX2Z4NmpYeFl1NXVNc1dINEUwTTBqRDJXZXR3T1pPeDN5aWllWTNuZV9JSnRrVkpyaTQ3T0JPT1JMU3ZiaU5Veks0RmFn0gFbQVVfeXFMUHN6ZWFLWGVkT1hZaktkOVF6NE81aHJaVUhZOVQ5Xzc3ZFZ1TTJFVkg3aUNEUURMSW9GS2Jtc1JKa3dJOHJIWUN1VFYyeFN6Zl9OZ1Rob01jS1pYZw?oc=5",
+   "published": "Mon, 21 Sep 2026 08:20:02 GMT",
+   "score_parts": {
+    "recency": 0.68,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.654
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "自動運転より「オイルの匂い」？ Ｚ世代が“修理地獄”でも80〜90年代の旧車に求める「アナログな快感」（WEB CARTOP） - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMHVRYnhzdnh6WmhKamx6bzUzMDVlUTRUdHd3WWVJRGMwVm1kNnVYNU5TQnF0R0FTZzBSSllkckdBa2JMczNydERCMHpKUFRhRlNiV0tLYWxfQlJjR0xpS1JiYW1KY1VpWDdORmJHSUVvbklnNXo2Nl9tWEhlLURzbl9KNUVGWUdWUlBkTU1RNTZuNFlKdkIzYWtMU2wtRHpZM2RuM1RtSTN3TlQ0U2tidFI4bTlOU082WHR2TGY0Nll6VkxOcHpqR3pKTVJURkVZUk9n?oc=5",
+   "published": "Mon, 21 Sep 2026 08:20:00 GMT",
+   "score_parts": {
+    "recency": 0.68,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.654
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "自動運転より「オイルの匂い」？　Ｚ世代が“修理地獄”でも80〜90年代の旧車に求める「アナログな快感」 - WEB CARTOP",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NN1dVVHdtU1gyT1Mwc0tVMEtjRXR2elF4NVVnNC1KX1pFWFVUNzhsdWNyZFZnek5hOElpaU1KWmstQkdCWXczdFh6alVxQUtvQzg0TVFCQ1LSAVhBVV95cUxPTTdXVVR3bVNYMk9TMHNLVTBLY0V0dnpReDVVZzQtSl9aRVhVVDc4bHVjcmRWZ3pOYThJaWlNSlprLUJHQll3M3RYempVcUFLb0M4NE1RQkNS?oc=5",
+   "published": "Mon, 21 Sep 2026 08:20:02 GMT",
+   "score_parts": {
+    "recency": 0.68,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.654
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "自動運転より「オイルの匂い」？ Ｚ世代が“修理地獄”でも80～90年代の旧車に求める「アナログな快感」 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JdllrMFlHMGNqbXNGcGVONnM5QTdSTFg2SDFlOW1oa2lYeG5PUFJJSTlUT2g5bEhoaXZSWWhCajdIYmx0Z3NobWhoemxzQjNycFhDWWVENGV2bXFqN2ZJ?oc=5",
+   "published": "Mon, 21 Sep 2026 08:20:02 GMT",
+   "score_parts": {
+    "recency": 0.68,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.654
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "【上越 中古車】「コペン」10万円値下げで89万円 車の無料出品も受付中［9月22日更新］ - 上越タウンジャーナル",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dWdGMUYwXzVrUWlHMEN6ZlRSaUxRSnFSX3ZLdG1qMUpFQnNvNUstVjFRazRoVVRlbm42a2U3eVNFcWZDcFJNMU10ZGo5ODhaZGRTcg?oc=5",
+   "published": "Mon, 21 Sep 2026 23:00:34 GMT",
+   "score_parts": {
+    "recency": 0.986,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.646
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "新型CB400SFも参戦！旧車&改造車だらけのレース「鉄馬」のマシンレポート※完全アドリブ&飛び込み - YouTube",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sRWVZZERRUTZ0cV9uUmV5ME9EZnNJdzdfUmhKZHY4NlpUaGZ2aEhETm1oRjFjTXBVZ0JyX1g3ZlB0bHN6aFVlNVgzX0M2WGczR2tVckVJVGRkVnAx?oc=5",
+   "published": "Mon, 21 Sep 2026 09:38:59 GMT",
+   "score_parts": {
+    "recency": 0.707,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.612
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "【埼玉・坂戸】車の豆知識！給油口はどっち？＆中古車の高価買取・無料査定なら当店へ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51S2o2RmFqVXBTc3hTV29mR2hkRHZ4YlZsSlN2QjhlR1dGdF9xcXU4eFNjVFg1R0dOYnhJZk4tX1FrdTdpR0M5bEVJS2FxZkFrQTM0Z0FuTU0xWjQxYmVqaFFobzZ6STlBSl9oOTQ3UjFITHVsWDRncmFlbHA?oc=5",
+   "published": "Mon, 21 Sep 2026 17:31:23 GMT",
+   "score_parts": {
+    "recency": 0.871,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.611
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "車検専門店「遠出するなら修理を」忠告を無視して旅行へ出発した結果→40代夫婦を襲った悲劇 - TRILL",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03cHlvNnJrWHo5UEU2a1NUZGZQczk1Vng0b21ja25ZSXRodHphTVAxNVJsbTBrZGR0RWxNN0tiY2xWNWstSzMya3NseEFkMlk?oc=5",
+   "published": "Mon, 21 Sep 2026 08:35:00 GMT",
+   "score_parts": {
+    "recency": 0.685,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.606
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "富士F1から50年、伝説の6輪車や国産F1が集結 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwQ0htUFVoRDluYXJCeXFwSVJFc25reHBNU0UyVG5fb080M1pSMlVqbDVTaGJIRmVHRkgyUzN1ZHRXNzRUbGJOdTlMVmpZZnhndzluMjd0aFNfNzdFa3lQVF9tSkFhcTBnNklIc2xR?oc=5",
+   "published": "Mon, 21 Sep 2026 23:07:36 GMT",
+   "score_parts": {
+    "recency": 0.988,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.596
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "「入庫」の必要なし……はいいけど愛車はキチンと直る？ 話題の「出張型板金」を試してみた（WEB CARTOP） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNm1HZkRod01FMGI4bDF6TVFFWWpZWWNHQVVoSjBhSk5fRVY2WEhPaTVjM2k2U0k3V2J5UFFVb1pTd21sTkFiR2NFR3FDTXlEWldySVc1VW9uU1haYVJfWmpLOTdJMGJKZXNSN2JkTUZmdWhVcmNZcHhaYlZDWEJlNVI4RnpqNjd6?oc=5",
+   "published": "Mon, 21 Sep 2026 06:10:26 GMT",
+   "score_parts": {
+    "recency": 0.635,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.59
+  }
+ ]
+}
