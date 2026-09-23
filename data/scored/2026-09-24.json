@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-24",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 159,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "セレブと西海岸カーライフ！ Vol.48【コーディー・シンプソン】は、新旧どちらも乗るけど今は旧車に夢中！ | Cars - safarilounge.jp",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpVU44cFluVXlsN2VVX1ltaWpYQzRVVldHNWNMUlhoUzlibWd2bER2VElUdXVvOXFkR19RbmNBLXo0am5uV092dk1xWklHVnNxQ0NrVkwybUF2bHJkQm9UdHBqTk5NOXk3amt2ZkJMMA?oc=5",
+   "published": "Wed, 23 Sep 2026 23:01:34 GMT",
+   "score_parts": {
+    "recency": 0.995,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.699
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "堺ドライビングスクールで交通安全体験 9月26日、車の乗車体験は午前9時から｜サカイタイムズ - サカイタイムズ",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FSGYtWnRQYWFGVEFyZXltOHNjNHVKMHpoV2xtZjdsUXU2ZzJwWDZDUXFHeUlOOXBYTTdueVh1U1BNbTBoRjZkMXhfTQ?oc=5",
+   "published": "Wed, 23 Sep 2026 20:30:00 GMT",
+   "score_parts": {
+    "recency": 0.943,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.683
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "自転車事故「頭部を損傷する人が非常に多い」 交通安全の啓発イベントでヘルメット装着を呼びかけ 大阪府警 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SNURQLUZTbUNCUjh1Q0V1aDl5Z0pESHJ4VGZfbnBPRXNsTDRiakdXRi1kVGRDRUxud1RMNjhjYkxLYXFlcU9HVGpEaEdzanJsVktCU0N5R3IwYXpfNVNzQ2FkTEpVZGs?oc=5",
+   "published": "Wed, 23 Sep 2026 08:28:20 GMT",
+   "score_parts": {
+    "recency": 0.692,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.658
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "名車・旧車１３０台がずらり 新見でクラシックカーミーティング - 山陽新聞",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92amtzbDdoNnFMbjBTdFQyOVlIbldSLVA4Q2pobDJBRGVyU3lVY0s1MUJPUEhfRExQSjlBTTlST1FITlJ5aW1jbG1LQWxVWWJoUUhZWktPNTc0Zw?oc=5",
+   "published": "Wed, 23 Sep 2026 07:10:17 GMT",
+   "score_parts": {
+    "recency": 0.665,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.599
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "畑の中で放置されていた車体をレスキュー！ 30年以上愛されるトヨタ「TE27レビン」（Auto Messe Web） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QVk5jeG5kQm5ZZ3gzSDFmOWwwT2J2dmxFdHdoU1JhZGstT3ZZUDZGTVNWUENRaXVIdkJQUTFMeHFyd0lZdHZWWXpBdDZhSGVkZDBfYWRBQ1dyTktPUlV0MnFhbTNQUEQ1NmtRSWdMQjBCc2NNNXVnMzRrbExwTnM?oc=5",
+   "published": "Wed, 23 Sep 2026 21:43:15 GMT",
+   "score_parts": {
+    "recency": 0.968,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.59
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "年間の自動車の維持費が「増えた」実感58.3％、次回更新時の保険料上昇に88.4％「不安を感じる」　ソニー損保調査 - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93enoxNmhxUkRXOHJvYXB1LUlyUEEyS3NQTVZHX3ppV0lVaFJMOHpZcklQeGlGT0xIRDlDSU1sR2VVUFZfTkpsLXdNZzNBX3VoaWoyWkFxTWdTWF9CdXlHc19PeFNLTFdSWE5KZnpwR24xZ0ducGxubklDX0fSAXxBVV95cUxPd3p6MTZocVJEVzhyb2FwdS1JclBBMktzUE1WR196aVdJVWhSTDh6WXJJUHhpRk9MSEQ5Q0lNbEdlVVBWX05KbC13TWczQV91aGlqMlpBcU1nU1hfQnV5R3NfT3hTS0xXUlhOSmZ6cEduMWdHbnBsbm5JQ19H?oc=5",
+   "published": "Wed, 23 Sep 2026 11:15:00 GMT",
+   "score_parts": {
+    "recency": 0.75,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.575
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "年間の自動車の維持費が「増えた」実感58.3％、次回更新時の保険料上昇に88.4％「不安を感じる」 ソニー損保調査 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YSE1fanRhNEktYkZCVjdIWkxfVjZ4N01OeDhHVVZNb1R1MFBzZElINlRqYkxrUnhFYS0yWXlnVjRmUmR6b2pWbHlINl9FQi1tOTBTaHhPTFlPenJNbERv?oc=5",
+   "published": "Wed, 23 Sep 2026 11:15:00 GMT",
+   "score_parts": {
+    "recency": 0.75,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.575
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "交通事故が起きた30代のA氏は、事故当時、サイドミラーだけを交換するほど事故範囲や負傷程度がひどくなかった。 それでもA氏は通院治療を88回受け、治療費だけで約603万ウォンを使った。自動車事故で.. - 매일경제",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sQmZ4eVQ2dzk1eUhKZzhndXk3ci1fYzJMOUxVZVFOWGdHS2JRNGl0aWhUMUk1R0lEUmtnamVVdklJMlRxWFJpWXlrQnJTWGxkakE?oc=5",
+   "published": "Wed, 23 Sep 2026 02:22:24 GMT",
+   "score_parts": {
+    "recency": 0.565,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.569
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "公取委、日産東京販売に下請法違反で勧告 板金事業者が11カ月で2808台の事故車などを無償運搬 - netdenjd.com",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93azBtdEpReXhaTHJMLXMwYUd6LUY3aVZhT0VRc01SZFNncHJ6czBiRm44SjRXWHpBOU9SZUhJbjdJQWlKa0pnSFJrTkc5UldsX3c?oc=5",
+   "published": "Tue, 22 Sep 2026 10:06:08 GMT",
+   "score_parts": {
+    "recency": 0.226,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.568
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "（大阪）堺市堺区浅香山町３丁付近で下半身露出　９月２２日 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNXFtLW9xOGZCYV9OTjBMQVdHN2Q5NnZUbFc4Y29SSVctYnhsZzlvblZreFhVYzZ1ell6dzdkQ21YOUlCWWhTcjFUQkxkN01lejJ6RDBKNzZEczRsSzhEb3hnOFlabFJieVJ1aWljOC03QmdOTmZXQU1QWnhRb2xvdGdIZE94QmNySWxYMFRUc2txcWZHMm1MczZ1eDB3THJaTEHSAaIBQVVfeXFMTzVxbS1vcThmQmFfTk4wTEFXRzdkOTZ2VGxXOGNvUklXLWJ4bGc5b25Wa3hYVWM2dXpZenc3ZENtWDlJQlloU3IxVEJMZDdNZXoyekQwSjc2RHM0bEs4RG94ZzhZWmxSYnlSdWlpYzgtN0JnTk5mV0FNUFp4UW9sb3RnSGRPeEJjcklsWDBUVHNrcXFmRzJtTHM2dXgwd0xyWkxB?oc=5",
+   "published": "Wed, 23 Sep 2026 13:13:00 GMT",
+   "score_parts": {
+    "recency": 0.791,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.567
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "DUOSテクノロジーズCEOのレッカー氏、DUOT株を約8万4,557ドル取得 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1aZE9pZi15NFpHLURPd0x3aFJVcTZwQ21xZElqOGNiUldCMVU2Q0k4THIyUDRQMHBua21BOW5xakU1NmdhOEdBR0NQZmNQWFRzaHVhODIyUVNRUUFmQXZUWGNYcl80OWowNjFpZGN1eGc5TFp1RjJ4VThXVQ?oc=5",
+   "published": "Wed, 23 Sep 2026 21:01:00 GMT",
+   "score_parts": {
+    "recency": 0.953,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.566
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ホンダが活用を進める金属3Dプリンターはホンダ絶版旧車乗りの救世主になるか？ 課題はサイズとコストと品質 - motor-fan.jp",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EdGVjX3lZMDB2Zmx2dk5LUjA5czc0NENRWVVKa3haam81cVdvckxBeDM5RGJDOUttNVpubGs3RlU2T3F5V19pNlZTMXJhRnZMVGJZc1ZkRUtfeDJqa3c5dUVn?oc=5",
+   "published": "Wed, 23 Sep 2026 01:07:20 GMT",
+   "score_parts": {
+    "recency": 0.539,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.562
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "国交省、車体整備に特化した初の統計調査 2026年夏に実施 事故車修理の指数や賃上げなど把握へ - netdenjd.com",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00ZlM0T2I0SXFxU193ZnBFc2RvdmkxdHJhakJyQm1NUE9UMnByR1J2a1BJaDYzelR6ZTdUNDhMMXR2MUcyWHB5enU2RnItSHlRbVE?oc=5",
+   "published": "Wed, 23 Sep 2026 09:00:09 GMT",
+   "score_parts": {
+    "recency": 0.703,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.561
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「“毎日乗れる旧車”を作りました！」350馬力のDR30スカイラインと歩むリアルなカーライフ【写真・4枚目】 - motor-fan.jp",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16NVgyd05mXzBoSURlUnhibmhnNHFNY3BXRjRxcHZoWDZfMVI0QzJyWEVFRXRkeHNpNVdrb1ZTN1NBT3Radi0tdzhPbFZxZkpIbldwbjJXNkd4ZkhfelpKdXNUVUpJVTVm?oc=5",
+   "published": "Wed, 23 Sep 2026 00:52:42 GMT",
+   "score_parts": {
+    "recency": 0.534,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.56
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「“毎日乗れる旧車”を作りました！」350馬力のDR30スカイラインと歩むリアルなカーライフ【写真・6枚目】 - motor-fan.jp",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LOFZMS0tVVm9FTXRUMEJBYjZSem5kbVJEOFRyaC00aFB3Q3JzR2RfR3ZuVWQtdEY2SjVaRWhqRnlJdkY5Q0VMeGFFVVAyS3J3bEF0bTgwZHVKY0o3Y2p5QUl3M0k2N1dI?oc=5",
+   "published": "Wed, 23 Sep 2026 00:37:58 GMT",
+   "score_parts": {
+    "recency": 0.529,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.559
+  }
+ ]
+}
