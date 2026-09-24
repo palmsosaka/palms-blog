@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-25",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 142,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【1000円～】全国の旧車乗りへ届け! 旧車コミュニティ「大人BIKE」が愛車を盗難と事故から守るクラウドファンディングプロジェクトを実施中 - ヤングマシン",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nN2F3cWpESVZTWjZxWmtpT25QTDJKUW43Q0VLSVQ3UXhCMHpmVGtsQU1BTHlxSUZ4cnV2X3poZjZuQkpZYk44UFZHRzJPV1RyLU4tVUh5Yw?oc=5",
+   "published": "Thu, 24 Sep 2026 22:00:00 GMT",
+   "score_parts": {
+    "recency": 0.967,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.79
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【コーディー・シンプソン】は、新旧どちらも乗るけど今は旧車に夢中！（Safari Online） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOMDZuVHFsRF94VWl3OGF6MWVMb0tuZTlCQmU0QXd6WU9EU3pyY0FHLVZnVmhoZGlZTEl1dEFNT2hUY3NBN0oxRkpMb2FLUEJiX0Q3WXVGSE41emd1NEVRRHZsWkFZWGN4TlZadndPbGN6M0wwQUhpZE1fQ3oyTjA?oc=5",
+   "published": "Thu, 24 Sep 2026 22:40:14 GMT",
+   "score_parts": {
+    "recency": 0.981,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.694
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "「型落ち感ゼロ」なのに安っ!! 100万円以下で狙える“年齢不詳”の中古車4選（ベストカーWeb） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRl9LNVMwNXZrUjV5VjBRbzExRTNvTXVUeHVQWGM5VWsyUjRtRE1HamNUSFdzem1CUmtSSDU1LVlmRktHZTNJZFR0ZVJlSndodEhMbTc0QjgxZVo1NzUtcnRmZ2lRUWJ5ejdoc3luTG1CdDMxMW9tNUduQm92dVJ1R0xNOVBKaHp0al8tdF9aNWVqMEVm?oc=5",
+   "published": "Thu, 24 Sep 2026 23:00:00 GMT",
+   "score_parts": {
+    "recency": 0.988,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.646
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "なぜ中古車を「見ずに買う人」が増えたのか？ 44%が実車確認なし！ 車選びの現場で何が起きているのか――「店舗巡り」離れが広がる理由とは - UQライフ",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOVZpTTNHRHlyWG1uQ0RjVnd0ZnY1bVdNb2FZRjBnbnFnU3JNd01wenJrN2FEWUhyZUlPU3JFQXBxMUgyRVlvemV5UWxRODdkTkNKOFBocGdSUFdPUU9yWW1Hc3BoSHlDS3psSzNSaFJheWlvalBicjBzMkszQnVuWA?oc=5",
+   "published": "Thu, 24 Sep 2026 22:27:29 GMT",
+   "score_parts": {
+    "recency": 0.976,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.643
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "なぜ中古車を「見ずに買う人」が増えたのか？ 44%が実車確認なし！ 車選びの現場で何が起きているのか――「店舗巡り」離れが広がる理由とは - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRUZKUzZIbnFVYWdjVVlPWlBBdXJMZ0xqV1RGb2dKNnFsVS1SYU9YV1hzZnFoX19TZjNpQUljMUE1Y1A1NFNYZl9GdFAzYzZsYW5JUTNjY1FROWRsOTBidG5OYUhpZnNLUnp6ajYzbFR6OG1pTzlIMjZKSlNobFBTM2JJR1piQXFCZWhlaUp5RnpMUkpRU2dJUUk4V09rRkEtYVJnOExjMnlGbDJ4UU1UVzkwc0pzbHh0R01ndHplaXJzNm5UQXo4b2N3b0dKbU1IaXE4SnJEd0rSAYgBQVVfeXFMT0JQVGRnTEVPeDBwTFhXdlV4R3FOa1gxemdodWp5UXp5WGJVTUI0VS1FR0U4Z2F2R1RsV2pKMUxENlRkclZwNUNZbUU1NnQ1VjFJOV9rMlE1VVZIQl9nNUcyTkRqUUdlQVJJYTBueVVJVjBTMzBpeFpfaHdkTk5oWnBxX0M1YTJzTQ?oc=5",
+   "published": "Thu, 24 Sep 2026 22:29:39 GMT",
+   "score_parts": {
+    "recency": 0.977,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.643
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "【事故•渋滞】東名高速、大井松田IC〜御殿場ICで渋滞発生 右ルート通行止めと故障車が原因（最新リアルタイム交通情報） - t.co",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE00ODZQdWdyamlneDR0Yjcta29Ddzg4VFo0bmYzX1UybnlLYTl5WWJMYVo0SjdfSmJLeVNr?oc=5",
+   "published": "Thu, 24 Sep 2026 14:06:32 GMT",
+   "score_parts": {
+    "recency": 0.802,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.641
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "世界で鍛えたSUV、ホンダ CR-V（RW1、2系、RT5、6系）中古車購入ガイド（グーネット） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa092Nkd6N0FxNGhkQWgxTnhQNDU1X0lfTFZJeFV5NVNpUFV0aFdMaGZHcWQ0TXJ2N1lFZ1UxRXMzSUFFa2dlLS1IMmpuazNFcmxxNWctVnFWOEh3NW5JXzFMOVFHSzZLd3BsV2hzZVhNeS00TkQ5YmJlOGVsN1ZFMVktYTdnMkxW?oc=5",
+   "published": "Thu, 24 Sep 2026 17:54:38 GMT",
+   "score_parts": {
+    "recency": 0.882,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.614
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "旧車・リビルド・商用大型領域で広がる“部品選択の幅”【オートアフターマーケット東北2026】 - CAR CARE PLUS",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5fWS1BR1ZicFl4MGJnMmFNVGZZUU5mdTdUQlREcUw5YzVIUHVsMjNyN0Qxc0dpUjdWenRMM19hQUo4NUhyQ0JYa3V4X00zSS1fT2dsdnZqdDU5cHc3UFBSMnFB?oc=5",
+   "published": "Thu, 24 Sep 2026 08:45:17 GMT",
+   "score_parts": {
+    "recency": 0.691,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.607
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "70台以上がズラリ！ アメ車、旧車、国産車にバイクまで“乗り物好き”大集結イベント【相模VIBES】 (MotorFan) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNkZKZHhPRHh1QWhEZGluWEUzaTRhMXFvbk1EUG50dEh1cEpkWlk0RFNLOUxfZWZhcHl2SFZpbW95clQ0dGZQeF9wQWdOVWZieFpEbkVnbldWUnhmMmVjYk5YUjhZU0pNb2JXaG9VNTBxdUVZTk84Q0NRUmZOWlBERktjYmRwUjhPQVRXMkVn?oc=5",
+   "published": "Thu, 24 Sep 2026 06:22:22 GMT",
+   "score_parts": {
+    "recency": 0.641,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.592
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "「肉の煙には勝てません」アメ車＆バイクを見ながら食べ歩き！ ガーリックシュリンプにスペアリブ【相模VIBES】 (MotorFan) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTlVsN3JMQnBBRURqR0Z3dmsxQ1FNWVBCamo3eUt6d2ViNVVacGoxLURDTGI5Um81a1ROeWpMRVZqMU1JNGlIUUdhaXlMTFVDQ2ZhM3dlU1luenpjSEFOcDFtVjRzNlNqSC1lZXhYd2RSSzk2MVNnT2FUSjRLdWJsaXdJRE9YU0JBVzZ1eFRR?oc=5",
+   "published": "Thu, 24 Sep 2026 21:16:42 GMT",
+   "score_parts": {
+    "recency": 0.952,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "ユーカーパック、月刊「中古車相場レポート」の配信を開始 - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSZ2xtNXg0NHFOYnZ1dWhxUUV0SEJUX0ctVUVRVTdPRjhTZFhOUHZDR1dDWjhyV3hmaXFYQ0NycHVWeFJRZzhDaTVKa05DSXJIRWV5ZU1JTjZfR3Q5V0lKWTZudFZ6RGhNQks0cUxxaDJfZw?oc=5",
+   "published": "Thu, 24 Sep 2026 13:10:00 GMT",
+   "score_parts": {
+    "recency": 0.783,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.585
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "走行距離が伸びたアイドリングストップ車を買うときの注意点。見落とされがちな「エンジン始動時の振動」 - mbp-japan.com",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BbzFoRGVqbW9wcTlVLXV0eklpOWtWclVkLS00WVYtZHV3NURUU1FTTkpjbndMYWFyRW9vOXV3endNQkZGaFByX1ljV1paZ1k5TkJSZG81ZGNjSHFmRVE?oc=5",
+   "published": "Thu, 24 Sep 2026 21:04:21 GMT",
+   "score_parts": {
+    "recency": 0.947,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "軽未使用車専門店「ケイカフェ」のメーカーズ、日本一に輝いた福岡の社会人サッカークラブ「三宅スポーツクラブ」とスポンサー - ニコニコニュース",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iT21UQkd6MENudnBGTEVVaWV4R3VoQ2MzVU1qNVM2LUJ4UUhIR0l2SFp5YkdEQVhuQ0lobk1za0tVWFpXWVh4WjFNLTN4SGZ3UGpaZFVGaEQtY0VsNnRTS3czV2Q3R0Zl?oc=5",
+   "published": "Thu, 24 Sep 2026 18:45:26 GMT",
+   "score_parts": {
+    "recency": 0.899,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.57
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "＜画像2 / 4＞マツダ・ロータリー特設ブースも！クラシック＆レアカー集結「お台場旧車天国2017」 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02bHJIcGU0RUJwZ2RtRVU5LXp2Q21LaGRpT3Q4TzJTN2c2TEFxYjNpc3FmV0l3ZDlyZUpDYmlPV0RUTG5IMUlWMFcwM19qS3ZtNml6dG90X1dBQjlDa18wX1NGNXVIX3RjUWc?oc=5",
+   "published": "Thu, 24 Sep 2026 18:00:31 GMT",
+   "score_parts": {
+    "recency": 0.884,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.565
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "「757万円の新車より安い…？」オプション付きの新型エルグランド“ほぼ新車”が749万円台で買える…価格逆転のワケ - TRILL",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92Zi1JRFZsbGJZd0NZa004Y3VqQVZjQkNoeFlORFNhazU4dUtjR2lNdDNfQ0F1Qi1TRDFfZlBSMFdLSEY3dTQxMW1lN2N6eW8?oc=5",
+   "published": "Thu, 24 Sep 2026 17:35:00 GMT",
+   "score_parts": {
+    "recency": 0.875,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.562
+  }
+ ]
+}
