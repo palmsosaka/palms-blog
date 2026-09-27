@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-28",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 117,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "勢いを増す中国メーカー勢には絶対マネできない。海外ショーでランクル40に初代シティなど「日本の旧車」が熱狂を生む深い理由 - WEB CARTOP",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93dzd0Yl9JbDdSdDBKaXFVdFRiV2h4VE1lSC1vTmMzSDhLU1lwRk1kT2FJSFc0bDg0QXlmSHh0VWpTSXA0dzRVWE9OVXp5MDF4RWdR0gFYQVVfeXFMTmtOMXJZS1cxd1FmMXlrR1pEYlpzMEllRmFMcmxLTlh1NG1peHhDaUpFcElLVzYya3FmRkxWZDJsQ0pjV2htTC1BUHo0Z3N1X3NUS0R3ZWF1Vw?oc=5",
+   "published": "Sun, 27 Sep 2026 21:20:08 GMT",
+   "score_parts": {
+    "recency": 0.956,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.687
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "勢いを増す中国メーカー勢には絶対マネできない。海外ショーでランクル40に初代シティなど「日本の旧車」が熱狂を生む深い理由 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XQ3hVSnlSaUdsQ0lqckVqd0k3dmRfV2kyT3RQbk9HSFN1cHA2MUlObkppa1NOQkY4UEJtZFM4UnV4eXhvZGRBaWwzcDhXQkp5dmt6cWRScG1ldTRKSE9Z?oc=5",
+   "published": "Sun, 27 Sep 2026 21:20:08 GMT",
+   "score_parts": {
+    "recency": 0.956,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.687
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "お好みで柔軟にレストアできる魅力 アラード V8シリーズ【UK中古車ガイド】（1） 個性的なボディに頑丈なエンジン - autocar.jp",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBGamZtaURpMXZHNDJtS1h0Mm5COVpvY3Qta3c3dTV6aEJvUmNnVjg2UjkzWU9PR0Z5NEtLdjhDcm1FekVndTVpdnBmYmE?oc=5",
+   "published": "Sun, 27 Sep 2026 08:45:00 GMT",
+   "score_parts": {
+    "recency": 0.694,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.608
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "「免許返納 ＝ めっちゃ不便」はウソだった！？ 体験者46%が語る「車を手放しても困らない」意外な理由とは - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZFhFSTJQcGRCWjRlMWU3VkVqZk94Um1SOE5QWEVHSUtWRmR5eGNnaXFMdWQtX2lkampTQjdCZWJtaTdiaFVwZ2hYbVMyZWdqaHZ1MWRCa2ZGdnBVXy1hZ3pUX0VKVXpuNTN2aWFuMGpQYXRkNDJkYU1oclpBWGhaR3BhUlFsU1lsM05lZNIBiAFBVV95cUxOMm1JUVQyZHlxamo3OEFvaVRjQ2tfVXFqQ2xmTEJUOWFRcnhLeGFFYTJNQ3FTUEU2ejdwN29JS3BlcUdwNTNxZGM3NTNqajc5R0N2Z3lWUm9lazhJUmNLM19FN3R2U0dKU3FQRkgtVXZMOE1kd1ZDRVNHaW1kTVJGYXZMMUlveHc3?oc=5",
+   "published": "Sun, 27 Sep 2026 21:02:21 GMT",
+   "score_parts": {
+    "recency": 0.95,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.585
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "架空の無国籍都市〈円都〉を走る国産旧車たちに目が釘付け！岩井俊二の傑作『スワロウテイル 4Kリマスター』劇場公開 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TNzNiQWNRdlBCWDRDcDRIaWhiYlV6cENEZzYzOURiODRzWF9UakFrV3VUdGJfMDRuczhRdjNJLUtEb3k3S1VpOXhXZzN3OUxNaVB4WEJIYVo?oc=5",
+   "published": "Sun, 27 Sep 2026 04:52:15 GMT",
+   "score_parts": {
+    "recency": 0.613,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "「免許返納 ＝ めっちゃ不便」はウソだった！？ 体験者46%が語る「車を手放しても困らない」意外な理由とは（Merkmal） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VcmJWVzBtR3czeWY1QmJSZmlpMVB0bFlRZ1o2eE5kVW9VVmsxUW5KQ085QWdGUWZGT1MyS1lLQ1pYYVo4bHNOZ3NwZWVvX0FaNmRWWVVjLUo3Mzl6dnJxM0VzNFcyOUd6dG1NZ2tVa1JFQkxkR2FmTmNsby1GTkU?oc=5",
+   "published": "Sun, 27 Sep 2026 20:25:37 GMT",
+   "score_parts": {
+    "recency": 0.937,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.581
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "「免許返納 ＝ めっちゃ不便」はウソだった！？ 体験者46%が語る「車を手放しても困らない」意外な理由とは - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMm1JUVQyZHlxamo3OEFvaVRjQ2tfVXFqQ2xmTEJUOWFRcnhLeGFFYTJNQ3FTUEU2ejdwN29JS3BlcUdwNTNxZGM3NTNqajc5R0N2Z3lWUm9lazhJUmNLM19FN3R2U0dKU3FQRkgtVXZMOE1kd1ZDRVNHaW1kTVJGYXZMMUlveHc30gGIAUFVX3lxTE4ybUlRVDJkeXFqajc4QW9pVGNDa19VcWpDbGZMQlQ5YVFyeEt4YUVhMk1DcVNQRTZ6N3A3b0lLcGVxR3A1M3FkYzc1M2pqNzlHQ3ZneVZSb2VrOElSY0szX0U3dHZTR0pTcVBGSC1Vdkw4TWR3VkNFU0dpbWRNUkZhdkwxSW94dzc?oc=5",
+   "published": "Sun, 27 Sep 2026 20:21:00 GMT",
+   "score_parts": {
+    "recency": 0.936,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.581
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "画像2 / 6＞初代クラウンからコスモスポーツまで昭和の名車・旧車がズラリ！福岡「日本の名車歴史館」 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KWE1VS2ZCc0p1cUJpdXQ4QjRKUU9NZVo1eVo3TjgzeWZxb05MTEpUd2hJTEFHb3M5aHhJNnBKU05GTENDd2pveWZrcHRhYndPa3pZOHhKMk5Fc28yX1VSRklScEYwTWt1cHc?oc=5",
+   "published": "Sun, 27 Sep 2026 03:37:55 GMT",
+   "score_parts": {
+    "recency": 0.587,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【発電量に不安のある旧車のドラレコ導入にも役立つかも！】USB Type-CをDC12Vに変換するアダプターがMAXWINから発売 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OaWlRVHhwNmVTcXJJYlNZd2xwUjdfS25jS1RFanpYaGpOVnVTT18wbjhwbW4yMVpscWY2bDBPRlctSm1EcTQtWExhNmNoV0EybGFzbnZza0lLUk5JTkdWRlk0Z3U4dHlybnh5eXJ4SXZqSWplNkNMcFpDbUgzZW8?oc=5",
+   "published": "Sun, 27 Sep 2026 03:05:00 GMT",
+   "score_parts": {
+    "recency": 0.576,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【発電量に不安のある旧車のドラレコ導入にも役立つかも！】USB Type-CをDC12Vに変換するアダプターがMAXWINから発売 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb3NRV3VxaWZBVmVTRWFBclhqbmpSWEViU1NUM2ZYMmZTNG9DNmsxTDYyemVSRG5IUF85ejU3cVVYb3ZXV29YQ1RqVFVlc0Q0WjVuNFJGdkwya1V5Mnl0MWRBOFA5b3dpWmYyenc3cXJYeVhZVGZsN3A1WDB0bkg1U2NWTTRVZ0k4bzctaUZ3?oc=5",
+   "published": "Sun, 27 Sep 2026 03:05:00 GMT",
+   "score_parts": {
+    "recency": 0.576,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "全長4.9mの「\"新\"レトロ顔ミニバン」に問合せ\"急増\"！ 「爽やかカラー」＆「旧車\"完全再現\"ボディ」が凄い！ VW\"ワーゲンバス\"の現代モデル「IDバズ」の導入1周年記念車が販売店でも話題 - kuruma-news.jp",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9mTUdhZnpha2QwTFBLeTlhX2JzMmZMT0xJWC1SZ2RZY0tXVWkzenNYSmtQYXNIbmNJUGxQYTJKRVdOY2VVTUQ4TDN5RQ?oc=5",
+   "published": "Sun, 27 Sep 2026 01:10:00 GMT",
+   "score_parts": {
+    "recency": 0.536,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.561
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "全長4.9mの「\"新\"レトロ顔ミニバン」に問合せ\"急増\"！ 「爽やかカラー」＆「旧車\"完全再現\"ボディ」が凄い！ VW\"ワーゲンバス\"の現代モデル「IDバズ」の導入1周年記念車が販売店でも話題 - kuruma-news.jp",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBvNzNsY1N6eUhHSXgzc2RVaGJUTU50cWhrRTdMTjRPMG4yMXFJZFBMMlo2N2RERDNOd1RpNUI3WGpwWFA3Rjd4eHJMeDA?oc=5",
+   "published": "Sun, 27 Sep 2026 01:10:00 GMT",
+   "score_parts": {
+    "recency": 0.536,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.561
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "全長4.9mの「“新”レトロ顔ミニバン」に問合せ“急増”！ 「爽やかカラー」＆「旧車“完全再現”ボディ」が凄い！ VW“ワーゲンバス”の現代モデル「IDバズ」の導入1周年記念車が販売店でも話題 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRjUwNHdQRi1LZVdqLVN4MzBFMlhxV3dCUVFtRHhOUkRYSlY4d21FdXZHdDZaRGRtR0lBdGx5MGNDbzFIbExLam5GQjQ3V3Y1Z1kzMGJ2SnNEdkNQbE5PTG1IVlNZeXRlbG1EN21WUks1Wlk5SDBuc1RxYmhnRm9qWHoyY1VYSnpXRXfSAYYBQVVfeXFMT3pJY3pmdmYza1ZFdmN4VVZvQWlIbDhnWFRJdnMyQmQ1UERULW9Lal9aSUF2eC01eENITm9Sd25mWUxLVEVzMU42cVN6SVpIeG55U2M5Qi00SnhtNnMxLTM3aFA0ZjJ4N05vR282OVJidGFlZC1fTmkyVHQycnYxeEhRbTdWbEE?oc=5",
+   "published": "Sun, 27 Sep 2026 01:10:00 GMT",
+   "score_parts": {
+    "recency": 0.536,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.561
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "全長4.9mの「“新”レトロ顔ミニバン」に問合せ“急増”！ 「爽やかカラー」＆「旧車“完全再現”ボディ」が凄い！ VW“ワーゲンバス”の現代モデル「IDバズ」の導入1周年記念車が販売店でも話題 (2026年9月27日掲載) - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KLTI4NEdUNWhLcVV2SzFCRzZORnNwclFxa2l0UkNGSnE2RnIzV3ZsQkxGMG5ianllRnkwMXVaN09kVkRuQ2JHTHJKVFJocWk3T3NwUUdDaFctenNCWkE?oc=5",
+   "published": "Sun, 27 Sep 2026 01:10:00 GMT",
+   "score_parts": {
+    "recency": 0.536,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.561
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "標準仕様を決めにくいほど十車十色 アラード V8シリーズ【UK中古車ガイド】（2） 世代を超えて受け継ぎたい魅力 - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVThGTGdKdzliRFR4bS15d2U4aVFVazc3dnZhakljbUJIaGJwUDQ2X3lvN3RPSC1PczJVNGp1Sk9KM28wcGFnUzhRYmUzLVVMSlNaZ1Y0NWgtVFFwV3dOVVZJM1ZkMUQ0UE8tb2phcGNadC11OTRjZ3Y5WHhmRGd1MHZfLWlweEhR?oc=5",
+   "published": "Sun, 27 Sep 2026 08:50:00 GMT",
+   "score_parts": {
+    "recency": 0.696,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.559
+  }
+ ]
+}
