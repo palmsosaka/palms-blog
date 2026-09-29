@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-30",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 162,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "2026年09月29日 18:03 ＢＭＷ ５シリーズ 板金・外装補修 サイドバンパー 補修 鈑金 塗装 京都府 京都市 輸入車 外車 修理 車検 宇治市 長岡京市 亀岡市 大津市 草津市 守山市 栗東市 茨木市 高槻市 奈良市 - goo-net.com",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JVTB1aTYxQ3l0RnZ2d1h6RzNoblJqeDNnYUFkck5Wckp4NWlOTmJvRS1rSHBTZUVUYUMyeE9MS3k1ekRuREh2RGNYSnQxOTJub0x6UWVJbVFkWVk1eXBteUJHdw?oc=5",
+   "published": "Tue, 29 Sep 2026 09:03:25 GMT",
+   "score_parts": {
+    "recency": 0.689,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.707
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【画像】初代サニーや初代カローラも…トヨタ博物館で車の歴史を振り返る企画展 様々なメーカーの旧車を年代ごとに公開 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBBQWpXWW9keUMyT2xQeE1IOFU1WHVaM3VFZnI1RzB0bnUwc0Rra3RueGpUX3BkVTVzNmk4ZFpUaGlGSnZVWVBpX2NKUWp2VUkwUmVCUFVZc1pPNVNsWmp4RTh5OW9TbGIwLXhycnVDRGgzdjE1M2lIYTRaR2M?oc=5",
+   "published": "Tue, 29 Sep 2026 15:03:16 GMT",
+   "score_parts": {
+    "recency": 0.814,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.644
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "カノックスター、弟に700万円のアメ車をサプライズ「喜んでいいのかわかんない」 - モデルプレス",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB4VDZyM1M5djhuWTc2OGZ5aFY3NjBmMElFeGNNbDh5OHFQWUdhbWFsT25ZMGN6dnBVbzJyLWlpWXBhWUlSOXRzdkJWYw?oc=5",
+   "published": "Tue, 29 Sep 2026 11:00:00 GMT",
+   "score_parts": {
+    "recency": 0.729,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.619
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "日本の自動車保険市場の概要 2026年〜2033年：予測される年平均成長率（CAGR） - pando.life",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ubUFqOGxXUnl0bnBRUV9kNkVEdng1VmpBcnMtcktacXpyS2dHREppRncxRHI5N2ZpdUxhVFlieE8zeHByN2kyNzhB?oc=5",
+   "published": "Tue, 29 Sep 2026 17:24:25 GMT",
+   "score_parts": {
+    "recency": 0.863,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.609
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "【要注意】災害に便乗した高額請求も…千葉豪雨で浸水した車のレッカー代40万円!?断るとキャンセル代27万5000円を要求 悪質商法、義援金詐欺など手口解説 - mezamashi.media",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SMzEyYWIzMGtBUTczeVN3WTBDZ3d4WkVMc1RqdUNPdkpkNGFZZmNDOGVyM1lidzN2MFhVVlVSQ1k5aGlmenFQWnRweDZhckhRZHBCQXJFU0RQdEhWdzM0MGRnVUo?oc=5",
+   "published": "Tue, 29 Sep 2026 08:32:00 GMT",
+   "score_parts": {
+    "recency": 0.678,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.603
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "【要注意】災害に便乗した高額請求も…千葉豪雨で浸水した車のレッカー代40万円!?断るとキャンセル代27万5000円を要求 悪質商法、義援金詐欺など手口解説 - mezamashi.media",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nejhYMWR6T051dE5yM3hLeWkzNzdjUHRORUpVR1NZcXE4VmZXTFMzMzdxT252Zy1oWVU5ckpLQmx5MlYtdEo1S0N1Z0JOUXpRV2g4?oc=5",
+   "published": "Tue, 29 Sep 2026 08:32:00 GMT",
+   "score_parts": {
+    "recency": 0.678,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.603
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "初代サニーや初代カローラも…トヨタ博物館で車の歴史を振り返る企画展 様々なメーカーの旧車を年代ごとに公開（東海テレビ） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iZXRZcGhBNlQtTzVaM2dGbEZrekpwLWVRcnBJeTlMZng5MkM3a1NoQlFlY1pDMXRsRDYyazhZbVI0WU93UE1jQU9CSDJlbGp1Uk1pWVlfT0IyaUlPWTFwUDJoV1NHemw5RmV3cDVCSldLUzFVdmF5dElyWW9FVjg?oc=5",
+   "published": "Tue, 29 Sep 2026 08:06:35 GMT",
+   "score_parts": {
+    "recency": 0.669,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.601
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "初代サニーや初代カローラも…トヨタ博物館で車の歴史を振り返る企画展 様々なメーカーの旧車を年代ごとに公開 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tek9LYlZEbm5vVURIRmdtRGdxZkRsM1VUUl9vb2s0cWhkaWJSNjFEaDlhRVJiTVVKc0FMTEZBMFhkQlRWQ2xkZXpuRVV4UHltQzh3OE16bmw0VWhlOUNfbkpESWRWVmExRlc5bVNR?oc=5",
+   "published": "Tue, 29 Sep 2026 08:11:00 GMT",
+   "score_parts": {
+    "recency": 0.671,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.601
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "初代サニーや初代カローラも…トヨタ博物館で車の歴史を振り返る企画展 様々なメーカーの旧車を年代ごとに公開 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa2dOYUN1dDZjZmM3WVFONFh2XzJ3aDlzZXB1RzlrSFZUNWtVR09ta0l1aVU4NEtCY3FPRGY4TlhkNHF0MTdHanZYMVlZTEp5aURzOWNYaTZaOElXb0pOak1pV24yNDVoQW4zQ1IzRWQyaUNIYldQMHNRajF6aGNYYUo5TWhnb0xGbTFXc29tTdIBjwFBVV95cUxOa2dOYUN1dDZjZmM3WVFONFh2XzJ3aDlzZXB1RzlrSFZUNWtVR09ta0l1aVU4NEtCY3FPRGY4TlhkNHF0MTdHanZYMVlZTEp5aURzOWNYaTZaOElXb0pOak1pV24yNDVoQW4zQ1IzRWQyaUNIYldQMHNRajF6aGNYYUo5TWhnb0xGbTFXc29tTQ?oc=5",
+   "published": "Tue, 29 Sep 2026 08:06:00 GMT",
+   "score_parts": {
+    "recency": 0.669,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.601
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "初代サニーや初代カローラも…トヨタ博物館で車の歴史を振り返る企画展 様々なメーカーの旧車を年代ごとに公開 - Excite エキサイト",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FOVNidFRMUy0taDRONWs1Y25MbEJ1Uk53eEZPSmdDVk1rQ082VURWNVc3U1haUHdoWncySVNPV18yTERGM0VKZnlZMTFmdGVaZTdYUHZ4VVc5WjhwN0t5MjF6Y1VTZk82cjJsUU9QZ1JVb00?oc=5",
+   "published": "Tue, 29 Sep 2026 08:11:00 GMT",
+   "score_parts": {
+    "recency": 0.671,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.601
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "【ボルボEX90に試乗！】ロッチ、愛車を探す！ 第2話 EX90に試乗！ボルボの旧車を相棒にするコカドが遂に購入…！？ - YouTube",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1bXpOYlB3NTNSaTB2WlVoSGlLRWRndzlnNU9EeEQ4d0l0bTNoV2tEbWx0RzF6QUFWTmRXekY4NWk1bDlVRGljMGcyNnB3RmVlVlBpdnFVX3RaS1V5?oc=5",
+   "published": "Tue, 29 Sep 2026 08:00:35 GMT",
+   "score_parts": {
+    "recency": 0.667,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.6
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "一般車で観光ドライブが可能に！『American Truck Simulator』向けの画期的なアドオンDLC「Road Trip: Ford」配信開始―ゲーム本編は10月1日まで75%オフ - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tUHBWZE1fbHBzNGNxOGdyc24zdUJqR3Nod3IxQlI5alhPVFktX2k2aFU5U3laSUxNUWhCQ1FqdVZBMHgyWXoybTdhZTZkd01hbnozTEdRdkx4c3BNdVlHOE9vNA?oc=5",
+   "published": "Tue, 29 Sep 2026 23:30:03 GMT",
+   "score_parts": {
+    "recency": 0.99,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.597
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "【「車検整備」トヨタ プリウス（ZVW30） 機関だけでなく内装・外装のメンテナンスも！】～【栃木県鹿沼市・宇都宮市「ガレージ シースワロー」作業メニュー～ - goo-net.com",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RallQNllvYmk3NlAtOGpwd09SMXhrVHhHRWtOUWNyblNoVWZ5VWZEeWFFQ05zRzNvM0FVeUhTM19vOVIxSzRVcE9FSXNZdE91UlFjYW5qeG03d3ZveVlvTy0tLWc5bFFy?oc=5",
+   "published": "Tue, 29 Sep 2026 13:00:22 GMT",
+   "score_parts": {
+    "recency": 0.771,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.581
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "タイ・バンコクで40年ぶり大雨、冠水・浸水で179万人が被害…水没車レッカー移動の際に感電死も - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLTmNMbUwtbkNwTXRqRUE5ZjVpcnhUWXJGbHNwZDVkcTFWVTk0RDA5OFpxemVtTFFEeUs2bnJSa2MxelU2VDdvOVRNUnVEYk5SczdyOThVcFppMWlMMXhpMEM5ZUlTWDg1MUhHVkxQTzJGWExOSThV0gF3QVVfeXFMUEtOY0xtTC1uQ3BNdGpFQTlmNWlyeFRZckZsc3BkNWRxMVZVOTREMDk4WnF6ZW1MUUR5SzZuclJrYzF6VTZUN285VE1SdURiTlJzN3I5OFVwWmkxaUwxeGkwQzllSVNYODUxSEdWTFBPMkZYTE5JOFU?oc=5",
+   "published": "Tue, 29 Sep 2026 03:02:00 GMT",
+   "score_parts": {
+    "recency": 0.563,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.569
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "タイ・バンコクで40年ぶり大雨、冠水・浸水で179万人が被害…水没車レッカー移動の際に感電死も - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9KNDVUODFtUjhOQzRzUFBhYmVKWnpVbXdTYkFhZGV2cFF5UWk5ckNPc0lqMHZUWHVUaFJreUxWS3VxTkdSZmhwX0JvM0RzRDNjbnFmV0JVNUN1M0VYTmluMDlGbXMwQlR6dElUb1hCQ1gyUXE3X1I1cVJ3d9IBd0FVX3lxTFBLTmNMbUwtbkNwTXRqRUE5ZjVpcnhUWXJGbHNwZDVkcTFWVTk0RDA5OFpxemVtTFFEeUs2bnJSa2MxelU2VDdvOVRNUnVEYk5SczdyOThVcFppMWlMMXhpMEM5ZUlTWDg1MUhHVkxQTzJGWExOSThV?oc=5",
+   "published": "Tue, 29 Sep 2026 03:02:00 GMT",
+   "score_parts": {
+    "recency": 0.563,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.569
+  }
+ ]
+}
