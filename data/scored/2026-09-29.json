@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-29",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 127,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "高速道路での大型車事故を想定し訓練 消防レッカー業者が救助手順など確認【徳島】 - 日テレNEWS NNN",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa1I5OFNGQkZKNnFHbkRPNWJRTzFNd19JMTRfdXlYZzI2ZUZYOEhmQ3dUdnMycTVMcS1GdW1uWnk1NWRZRjFieFZnODNJOTF5dGxWQnpab2RBeUc0UjhFZTYyWGtEODBROGpMT3F4Mm9iOFJxTEpySTRvUnRYYm5TZ0U5WEM0Mms?oc=5",
+   "published": "Mon, 28 Sep 2026 09:00:00 GMT",
+   "score_parts": {
+    "recency": 0.674,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.702
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "高速道路での大型車事故を想定し訓練 消防レッカー業者が救助手順など確認【徳島】 - Excite エキサイト",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYOEl0N2xEYS1vV1hEN194NGo2ZzhncGN0eWVmVXIxblN1QjVGb1l3RTh1cW4zaEJqbDE0NUprVHo4T2ZSeUg1RlFoN0h4ZmRjRk9FVW95LU5aM19pUHlpMTNCX3I5UlRzbFVoNDlR?oc=5",
+   "published": "Mon, 28 Sep 2026 09:02:00 GMT",
+   "score_parts": {
+    "recency": 0.675,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.702
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "#252 車が燃えて、ローンだけが残った話【旧車との付き合い方】 - YouTube",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fSXZxb2w4RXIwSUhqMTFSX2lsTVlSWlJ6TndwaFFxYnZtQjVsLVlySUEyZXFndTJvei1UTkE5SW13aFBPNmxrd2dVOUZzanFacmtxVl95Zl8zaG51?oc=5",
+   "published": "Mon, 28 Sep 2026 22:13:42 GMT",
+   "score_parts": {
+    "recency": 0.949,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.685
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【旧車盗難から愛車を守れ!】約1万人コミュニティ発、祈祷済み「御守りステッカー」のクラファン始動（WEBヤングマシン） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xVElJZzJtbS1jSE1RbmdUZGtUWWJoMEVpSzNUUUY3NzJ0bDZNRURqWTNBendUXzEwRzROQkJwZFo2MXhrYVRlZTlWUURfdWFlYUVKMW56QldYWXh4YWlfQlluX3ZJRnhEWUtkcDVTV05sVll2NW9hdlVlWDNDMkE?oc=5",
+   "published": "Mon, 28 Sep 2026 21:09:13 GMT",
+   "score_parts": {
+    "recency": 0.927,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.678
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "マツダ・キャロルがトップを維持 2026年8月の中古車値上りランキング（グーネット） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONW1XWEVzZ2lkRks2VWdpbXR2TEthck1EZTlKYllVdnMtY1pJbU5GWnZQRWpralIyRjJZeklqX3RZM2tMSUVqUVI2RURYc2o4LVlMeG9tWllzR2JjZkMtd3g0Mko2RHQ3eTZaVTVTc1o1U1lmcndINzVsb3pSOWlpUTB5T2paRU5I?oc=5",
+   "published": "Mon, 28 Sep 2026 17:48:41 GMT",
+   "score_parts": {
+    "recency": 0.857,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.607
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ハイエースバン（200系）がトップを維持【人気中古車ランキング 2026年8月】（グーネット） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSDBTTUktN1h2UkcwcUIzWHFRRXNXVUNOU2FCbGFIV3d4T09jY0NmQjJaYkVKX1NrV3Jfc2NVU21VU245SzZKT3BmOVFreTBoVUVPeVJETmJKdUxxbjVHamdVbEtVX2JnVzRvenNlcldGeDhEbHJXR1Ewc0hPalp2OWJHaDBoTU1h?oc=5",
+   "published": "Mon, 28 Sep 2026 13:53:00 GMT",
+   "score_parts": {
+    "recency": 0.776,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.583
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "トヨタ「パブリカ」約100万円で英国落札！ 国内相場200万円超の旧車が安値決着した理由（Auto Messe Web） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TYW9jMk04RWVQNUF6cmZERldsdnRkRGltcGxpTGN3NnluRVhzOXZGaGJodklTTmlib2YyR3NZQ0k3OEpVcFdkczhIVTdMMEx3d0ZDSjZGRXcxV051dmJ2LXRhV2xqOWhuNlgzUnMzQ2JjeTRWS25xWmNSSkRaZ1k?oc=5",
+   "published": "Mon, 28 Sep 2026 03:03:53 GMT",
+   "score_parts": {
+    "recency": 0.55,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.565
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "トヨタ「パブリカ」約100万円で英国落札！ 国内相場200万円超の旧車が安値決着した理由 (Auto Messe Web) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMHJIVEZfOVY1TDZrT2ZlV0JuQU9QVGlGRDFxZDZpbWFsMkdPTXlJVklkX2M2djNpQ3RvWlJRaXltOEE2dDJiX3lselVvWGNJLXdqWjF5VVlYOXhzLWowWWNnZ3pVTm1nOGJWeVFXWVNya296VndPSDJZdVZoM0FqWndnT09sOWNvckw1di13?oc=5",
+   "published": "Mon, 28 Sep 2026 03:03:53 GMT",
+   "score_parts": {
+    "recency": 0.55,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.565
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "この免許証は何かおかしい レッカー業者が抱いた違和感 職質の女逮捕（中国新聞デジタル） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5a0xYekZvbVpoSW1xVC05V1pVQzhuZV9xTEdnaUxWRGprdnpJaGFwZkdaanA2YXk1eDdwMkRNdDhMVGZFc2YzS2d5Smw1Y2xnS3dUM0RLUXlzZ1kwVWZPa3B6ZzlIdVg3NmlUU0RDN2dfWU8wYjdkandDRnRva2c?oc=5",
+   "published": "Mon, 28 Sep 2026 21:40:45 GMT",
+   "score_parts": {
+    "recency": 0.938,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.561
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "＜画像22 / 30＞【全51点】超貴重な昭和の名車・旧車がズラリ！ 日本の名車コレクション［2/2］ - walkerplus.com",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GQm1RNUFtWDhBWVRLN3NNM1FJVGktMnZMbzg5ZWIwSktCRGI2SnppVmFfWEoxR2E5eWFmUng1bkhXZkRIQ001c0MwUHQ1c3pTSzlyX0RpMkMtZDNoRXlYYkJpR2JKSUF2YlE?oc=5",
+   "published": "Mon, 28 Sep 2026 17:40:10 GMT",
+   "score_parts": {
+    "recency": 0.854,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.556
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "車検専門店「交換しておいた方が…」プロの助言をスルーした結果…旅行帰りの50代夫婦を襲った“悲劇” - TRILL",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11d1YtOEJ4MnY3SnZhTGp0RDB0NWJONjhuNmFIOVFuS0x3RC1OOG5fQzVDanAtcWRlQVJRVUJkNkw4QUJ5OWJFcmpsT2JycUk?oc=5",
+   "published": "Mon, 28 Sep 2026 09:35:00 GMT",
+   "score_parts": {
+    "recency": 0.686,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.556
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "秋のドライブシーズン到来！愛車の無料査定＆乗り換えはガリバー407号坂戸店へ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vM3VoWUlzQ1R4UTUzY2VzeklYY1lIa3drNWtVbHl3bHczTGdlbklpQnV2OXExWUxabC15UXlaVjFFMFdfSHlxTDh6ZnVBZ3FHWHBFZGNoYnc3eC1oTE9SZnVYdGc0T1haa2tQLWpINlhvbUhONXNGOUNsQjU?oc=5",
+   "published": "Mon, 28 Sep 2026 09:23:33 GMT",
+   "score_parts": {
+    "recency": 0.682,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.555
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "【山陰道】大山町内で事故 一部通行止め解除（29日00:10現在） - 千葉テレビ放送株式会社",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5odlVwVWhhcFFybU1JNlRfdzA4RFdsQUlyamc4bHJpQk85M252VmYxUWh0Zmt0UUdxeG9RZVRXREF0YXNyYVdXQ2tIOGVCbHVxVEdkRlRKc2V2RHB0bHNJ?oc=5",
+   "published": "Mon, 28 Sep 2026 20:16:35 GMT",
+   "score_parts": {
+    "recency": 0.909,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.553
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "＜画像2 / 4＞マツダ・ロータリー特設ブースも！クラシック＆レアカー集結「お台場旧車天国2017」 - walkerplus.com",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02bHJIcGU0RUJwZ2RtRVU5LXp2Q21LaGRpT3Q4TzJTN2c2TEFxYjNpc3FmV0l3ZDlyZUpDYmlPV0RUTG5IMUlWMFcwM19qS3ZtNml6dG90X1dBQjlDa18wX1NGNXVIX3RjUWc?oc=5",
+   "published": "Mon, 28 Sep 2026 17:09:13 GMT",
+   "score_parts": {
+    "recency": 0.844,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.553
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "フレアワゴンカスタムスタイルがトップ浮上 2026年8月の中古車値下りランキング - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZN2Z5R0NST3kzZXE0alhycG1JdTl1QjNiSnpXMjNhTkJQMnpFZnR4d0Q4bmU0Wm1ORTN0dXJPbGYxMy1MT3ppTGdqZ2o2XzJvbmZJX2hmaFlrNWVkeDRJbnpvSU1wUlh2c3VHUGRPbk5adUFLRHpNYUtR0gF6QVVfeXFMTVk3ZnlHQ1JPeTNlcTRqWHJwbUl1OXVCM2JKelcyM2FOQlAyekVmdHh3RDhuZTRabU5FM3R1ck9sZjEzLUxPemlMZ2pnajZfMm9uZklfaGZoWWs1ZWR4NEluem9JTXBSWHZzdUdQZE9uTlp1QUtEek1hS1E?oc=5",
+   "published": "Mon, 28 Sep 2026 08:53:00 GMT",
+   "score_parts": {
+    "recency": 0.671,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.551
+  }
+ ]
+}
