@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-01",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 208,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「エスティマに救われた」震災被害で“ミニバン避難生活”…取り戻した旧車愛、ハコスカGT-Rを再び - UQライフ",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWVNlMGJvdkVZTC04ZnZFZGFUSHViM2g4VmxPT2ptQTkyd0FaSWpXcHhSdUhxZGdzUjc3eU5meHV5Zk9xNEZ4ZW5wQzNZQU5VRmhFcjVOWWkzdURnRjlTVFdFaC1OVVlhcVJsTnRuc3lpS1RDb2pnbVk5Tnh6WTFaRA?oc=5",
+   "published": "Wed, 30 Sep 2026 23:51:00 GMT",
+   "score_parts": {
+    "recency": 0.992,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.698
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「エスティマに救われた」震災被害で“ミニバン避難生活”…取り戻した旧車愛、ハコスカGT-Rを再び（ENCOUNT） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yZWVtU251MUlEY3VKZ0pHQ194N1prSkc5VDRURkNlS3VnNXNOczRpaU1rQ3dfSGJGNk9sLUE3UWlMUExwWkdsZkZjWWFZN2UwZ2QzWldINkpFc0c3MnZiZmhpaDctNVdVZzRNUGVMdURNRk9hZzNWSkpWSGNLS2s?oc=5",
+   "published": "Wed, 30 Sep 2026 23:46:00 GMT",
+   "score_parts": {
+    "recency": 0.991,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.697
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "中古NDロードスターが今アツい!! 初期型「ND1」は150万円から！ ロードスター中古車の選び方 - bestcarweb.jp",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tWHJUQ1pxMVRpc0kxY1A5aWtSUVo2TklYdFJfWk9KZ3BDYmU3OEhzb0YzWGdQbE12N3pIeFRydkdRU2EtS211YVItUW5kSUtYTVFCRHRTNA?oc=5",
+   "published": "Thu, 01 Oct 2026 00:00:00 GMT",
+   "score_parts": {
+    "recency": 0.995,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.649
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ニューデリーが旧車回収で1000ドル支給を開始、電気自動車への移行を促す - Межа. Новини України.",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBBUzZURWlDXzdPVE5BMGRXQXh2eUFteDF2ak1nTkxSalNuUTJMRUN2Wl8wMlVZZ3F3RmVfS05DOWw3M2M5MktHRjdPVkdaaFM4SDMzYkhpd0VoWHlYVDhwY053?oc=5",
+   "published": "Wed, 30 Sep 2026 11:51:34 GMT",
+   "score_parts": {
+    "recency": 0.743,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.623
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "会場には30～40台の旧車やカスタムバイクが集結する。 - 福島経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EbVlkdE9ZWG9PYTF1T0x1cXcxQkx5WFVOakJYSDhkYlRqUnl0NFRHTmlGaldZemk0OHZqT2gwT0trZmtqTUxsejRlWlMyZlUxS2tnOTN1a3o?oc=5",
+   "published": "Wed, 30 Sep 2026 09:05:04 GMT",
+   "score_parts": {
+    "recency": 0.685,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.605
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "最新モデルから絶版旧車までスバル車が350台大集合!?『富士でスバルの秋祭り』でグループAインプレッサWRXエンジン始動！ - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jN05FLXZQQW5DVi04amFIaWxBY2xvTFMzYnJCM1ppVl9xRkRSOVVyTTFRbGU3ZVNHSklBbkJ6OUxmamtySDdtRTZ0SWgyZw?oc=5",
+   "published": "Wed, 30 Sep 2026 08:30:00 GMT",
+   "score_parts": {
+    "recency": 0.673,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.602
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "最新モデルから絶版旧車までスバル車が350台大集合!?『富士でスバルの秋祭り』でグループAインプレッサWRXエンジン始動！ - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44czY3cmo3dUNSZXYtSUw5NF9FVGFQMlFrMllnRlZsNEtTa1NxRHdtSGRhQzc2LWJsaHhKaTlVdVJIT3h5R01NY2doYmUyVmpaQTE4amVMenFlZw?oc=5",
+   "published": "Wed, 30 Sep 2026 05:11:09 GMT",
+   "score_parts": {
+    "recency": 0.604,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.581
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "最新モデルから絶版旧車までスバル車が350台大集合!?『富士でスバルの秋祭り』でグループAインプレッサWRXエンジン始動！ - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEWDY5cmpmUWxKNUZFYm5vTjJPbUJjSXI3MG9NVXlwVkZYU3c3eVRJV2p0TmhMM3dlX2ZYOC1DNjdfOFJtdG40SnlqU2J3LUVvTldXTmpXb211UQ?oc=5",
+   "published": "Wed, 30 Sep 2026 04:52:17 GMT",
+   "score_parts": {
+    "recency": 0.597,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.579
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "最新モデルから絶版旧車までスバル車が350台大集合!?『富士でスバルの秋祭り』でグループAインプレッサWRXエンジン始動！ - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wWWJMeFFRMWFPb1A1dHgxeVdvZWtHM1VDcFBjdHE0X1ZMR2NhMVA2aUhLOHQyWTJfTEstV2x4VlR5bEtCcEhkeTdCMk1yNVVOdC1uR0EwZzBmS0Vw?oc=5",
+   "published": "Wed, 30 Sep 2026 04:52:17 GMT",
+   "score_parts": {
+    "recency": 0.597,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.579
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "最新モデルから絶版旧車までスバル車が350台大集合!?『富士でスバルの秋祭り』でグループAインプレッサWRXエンジン始動！ - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIeU5OSFN2SXkxY1FkNHlHbXBrM2tVRkxua0Jad2JFMllqa1lTN2J2dDJmc1MyTnJXWHJXal9qcjNEOUIzRmMwZjRDWVBUQTFBRWQydlNHR3l2cmIx?oc=5",
+   "published": "Wed, 30 Sep 2026 04:52:15 GMT",
+   "score_parts": {
+    "recency": 0.597,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.579
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "最新モデルから絶版旧車までスバル車が350台大集合!?『富士でスバルの秋祭り』でグループAインプレッサWRXエンジン始動！ - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zalZISUc4V1BTemNIYWxLYTg2YzNGdHRUSjEyZWh6ZUMxeEh4X0wwcHowd3FhaDFqS2cxNXpCcWhqcXhHLVpsTFAxZmU5a1JYNDBYZlgxcTZBcFdB?oc=5",
+   "published": "Wed, 30 Sep 2026 04:52:16 GMT",
+   "score_parts": {
+    "recency": 0.597,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.579
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "最新モデルから絶版旧車までスバル車が350台大集合!?『富士でスバルの秋祭り』でグループAインプレッサWRXエンジン始動！ - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNQ1YtY1hFT3lDZTkxQVc5UUJIczIxOHE2V2pXRXFGQzRaMGxHNEtqS3NSTGx3bG1DX3IwRmlnQy1VUFNwOU9RMFJTcUZWZW1KWTJabDIyUWR1Zw?oc=5",
+   "published": "Wed, 30 Sep 2026 04:52:13 GMT",
+   "score_parts": {
+    "recency": 0.597,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.579
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "最新モデルから絶版旧車までスバル車が350台大集合!?『富士でスバルの秋祭り』でグループAインプレッサWRXエンジン始動！ - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpNlVYNTZ0aENTVUZIdThMcEQzSDJ6NFVDUzZtRGJkVDNPQ1NNXzRkYWlmaVpVVFdaTkMtWUp5MVRwMWJsS3hubTdBcURfS0lZcHR1ZjBGQnFVWi1S?oc=5",
+   "published": "Wed, 30 Sep 2026 04:52:06 GMT",
+   "score_parts": {
+    "recency": 0.597,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.579
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "最新モデルから絶版旧車までスバル車が350台大集合!?『富士でスバルの秋祭り』でグループAインプレッサWRXエンジン始動！ - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TcVBPRWNDanE2Sk0yeGpla1hSOVdCT1pBVUwzek9DMWV2Vmhnb3llT0JSVUVvdjJGVGFJb3VtUWlaenBsTkJDbzl6NmtjUUtxZ3pyOVZvM3RfVmxk?oc=5",
+   "published": "Wed, 30 Sep 2026 04:52:03 GMT",
+   "score_parts": {
+    "recency": 0.597,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.579
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "最新モデルから絶版旧車までスバル車が350台大集合!?『富士でスバルの秋祭り』でグループAインプレッサWRXエンジン始動！ - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XdVRzUVZ3TXhxWE5fZFRlT0NJajlnYmhpeHNTUVZieUNBbjI1ZkhZcHdNSjdnN3JNZ2htaGc5bEw4Mzk4LUk1dEZSLTI1R3dXd09SUDFfaXZaZw?oc=5",
+   "published": "Wed, 30 Sep 2026 04:51:54 GMT",
+   "score_parts": {
+    "recency": 0.597,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.579
+  }
+ ]
+}
