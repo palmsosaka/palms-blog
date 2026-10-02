@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-02",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 213,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "【中津市】秋のドライブ前に車の点検を！故障・事故時のレッカー対応を山本自動車鈑金に聞いてみた - ジモッシュ！",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PUDFLU2wybUplM0hLV2g1VWEwOHpkaTM4SS1xT05jVTNPOXQyNVJ1aWdtRTQzaTB4V2pQVEpJbE1kcEUwT2VJdTYwMnhDMXVaNWU2ZHUyeVRYZnM?oc=5",
+   "published": "Thu, 01 Oct 2026 22:02:03 GMT",
+   "score_parts": {
+    "recency": 0.953,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.786
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "新型「旧車デザインのスポーツカー」まもなく登場！ 「丸目4灯ライト」×メッキバンパー装着！ 「初代コルベット風」で超カッコイイ！ ミツオカ「新型車」どんなモデルなのか - くるまのニュース",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9RcHVyaFhRUGV2NkVxVVZSd01felZRWkluN09iQTZfejFaUVpSMm5iMVBjSlowWW1VQUtCODRrakpFZEF1V3h5eGJUYw?oc=5",
+   "published": "Thu, 01 Oct 2026 22:00:00 GMT",
+   "score_parts": {
+    "recency": 0.952,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.686
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "新型「旧車デザインのスポーツカー」まもなく登場！ 「丸目4灯ライト」×メッキバンパー装着！ 「初代コルベット風」で超カッコイイ！ ミツオカ「新型車」どんなモデルなのか (2026年10月2日掲載) - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JNW8zR2M2MkNzMUlSNVFuMHdvN3J4cTBNTTRKeUd5bDdiUFZRZlpKMXJmZS14M1d5cENpbFZJcVdaRGFzT1FWdU04ZjhjR3Y2VGZFaS10cHphbkg0eXc?oc=5",
+   "published": "Thu, 01 Oct 2026 22:00:00 GMT",
+   "score_parts": {
+    "recency": 0.952,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.686
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "アウトランダーPHEV（GN系）vsレクサスNX 450h＋徹底比較！中古なら、NX PHEV（20系）が手に入る！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xRGZLUFNDcEJlSWpJVHhoaWdTQ1NIWWVacXdUOTNYS1djTm5KdFZqWE1uWERHUXk2NFVJZ3R2ekRPdmVoQ19Cd1dqUEwxSlYyVFVZ?oc=5",
+   "published": "Thu, 01 Oct 2026 23:33:43 GMT",
+   "score_parts": {
+    "recency": 0.985,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.645
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "マツダ360 軍団 スバル360 ステップバン360 60年代 旧車 2011 知多美浜 ナチュラル村 - YouTube",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mZTlLMHRLQW04czcwbjlKempxajIwVG5ZLWlZaTRkWmxTV3hueHMwU01HNmdYNnZadkp0TGFRbF9TS3h4X3JESC1uTXM5SjdyLUxKVTN4ZjR6aUsy?oc=5",
+   "published": "Thu, 01 Oct 2026 09:05:18 GMT",
+   "score_parts": {
+    "recency": 0.683,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.605
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "初開催！【ALL USERS MEET】公式イベントレポート！（CARTUNEマガジン） | 自動車情報・ニュース - carview.yahoo.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWk5UYWdxSjJzczJweVVfQ0Y5ZjNvS0x3Mml3WlNPZFQwbG5EZnM5LXMyR3hyQUM5WTlsVGw3MUx0dGw3c1ZaZWVjTkJ5SEJ5SXlBM28zZkFFd2x5NnE1OHczMU81VFRramc3WUR3YVdjYl8ydXhpdHhacDhjUTJpV1pNU2dJMThG?oc=5",
+   "published": "Thu, 01 Oct 2026 23:00:00 GMT",
+   "score_parts": {
+    "recency": 0.973,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.592
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "鈴木奈々「買うか迷ってます！」検討中の中古車が話題に「庶民的で好感」「クセのある車」（BuzzFeed Japan） - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdEFzRGdGUUhZem83V3B4YTd4Z0V4S1FBaW1ITFBhZ1IzYWQ2UGJJRzRtT3hmVlJFVWI0WnFEd0FZaTVqZ0wxa1QyYU9mZmZyZy1RR1JVWXU3NXo0OUJGOGRFUkNFMko2cXRNOEFXbTZGMFExV3pBRVUzTWRZTzRKS01Pa0ROdw?oc=5",
+   "published": "Thu, 01 Oct 2026 11:45:00 GMT",
+   "score_parts": {
+    "recency": 0.739,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.572
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "画像1 / 16＞ホンダの旧車＆名車約60台が元気に走行！ホンダコレクションホール20周年走行会開催レポート - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTV2dmMnlrbVZQRTdMU19TeVllZG9JcTNZeUJqUE5LWjlzQmY4RTMtNFhDa190MVV1a0Q0NDFxZ19oNjFjd3d2WUZYOG5ldV9rY3lNanhwbGdMZjZydktwa3d2bEVJSE13Z2c?oc=5",
+   "published": "Thu, 01 Oct 2026 19:20:31 GMT",
+   "score_parts": {
+    "recency": 0.897,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.569
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "中古車輸出3割増、国内相場の下支え鮮明に - LOGISTICS TODAY",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5seEs0MF9JTVh3QVVCbnRjT3JDbGEwVktKTllMcXd3Mm40eHRBSHRDalNWZWJUa2JfRG5BS0ZoTlJoOG1yc0Z5UEZ3?oc=5",
+   "published": "Thu, 01 Oct 2026 10:56:46 GMT",
+   "score_parts": {
+    "recency": 0.722,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.567
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "この免許証は何かおかしい レッカー業者が抱いた違和感 職質の女逮捕 - Excite エキサイト",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44X0YzX1pwTW5zZVB5UWtQOGF5UTV6azU1a2VRek10ZWdhWEhCaXhybDZyLUlTMXVjODNsUHRsSU1Iblc2SC1oTWo0cHk3UG4wekoySHB1RWE3VkdkWHZ4dENTQ2MzazFodzdCaDFtOXpxSUhUMm5v?oc=5",
+   "published": "Thu, 01 Oct 2026 21:40:00 GMT",
+   "score_parts": {
+    "recency": 0.945,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.564
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「エルグランドを5台乗りつぶした」震災で家族がバラバラに…“生きるためのミニバン”から一転、よみがえった旧車愛 - ENCOUNT",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTTNmSnVZWG1YYmhJd0VxaUVFTXQ2N2hYc29uYl9tQ3BNRFdzVjQwR0poZkF3LUNMeEVJV25ZLXZwVVVYWGRYWjQ0NFdzX2RSUk9Cd0U5ckFBLVd1V3lhTTl5RjBYMWFOREo1Ml9CckZWd2tnc21SVnpYMzE4V0NaNlBHSElpYnFZbUYyV0locnZjV01vRXp1QkdoR1hhWEFfcUE?oc=5",
+   "published": "Thu, 01 Oct 2026 01:13:21 GMT",
+   "score_parts": {
+    "recency": 0.52,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.556
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "ソニー損保、ダイレクト初の3年契約自動車保険を発売 ディーラーとの協業も構想（日刊自動車新聞） | 自動車情報・ニュース - carview.yahoo.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUFVrZ1k3ak9UaVQtLXBaZ29lQlRpamZRXzFEYkVtd01jc3ZCZ1dtQTV0VTZjREplS3JSdHQ2SkhScWNxclVFdk5TR0psaE14Si12SjRpaUpkeXNkQlFhckZybU1WLVEwWlBWdWY3bC1NUktfQmxtQnJPTUVpVjI1T1BnZ3FyMlkzTTRWYVhGMFVHUjVqTGY4?oc=5",
+   "published": "Thu, 01 Oct 2026 08:41:00 GMT",
+   "score_parts": {
+    "recency": 0.675,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.552
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "画像15 / 22＞イチョウ並木を旧車100台がパレード！「トヨタ博物館 クラシックカー・フェスティバル in 神宮外苑」レポート - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtb2xTRnFhcFM2Q1VYX3JpekZPRDRjSE9oWmRVQUNvRG5XSVd2V3R0dnBHd1BVLXJyVHVjd1l5RXptX2duOWw1MUo4MDlFT2pDWHEyWW9vLXQ5VHM2TzB5em9Eb0huaGVGUGc?oc=5",
+   "published": "Wed, 30 Sep 2026 23:27:28 GMT",
+   "score_parts": {
+    "recency": 0.483,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.545
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "画像3 / 9＞時価2億！世界に1台だけ現存するバイクがここに！世界の名車・旧車が集まる大分・由布院「岩下コレクション」 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWLUZKbTN0aGNJVi0zNl8tYWgxNjN0SVlDeTFEM0ZVakFkZFdlSktxbGdmckdkM3B2ejRBUVJRV3RlRk4zbkxHYXJzVXcwaXlaTHRLd2EyR3lDZ1dyWUM0bE43YUVJSzVFT2hPMGc0QWVTRTBmZWl2YW9xbw?oc=5",
+   "published": "Wed, 30 Sep 2026 23:06:58 GMT",
+   "score_parts": {
+    "recency": 0.476,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.543
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【争奪戦必至】カワサキがZ1など旧車の“当時物”純正エンブレムを特別蔵出し! 在庫限りのラストチャンス (WEBヤングマシン) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSW5GWHRqVXF4d21UOEJGRG5zTjlsSFJ6VnZldjc4SmZldmlRUTBnT2xDMFg3RzdjZWdIRkF3RlpxTlRXWGxXR3oxNnNvUFVYRXpNTkJYXzF6WFc3dVBCZnpVakNGLTllbzNwb0JPWXdlM1NiZXNFT1lwMnZ6UjlQRzJyXzBzUmJQYm0tdjhB?oc=5",
+   "published": "Wed, 30 Sep 2026 22:21:57 GMT",
+   "score_parts": {
+    "recency": 0.46,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.538
+  }
+ ]
+}
