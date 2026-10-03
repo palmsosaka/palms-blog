@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-03",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 193,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "憧れの日産旧車を“衝動買い”→妻に事後報告で「最悪」 30年越しの夢、気付けば総額1000万円超（ENCOUNT） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uRkI4bzMxUEMtQjBidy1kSnVOYl9ESXFfa2Y3SHppNFNIVGJFc3BUZnprRmtyVjdpUmVmeXk3Qkx4SWRrU1paZHhZQzBRVFpacW0zZ1ZNQW5FMU9HVG8wX09YRUhwdmJvNm1VNVZUU01hUTY5VUFnWE12X0FudGs?oc=5",
+   "published": "Fri, 02 Oct 2026 23:44:32 GMT",
+   "score_parts": {
+    "recency": 0.994,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.698
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "V8・後輪駆動は完全に過去のモノ？ 絶滅危惧種のアメ車セダンが「30年ぶり」に奇跡の復活を果たすワケ（WEB CARTOP） - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYzVudjJmMTRpZElSOWkzbVlxVVNuLUxlREZFc1BVckw2WHJwWk9ZOVB1LWNLeHpUVGdtZHM3cFhmU0JUMWZDTHBBazgwWHJMdjV5TS1mcm5uRVhVaDFUVTA1THlKRHNtUXVINW5CSm5jNUx2THBqQ1B3Y290bXFoWEJCT2xEYkZocG5BWjRNNi1vSUpCNXFRcm1DUHR2UmI0N0VzN201cXFFQnhMM0pRbHd2R3JhdHpEVkFfdEhYdWpVLVVJOVJWUEJVVFJBcnNEVmhF?oc=5",
+   "published": "Fri, 02 Oct 2026 22:52:27 GMT",
+   "score_parts": {
+    "recency": 0.976,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.693
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "V8・後輪駆動は完全に過去のモノ？ 絶滅危惧種のアメ車セダンが「30年ぶり」に奇跡の復活を果たすワケ（WEB CARTOP） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SSFRlekhxYXJZMV9lTVE4Rk9seFJhZ3ZfM2x5a1Roc1RRVGZWcDJIZFgwTnlhOHR6WjU4T1Y0aU1Nc3Y5elBzR19mdVo0YmZzYUNMWUdGekJlS3M1alRXWTBzdzFuM18yQ1BHbWo2MHZfVHNoUVk1aXBIc2Qtd1k?oc=5",
+   "published": "Fri, 02 Oct 2026 22:17:17 GMT",
+   "score_parts": {
+    "recency": 0.964,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.689
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "V8・後輪駆動は完全に過去のモノ？ 絶滅危惧種のアメ車セダンが「30年ぶり」に奇跡の復活を果たすワケ - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YZDFWcVVvT1VkYkpYUUVnTFBiMFY2enFRQi1CLTBCYloyVGtCSW0xYzkyUXlIUTVMQkhNcnZEQ3hQNG9ocGYzS3kxXzZjTTRZRU9uOU5rdTd6TEJEdkE?oc=5",
+   "published": "Fri, 02 Oct 2026 22:00:33 GMT",
+   "score_parts": {
+    "recency": 0.958,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.687
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【中古車・旧車の方】汎用フロアマットの“サイズが合わない”を解決。ハサミで切ってぴったり仕上げる「3Dゴリラマット」が登場 - 写真・画像(1/1) - 西日本新聞me",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xWFdac1JBVTRzbjlUSHFlbFVMTGdEcWVUVkh5QWV4MU0zS3BsWmxwNW9ZRF8zR1FZOGhGcU1aQ0d6TUQ1SkJUbmNienBhclpfdFFoREM4TQ?oc=5",
+   "published": "Fri, 02 Oct 2026 09:11:10 GMT",
+   "score_parts": {
+    "recency": 0.691,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.657
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【中古車・旧車の方】汎用フロアマットの“サイズが合わない”を解決。ハサミで切ってぴったり仕上げる「3Dゴリラマット」が登場 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByOVZGMUhRdmZxZG5IalBWZEJJbV94NnRnV09rNXY3SWxsSkIyMnZDeDFmOE85WS0xbXJyMkIxSnowMHhOd3piV3RsRDF1U1JxNmlhdXhrSEt0ajFucVp2OVBKOUtfRFdFbHc?oc=5",
+   "published": "Fri, 02 Oct 2026 08:00:01 GMT",
+   "score_parts": {
+    "recency": 0.666,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.65
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【中古車・旧車の方】汎用フロアマットの“サイズが合わない”を解決。ハサミで切ってぴったり仕上げる「3Dゴリラマット」が登場 - news.infoseek.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vWE9uSlVZNDhRTlNXYk1wblBwd1FrZ3pjY2FZNWF2SEduLTFvRlI3dHFjRlNocUdnSTV3bFdSeXBWUENGNFBXN3BpZnVlSG9mbmpCdlZPRjRINV80cXJkVVF4ejcwQ3I0aTdINHQzaml0QQ?oc=5",
+   "published": "Fri, 02 Oct 2026 08:00:00 GMT",
+   "score_parts": {
+    "recency": 0.666,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.65
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "おぎやはぎの愛車遍歴 NO CAR，NO LIFE!「旧車初心者大集合！旧車の楽しみ方教えまSHOW」 - WEBザテレビジョン",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ieV9sSlRTVndZRTZqU2xBNlY5VGloNE02LXgtMi1zZ3NBTFJ5Q1ZwMmdrZkhHdWdxY2JBS3M3TWZoUHhCX0t2XzBGd0pwdndUNUE?oc=5",
+   "published": "Fri, 02 Oct 2026 13:25:40 GMT",
+   "score_parts": {
+    "recency": 0.779,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.634
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "タイ洪水被害車両の支援強化 無料見積もりや修理費割引、レッカー料金の適正化も - newsclip.be",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaUllYR2ZyejJMamw5QUhCOVFfSzJQdDBWYWo3SlI4QlpEdVBSa29uRTlZVERqem5vcmtaaHFTd0I1Uk15TnQwc1lrcTZMUzB1dVNXemVPYWEtdw?oc=5",
+   "published": "Fri, 02 Oct 2026 03:32:03 GMT",
+   "score_parts": {
+    "recency": 0.573,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.622
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "ダイハツ タント カスタムＸ メモリーナビ（ワンセグテレビ） アルミホイール 片側電動スライドドア（愛媛県）の中古車 - goo-net.com",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8wR293Si1DZ18ySG9Hc1ZlanlHVF9yVDFqTXZ2eV95RndleGxPTGVmdlFnTDhWZW5nTVF0NXlZd25FUEdBV053bTBPTV91MEtVY19yNzA3TERTMFY1eEdYZzhnVUJhM1JMNWdhbTQxaVFEclNIN3NjUXlxUGw?oc=5",
+   "published": "Fri, 02 Oct 2026 19:18:50 GMT",
+   "score_parts": {
+    "recency": 0.902,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.62
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【30年前の日本】平成初期の旧車・街道レーサー文化｜写真に残された青春と改造車の記録 - YouTube",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQdENFcndINWhtQ2wzeTgzLWJaM1ZvVEo4MW9OWUt5dmZhVTRqbUtCczhHVHk4VmZYNl9NTktZQndWRk90eEliMHVUOGMtZENpa3hOU2FHRnktYmJn?oc=5",
+   "published": "Fri, 02 Oct 2026 11:00:14 GMT",
+   "score_parts": {
+    "recency": 0.729,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.619
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "KINTO、旧車レンタカーに「セラ」「MR2（SW20）」追加 神戸・静岡・高知でキャラバン開催 - 千葉テレビ放送株式会社",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TZDVLZVRCU2dpVkduREZ3NW1ldkw3c0tOd1FUS0tkZ0NycnMtZHBPT0FJYlQ1VTNMZlZmVV80UnRaNXo4MU9RTGZQM1c3ckd4ZlJmZThWU2tNdmhPWXFN?oc=5",
+   "published": "Fri, 02 Oct 2026 10:33:29 GMT",
+   "score_parts": {
+    "recency": 0.719,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.616
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【旧車ファン必見】昭和の名車たちが限界突破の激走！サニーB110やベレットなど歴史的名車が全開アタック｜第76thタイムトンネルトライアル - YouTube",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FZV82QmxmN2ZkbHhfVnVYOGtFZVA5b3Z2dkl5aTAtMkVxTnhYOTRNMnRxbmd2bzU3MThXdnp6MU12cGY1Y3hMNC15dHBZYzVzVlhXZjNOSFl4b2NP?oc=5",
+   "published": "Fri, 02 Oct 2026 10:00:37 GMT",
+   "score_parts": {
+    "recency": 0.708,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.612
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "ハイブリッドＸＧ 車検２年 ハイブリット（北海道） - goo-net.com",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vQm1xTXB4STNGSE54YmtqZjl3N2JWallKNlhQcHJBbldxNlo1RXJZZGl3UHR4Rk80U0g2U3B5WDc5NVdZS0VzbEpMeXluNVMxM1NFaXd2ZTdfeGJBQVo4U1dDZUQ1dXQySXVMT0lnWkZVRWh6UlplT3lxVlM?oc=5",
+   "published": "Fri, 02 Oct 2026 16:34:00 GMT",
+   "score_parts": {
+    "recency": 0.844,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.603
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "KINTO、旧車レンタカーに「セラ」「MR2（SW20）」追加 神戸・静岡・高知でキャラバン開催 (Car Watch) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdDViYkhuVUtaUWt5R2pqeU55RU1leGlFcS1IUW5lWDYxUWo1aGNZTnBfRVhVSzVrMlZpSVlJNGtIQ056a2UtR0lydDR3TVRIZXdFemliZXM4ZXZnVjB4Y3RoQm43NkEwaU9ndFplRGhOSUI1MHF4VjNLRzA4MXRlRThFV1NDQTRXUzdQMEZn?oc=5",
+   "published": "Fri, 02 Oct 2026 07:16:00 GMT",
+   "score_parts": {
+    "recency": 0.651,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.595
+  }
+ ]
+}
