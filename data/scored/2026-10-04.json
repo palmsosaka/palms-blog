@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-04",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 157,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "自分で組んだ1.4Lエンジンが心地よい。 アメ車から旧車サニーへ辿り着いたオーナーの愛車生活 - Auto Messe Web",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ia1g4ZjFQaWxYcWFXTDN5R3BEOGk1SkZ1Ym55MWlfUTlDdWV5ZExjTUhyUTBRUXNUdll5TnFUYzVsc05ZRERDZ1h1ano2ODdBeW1lVWh5d2pNMkpaQ0pv?oc=5",
+   "published": "Sat, 03 Oct 2026 13:21:32 GMT",
+   "score_parts": {
+    "recency": 0.791,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.737
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "自分で組んだ1.4Lエンジンが心地よい。 アメ車から旧車サニーへ辿り着いたオーナーの愛車生活 - Auto Messe Web",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE16dXBPZ2xSc2hHeXpHMVVPY2FDY0JiTWJnTzlNWWF5NEFRYVUzNEpTNkt1Q1ZoWjN6ejFoSm1WeTlqMExwSXpVaVAzTzRzYTNwOGtJRURhc9IBXEFVX3lxTE4xR2lIekoxLXVVZkhmOFgyV3Z1N0hhUFBPZ29Ud0g4cmZ1cEdNUDlCMmV3eDhJdVdTaXo5NDVBaXZFQ3VaYXNMR2NSNzBzYnpiU2lZSG1oRGVMR05V?oc=5",
+   "published": "Sat, 03 Oct 2026 09:17:12 GMT",
+   "score_parts": {
+    "recency": 0.706,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.712
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "自分で組んだ1.4Lエンジンが心地よい。 アメ車から旧車サニーへ辿り着いたオーナーの愛車生活 - Auto Messe Web",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wel9JOWVFcWxBV0Zob1ZvcFQ1LU4wcnlWcm1aZ05qYXZ1RmkxLWF3TnZlbEtrVXNBWGVXM3Vsc0cyZ0Y0enNkaHBVSk41UmN6TTVYVEVUc0ZIUdIBX0FVX3lxTFBCa29rQlBLLU8wTVFsSWxHVHhIa3NzYTA0T2wzLVl0dFNPVGd4Mll4M3UwUlVUYVFjZjU1aHhCODVWbFZfM3dqWUhqRFo0RGxlSC1kc0ZzQ01KXzRuaU00?oc=5",
+   "published": "Sat, 03 Oct 2026 08:30:02 GMT",
+   "score_parts": {
+    "recency": 0.69,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.707
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "V8・後輪駆動は完全に過去のモノ？ 絶滅危惧種のアメ車セダンが「30年ぶり」に奇跡の復活を果たすワケ - carview.yahoo.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNVI4Z2JGejdCNjR1SDJnd2djd1Y2dm5oeTJ5X3pqbzlGZjZqSF96blZ2bERJaThjaERialAxa0JrTS1ZZDJORmVtZFlPeU9Gd1ZJQTQxYWJEVWhLN3RWaVR2TzU3SjlGUkNHZUNYSEFIdWJQYmd4MkFXU25PbDVXWW9yM1B4a19QUnZZQndsamR6a250?oc=5",
+   "published": "Sat, 03 Oct 2026 22:00:33 GMT",
+   "score_parts": {
+    "recency": 0.971,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.691
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "エンジン修復に数年。部品難を越えて不動車から復活したホンダS600初期型の旧車ライフ - Auto Messe Web",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92RVoxZDd5eTFFcUQ0VWFLZVNvdXZXd2MzNDJrXy1iME9xU0hvTGxqRnQ3X09iMGhDN3NJem8tV2RvZ21mUVcwY3BLdm5tcTNXWms3QnczaWU5bUJGeGVZ?oc=5",
+   "published": "Sat, 03 Oct 2026 15:47:55 GMT",
+   "score_parts": {
+    "recency": 0.842,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.652
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "ソニー損保の長期自動車保険（3年契約）なぜいま必要？ 8割超が「理解 納得して選びたい」 3年分の保険料確定＆無事故お祝い金で保険選びに新たな価値 森永康平 経済アナリストも推し - 千葉テレビ放送株式会社",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52dnpVckgwOUctRHRNYUduSXE4dXJ5LTZ6Z2pZNUs2OHlQV3BhbTdERHpSdnhiSDhqeXVsaEh1N2RnRGlkck5OeGZUUTZiNUc0dGNpb1BWRWxQYV9hRy13?oc=5",
+   "published": "Sat, 03 Oct 2026 07:17:55 GMT",
+   "score_parts": {
+    "recency": 0.665,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.649
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【今治騒音】深夜のコール騒音問題【旧車會】 (@IMABARI_SOUON) on X - t.co",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9lYlkxeFc1Qm8zX0U4VmszeHhfbEJYaXR4R2RCcEppMGdDek1ZSVJRSHFlN3l4WUl5ODZz?oc=5",
+   "published": "Sat, 03 Oct 2026 14:23:36 GMT",
+   "score_parts": {
+    "recency": 0.812,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.644
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "【事故】圏央道、内回り 青梅IC〜日の出ICで車線規制｜通過時間・最新状況まとめ - t.co",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFB0VGFwT2ZXMmloNjRHNjduSkhfVTBkZU1uNnBtdkprdGRMZjN0aTVSdDA1M3MtNFdPbDRn?oc=5",
+   "published": "Sat, 03 Oct 2026 13:42:22 GMT",
+   "score_parts": {
+    "recency": 0.798,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.639
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "自分で組んだ1.4Lエンジンが心地よい。 アメ車から旧車サニーへ辿り着いたオーナーの愛車生活（Auto Messe Web） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaWVwRkpJbTBhWllMQmFMWnV3ZmxuWDhXdE9fWjREdmJlVjdxS19UMmhrTHBtdWQwUlBoT3p1WV9LSXo3Z1FEQWcxV2VRRmYtOEk1S1RNRS1yMkhTem00cm5yNEtLYldIZlJ4TTA5QTlzNGtfNGhRUDVKNDVLX05rdXJBY1lwMGRr?oc=5",
+   "published": "Sat, 03 Oct 2026 08:40:25 GMT",
+   "score_parts": {
+    "recency": 0.693,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.608
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "自分で組んだ1.4Lエンジンが心地よい。 アメ車から旧車サニーへ辿り着いたオーナーの愛車生活 (Auto Messe Web) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU2NXcklOZkxNQk5seHJTbmZjYzcyOUhJVkt2Y2lGWWdONkdOa2hXODNiSHpsbldnVnhwZlBPZkxpb3VRWnhqTXhlLVpIa0J4OHYyYkY4UWJyWHRtQ3poMm9CNXpXLXUzVmlnejVHbkNlMDdnSC14ZzFaY1hUWEhQSUxSTFlYME9BMzg5UFp3?oc=5",
+   "published": "Sat, 03 Oct 2026 08:40:25 GMT",
+   "score_parts": {
+    "recency": 0.693,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.608
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "なぜ旧車のナンバーは文字が薄い？ 最近のナンバープレートが「色あせない」意外な理由（WEB CARTOP） - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ybEFtMDhiUWd3VHVGa3FPV3paQWR1X2E4Wl85aG9Eb0tfeG0wY3FTNS1FbHNqQnpIWUhVUWROYms4Mlc4TFA3MTNlbDlWTlQ2dTRheFdjYnFyU1pHb09jMkRGSHQxeHQ5RXlFTjFUS204YTFLMy03SUkwMkU2dw?oc=5",
+   "published": "Sat, 03 Oct 2026 08:20:00 GMT",
+   "score_parts": {
+    "recency": 0.686,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.606
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "なぜ旧車のナンバーは文字が薄い？ 最近のナンバープレートが「色あせない」意外な理由 (2026年10月3日掲載) - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RSnNNblBzWTlXWGg0ZmlYdExibWxJaS1VMFJfck1qR0QtXzkyNWd0N2NDejVQNDB1T28yVmdnMHVzajRha2ttTmhYV0ctRXNneGRuTkpDeWNoX3VoNGc?oc=5",
+   "published": "Sat, 03 Oct 2026 08:20:27 GMT",
+   "score_parts": {
+    "recency": 0.686,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.606
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "〈千葉豪雨〉冠水相次ぎロードサービス要請が急増 レッカー車もたどり着けず - netdenjd.com",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fTjdyU0JDUG04bDdObE1SZjZWbmtlOFpQNkptNFN5QnNnVmR6b29xWkV3QTlUZE1aWGdvdXNaUDZTZFppR0VUdjFwdXpMLXdieVE?oc=5",
+   "published": "Sat, 03 Oct 2026 07:13:53 GMT",
+   "score_parts": {
+    "recency": 0.663,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.599
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "90年代の“はたらく旧車”に注目！伝説のバイオレンス映画『殺し屋１ ４K』でゼロ年代の新宿・歌舞伎町を懐かしむ - motor-fan.jp",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Kc2g5ZFA3X1dSQml6T2RqcXh1NVJyUFRZOGpKZkpoVmtzc2tkckcwbXNLdUZ0QVZEcFdfOVViUV9iaXlzd1JUeURJbF8yaHVhOFNidWdR?oc=5",
+   "published": "Sat, 03 Oct 2026 01:01:23 GMT",
+   "score_parts": {
+    "recency": 0.534,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.56
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「奥さんに怒られました」 日産旧車を内緒で衝動買い 見つけたその日に即決…30年越しの夢に総額1000万円超（ENCOUNT） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uRkI4bzMxUEMtQjBidy1kSnVOYl9ESXFfa2Y3SHppNFNIVGJFc3BUZnprRmtyVjdpUmVmeXk3Qkx4SWRrU1paZHhZQzBRVFpacW0zZ1ZNQW5FMU9HVG8wX09YRUhwdmJvNm1VNVZUU01hUTY5VUFnWE12X0FudGs?oc=5",
+   "published": "Fri, 02 Oct 2026 23:40:00 GMT",
+   "score_parts": {
+    "recency": 0.506,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.552
+  }
+ ]
+}
