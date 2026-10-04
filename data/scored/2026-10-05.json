@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-05",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 132,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "青森：青森で旧車展示会 スカイラインからポルシェ９１１まで往年の名車がズラリ：地域ニュース - 読売新聞",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PWmpZVE5pZEgydmZCdjNtcWFMelIzbnJ3ekExeVluRC03QXA1cktUSDRfNHlJbzc1ZU9rRFNsOGU0dlNaUUNCbG93YWQ0cWNWdVlVcENmTGk0U3FJWE84UzhuTHozcmRfR283dkJBYjlKdw?oc=5",
+   "published": "Sun, 04 Oct 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.924,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.677
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "1995年、平成7年｜街道レーサー・暴走族・旧車文化──30年前の日本に残された青春の記録 - YouTube",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mcG9yNjFjWkxYcUNDVnNiVWU4NFFrQmpYd0RERmN6dkY1eUhkX2tkSklIMVVWWGt2aWVGWnpEQVdobzBKOV8wWE9INWwtWTQ5U3h3Q2lZaU1uNi14?oc=5",
+   "published": "Sun, 04 Oct 2026 16:24:07 GMT",
+   "score_parts": {
+    "recency": 0.849,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.655
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "CX-80 PHEV（KL系）VS アルファード PHEV（40系）徹底比較！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tdldzai1HMDVzSklpVWxRSlJtcGlPekhRME9NeFV5ejNfbEJQZ2hCdU82VU1uNVR4MTJjRjZQeVlhQU82NXlLRDRiMUFwNjhsc2ZB?oc=5",
+   "published": "Sun, 04 Oct 2026 23:29:45 GMT",
+   "score_parts": {
+    "recency": 0.997,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.649
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "（時時刻刻）車と暮らし、水害に備える 保険検討「被災時の感覚で」 - 朝日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiNktmLS1BWm9EMGVJWXpPZXpkNEd4enBJbFhMMjN4NVpBY01WdDlGVDRsU3RMUnBlcWdBZDVRNlVTVEVNZEEwR3JRSHB0aDMxUnBiTGFkbEVGRmVJ?oc=5",
+   "published": "Sun, 04 Oct 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.924,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.627
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "70年前に製造された旧車復活 徳島工業短大生が修理、公道を走行 10月18日の学園祭で展示 - topics.or.jp",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QcHZlNDdrX0dPNFlGN3hMTUxRQnVZVzZlQVNHc3ZzQng3Q2lRY21BdXZ2TWJtNVY0VlFKRkd1aU9HbzlBd0FHdW5XNFdZT3lKdVVzNTdR?oc=5",
+   "published": "Sun, 04 Oct 2026 03:00:00 GMT",
+   "score_parts": {
+    "recency": 0.57,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.621
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "駅前の地下駐車場“貸し切り状態”　ド派手アメ車に人だかり、和製スーパーカーも…「こんなの見たことないよ」 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVE1tRmJtODRvaURGUlkwNmxmV2otN01SYVBscDVMMG1mNHpZclhldVp2UFJrdVhxTU0wbi1HSEQtb0tXVko3V0g1dFZTTEd1WWNJbVpELVFuVlQ2eFZmV2Fmb1ZJM0tlYjdDTXhuUXJJWTc3UXFaQXZLWWp2SVN0MVVuTk9PLWlyYW9VcdIBiAFBVV95cUxQTXM3TGdnSGt2R0lNYzNKa252U0NRbDRFLURTUjNtV3cxbVlRVjN2VWU0cUVGRFcwdF8xblBabjlXTERyU2dEMldPYXJ6dURVNFlfWXhYV1hSUWdNVTEwY3hFWFltT0FDUUlzOEc2cDlWLXFHZnhVcXQyZDJsRkZvRzlRYUZqckll?oc=5",
+   "published": "Sun, 04 Oct 2026 08:13:47 GMT",
+   "score_parts": {
+    "recency": 0.679,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.604
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "売れなかったクルマは必ずしも失敗作ではない！ ピアッツァに続くいすゞの名車ビークロスはいま高騰しているのか？ - bestcarweb.jp",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Mc0xHWTRvZnBCQ0MzSjFOUW1CRkh4MUwzRkFoSmMtci1iNlUtM0ZCR2xYMXpXc2hFSlhQR0RlOHJVVUdtT1JfdUYwTlBvdFl0M0RZ?oc=5",
+   "published": "Sun, 04 Oct 2026 23:00:00 GMT",
+   "score_parts": {
+    "recency": 0.987,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.596
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "道の駅旭志にて旧車イベント見てきた！ - YouTube",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1hem5MX1ZxYWtWS0VmZkxiZV9scjV1VHRwQkNDNHJZaWpGUFlaM1RsSU5ENTc4MnVxbnBJOVNQX1VoZw?oc=5",
+   "published": "Sun, 04 Oct 2026 06:51:38 GMT",
+   "score_parts": {
+    "recency": 0.65,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.595
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "北見で旧車走行会 ハコスカなど58台が集結 オホーツク路120キロ走る - 北海道新聞デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56UkJWS2dpX2doSXREazlTalZjY1U1ckQzb3ZWVlU0aWNnTTlSRU5hUXJVSkJvYnY4U1FxNnlZWHlrQWNOQVpVOHF0YnVkV0dRVTR6eDBGdFZRZw?oc=5",
+   "published": "Sun, 04 Oct 2026 06:45:37 GMT",
+   "score_parts": {
+    "recency": 0.648,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.594
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "北見で旧車走行会 ハコスカなど58台が集結 オホーツク路120キロ走る - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92WkFaX0c2Y2VrdHNCcjA3WC1PNDdLa240ZnNWQl9hekthb1ZoVTJyQ0NKdUR1dW5IdUxmQm4xRjY3dF92RnlESDZVQQ?oc=5",
+   "published": "Sun, 04 Oct 2026 06:45:37 GMT",
+   "score_parts": {
+    "recency": 0.648,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.594
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "北見で旧車走行会　ハコスカなど58台が集結　オホーツク路120キロ走る - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1elNLczdLQ0QyZzlSZWFpNTBLbG9Hc2VuT3luQjQzVFVPeUVXUVdvNWhOT092MXhoTFhSUWhOVUJYQWdpeE9xNHczYWJhQlZPdHJJUGtGLU4xVEpCZ0VkV01LeE40TU9HYmVOajV1dkRuRTJ3UUJIUzBULUrSAYIBQVVfeXFMTVVNYTE0R0ZVc1lRbUdienZ3NkJWQzBXdm43NkhqX0hWaFdrVFlyTmhfNXZIX1l5RldiSnVuNWR0RzJDY1Z5TFhwU1Z1TzNGUUtEYXlTcWxxZDBfb1FucTBEOU03Zy1CQ3c1eXJSdTFSVTk0UDlLLUh3OE5tQXEzcmxzUQ?oc=5",
+   "published": "Sun, 04 Oct 2026 06:45:00 GMT",
+   "score_parts": {
+    "recency": 0.648,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.594
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「ベース車を見破るのは無理!?」SNSで話題沸騰の現代版ハコスカのすべて - motor-fan.jp",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8xYkIxbXlYNG9RaDVqVmhoLVdXU25na2ZDQ3lrSWRDUC1kaUtCdVcwUHpHbVlMR2lDaXdaQzZiXzB4eG5nQnNaeVVmX0g4QQ?oc=5",
+   "published": "Sun, 04 Oct 2026 22:30:00 GMT",
+   "score_parts": {
+    "recency": 0.976,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.593
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "盗品と知りながら高級車保管　容疑で古河のヤード従業員3人逮捕　茨城県警 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeWxfbW1IaWliVlEwSlBLTW9zUFZ6WUhOanNNdmUzN0l5cW9CNDJiYnByT3Vrb2t5M0tGdEd5Z0FUai1qQ2xxbzdPVWU2RXQ1T2JzczFtaHhuV1ZHeXVTTENqOXVJMVRRcXFvd2pjV2gyZkVCel93VjBSZko0bGlpUHNfbXBxQmNGLVo4RnJRTTVHeXprQUs3em5GYzdpSnhJVUtLQjdXZ1F0ZVU2M1J5YkNZMGlyLUgzTHRWUGNDTnZZODRBeTZCd3hrOEUxZWNkTDN0Q0ZZdTTSAYgBQVVfeXFMT3gyTHJsWlpRTFVIZGxWRzEyWlBOUDhDUlpFa0pSanB2c1dtMXFvWTc1b3JaUmNTNmNHejdrMzRIeExyd1V1OGdXalpicDIxa2xJcEF5WFBKTFZabWlFbm81RTNoZURlVW9yVGFNazctSE1WMDN3eTJXQURGYlRFTmRNOFBoY0Z6SQ?oc=5",
+   "published": "Sun, 04 Oct 2026 21:26:50 GMT",
+   "score_parts": {
+    "recency": 0.954,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "日産「スカイラインGT-R」穴開け拒否のFRP換装。プロレーサー松田次生が選んだ愛車保護の答え - Auto Messe Web",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xRlpTVlZhckFkZ08xbUhLZFhLSjZRM2VFLW43dTRPZl9QTkhnczFWVlAyWW9NRDJnNEljVnhXdGhETEdac2RJZThnaVNCdzBZWFlhQUhoMUJEQdIBX0FVX3lxTFB0MjFHYm9YTjNDWEZuX2FYbERpZ1hVQ0k5WjNlblFHdjY5TldfMmFuMzBiUG93UWZpMUt5Tk1GVkhXczlrZWYzbmxGOFhfV3FCM29WcURhRnl2QjN5S1BZ?oc=5",
+   "published": "Sun, 04 Oct 2026 21:00:37 GMT",
+   "score_parts": {
+    "recency": 0.945,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "中古車市場の規模と収益成長の分析：2026年から2033年にかけて、年平均成長率（CAG - pando.life",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9hUlI1M2RRSFdYcDgwYXowR1p2bi1Zal9RemtZblp4S1paMllHeUw4SHNOcF9sdzJWMW95aTFsdWxKM0w5QklNQkFR?oc=5",
+   "published": "Sun, 04 Oct 2026 13:06:05 GMT",
+   "score_parts": {
+    "recency": 0.78,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  }
+ ]
+}
