@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-07",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 136,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "SHONAN STREET JAM in CHIGASAKI #アメ車 #旧車 - YouTube",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XdWUzVjNORmFxd25PRzRoNjExN3hiMmR3WXFVa1BtVG5YNHhOQUhCQ2M4bjlnSndVU1JZOTVCV2pidEtseXhnQlRTQUwxT0pINUxHSGlGX3pVcXZr?oc=5",
+   "published": "Tue, 06 Oct 2026 06:42:37 GMT",
+   "score_parts": {
+    "recency": 0.635,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.691
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "阪堺電車の車庫見学と貸切乗車で浜寺公園へ 11月7日に親子イベント 10月7日から先着順 - サカイタイムズ",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81c2h1d05XamhiVHFJdXVQOWxxTGZzNTFDQ1d0V1VPRnJzOXg0U1lIZllKWjRIVXlOcnF3Q0lKSVFEWjhYTzRiMlFfNA?oc=5",
+   "published": "Tue, 06 Oct 2026 22:21:48 GMT",
+   "score_parts": {
+    "recency": 0.962,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.688
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "GLAY「HISASHI」の“愛車”に大注目！ マニア垂涎の「旧車」が超カッコイイと話題に！ 80年代の「名スポーツカー」とは！ - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN0VUWjZYa0hMZ1BSczhiOVN2eTYxTTgwWEhHaGhPQ0NUYU9GaUlVekFDeHRHZGpNTFNWdGZpRVdGSHlRR0NQME14QUlEbkVidC1pWUFyd2tvdWpaYWhfcDFuTmVIbUx1c3h4LVNac0t1VmNVMWo0QmU4YTRWZHVmdi00ODdwODFESnRLQUFnMV91RU01NzNpVVd5V21fWXAwRVNOdVJ1Nzh5ZW1FUzE2WVRkaGZ6WkNIOXdxczBiZVQwUk0tY3ExaUpSZkd0dDZ2elhFbjFn0gGGAUFVX3lxTFBfWWFPbGNCOG9Zb0VPQ3V3LVJ3TWNnRHZZZnVXNGpQYmVLXzhIY1JwaDV6ZkhWQlc3THlNNWtSZkJWVXJPamhMWk9hbE5uRk03TGxTb2U1YndmOEFoYjZmRzhfcVpNX1IyTThLWkhWY3Zqckc0NE4tYzQ5TWZab09IY2NYZ09R?oc=5",
+   "published": "Tue, 06 Oct 2026 21:45:28 GMT",
+   "score_parts": {
+    "recency": 0.949,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.685
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "GLAY「HISASHI」の\"愛車\"に大注目！ マニア垂涎の「旧車」が超カッコイイと話題に！ 80年代の「名スポーツカー」とは！ - くるまのニュース",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kUC12ZWJjZm5zNHBENkVPMnBuaU50anNPZ1M3bGcxSnFVYXZLUFF6bG1Wdk5qREpmNy05MVZYTnpUTkNvY1NZZVhoMA?oc=5",
+   "published": "Tue, 06 Oct 2026 21:40:00 GMT",
+   "score_parts": {
+    "recency": 0.947,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.684
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "GLAY「HISASHI」の“愛車”に大注目！ マニア垂涎の「旧車」が超カッコイイと話題に！ 80年代の「名スポーツカー」とは！ - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KdEpOcVdncnJFNEluX093ck5xV0RPSWNlMllWRlNienRzaVRQRFM3R2k4TjNlRUMxSUdiV3UxVXFMaWN6M0pMaFpVNjBpNlBuX3RqNDFkR3lDakdJYnc?oc=5",
+   "published": "Tue, 06 Oct 2026 21:40:00 GMT",
+   "score_parts": {
+    "recency": 0.947,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.684
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "11月は「自転車マナーアップ強化月間」です - 堺市",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5UVo0WWJmVnh1WHZ5SUJUcWptUnlBYjdjaHB5NjFIMGhmMm0xbjJOYlU2LTJISmlTMFBuYWhkU1hmWTV0NWJMM3AyRFV6ZHNxQ1E5aGlmLXk3Zi1uTGtPWnpmcWhYek1rbFI0ZzFCeDl0bzVVdnowdw?oc=5",
+   "published": "Tue, 06 Oct 2026 11:40:59 GMT",
+   "score_parts": {
+    "recency": 0.739,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.622
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "アメリカの朝なのに、日本の旧車が次から次へとやって来る。 - YouTube",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TM2ZyX19rckF0b0NPWU42X1RfQV9YY3NIb0hadE84WEdFQ0t3dVdrU0o0a2NEMmg5Y0FJQzZNQ1V0Y2d4bFhtNGQ2Z28tN1lSLXg5LW1ybGRMU29T?oc=5",
+   "published": "Tue, 06 Oct 2026 10:30:26 GMT",
+   "score_parts": {
+    "recency": 0.715,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.614
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「一体どうして…」たった20台しか製造されなかった、72年前のスバルの傑作車。とんでもない完成度を誇った幻のクルマ［P-1（スバル1500）］を紹介 - 月刊自家用車WEB",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54NkMzYkZXa3Jpc3FNcEJDejdCMTdFSjVTbVQxLXY5OFNlYWJpY21CZE52WGszcmVGOWhLempwUVFBdGR0WE1IUTFHb3NkMDk3?oc=5",
+   "published": "Tue, 06 Oct 2026 21:20:00 GMT",
+   "score_parts": {
+    "recency": 0.94,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.582
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "解体寸前の不動車セリカと生年月日が完全一致。2T-G改2リッターで蘇らせた運命の愛車 - AUTO MESSE WEB（オートメッセウェブ）",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EQWxOVzEzQy1VR05CSDY5WUp2cUl5WjBqMUVtam5jTVNob0dSMWhKc1duaU9Qd0VwbDBITURVSllDeGhBSXlTREhoWDBxRUVDa0VpUDJFaHItQdIBX0FVX3lxTE4tcEwwVWU1ZGktQ3plcEJKd3VFYktLUEs4SHJHQVFBZnJNTWREQ1VXc0FWWWZ5X1F3NXdUOUtta0VzdGlESjdEOGR6Vy1PaTE2bmhQYlBuZzFmRUJ0S2VR?oc=5",
+   "published": "Tue, 06 Oct 2026 21:00:25 GMT",
+   "score_parts": {
+    "recency": 0.933,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.58
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "名前も見た目も「ブッ飛びすぎ」1000台限定だった“旧車風パジェロ”とは 「猫であり、子犬です」？ - 乗りものニュース",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1Vm9yNllXOW1aWW5PbXZ4aF8zLTZ3OEFpN05xamM0c0NycDhNQ1QwS0Q5RkF6c056eXR6UU4zUFNFQzItMXhNRnhn?oc=5",
+   "published": "Tue, 06 Oct 2026 04:12:00 GMT",
+   "score_parts": {
+    "recency": 0.583,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.575
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "名前も見た目も「ブッ飛びすぎ」1000台限定だった“旧車風パジェロ”とは 「猫であり、子犬です」？ - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVnVHbWhHY29YTXMtWE84VkJzbnN2MzJjc0hQZDVwcVlBOUg4TjlFazRHTVZUR3pLSTBDbjBhQV9YdTRWbFVaUmN4VVRLNGNWRkdVbV9XQmN0LWdQWXlCelhQS2dGcEJFbnVJX0s0clE4Z3RITGwyOHFwdUxrUHZRMjBJb2Q1MjAyMVhCbGd3?oc=5",
+   "published": "Tue, 06 Oct 2026 04:12:00 GMT",
+   "score_parts": {
+    "recency": 0.583,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.575
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "堺市、無電柱化整備手法等調査検討で落札決定 - 日刊建産速報",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TVkV3NEJCZURMR19LdkZFQl9tb05NcG1MYXpKbTRoUkgzb2VlcVVpRWNlQXdOcEpubWRBR2NtV185UDBJOEJ4TVp0OVlVOEdHZE1B?oc=5",
+   "published": "Tue, 06 Oct 2026 23:00:03 GMT",
+   "score_parts": {
+    "recency": 0.975,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.572
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "昭和レトロカーミート2026。10月18日、千葉に旧車250台が集結｜自動車交通トピックス - JAF Mate Online",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMSDJoQ3hYUWFjRGxSdUZaa3FOTmV2VjVKeGZWQXFkN3N0TS1TVG9NV3lxWjYzeU5DUVB4VVJEWnBXVTl2RFdxZ1F5V3laZWVoUDM3dVB3ZUtjb3JyeTRyNUtsaUJiTGUyc0o4?oc=5",
+   "published": "Tue, 06 Oct 2026 00:33:22 GMT",
+   "score_parts": {
+    "recency": 0.507,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.552
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "発売からまもなく1年。「RAV4」の中古車相場に変化は？ 狙い目は「26年末以降」と言われるワケ…相場が読めない“特有事情”とは - carview!",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNzgwbUlscGxlWWMwS3JIUEdQQ2kxa0stV2lZWXJmMXlockgxZ0RZWXRxTjloQkZXOW9YOWxCZGZ3MW1SbTRIcDZUNlhXZFhvaFNHQ3VoaktHYWRMSU11MUVrYndRc1p0b0ZoTTlMX0JURzN4bFRreW1vZEZ0MEZJSFgwMG4ydlVHcXZTeQ?oc=5",
+   "published": "Tue, 06 Oct 2026 08:00:00 GMT",
+   "score_parts": {
+    "recency": 0.662,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.549
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "旧車・街道レーサー｜グラチャン仕様・シャコタン・初日の出暴走｜クレスタ・マークII・ローレル・RX-7など - YouTube",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81Tjg3MGZtVXhHSzJIMFRiZl9faWp5azNDWFN3dDF0Smw3ckxvcjJyTjhaU1lPUEFBdWYxUzZZWG9ldG11X1p4bjVPaTBMOFgwd2lyUFZVR3ktbTlX?oc=5",
+   "published": "Mon, 05 Oct 2026 21:25:02 GMT",
+   "score_parts": {
+    "recency": 0.442,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.533
+  }
+ ]
+}
