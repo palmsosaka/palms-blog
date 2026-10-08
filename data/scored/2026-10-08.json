@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-08",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 142,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "自動車保険の値上げに約9割が不安 無事故で還元される仕組みに注目 - Forbes JAPAN",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uelhONm9UX1dLcHVyMkFpMUUzVTBmakRrQ2Y3NjZ4Z0xJellqZXZpRklWVGV1SWdBcGNUc0E0eF9fRGI1anQwVF9EVWZLRlg3WWxra2dZcXZ5Zw?oc=5",
+   "published": "Wed, 07 Oct 2026 07:15:00 GMT",
+   "score_parts": {
+    "recency": 0.641,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.642
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【正規店通販】当時物PIAA角目ハロゲンデュアルフォグランプ JDM 旧車 族車 ネオクラパーツ｜au PAY マーケット - sakhaparliament.ru",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OYUFweUMxZFZpcnUzWW13OGE5U2NOM2ZTdWcxcEtRUDRsV0d3bVdBNW9ha1VyVFYzTnhzelA1djlwUGFMd1Nacy1HR2xhNE5fQWpLclhmcDNxTXE3cDlVaDItVDRLUQ?oc=5",
+   "published": "Wed, 07 Oct 2026 14:10:28 GMT",
+   "score_parts": {
+    "recency": 0.785,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.636
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "鍵穴をこじ開けられた…。車上荒らし（盗難未遂）によるドアノブ周辺の生々しいキズ修理と心のケア｜古田昌也 - JIJICO",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4weDVwdm9uU3ZVNzFaRlQtV1B5TTQ3VUdBWHEtX0hFZWtHdTNNR0pDaXdrM1g5MzZqNmFEY3dyVXVWTHRLRGlqZHZ5QlZ2U3BFZTB2OXJsOTZxT1NXMkE?oc=5",
+   "published": "Wed, 07 Oct 2026 21:02:21 GMT",
+   "score_parts": {
+    "recency": 0.928,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.628
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "TE37誕生30周年！ 旧車の足元を変えた「TE37V」に30周年記念モデル登場 - ベストカーWeb",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzTjVTX0RxdVg4MkdjT0F1VkJuY3FhQWRVOHZnc1U3WWJ1Q2NoaFRNdm9ZbDVDcEZ2S01XN3p5SndQdURDdE9PT1BsaG1sSDZHWnRnYzFqZTBTZWhr?oc=5",
+   "published": "Wed, 07 Oct 2026 09:50:45 GMT",
+   "score_parts": {
+    "recency": 0.695,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.608
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "中古車が500万円まで高騰したスズキ「ジムニーノマド」。発売から1年半、いま中古車サイトで検索してみると… - TRILL【トリル】",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pdWdzN1NvVUJwYk5JSUhZeTYzWjhLQWtiNjJVbE5yZTlRTzFtV2FiLVJfbEVKU3JUd1lGUnpMS2MteWpFNkwtVzcySDRRa2c?oc=5",
+   "published": "Wed, 07 Oct 2026 17:35:00 GMT",
+   "score_parts": {
+    "recency": 0.856,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.607
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新車310万円が中古「430万円」のロードスター!? 超希少なNB型「ロードスタークーペ」の中古事情 - ベストカーWeb",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rcHYxTG5VTFI5UWJsSVM2V0l5ZHc2UVdTU01Nd0RReU94eVhCbXUwRzJNZ0pjZXhPOUx5d0NwdXZxV2FHVmtYMXZZWDRtN0RlU3F6YnZLdw?oc=5",
+   "published": "Wed, 07 Oct 2026 23:00:00 GMT",
+   "score_parts": {
+    "recency": 0.969,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.591
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ダイハツ高級「\"4ドア\"クーペ」に反響殺到！「めちゃ美しすぎる！」「昔の欧州車みたい」の声も！ \"旧車レトロ\"風デザインに「ターボ×ハイブリッド」搭載の「DNコンパーノ」とは！ - くるまのニュース",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZDhULVp5Qm8wVGxVc2QwQmNZVDl6THZrX2VFYnQyd1pFcHZSSl9JMHVTbDJNV3A1M3RCaUFXb3BaRnowMWRCNGVGMzBXNEhWZUpVNGY4cE4yMGRtdUl0aEs3b0gyOUVnSWs3TWJiR0E4LUlQeXhGYVFaWFJkcDUwRmp6bk1hdFNDYzBrWmpwYVdHaGxTRXVrY1pTWU9lT2tyQmdGdjZjQzRaRHRvN1BIXw?oc=5",
+   "published": "Wed, 07 Oct 2026 05:14:31 GMT",
+   "score_parts": {
+    "recency": 0.599,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.58
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "柏の葉で ディズニーパレード、ミッキー＆ダッフィーバスに会える！TX臨時列車32本＆駐車場全滅の交通規制注意点まとめ【11/22開催】 - 千葉テレビ放送株式会社",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81OUlSdkI4VGcyOWJKdm1VNEV4RHlCZGhMbjRDRUw2TUlDUGFTYVJvdFppT0ZqbEJ1WG9YT0ZzMVJnNi1XVEVRanpuSW5XaEk4NGp5YV9YUktlR3Z2cUdNWHhvVUs?oc=5",
+   "published": "Wed, 07 Oct 2026 20:48:23 GMT",
+   "score_parts": {
+    "recency": 0.923,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.577
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "トヨタ「ヤリス」サイズの新型「“ちいさな”高級車」！ 旧車デザイン＆豪華内装もイイ！6速MT＆4WDも選べる光岡ビュートストーリーどんなクルマ？ - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMFVVWnNHRjNGSS1RazJuMi11VjYyb3lnUU9VZWdWcUNMbWUtQWU3M0JBZUk0UjN3Q3VjSjNyaHp0UUVmZ2ZZdnpLdXFSRFJfOC1pbXRkbVh4LWhHWkk3bS0zWURLSkRRbVZmbnNjOEpUeW9HMlhmYUgzUlJSNWU4QlJ3VGlHd9IBhgFBVV95cUxPMFVVWnNHRjNGSS1RazJuMi11VjYyb3lnUU9VZWdWcUNMbWUtQWU3M0JBZUk0UjN3Q3VjSjNyaHp0UUVmZ2ZZdnpLdXFSRFJfOC1pbXRkbVh4LWhHWkk3bS0zWURLSkRRbVZmbnNjOEpUeW9HMlhmYUgzUlJSNWU4QlJ3VGlHdw?oc=5",
+   "published": "Wed, 07 Oct 2026 03:50:00 GMT",
+   "score_parts": {
+    "recency": 0.57,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.571
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "トヨタ「ヤリス」サイズの新型「“ちいさな”高級車」！ 旧車デザイン＆豪華内装もイイ！6速MT＆4WDも選べる光岡ビュートストーリーどんなクルマ？ - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BenJNbUs0UWNGMlVwVk5KZ2JsbjVnV0dxTjZrYUR1eEtMbGNwbUw1a3kwTURrSEQzWVV2VXlFbUkxdjdscUF1eHlHYTVLdGFza3dJWEo1X0hHT2RwZlVV?oc=5",
+   "published": "Wed, 07 Oct 2026 03:50:00 GMT",
+   "score_parts": {
+    "recency": 0.57,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.571
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "＜画像1 / 25＞時代を彩った名車がずらり！クラシックカー in Nostalgic 2days【その2】全25点 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96c0x2ajFEcXU2VlBqSS1ZT0ZxVlp2OEdPTF8wRU44R19sUkFVd1EyY19VLUFYUXJDMFdxb2NReVkzQUhkeGpIVUYyTHlydjB5a3ozZVlDUkNJUWdGQjlXWVI0MExBZVQ0Umc?oc=5",
+   "published": "Wed, 07 Oct 2026 19:32:25 GMT",
+   "score_parts": {
+    "recency": 0.897,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.569
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ダイハツ高級「\"4ドア\"クーペ」に反響殺到！「めちゃ美しすぎる！」「昔の欧州車みたい」の声も！ \"旧車レトロ\"風デザインに「ターボ×ハイブリッド」搭載の「DNコンパーノ」とは！ - くるまのニュース",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PWVRJQmRyZ1haaGpaMXBwcUpJWHd1WFZYclBWd2pRdEhXNWdlSFBGWXluM0ZweWcxMktJdGkyMlp5d0FPYUZFNUJYRQ?oc=5",
+   "published": "Wed, 07 Oct 2026 03:20:00 GMT",
+   "score_parts": {
+    "recency": 0.559,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.568
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ダイハツ高級「“4ドア”クーペ」に反響殺到！「めちゃ美しすぎる！」「昔の欧州車みたい」の声も！ “旧車レトロ”風デザインに「ターボ×ハイブリッド」搭載の「DNコンパーノ」とは！ (2026年10月7日掲載) - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EdVJRTUFORzV5WmhFOE1uRG1VQ1NSX1JkdV9sdTdDel9pOHN3RHd5QVNpZXVtWTFSNjdDS3Jnc1E2UjdHZEluMTcwTnAyRFNuS1VsUWYxZlVuOE83b3c?oc=5",
+   "published": "Wed, 07 Oct 2026 03:20:00 GMT",
+   "score_parts": {
+    "recency": 0.559,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.568
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "神戸発・産官学で挑む“中古車売却×ゲーム理論” 神戸大学教授と研究する新オークション方式、神戸市の支援事業に採択 - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9OVU00d1JtVGpYZ0RrcXVjejhKME1TcEFBNllnbFRZZEJNV0xpdG9SdEtOb2UydTJ3RGxwSFh3NEZVVGJvb1JOc3ZQTVdQTXNHMzNSa0wwczk4QTJfc05lVzE3QUVlYWY1WGUxM2hGV0Jqdw?oc=5",
+   "published": "Wed, 07 Oct 2026 04:45:22 GMT",
+   "score_parts": {
+    "recency": 0.589,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.527
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "所ジョージ、おすすめの“旧車”「寝てたのが今掘り起こされたって感じ」 「家族に負担をかけない」で楽しめるホンダ“名車” - 山陽新聞",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1OWjFicjhoZElTYTljOVN2Y1pWSmhwd0ZSZm5aM3pld3dIYjd4aURiSU9VOC0xY1Z6cTF1QktxcXBTQjFyNERJOHBUSW5YVG5lek1YYW5PeWc4YjY0QW83blJvRQ?oc=5",
+   "published": "Tue, 06 Oct 2026 19:09:33 GMT",
+   "score_parts": {
+    "recency": 0.389,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.517
+  }
+ ]
+}
