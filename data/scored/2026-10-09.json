@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-09",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 112,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "【倒産】事故減少で板金需要が減少...地域に根差した自動車整備業者が破産手続き開始決定 「先進安全装置搭載車」への対応に伴う設備投資も負担に【帝国データバンク】 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ES0xMOE9UVHJfQkU1RjhvUl9leEtEZXMwam5EZGkzMlNabmlvaWZGQXZ2LVdmd1JpTzFtYjV5ODRScGVxYXFxUC1LZ3BzOS15TWg5UFhzQXVnUUJBenVmQg?oc=5",
+   "published": "Thu, 08 Oct 2026 11:00:00 GMT",
+   "score_parts": {
+    "recency": 0.714,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.714
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "リフトアップ全盛に「あえてサゲる」。ジムニーノマドを角目と1インチ低床でアメ車風に（Auto Messe Web） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeWdNb3VnNHVxbmM5ak5kR2UxTTRHd2p6c3pkRWVORzRkQ3V2TzZFQnBjdE9keXQyTWF3aVZ6R1hmMm1ZVW5lWWQ1WUxxTl94MjJqZlRLRUZpWlBLcWtXczdORjZ4WHJ4SEh4ZVo2Ni1qV3NKX0Vya1hheGlDSnh2dUlTQl9DSDVK?oc=5",
+   "published": "Thu, 08 Oct 2026 23:00:43 GMT",
+   "score_parts": {
+    "recency": 0.964,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.689
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "今年上半期の保険詐欺過去最高自動車保険など事故内容の操作先月導入された8週間の効果に関心 - 매일경제",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fN2s3OWxWWXZIMmlERklHVXFLNmhVekZ0TndWWkVrUnlRNG56S3ZuMlprRmt2TUozYmJQdWVudW9OR2F6WXRiY0ZwaFpXQmF2RUE?oc=5",
+   "published": "Thu, 08 Oct 2026 07:45:38 GMT",
+   "score_parts": {
+    "recency": 0.647,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.644
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "【2026年10月更新】中古車の買取相場の推移｜相場が大きく動いた車種はどれ？ (画像No. 4 - MOTA",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SdmN4Vm52OUhCNXROQ0JHTnktZGtnemxDV3J1TkNKWVNrTV85X0NoSDBYUWl6ZGMxeFpjekdDbFVnT3ljYjB1c3NMMTMwbkJwVXEzamdyYnIzUG5UQ0VQR01n?oc=5",
+   "published": "Thu, 08 Oct 2026 18:46:31 GMT",
+   "score_parts": {
+    "recency": 0.876,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.613
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「スズキ、70年前にコレ作ってたのヤバすぎ…」時代を先取りしすぎた伝説の軽自動車【スズキ・スズライト】 - 月刊自家用車WEB",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5GTUd5M1c5dlZWZ3RlMHlPeHZEdFlyYkpiRGMwNndQN1gyNGFsUFBKTk5SVkpMUVlHcTB1bkNvZDRhNTBmUmgydy04cVNObUlENndjMXczMXZXREktSXRpT0Rn?oc=5",
+   "published": "Thu, 08 Oct 2026 23:31:25 GMT",
+   "score_parts": {
+    "recency": 0.975,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.593
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "【2027年、中古車の\"供給の谷\"が二段構えで到来！？】【リセバ白書】相場を動かした「三つの力」と、2027年の市場見通しを解説 ～ホルムズ海峡封鎖でも買取相場は崩れず、2027年は二つの供給の谷が重なる～ - 千葉テレビ放送株式会社",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zZllVVjNOX3RSRjUxaUhKQVN5TlJLUmpfMU84ektDbnJXWk5HVm9XYmJMdGRvcXdVb2VLMkVOQWxLWno2Z09JWTFCdlltd0tvUjNkV1NxczI0eFJJLXNR?oc=5",
+   "published": "Thu, 08 Oct 2026 15:40:18 GMT",
+   "score_parts": {
+    "recency": 0.811,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.593
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「運転するのが夢だった」トヨタの名車たちがズラリ！Vintage Club by KINTOで味わう歴史の走り（月刊自家用車WEB） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13UXk1UFN3a2hVdllJbHlJdzZLRmhMMEJNVGlFcmFPeElSbVJ5czRNNU9TTmRDci1ncHJ5a3dGcXdncEF5dWVwcTdTaUdNVEJROHpwY3hGSlc0endfT092cFZtcHFjUVRJSkRPLWN5VmNFNWthcm5DNEI2Mm0tOXc?oc=5",
+   "published": "Thu, 08 Oct 2026 23:25:05 GMT",
+   "score_parts": {
+    "recency": 0.973,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.592
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "10年前は「100万円」で極上車が買えたのに!! 今や良質車は250万円～！ 初代「ロードスター」の中古事情 - ベストカーWeb",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wV2lUSEozNlFBWHpBMWYyUHNfZ2owNDlLY21TUnJhWGhvMU0yXzVscG5wVG94c25tZ1dzRXpNWURHckZjMXJNSVNHN2dsX0ZUWmIxdTVMcw?oc=5",
+   "published": "Thu, 08 Oct 2026 23:00:00 GMT",
+   "score_parts": {
+    "recency": 0.964,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.589
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新車価格だけで決めるな！ヤリスとヤリスクロス、差額32万円の罠と「5年後の売値」で変わる本当の損得 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RdWNHMno2dFRLRTZ6ZlJwZ1hOa3FlelFzcExCOFBfcG01NTlMR2pudmVSVmhKc2dCQzJ2TVItTUFjamNQTEFBZzJKQlpJSXFGcGoySjdPWjJ0REo5X29rQmxrSmtMRk1acm1ic0xOS3RvaUVTVGVReg?oc=5",
+   "published": "Thu, 08 Oct 2026 21:27:00 GMT",
+   "score_parts": {
+    "recency": 0.932,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.58
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "大創業祭開催！9月19日〜10月12日ガリバー1号静岡清水店のスタッフのつぶやき G011221791448734428 - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYS2xIdkZZc0wtQnl6S2dIZmxHX2ZJRUdmcTBFSGt1Z2NNMDNTbExMRDBkQ01Lbkk1bUs2Wk9TUFhDY05mN2x1cnpwRDdGalo3OUtTU1dwMnR2cWVEcDBaNWRiVmxyY0RacG8wM0h4MzZvNDU5RXZlaUpyaWQtZw?oc=5",
+   "published": "Thu, 08 Oct 2026 11:58:42 GMT",
+   "score_parts": {
+    "recency": 0.735,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.57
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "3万円で買ったJB23ジムニー、調子が悪かったがコイル交換したら普通に乗れる車になった… Grandine Brescia (m18cQAJgvY) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MRTA5M0xpbUh0STBWbjJSV3FpbWt1U0NDc1I3NkE2Zm00VVh0LUFyUldYM3F0MkY2aURSWlBpZWRsbFN1dFpyVFMwTWRyQnhHbWVZSXdITjhqTk9mRE50aEtQWDJLUQ?oc=5",
+   "published": "Thu, 08 Oct 2026 19:21:17 GMT",
+   "score_parts": {
+    "recency": 0.888,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.566
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "軽ワゴンの概念を変えた革新作、ホンダ N-VAN（JJ1・2系）中古車購入ガイド - www.goo-net.com",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXOTBPWkdBUFdweVpwbnRRRGhyUlRRWEgtTG03aUk0cm9Xbmh0N1VucmtwYS1sUDR3czVuUzk2QXBjYkxESVFpa2FfLVFzVF9Pa3BUNzIwQW1IM0MtazNZV2MzM3Y?oc=5",
+   "published": "Thu, 08 Oct 2026 09:00:00 GMT",
+   "score_parts": {
+    "recency": 0.673,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.552
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "軽ワゴンの概念を変えた革新作、ホンダ N-VAN（JJ1・2系）中古車購入ガイド - www.goo-net.com",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nUkhra2pUSDI1cmVhRFV0SmxOQXRhYl9nLU9HUWNpVW91UXZCVXVZSVJzWWJ4bDlkRkZxOHhjVkJfeHY1azQyWkxneFp3WUxOcXRaRElLSWZYeXdsdFFpakZaTWVGeEhnSURQMmJaaw?oc=5",
+   "published": "Thu, 08 Oct 2026 09:00:00 GMT",
+   "score_parts": {
+    "recency": 0.673,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.552
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "【2026年10月更新】中古車の買取相場の推移｜相場が大きく動いた車種はどれ？ - MOTA",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JY3otY3U1UGV5V1JRNnpxbHBaLWdubGYwRnBjQVAxTHk2a2ZYZzBIZ0t1XzlYQkZuNEZpODd4UC1XaDRURDRlRVFhcWdOZw?oc=5",
+   "published": "Thu, 08 Oct 2026 07:40:00 GMT",
+   "score_parts": {
+    "recency": 0.645,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.543
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“シエンタG”2017年式ブラックマイカ入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONXFCQ01jTFNBWmg2dEd6QXVab2RnNllxMTVZS2dhanpMbFdQZl9EeGs1blBma3RUSjNub2N0NkM0VmYwekdVZGZ2UXlxb1B5a29DMUxnVFFza1lKQ2V0RGM3TEU0bXM5Z2IwQm5kR1RGRmpvSm9rOWowNl9GdGdYZlZn?oc=5",
+   "published": "Thu, 08 Oct 2026 06:29:31 GMT",
+   "score_parts": {
+    "recency": 0.62,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.536
+  }
+ ]
+}
