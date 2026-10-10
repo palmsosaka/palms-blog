@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-11",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 122,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "テスラ中古車価格が異常高騰、事故車ですら170万円で売れる理由 米国（Forbes JAPAN） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1abEkxMkM1eC1yQUszbkdJQ0ZORkNUWnlHZnp0T0dnN0FRT1VxSllYRzR4c3JqaU1acEhVWktkT292TFRUNkhaNXpEXy1aSDRTVjVYSXZaNHZSWmhHbXdzWjhBemZvNXJPdFdNOTRIam05VFdSTjdKM3lNaS1qZ0U?oc=5",
+   "published": "Sat, 10 Oct 2026 08:00:00 GMT",
+   "score_parts": {
+    "recency": 0.668,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.65
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "AGENCIA、中古車検索サイト向け「AIキャプション生成API」の提供を開始 - 千葉日報オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kMkRSblhQNlc2dTNyOHVvZWZrQ0dSS2l5X29EbEN4QkdVR0xkazUzWlh2aEpzNVRnQ3RSdlV1Y0V4bVpsekh0Y2tmZzB5VzBmWm5pODRB?oc=5",
+   "published": "Sat, 10 Oct 2026 13:24:28 GMT",
+   "score_parts": {
+    "recency": 0.781,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.634
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「走り屋っぽさが滲み出るスポーツハッチだ！」旧車風アプローチが冴え渡るL275ミラ【写真・2枚目】 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YN3RQTjJldUI4b2NCanNuTDlRNzZQeUd6ZW9IU0tzWEF0YzdMT0FkRG50YmZIZS00SGU5UHRCOTFLQWxZcEFxazYya1ZqZnZGOURhWjUtZDVJVVVwTy01WnNBWWNYRWc?oc=5",
+   "published": "Sat, 10 Oct 2026 12:25:21 GMT",
+   "score_parts": {
+    "recency": 0.76,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.628
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「走り屋っぽさが滲み出るスポーツハッチだ！」旧車風アプローチが冴え渡るL275ミラ（MotorFan） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfdkpuT1lhOF9TUDhMTUVuSjZfbW95SXVseHpNUjViX0hmQTBRYjJVbDFCdV9oRjZWcjI2VTRTcTNsWHB4ZHdRNnJBVzMzcktMa0hCQ1E1TDdvSmtmekFBY29SamNLanRHSi02MklrSGpoMnV5LXg4dTVGb1JSMkk?oc=5",
+   "published": "Sat, 10 Oct 2026 12:03:00 GMT",
+   "score_parts": {
+    "recency": 0.753,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.626
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「走り屋っぽさが滲み出るスポーツハッチだ！」旧車風アプローチが冴え渡るL275ミラ (MotorFan) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeWlQS0prZ3ItQUNpeVJlVUl1R1hWRlBRYndqcGRiMnVSUGxacmIyWDNxRkJFMm1YRVZfZldna2VPRlhNZzREUjBSWDMzUGtZXzdVZ0sybHNQUjhBRzIwRDRvV0doQU1BVWVaYVlsQU9ZMjlKZ3NSUnk0SmxTaEhGQm5PbVVOTF9qLXBydmFn?oc=5",
+   "published": "Sat, 10 Oct 2026 12:03:00 GMT",
+   "score_parts": {
+    "recency": 0.753,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.626
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "愛息がアメ車とともに“ソロキャンプ”!?2児の父・じゅんいちダビッドソン テントでくつろぐ長男の姿に「素敵な大人子ども」「伸びしろですね!」（めざましmedia） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92WHBoUlY2dVkxb2hRZVNScDBLNlJ2R0dudG1zdm9abV9LOHFjMHNVNy1yWGVwZ3lyZHVkNzN4YTAwS0Z1aW12NUhacENubS0yRmRJVkNtcXJXcVpXX3BvUTlDZEtOS1hxZ2M3V1Q0S2d0czh0bXlKcnN4QTdTSlU?oc=5",
+   "published": "Sat, 10 Oct 2026 11:40:30 GMT",
+   "score_parts": {
+    "recency": 0.745,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.623
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "愛息がアメ車とともに“ソロキャンプ”！？2児の父・じゅんいちダビッドソン テントでくつろぐ長男の姿に「素敵な大人子ども」「伸びしろですね！」 - めざましmedia",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORWFwLXdmejFPUkFnelpvYmtTMFg2Zl9vUldsdkllMW9OQlV6cnFkTlF1cU41NkRNU21mVzIxTG5JNUJRMUVTcmFJV3FSenpleGRzZEhVQVlETEtSbmJCZ2JudVd4MGU1d2V6OEw3bENfbDJFV0hEbkdhN0lfbE5hb0hKdUJ2LURTaXFqSXo5WkdwLW1sSkRZRmVYQ0txLWxFcmlmWlhnd3kzMXB4REo2cXJWNktTcXdMYmsxWnNMcnFMVzZZb1pkM1h1bjhFQQ?oc=5",
+   "published": "Sat, 10 Oct 2026 11:40:00 GMT",
+   "score_parts": {
+    "recency": 0.745,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.623
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "愛息がアメ車とともに“ソロキャンプ”!?2児の父・じゅんいちダビッドソン テントでくつろぐ長男の姿に「素敵な大人子ども」「伸びしろですね!」 (めざましmedia) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdV90ZlFZdU9oYmZKd00wSVhnOG03WUN6SlZodXl2aEFqajQ5TkVobGtseGo4Sng5SEdjbVlpQVQtS3R3NzlYaXBpbDBxNi1jcmJuR2VCa09iZmhTdVFmdTNwRzh4YWZCb0lqV3dTRGZaNm1wMnNRNVNYZ21TRlhYQlRSSV8yd3ZSWjhRdE53?oc=5",
+   "published": "Sat, 10 Oct 2026 11:40:30 GMT",
+   "score_parts": {
+    "recency": 0.745,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.623
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新車価格480万円のトヨタ「ランクル70」→再販から約3年、いま中古車サイトで検索してみると…？ - TRILL",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50NklUQm52MHFnUmlzLWVyS0JDblNKSE5FclZaN3JleERqYjM4Y1J3cEdTb09kV25oR1NDUzVNRnQxMlRtTG42WmZ1aDZJdkE?oc=5",
+   "published": "Sat, 10 Oct 2026 16:35:00 GMT",
+   "score_parts": {
+    "recency": 0.847,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.604
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "東京オート、子ども向けイベント 塗装・板金を体験 - 日刊自動車新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03Q2F6THBEXzloRnNyOGRjdDgxVjdKQXVfT2xrV2VUTXVHRTM2N0d6Ujg5aUNVUnEtRnMtYlZXaUo5ODRfbFViWjBHYUd3RmQyV1E?oc=5",
+   "published": "Sat, 10 Oct 2026 07:15:39 GMT",
+   "score_parts": {
+    "recency": 0.653,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.596
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "DIY制作のフロント車高調とソレックスキャブ。公道復帰を果たした日産サニートラック - Auto Messe Web",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3ZGFVNk1hSXlIVlJFMXU0SVA5T01lNlBkTFVORm1nQTEzWXNfUXU4WVkwSW9ZWXBxMk9Pa3dSb1FSMGY0UXJUYWxLa3NJaWJTV0xXOEJBcmYwbExhSnBz0gFfQVVfeXFMUDdkYVU2TWFJeUhWUkUxdTRJUDlPTWU2UGRMVU5GbWdBMTNZc19RdThZWTBJb1lZcHEyT09rd1JvUVIwZjRRclRhbEtrc0lpYlNXTFc4QkFyZjBsTGFKcHM?oc=5",
+   "published": "Sat, 10 Oct 2026 22:00:14 GMT",
+   "score_parts": {
+    "recency": 0.96,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.588
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "『中古車選びは慎重に。』 三菱 eKクロススペース 8maiさんのレビュー - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd0hZVGdrdWNMVENjRmFTNk12bnJabE9aV29sZnZPN0NTMXNodFRRQ1o4SUI2UmQtVWZrRV82M1dWRHl0MUIxcjczbnpPX0dISTlOMHM0WF80Y3JDeG92dkJOQ2w2eE5tWlpGbXBNVXhld0JoS2lwOU5OcmdTYW9fOENYV3hXbWh2VGc?oc=5",
+   "published": "Sat, 10 Oct 2026 14:03:47 GMT",
+   "score_parts": {
+    "recency": 0.795,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.588
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "数百万ドンを費やして、自動車検査の「医者」を自称する施設で中古車を検査する際は注意が必要 - Laodong.vn",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcXhKMWF4eTM4SU9VZVNFdk9mT1gxZHk4WlliUlhjWVdKYlY0X0RPWmJ0bkV0T2FtQU5SQ1B5bmt4WkxDZnF0TTRSVms2SFV2a3pEdkFzS0gycVhMMFpnT1cxMDctVFhqZ1Q2MFhDQ3NBRVA1d083MC0zLTQ5U1QzZExDbkpwMkVHTGhBaHFRZHByb0dXZEd5VnNEQW1YSVFRZzdObzZsWUQ4ZHdReXhKaEhsRjJ1d2xPWWFrVWJ3?oc=5",
+   "published": "Sat, 10 Oct 2026 05:00:00 GMT",
+   "score_parts": {
+    "recency": 0.606,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.582
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "旧車初心者大集合！旧車の楽しみ方教えまSHOW - TVer",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92UnJITWdqQXk2MVc3NlV4M0ltT0dXdFdISzBoUXgwcDFWUTdzdE11b21tb3JpczUybUVUZ2tjUlJYcWw3Z0ttbmkxSQ?oc=5",
+   "published": "Sat, 10 Oct 2026 13:18:56 GMT",
+   "score_parts": {
+    "recency": 0.779,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.534
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "＜画像4 / 23＞【全51点】超貴重な昭和の名車・旧車がズラリ！ 日本の名車コレクション［1/2］ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLVWh6dzlINTkzMlZVY01nd09reXdod2RNMUx0UVREaXRCdmxEOWRnV0wtR08wSlNUdGZwck5xa1JPMzh4WHMyMW45bDZtcDRBRllFeU0yVllzTmxmOXl4endPZEJxRzcwSEE?oc=5",
+   "published": "Fri, 09 Oct 2026 20:34:45 GMT",
+   "score_parts": {
+    "recency": 0.43,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.529
+  }
+ ]
+}
