@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-10",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 124,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "映画に憧れ580万円の米国旧車を即決→調べたら“正体”に驚愕 つぎ込んだ総額は2000万円超（ENCOUNT） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vTXJZY1VjRXk2Z0dkbmJITFVKd1M5NnR1U18zTEFPVEczOGtIWFdyZ0w0M2dOUExoYjZNT1ZtX2M3WTBkdmo1OG15ZHE5RVBmem5EeE4xMmJwNjM2RmQ1Mzh3M3dkU2RVTnFxQ0pncGJxd1p5SThiT2Q3cjRJbkU?oc=5",
+   "published": "Fri, 09 Oct 2026 23:42:04 GMT",
+   "score_parts": {
+    "recency": 0.986,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.696
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "旧車152台が三条に集結へ 11日「20世紀ミーティング」、県外参加も約半数 – kenoh.com - kenoh.com",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE12cWs5MFVuNWFZbU56UlJuX3FqS0RfMW0xdjRSZ0E4aHVSWnpKUUdIOGRWbVpsZDhCMWo4UDdsWWgwWUdpU0Q1MUNn?oc=5",
+   "published": "Fri, 09 Oct 2026 23:00:00 GMT",
+   "score_parts": {
+    "recency": 0.972,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.691
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【ＢＳ日テレ】おぎやはぎの愛車遍歴『イモトアヤコに旧車の楽しみ方を伝授！愛車遍歴的 旧車初心者大集合！旧車の楽しみ方を教えまSHOW！』10月10日（土）夜９時放送(画像ギャラリー No.4) - MOTA",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uTTBJVjMwdVVnNVdHNFFORXBGQmRWYjQxdVNNdVN4Y3RCSDJodUtrb3IzcjhQRzhLa212RFJPbzhMWWhzVmRPN2ZyeXZHa2VXTzd2akd3RmxBM3FTRXc?oc=5",
+   "published": "Fri, 09 Oct 2026 13:41:11 GMT",
+   "score_parts": {
+    "recency": 0.778,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.633
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "名古屋市緑区の板金塗装ならふじい自動車｜ハスラーの右側ドア修理・塗装 - www.goo-net.com",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ScmoxV1M3SEh1SGJCd2N2Q0hSN1piVUdRX2pmaURRRTc4MUZnV29JZGpxRFp0NE04eEk0eFF5QlZSTUZGelRRbTVJS2NnLTFJTHZ2M19GcGozU1YyeEhYVl95dw?oc=5",
+   "published": "Fri, 09 Oct 2026 05:18:52 GMT",
+   "score_parts": {
+    "recency": 0.603,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.631
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "自家用車が大雨被害を受け保険使ったら等級落ちた…過失ないのになぜ？ 損害保険会社の見解は - 福井新聞社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aZ3ROZ2gxZ2cwdkJralhPMHB0ZVNhY2Rad2oyWjh5NEJYc1VQZnQ0TlY4SlBNLVB4YkF1WU1wSXRlRFRHOUhvcGdCZFcyRjdFc3c2UG5jSHlnM1VqUFE?oc=5",
+   "published": "Fri, 09 Oct 2026 21:20:00 GMT",
+   "score_parts": {
+    "recency": 0.937,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.631
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【ＢＳ日テレ】おぎやはぎの愛車遍歴『イモトアヤコに旧車の楽しみ方を伝授！愛車遍歴的 - ニコニコニュース",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9HZ01ldXZhekJOd1c4UmxEeEZJY2hvREZVMXVkbDFDSFFIUUxKTHJoLUR3WXRrZVlUcENYb0E0SU1yZGNxYngxZ0VLdjFHejBhcVNHZ2I0Z3lTeHYxVllrU1hGN282N0F3RXMtSnZoZVR0UnItWmpBazVWcw?oc=5",
+   "published": "Fri, 09 Oct 2026 11:48:28 GMT",
+   "score_parts": {
+    "recency": 0.738,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.622
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "「40系アルファード・ヴェルファイアのとあるグレードが大暴落！」バディカ中野優作が新車と中古車の狙い目を正直に話します。 Trey Yesavage (1lT2dCi5uB) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdm4tS25BQ3pYOUJEOUljTGdxY21ZbW1BdGVnYkxLZUplWVpPMkpFNG95RUpoT0lUZzB4SE9CQ0dDRk9kakVUWlhxSTNzb1IxQUVZdFQ3XzJMNXpvMzBtdnBFakNTM3JvcnJacUtIMzdEbXRGaW0xRkxEaWdtd0NwSTk3RjZoQQ?oc=5",
+   "published": "Fri, 09 Oct 2026 19:34:40 GMT",
+   "score_parts": {
+    "recency": 0.9,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.62
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "【倒産】事故減少で板金需要が減少...地域に根差した自動車整備業者が破産手続き開始決定 「先進安全装置搭載車」への対応に伴う設備投資も負担に【帝国データバンク】（RSK山陽放送） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GS2pKUGxhOGE4ejZ2UnE4OHRRbFNmU0JLTE1vN1JZeHZQRlljNTVOeUZ2U1IyRV8xTkRjRGdoU003UF9nUmZDeDdGQTNwdG1MbmNfUG1nUGpHSENsR01ya19xSWFJUExQMG9iQ0l0X1pfYWVFTEdZVGJhVFdCNGM?oc=5",
+   "published": "Fri, 09 Oct 2026 11:00:33 GMT",
+   "score_parts": {
+    "recency": 0.722,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.617
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "オート・レジェンド・カップ2026：旧車と多彩な催しがリナ＝モントリェリで開催 - Sortir à Paris",
+   "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPbGpkTnFmOU04VFpDdnlsaTR5eV9KdjY0ZWZLMGdEMkloV3JmcEFKT1lSRkswTGRvODhISzJSNk9JczcxMmlUcmdsbFFrSGs4QV9PLVpKenlJSTlkNDQ4bnZQSll2MzdZUVdyOTEzOG9yVE11X2Jzbkd1Nmk4dW85eGNmR0g2bkw2WEduZW04TDNnNHljRS12X1hJelR4X0VBaWpENTk5ZUNQSEJjbzc4SDMtcnJEaVFZU1d5V2NvU2RYZ1pHYUZRXzMxVDJFWVhzckJoR1gxWHFuNk04V001VlVma0NIOE5LOE1QeWdqVnZQdFo5cVdmMVNsb010cW1pM0JVcm5GNnJtLWZnbHlmRDU2NGhmSjI2anhXTnJzVzRUOElfMWdXaDhpOWt3Y1pKNjlueEkwTUhUNHY0Vk9hUXdHU3FKWGNxUmdCM0NWaVl0cy1Bbmc?oc=5",
+   "published": "Fri, 09 Oct 2026 08:32:00 GMT",
+   "score_parts": {
+    "recency": 0.67,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.601
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "＜画像3 / 5＞音楽と旧車を愛する店主のコレクションも魅力！隠れ家ジャズバー「M's hall」 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CdHpiZGRIZ1oxLW9UYllSbzM0Uk9pVkc1TW4wQ096aWxGOEFOU3JWd2NyM1VPLUxGREpVYlNSUTJsNnBKSmF5alZ5a1FGWENwdVlFY0RycnZraHNzWU56cWNIUTZ0ODFVQXc?oc=5",
+   "published": "Fri, 09 Oct 2026 06:25:51 GMT",
+   "score_parts": {
+    "recency": 0.626,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.588
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "＜画像2 / 4＞マツダ・ロータリー特設ブースも！クラシック＆レアカー集結「お台場旧車天国2017」 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02bHJIcGU0RUJwZ2RtRVU5LXp2Q21LaGRpT3Q4TzJTN2c2TEFxYjNpc3FmV0l3ZDlyZUpDYmlPV0RUTG5IMUlWMFcwM19qS3ZtNml6dG90X1dBQjlDa18wX1NGNXVIX3RjUWc?oc=5",
+   "published": "Fri, 09 Oct 2026 21:47:33 GMT",
+   "score_parts": {
+    "recency": 0.946,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "旭5シングルナンバーと57年の絆。新車から乗り続ける最終型の奇跡のトヨタ「スポーツ800」 - AUTO MESSE WEB（オートメッセウェブ）",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qaXdYM3lyVUNJai1mMGQxQURKRXdxMTRCd0pYNXNLZ29GYVlBTUV3XzlOdHBZMkN2UnVVZXJSVXdoYmZUNGtxQUs2b0xoWk8yd0psRzBjMFJ6QdIBX0FVX3lxTE1oX3FjMklaUkU0akRnZ21ReXNVOUhXNHFpTEcyei1xNTA0dmpjczJYRFo4XzBLTHk4bUx5bFJYTkhoVEVteGFvWDVlay1seXEwRGFOa0lNeTVtUEsxZjhV?oc=5",
+   "published": "Fri, 09 Oct 2026 21:00:29 GMT",
+   "score_parts": {
+    "recency": 0.93,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.579
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "【南海高野線】堺区内で人身事故 運転見合わせ（9日16:00現在）40日ぶり今年6回目 - 千葉テレビ放送株式会社",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GZlRhQ0Z0eTg4bUkySWpBWjBCX1ZUOVd0TjJ5RF9FMUloTkZUcFBtTm41M2V0a3lublhRX3Uxc2RDa0I2ZkRiS1hQampvWWVUX2t3NjFaSUZSMlI4YjJOOEdCMlA?oc=5",
+   "published": "Fri, 09 Oct 2026 07:01:19 GMT",
+   "score_parts": {
+    "recency": 0.639,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.572
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "\"復活\"の日産「新型カクカクSUV」!? 400馬力超えの「本格4WD」!? 旧車デザインもイイ「テラノPHEVコンセプト」とは - くるまのニュース",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9uX0pRdDdsRTg2OXpqTkZqeW00VkRweElCRlJzYTBXaS04MFYyNEd5Zkl6bUtQNXdKeklfSnVpVkRJTjBjSGdsT3BIMA?oc=5",
+   "published": "Fri, 09 Oct 2026 03:40:00 GMT",
+   "score_parts": {
+    "recency": 0.569,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.571
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "\"復活\"の日産「新型カクカクSUV」!? 400馬力超えの「本格4WD」!? 旧車デザインもイイ「テラノPHEVコンセプト」とは - くるまのニュース",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZW9FV0VMYzRUUVU2R29YZTU4SnZTTDBSZXlnLW9FdjVVOTRieWpKR3ZjdFBTS3ZaMmZzQ3B4M1JQX3ZHQmFTM2c1SGkwSVM5TE9ua1BkR09qbjNfQ2hIYjFDSXEtQlBPaG13UnAybHVhbkdwdzBWbnhRN2VqMktIN2xFeGJuTkpnQXBYNW5DbWNHdVUzOGYyUngzcDVOYkV1cDFFLVVJck50bm0tSV9saQ?oc=5",
+   "published": "Fri, 09 Oct 2026 03:40:00 GMT",
+   "score_parts": {
+    "recency": 0.569,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.571
+  }
+ ]
+}
