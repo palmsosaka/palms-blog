@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-12",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 89,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "菅井友香、1000万円カワサキ“伝説旧車”に大興奮「父がハーレーとかカワサキとか大好きで…」 - 山陽新聞",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBubWJ6bDlvOTlPVHhrMkFBVWxzOTB4MlNDbVRKQlNLT1ZnQUcxMXFvSzB1bVNmWjF3Q1B2VWIxYzd0TFdUYmpSUVRfZ2ttWl9CVHd2ekVQRW5JcU9mUlJqM3Z4MUtZdmtG?oc=5",
+   "published": "Sun, 11 Oct 2026 21:49:20 GMT",
+   "score_parts": {
+    "recency": 0.954,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.686
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "フロンクス（3S系）vsフォレスター（SK系）を徹底比較！中古ならば、広く悪路走破性に優れた1クラス上の5代目フォレスターが買える！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TcHFGRTd4MDB4WERvODI0WkF1cEx5XzJtZ1dXZGZLTG1HUnY3Qjk2eGpWRVJuWDFKa0hsY21DTGxSZG9FMDBtRWxicW9FSV82MURJ?oc=5",
+   "published": "Sun, 11 Oct 2026 23:34:19 GMT",
+   "score_parts": {
+    "recency": 0.99,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.647
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "3年落ちカローラクロスが「360万円」で下取り!? 日本の中古車「異常沸騰」の裏にある海外からの「中古車争奪戦」 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pSjlJNHFrNF9TSWNiM01VbmFsdEVabFFHbVBwNXlTRlpYM1hVcDJnMXV4SFI3TEpvSmdvTk9ObzVQaV9CbnZrTHdLemZKUUlYcktrczJtVW9sZFhSd054RkwwR1B6emhuQi13X0FZNUtFb3NQTmVRVzhNZFc2Y2c?oc=5",
+   "published": "Sun, 11 Oct 2026 21:34:43 GMT",
+   "score_parts": {
+    "recency": 0.949,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.635
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "過去最大値上げへ？「自動車保険」保険料を抑える見直し術 - 毎日新聞",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LZ05USkxEV2JuTVRBbFdFUEozVFN2OWtIWXNveWZzRTlrXzhEcVlsMnJvU0FVMFRyQ2pOdEg4OWl4WXlzZENrdElibk5qdW5aRWVuSmJQbklpV1BwS1BFbzNhLWxFVTJKN0RxN1VJZl9wVTN4cUJ5bHlEdFNxdVE?oc=5",
+   "published": "Sun, 11 Oct 2026 21:30:00 GMT",
+   "score_parts": {
+    "recency": 0.947,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.634
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "３年落ちカローラクロスが「360万円」で下取り!?　日本の中古車「異常沸騰」の裏にある海外からの「中古車争奪戦」 - WEB CARTOP",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VdEJZTm9WQ2o3UmE1WFNpX0l5c3N0cmNFX3k3dTRIMEQ0TkZOTXpmWVdOMGVqbEpvUzViRGY3Xy1rYmZrZjNXUlVXd0lCd0FENElz0gFYQVVfeXFMT0hwb3Q3b2hWalZjbTVFeGl4S0dycjU2enZYRlpNQU9wN3NROGt2UTVtYWkxUFRxb1Y0NGZzak81dklKTzY0Wks0TUZFN09uWmFYemlTYVA4Xw?oc=5",
+   "published": "Sun, 11 Oct 2026 21:20:22 GMT",
+   "score_parts": {
+    "recency": 0.944,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.633
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "「えっ、2本でも8万円！？」伯父から憧れの輸入車SUVを譲り受けた30代男性、初車検で驚いた“出費” - TRILL",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9URUZIYzctQ1RxazhJQXdDaEhfWEdQbVlMa00yTGloUEpFNUNJSUV1WnpqUDk5bElabWhuLU40aFFTbUxKSFFuR0dUcE5VUnM?oc=5",
+   "published": "Sun, 11 Oct 2026 17:35:00 GMT",
+   "score_parts": {
+    "recency": 0.865,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.61
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "30代子育てママ「1週間だけなら大丈夫」自動車保険の特約を外した結果…修理中の代車で直面した“誤算” - TRILL",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBadDJ1ZVk1YTZranl0eDF3U0k2T0hNbzUyT2t0a3dfLXRvN25OdGVRV0NhbTBSNmtEbFc2RUtyT0ZINkJjVUVvdzBTSTlVZjQ?oc=5",
+   "published": "Sat, 10 Oct 2026 20:35:00 GMT",
+   "score_parts": {
+    "recency": 0.428,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.578
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "2027年度「堺が進む道」市長の予算編成方針を読む - サカイタイムズ",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE04Umh0Q3dqUFp3RldubXltQm15S1BjUXNaazRtdHROZVFqS2dON3hUNTFRRWFUVkxYUjl6a09vV1ktSWV5VGt0TUROOA?oc=5",
+   "published": "Sun, 11 Oct 2026 22:56:41 GMT",
+   "score_parts": {
+    "recency": 0.977,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "画像3 / 9＞時価2億！世界に1台だけ現存するバイクがここに！世界の名車・旧車が集まる大分・由布院「岩下コレクション」 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWLUZKbTN0aGNJVi0zNl8tYWgxNjN0SVlDeTFEM0ZVakFkZFdlSktxbGdmckdkM3B2ejRBUVJRV3RlRk4zbkxHYXJzVXcwaXlaTHRLd2EyR3lDZ1dyWUM0bE43YUVJSzVFT2hPMGc0QWVTRTBmZWl2YW9xbw?oc=5",
+   "published": "Sun, 11 Oct 2026 16:36:48 GMT",
+   "score_parts": {
+    "recency": 0.845,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.554
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "【倒産】事故減少で板金需要が減少...地域に根差した自動車整備業者が破産手続き開始決定 「先進安全装置搭載車」への対応に伴う設備投資も負担に【帝国データバンク】（RSK山陽放送） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GS2pKUGxhOGE4ejZ2UnE4OHRRbFNmU0JLTE1vN1JZeHZQRlljNTVOeUZ2U1IyRV8xTkRjRGdoU003UF9nUmZDeDdGQTNwdG1MbmNfUG1nUGpHSENsR01ya19xSWFJUExQMG9iQ0l0X1pfYWVFTEdZVGJhVFdCNGM?oc=5",
+   "published": "Sat, 10 Oct 2026 22:24:00 GMT",
+   "score_parts": {
+    "recency": 0.466,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.54
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "＜画像2 / 4＞マツダ・ロータリー特設ブースも！クラシック＆レアカー集結「お台場旧車天国2017」 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02bHJIcGU0RUJwZ2RtRVU5LXp2Q21LaGRpT3Q4TzJTN2c2TEFxYjNpc3FmV0l3ZDlyZUpDYmlPV0RUTG5IMUlWMFcwM19qS3ZtNml6dG90X1dBQjlDa18wX1NGNXVIX3RjUWc?oc=5",
+   "published": "Sun, 11 Oct 2026 13:22:59 GMT",
+   "score_parts": {
+    "recency": 0.778,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.533
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "軽バンなのにEV！？ ダイハツ「e-ハイゼットカーゴ」に乗って分かった意外な実力　ダイハツ、トヨタ、スズキの3社による共同開発車 - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zbHBMR19Lc0tYa2VwVG13QkFLSkNGSzdmSnhPUVRUQmxiZ2l3VTliNHBGUWtDMUZ4RHB1bW5ISjlZR0NMcG9sSzg5dFlMMmxEb2o1eTEzY0VIUlVqbXg1c3YwSjI2THNTYTFzRWxR0gFuQVVfeXFMTnNscExHX0tzS1hrZXBUbXdCQUtKQ0ZLN2ZKeE9RVFRCbGJnaXdVOWI0cEZRa0MxRnhEcHVtbkhKOVlHQ0xwb2xLODl0WUwybERvajV5MTNjRUhSVWpteDVzdjBKMjZMc1NhMXNFbFE?oc=5",
+   "published": "Sun, 11 Oct 2026 09:00:00 GMT",
+   "score_parts": {
+    "recency": 0.687,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.506
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "SUV界の異端児？「レンジローバー イヴォーク」のお買い得度を測る【迷える中古車ノマドへ：31】 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZZUZvNXlJYkN5SEw0cXZrbmxCTEJ5SXdMSklETFlnWnJQa2FBX0xTR0NjNEd6QmxjM3NESTMxbjFnTnpKcHpOTE9zOEFzQQ?oc=5",
+   "published": "Sun, 11 Oct 2026 00:45:00 GMT",
+   "score_parts": {
+    "recency": 0.515,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.504
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "SUV界の異端児？「レンジローバー イヴォーク」のお買い得度を測る【迷える中古車ノマドへ：31】（MotorFan） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZUZkUTBUZzZwMFRERjlZUHdFZHNPQWVjemc0eUt5c2E4Z0NiRkNKWVgyZ18xWmZkNFNoUk9OWHVhWG4zWGloR3dfZ1ByVk42dVBIOFVtaE01M3h3OXpUbXRCM0t3XzkzU1pDaGFwWWJXbVdpaFZ3bUd4S2FMUEVtY0YtY2xWbXFT?oc=5",
+   "published": "Sun, 11 Oct 2026 00:45:00 GMT",
+   "score_parts": {
+    "recency": 0.515,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.504
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「走り屋っぽさが滲み出るスポーツハッチだ！」旧車風アプローチが冴え渡るL275ミラ【写真・4枚目】 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sY3pkVVc0aThzT0VnMFRJVVY1bUVqdkRDMVJNTEd0RWRfaTAzN2VhUFNlSXB0UDJ4ZEszNlhIbzBkNFk5d2dFN0IwaHVqc0pvZzNUZW5xRmdxMjlSRTJHRE9IMzJvREk?oc=5",
+   "published": "Sun, 11 Oct 2026 05:11:02 GMT",
+   "score_parts": {
+    "recency": 0.607,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.482
+  }
+ ]
+}
