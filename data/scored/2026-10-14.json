@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-14",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 102,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "70台以上がズラリ！ アメ車、旧車、国産車にバイクまで“乗り物好き”大集結イベント【相模VIBES】 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNkVNb29yMmFBSkNxRHJWRlhBUEl5Z2ItVVdZckNXaEdkbEhIMzMtdlZQclFTbHFKbE5XOGZRTnpBaENQUlZDdDFld1Z5dkhfTHJBOFhWVGc3bkh1LVZBWnBNb3Y3TlpNNUhrUVcwVmJfMDdtZE9TYTAyNDhCdlNsQXFVSW5BVnY1Q1JIWXN3?oc=5",
+   "published": "Tue, 13 Oct 2026 19:20:29 GMT",
+   "score_parts": {
+    "recency": 0.903,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.771
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "運転が楽しい輸入スポーツセダン３選！予算400万円で狙えるおすすめ中古車 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOakFXTDJwSUNLTUV4VmJoS0NCcXdFc0pjUWNFYVh0UGpxLU1tYmdkY0RyUmhfZWl6UHd6MXBBM3RpOFNSYXk5cXhjaHhNeEVHSEFWWjNOYk9GZ3JoYzBmTmtPTkpGYWwwWTg3UFBLbW5qTUJ6SkR3OF9tM09wY0FaZjNxbUx5eTZnSmM4UzRpX3BKLThvOEZhbVR3UHdfTmtPS3M1a3E0Y05WbzMydExVeUNjVVFpM24yMkV0cVFlYmNoZ2huRG50cDR30gF6QVVfeXFMT05oeVhLLTE2emdiOFI4dG91Nzh0RC00UUxYTmJrdG85YVdGT002bHNRXzdhY1NLb3d4dllJVlRSNmJkNXZKMzRzekY1SklUbkVwWENWMVBtWThOcFdxZllYVUJ0OXotaEpvX3U3UVdQS05yV0dJZjJsR1E?oc=5",
+   "published": "Tue, 13 Oct 2026 23:12:13 GMT",
+   "score_parts": {
+    "recency": 0.984,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.645
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "買ってくれれば「保険料タダ」でEVを売るアジア！ ゲリラ豪雨とEV普及の波で岐路に立つ日本特有の“自動車保険の壁” - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02dVljSXBrUnlmYVdpY3BRQmlrX2tadGRyVjczSGJ0bm5VM29qSDQzUERKRklkWUhwanZZTy1mbVp1cUo1YXVzNHYtQXYydVdLbkJaWE1jZi1uV0I4bmZj?oc=5",
+   "published": "Tue, 13 Oct 2026 21:20:28 GMT",
+   "score_parts": {
+    "recency": 0.945,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.633
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "米中古車取引価格、今年初のマイナスが示す燃料高と金利上昇の重荷 - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51MWI4UUVDaVBpa3M5YnQ4RTRReWVpbTkzVXpLeG80UXRROTlnQkNmQVhzb1lleW92cm9CenFkNVd1VVZZUmVMbm8weHBQSUdtOXRJNW9IVWtlNlNtU25hYUJ3WDVhUjFDLWdBeg?oc=5",
+   "published": "Tue, 13 Oct 2026 20:45:20 GMT",
+   "score_parts": {
+    "recency": 0.933,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.63
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "中古車｢5年落ち｣が不足 4〜9月の登録･届け出は0.5%減 - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NUkRiekNMZHFtYUI1TWRId0NxX3o0Wk4yMjM1dEZwNFZkSU5iblp3eVNkbEdhcFh1REZobkVkNXYzQ3JldVB3anh4a1JNLXRZVGtfbTNuQkl3ZWx2Q1A2WmNlSHFHYTBMNlBuQXhMaW9fTU5MTWQ4SHg2eUxqZ3c?oc=5",
+   "published": "Tue, 13 Oct 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.917,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.625
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "【新刊】移りゆく大阪の街を走り続ける阪堺電車の日常を捉えた写真集『阪堺電車 上町線・阪堺線 2006年～2016年の点景』が発売されました。 - イザ！",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE42WFczVWxjeDdQSE9TWGo5ZzFNQ2Q2Wm5pT1V5NXNxeGp0Z1U0TGcwdGxvcUQyV0ZwR3pXSFdLaHk4bVF3V0oyTXZrREdyZTBLSnp1cjJMakdXLXlyblFyVnZIYVZsS3RIOHRtSDcxNzlSVUpOQlRUV293?oc=5",
+   "published": "Tue, 13 Oct 2026 02:30:00 GMT",
+   "score_parts": {
+    "recency": 0.552,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.616
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "床に穴が空いた名車を買って30年。ポルシェ「356スピードスター」を街乗りする男の日常 - Auto Messe Web",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oRVN0N1M3bzloQktKSFVYOEhkSFlEM3VJWEpwa3dVbmdaek16bGNtTGptQnI1RUgxMzNEX3VoYW9wYnM2MnJFMG55aUZqRDFkbDVxX0ZsUFR1d9IBX0FVX3lxTE93SkVCeWd5ckF3d1pCT1ktV2RXOGdPUDZuWHBKX0J3OE1XbUxpT0VaVWNfaENTRHBBRlZnUVJVMktEY3pHZlVlSU1vM0xWd1JJay1SaDFsNnI0aWNlcFQ4?oc=5",
+   "published": "Tue, 13 Oct 2026 20:30:10 GMT",
+   "score_parts": {
+    "recency": 0.927,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.578
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "菅井友香、1000万円カワサキ“伝説旧車”に大興奮「父がハーレーとかカワサキとか大好きで…」 - 山陽新聞",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBubWJ6bDlvOTlPVHhrMkFBVWxzOTB4MlNDbVRKQlNLT1ZnQUcxMXFvSzB1bVNmWjF3Q1B2VWIxYzd0TFdUYmpSUVRfZ2ttWl9CVHd2ekVQRW5JcU9mUlJqM3Z4MUtZdmtG?oc=5",
+   "published": "Tue, 13 Oct 2026 19:15:10 GMT",
+   "score_parts": {
+    "recency": 0.901,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.57
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "人気中古車実車レビュー特別編！竹岡圭が振り返る、思い出に残る輸入中古車３選（グーネット） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVGdMV25rNUFxcU56VFRYX1YtYzZjU3pTTC12cGVPT2p0RWg4TlRRcHBneXZOOFFJbnNVc2ZJd21pM1ZIQXAxS0Zrb2tQZC1EVmt0LVBVSFFLcEJZZmQwa3hNNHVZSFNEUXBkbE5jc1MyV05JdHZ0NXBnOTNQTFdSUHBFbWNMYzM3?oc=5",
+   "published": "Tue, 13 Oct 2026 08:00:00 GMT",
+   "score_parts": {
+    "recency": 0.667,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.55
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "「肉の煙には勝てません」アメ車＆バイクを見ながら食べ歩き！ ガーリックシュリンプにスペアリブ【相模VIBES】 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOGF3NUxsOFRGNkRiQzQ1Nkc5bjJmcVE4OFVuUWI4eWhLaEF1RXFSMXhOTkY3cmE1N2hEQWZsTUtxLXVGVHd5NlhnTUstUmY3dVdwWDMxWHFQRTZPc1pfT1pmOEJZXzdONmI0bUNqMmM2cG5uUWFtOHVWQVBWc2U5NlNIejhnWkVjUk9rcWpn?oc=5",
+   "published": "Tue, 13 Oct 2026 15:47:04 GMT",
+   "score_parts": {
+    "recency": 0.829,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.549
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "コンパクトで扱いやすい→「大きすぎない」サイズ感がちょうどいい　トヨタの5ナンバー車を現行モデルから中古車まで一挙紹介 - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XRnM1aWxXeUNOelV3SFIyWUpQRkVQQWQyUkxlN0VjT0JvSHZId2pCV0VyY0lBV3dBQnE1ODhQaXo4OUpUb05Vd3ljMEJBdmRjd1pmX3FlblVfUXEyQzh3M2N0UnNmQ1F3MjdUMTZn0gFuQVVfeXFMT1dGczVpbFd5Q056VXdIUjJZSlBGRVBBZDJSTGU3RWNPQm9Idkh3akJXRXJjSUFXd0FCcTU4OFBpejg5SlRvTlV3eWMwQkF2ZGN3WmZfcWVuVV9RcTJDOHczY3RSc2ZDUXcyN1QxNmc?oc=5",
+   "published": "Tue, 13 Oct 2026 07:50:00 GMT",
+   "score_parts": {
+    "recency": 0.663,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.549
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ユーポス香里ヶ丘店の店長、中古車業界ロールプレイング大会「U-CAR MASTERS CUP」買取部門で1位 （レスポンス） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1di1laG4wZzRVc2lJY0V6MFhQWlVBTU9qNmlOc1p1cDVRS0VESzducWpkWmpISmpIYkxTYngtX1hfT1NGM2xzU1hRRGxDWUJhRnl4SFh4RFZjeEZsbnhIekJzeVYzNXJ6cVBEbzlQQXRIN2JtZ1NycUhBWWRGTmc?oc=5",
+   "published": "Tue, 13 Oct 2026 07:30:03 GMT",
+   "score_parts": {
+    "recency": 0.656,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.547
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "ユーポス香里ヶ丘店の店長、中古車業界ロールプレイング大会「U-CAR MASTERS CUP」買取部門で1位 - carview!",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ0dLRDRlOHFPamJYNl9kVmx4M3pKMHNyWGJNZlRDTFpvLUpZTWJueFB4OTE5RlVlVFNPMklXM3BPQng1eEJPZ0pFWFBac2w2UE81MXY5UnJSeXRjUm1yWlFDSldubDhwTjRYbXU2d2c0SXhSTWMxbWViQ0h6SVZzNFlGamVBRWtHdGloRzFWdTUxdDdhZ0g4?oc=5",
+   "published": "Tue, 13 Oct 2026 07:30:03 GMT",
+   "score_parts": {
+    "recency": 0.656,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.547
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "4〜9月中古車登録・届け出、0.5%減 5年落ち車が不足 - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45UXVQUjVIQW0xbktVd1E4ZVNZZ3dEb1pMNjNZTWpMSDZZN1lmLXBoTmlDd05YVlRqcWNnUFA3RnRkaWFyS3NtZGxEeVFmSzlqTm5mTUJUUnRPa3pTdXFQZlJxMjlqbVBMWm15Mg?oc=5",
+   "published": "Tue, 13 Oct 2026 07:03:28 GMT",
+   "score_parts": {
+    "recency": 0.647,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.544
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "画像7 / 22＞イチョウ並木を旧車100台がパレード！「トヨタ博物館 クラシックカー・フェスティバル in 神宮外苑」レポート - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IUWFiaUdMeWZ6OHVxNGdwdjF3MjZuQ0hfRGU4ZnQwaUhZeDdtcllxakxEel93dlhBUXBiVW1kdGNkeVRqcFBmOU5zQ0VRZjk2OVpLajIzUWNXU0FQQk56NkFaMVJkbnU4MlE?oc=5",
+   "published": "Tue, 13 Oct 2026 14:11:53 GMT",
+   "score_parts": {
+    "recency": 0.796,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.539
+  }
+ ]
+}
