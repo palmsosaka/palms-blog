@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-13",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 105,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "「肉の煙には勝てません」アメ車＆バイクを見ながら食べ歩き！ ガーリックシュリンプにスペアリブ【相模VIBES】 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc3Q3Z3ZtbUdySHRxY3h3cnBndXdXUzFiM2NJMFlQUWNsM0ZVcER2dUFHelJHdk1rUml5SFVGXzZtV3JDbkR5VDI1bDl6bnEzQ2xobVZfUHo5b0Fvcm5SOTNQN2duOEc2OTgzOEQta0tfTGl1aEg2WkgyQnlHM2dyOEZCVG1KaUN2NE1yeTlB?oc=5",
+   "published": "Tue, 13 Oct 2026 01:50:56 GMT",
+   "score_parts": {
+    "recency": 0.991,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.697
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "27年ぶり復活!? 新たな「\"2ドア\"スポーツカー」に大注目！ 「旧車デザイン」に\"超官能的\"V8エンジン搭載！ フェラーリF355カスタム「355 by エヴォリュート」英国仕様とは - くるまのニュース",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ZenB0VEFHRjRJYTQwd1RfWmZOYjNxX3lNX1NCN3Y2NUNyQlA5MmI4dk9MUklXZW05YUVqTXpaaUlUM21vbjFURy14NA?oc=5",
+   "published": "Mon, 12 Oct 2026 21:10:00 GMT",
+   "score_parts": {
+    "recency": 0.893,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.668
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "27年ぶり復活!? 新たな「“2ドア”スポーツカー」に大注目！ 「旧車デザイン」に“超官能的”V8エンジン搭載！ フェラーリF355カスタム「355 by エヴォリュート」英国仕様とは (2026年10月13日掲載) - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CYXFFV3N3YmNvSEEya1lwRkRidUJhMjFKdkNZS3IyUS0tY0luUmRzLTVsdnhPYkVjcUpzTlR1aHRPSGc5dnlaTWxLNm40Y3N4VlFjY3RDSVM4VUU3NWc?oc=5",
+   "published": "Mon, 12 Oct 2026 21:10:00 GMT",
+   "score_parts": {
+    "recency": 0.893,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.668
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "中古車買取相場、8月として過去5年で最高水準に輸出台数の減少などで小幅下落も、冬のボーナス商戦に向け回復見込み中古車買取相場推移レポート（2026年9月版） - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JVGRtMGlXQXdvVktiSVpvSGd0ZVBrMG5oekV4ZzdhMlE1NHJfb1Zla2R5MXhSVEh0TWNMOVgxcmwtVGpJRzRaODgwM3RvZFQxbWxXc1dBUmczOUZ6RFhBVjViMEhXTS1tZXc?oc=5",
+   "published": "Tue, 13 Oct 2026 01:56:39 GMT",
+   "score_parts": {
+    "recency": 0.993,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.648
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "【若者の車離れは本当か？】20代の約半数が「新しい車」に関心あり！一方で障壁は「購入費用」43.5％・「維持費」39.1％、カーリースを知る20代は約3人に1人 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3UHFGbnVrR0EzS2lMVEhBS3RQbVVzS3p0aUxQY0NRdjlHcXcyMlV6RUtVeWRDal9iUk1DclpvQmp0N0p3dkZGWTJiNUVXbjFhZXRtVERIdFNjcmlsUDlBZW5Rc2FrV2dRZWc?oc=5",
+   "published": "Tue, 13 Oct 2026 02:00:02 GMT",
+   "score_parts": {
+    "recency": 0.994,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.598
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "車買取査定の予約確認電話を、AIが全件担う「nocall.ai」研究員現場レポート⑧ - PROTO総研",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53Ui1HbzFsMzJKZUVoSjNDYkFILU5zckxiTWJZTzdZcTJ4M3FCZ3c3WVg5Vjctb2J2Y0JzdXdJYWhNX1pHNng2Smk3MjNudkVKLVE?oc=5",
+   "published": "Tue, 13 Oct 2026 02:00:49 GMT",
+   "score_parts": {
+    "recency": 0.994,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.598
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "993デザイナーと共作した621馬力のワンオフ。新車同然でノーリザーブ出品のルーフ - Auto Messe Web",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzeV8xTkZpRC1LN1FmRHNLWW1oSEdnaTF5UTJ4bEl2N2xOTTJ1NXJhUkJGQ0oxa2xQSUVua053NDNRMFg2OEJHSVZXMHdURk9UQ3BhNFBGTHB5QdIBX0FVX3lxTFBoYzU0dFR5b0M0dHpvX0F0QWpiMjEzYkM0OGdCTTd5R1NTRHNOdzAwcU1NbUh4b3l2U01CRGFxUFFQcWk3WmJVOEluZUJ1cVB3c0VxZ202alRScnc3clJJ?oc=5",
+   "published": "Tue, 13 Oct 2026 01:30:44 GMT",
+   "score_parts": {
+    "recency": 0.984,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.595
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "【交通情報】車どうしの正面衝突事故…２人けがか 山口宇部道路で一時全面通行止めに - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95Z2pubVBkMGVsRGhfVkpiNUFGaUJKb2pSUnlPSmFYek9OaldOQnRic012eUExbzRGeVRYY210aUVacEttNzJXTElvNnMzSGRhVGZkcXpSbE9BUQ?oc=5",
+   "published": "Mon, 12 Oct 2026 06:22:00 GMT",
+   "score_parts": {
+    "recency": 0.585,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「日本車のサスペンションは海外では通用しない！」かつて欧米でボロ負けした日本車の足回りが、“世界基準”を掴み取るまでの軌跡 - 月刊自家用車WEB",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSanltUmJ6YWFCdGVWUHRhNjY0U3ZBeGxfWlhxdEE5SEpodDYybGs0T0ZoTl9QUWtCMU5WWUZPYWNUS3V3bThIRk8weXZkQjNw?oc=5",
+   "published": "Mon, 12 Oct 2026 21:15:00 GMT",
+   "score_parts": {
+    "recency": 0.895,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.569
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "画像5 / 9＞時価2億！世界に1台だけ現存するバイクがここに！世界の名車・旧車が集まる大分・由布院「岩下コレクション」 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNcGtra2tXaFJJWjhZTEdfb2RzYmNiYWNzVFFwYkRZRnhBRUMzR1g1WmhZbjFXYjA0dkJUQXkwX1FraFhkaER0RWFPOTMyRzlXdllxRExpS2hVdVZzc3Q1alNRdTh3bVJ5WFpOaDc1VW42UnVjRTlKLWxNWQ?oc=5",
+   "published": "Mon, 12 Oct 2026 20:43:51 GMT",
+   "score_parts": {
+    "recency": 0.884,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.565
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "ガリバーアウトレット17 号前橋北店の店舗ブログ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPR0dBWnZzZWJQN1lHOF9tdHdUcllZdFVkYjFBVUw4ak9nUzNydnZ0TnQzSG9oUS16dU45Uy1jcUp4bVpLMUlxbUNRRGVOeXpYMEk5cTVKckUzQTVXby1RckFyWkxEYTFtNVVMT3lKSWlGTDR5TGY0Nl93U1J3ckk?oc=5",
+   "published": "Mon, 12 Oct 2026 12:41:39 GMT",
+   "score_parts": {
+    "recency": 0.717,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.565
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「スポーツカーなのにガチな走りは苦手⁉︎ 」バブル崩壊後に誕生し、独自の地位を確立した“街乗りで映えるお洒落な軽スポーツ”【ダイハツコペン】 - 月刊自家用車WEB",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2LXdWUUYyaktkZjI5MHNvZnNobks0bHIxNm52TkFkdDVydi16d1FYS0d5bXIwRDdIRG5FY1JQQUMzLVp2M2FTUk9RZ3RaMFZrUmlJUGJvVllyUmV0Wk5uSXdR?oc=5",
+   "published": "Mon, 12 Oct 2026 20:23:39 GMT",
+   "score_parts": {
+    "recency": 0.877,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.563
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "〈語録〉国土交通省 物流・自動車局 平澤崇裕自動車整備課長 - 日刊自動車新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaZHRMOXpYQlpheWM3MlBPeHh1emdodXd2b0s3VG9xYWo4NXp5OHZCb0F5VzZFUk1xRnNjTkZfUVFoNlBZdlJsTS1ibkxFTnQ0aWc?oc=5",
+   "published": "Mon, 12 Oct 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.869,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.561
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "三菱オートリース、福祉車両機器展に初出展 独自架装の製品提案 - 日刊自動車新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YMnNlRl9MTUNxOGJld2E0cWJ5akNQTWk1UGVnSmgwdWp5R1JiS0VkOG4wVjBPWUN4RGdDaGdieW8yY0xiYTJIdEhJQXFyRVE3MHc?oc=5",
+   "published": "Mon, 12 Oct 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.869,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.561
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "AA主要4事業者の2026年4～9月実績、需給緩和で出品増も成約減 人気車の競り活発で相場は上昇 - 日刊自動車新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGUElkTW1uUkFRX3oxV0EzOUtOZ3Rhem9DbVA1VWNYUS1EWWVuZ2w5NlBxdXUwZWZwd2RUcXd4S0JKX3ZROFg2S0tzX2hyU1NBMWc?oc=5",
+   "published": "Mon, 12 Oct 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.869,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.561
+  }
+ ]
+}
