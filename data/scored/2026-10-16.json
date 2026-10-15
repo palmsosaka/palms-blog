@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-16",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 126,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "アメ車女子が埼玉に集結！「アメ車ガールズミーティング」12月6日開催！女性オーナーのエントリー受付開始！ - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xZ0UzRV8xbEJZRURZaGJnQlhYZ2l6NEhxcFF0WmhkS01uMHlOdXp2WDQ2TUZmX25SZDZ3LVVEMjkwaUl5YjZUUUNkWDh3UWhvb0Rtb25VNjlmcWEzOTlmeUx4b1pxX2FMZmc?oc=5",
+   "published": "Thu, 15 Oct 2026 23:00:02 GMT",
+   "score_parts": {
+    "recency": 0.993,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.698
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ラッセル、シンガポールGP決勝は”認定中古車”状態だった？ スプリントのクラッシュで中古パーツ使用を余儀なくされる - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbE5VczBiNWdFYjZfWHRBa2tqcEF6eUh3ZEtFakRoaWJNbUttdm9UZm9TVVJ6eFh5NllQd2JPMl95emozbmxKYThyc3JfSlFUZVFwenBFYXJLSnBUOUtLNGRZRXNGUXZDWW1wa0pxY1M0VlhzazBVU1NRSzkyRDd4Tnl0UVJKdFdE?oc=5",
+   "published": "Thu, 15 Oct 2026 22:37:00 GMT",
+   "score_parts": {
+    "recency": 0.985,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.645
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "旧車の「フロアマットない問題」を解決！ ハサミでカットできる3Dゴリラマットが便利すぎ！（ベストカーWeb） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KYnZsVzdGdTFqVHVJV2tOSEw4SkZqN2pIYTE0eTVaR2dXOWZBa3I3S0RONzBJT3BuUzVXZjhNeW1rZG1maWNJRncwX2lQQTFtbnd3bmVKcU1xU0NURGtXNlItS3g5Sk5ESmlwell3ZWZKWDZ6c1c1elZjc3hIcEU?oc=5",
+   "published": "Thu, 15 Oct 2026 13:31:07 GMT",
+   "score_parts": {
+    "recency": 0.795,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.639
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "旧車の「フロアマットない問題」を解決！ ハサミでカットできる3Dゴリラマットが便利すぎ！ (ベストカーWeb) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU0haUnVBd05CU1JlUHVoSkpFU2liT0dXajRDblNNMFdvOWxjVTNXc1ppTDVFWHNKWUsxVFkyVGpKNGNrd1k2V3lLZVNoYkFuZUtlMjJHZ2cxMnBaSFdQa2pPNktRRUNJRTdqa3lEMld5QXJqOUx0WEpIMW9UYnh4R21SYTRuanItakpINm93?oc=5",
+   "published": "Thu, 15 Oct 2026 13:31:07 GMT",
+   "score_parts": {
+    "recency": 0.795,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.639
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "自動車事故修理市場、2033年に2,462億米ドル規模へ拡大予測｜EV・先進運転支援システムの普及が変える次世代の修理 - ニコニコニュース",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnMGNLbG1WOUVfenlUX2FVZUYwOFoxdHRnbEZDTnNhUEJNbm1nRzRUYV9lbEl2UVIxU0V5SWZIM1hsc0MxNm9nQVFTZEctTWNoRnRYcTB0TUFWd2d6LWtocmdRbHhXRTA5ZmpOVTJ3RUY2bzdydVdUTUpaNA?oc=5",
+   "published": "Thu, 15 Oct 2026 05:03:17 GMT",
+   "score_parts": {
+    "recency": 0.619,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.636
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "旧車の軽自動車に海外から熱視線！ 英国オークションで「スバル360」や「キャロル」など日本の旧車軽自動車が驚きの価格で落札（WEB CARTOP） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZDlTLUVJYWJRTkcwSmdyelR3bzcyV1JnNl9PVDNJRnVJbkc0bTQyUHBjT0lIUS15aVRLQkVCRkZUdmcyUWpVRjVHeDhlT3ZzWloxLWhtVFNNQmdrOFE0RjNhbFFrRFRNNHBzM0l0Sm9wRjlJRVI0bkV4M1pQeDc4YXVYcEJ3MlVj?oc=5",
+   "published": "Thu, 15 Oct 2026 08:30:56 GMT",
+   "score_parts": {
+    "recency": 0.691,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.607
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "70台以上がズラリ！ アメ車、旧車、国産車にバイクまで“乗り物好き”大集結イベント【相模VIBES】 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV1hRNmVzakJtbU5IRjhnRFJUZFp5Ty1FMEx5SHdRZ3Z6Y2ZhMTlKQTZNemNnVmVpVFkySjFDeHQyU01NUy1wM3JTUE9tNGVzZXl6aGVFbmxBV3hDcEx0NUNabjdLaldqMXBIWWJhQUFjSDFydktvMFFoZWF5N1FxUUVkaGE4S1o4NUtWSEl3?oc=5",
+   "published": "Thu, 15 Oct 2026 07:18:51 GMT",
+   "score_parts": {
+    "recency": 0.666,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.6
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "安いだけで飛びつくと大損？激安「中古商用バン」を買う前に知っておくべき落とし穴と最高な車の見極め方 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPcGJ5WFNWeW1sU2txNnRXUXlKOTE0elloQ1RVMDJYc3Z4bVdlS3ZXemVRRHpQZGQ5MHFKMWt2TGNiZ0IwT1YxV21HbFkxNktiX1UyMTNCUTdIeFdPaHhz?oc=5",
+   "published": "Thu, 15 Oct 2026 22:05:00 GMT",
+   "score_parts": {
+    "recency": 0.974,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.592
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "【「車検整備」トヨタ エスクァイア（ZRR80G） 機関だけでなく内装・外装のメンテナンスも！】～【栃木県鹿沼市・宇都宮市「ガレージ シースワロー」作業メニュー～ - www.goo-net.com",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE15b1hTQzZoVDNiVk9rT3JUQ2NSQk91RXptTjhvelJqYVhRVk1CUEdDNDltTnNrRkJoZFNlbWR6ODIwSDVkTmNRaFBQamZKdDctNE5GOWQxeEZyVFprbnFOOXcyWQ?oc=5",
+   "published": "Thu, 15 Oct 2026 13:31:10 GMT",
+   "score_parts": {
+    "recency": 0.795,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.589
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「商用バンがこんなに洒落た後ろ姿に!?」トヨタ・プロボックスがレトロ仕様に！ 電球のようにふわっと消えるLEDテールランプ登場 - 月刊自家用車WEB",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBXS3FlREVaZ1h6X283Tlk3V2YwN09oOGE5MnNWS2ZBVS05clAyV0dJNEhpTEhEODMxSHFydEhLRWR1dEFadW53b2xOWGVTTl9j?oc=5",
+   "published": "Thu, 15 Oct 2026 21:30:00 GMT",
+   "score_parts": {
+    "recency": 0.961,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.588
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "「新車の1割で買える神コスパ車も！」不人気だった格安中古車7台の「買いか、落とし穴か」を見極めるポイント - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1SFhmVzNHNUFqZnAxS0ttSUlBRGpuYmlURXhtdmlpbnpSRUdTcVpvOEpsQVh4VHZSQzMyTFFqQmhvM3VsT05OQVgyclFOQ20zY2lvSjk1Mkkzb2dYOXc?oc=5",
+   "published": "Thu, 15 Oct 2026 10:59:21 GMT",
+   "score_parts": {
+    "recency": 0.742,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "後輪駆動の新「\"水平対向\"スポーツカー」に大注目！ 旧車デザインに\"超高性能\"3.8リッターエンジン＆6速MT搭載！ ポルシェ911カスタム「シンガーDLSターボ」米国仕様とは - くるまのニュース",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GUzRBUnJudW43bWotclV5WG1iaTdaQ0JpWDBUTV9UVmxMc0lDeHp2SkNoQkFnVXFFVWVnQVBxOTRtaEQ3OUJrSFhEUQ?oc=5",
+   "published": "Thu, 15 Oct 2026 02:30:00 GMT",
+   "score_parts": {
+    "recency": 0.566,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.57
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "後輪駆動の新「“水平対向”スポーツカー」に大注目！ 旧車デザインに“超高性能”3.8リッターエンジン＆6速MT搭載！ ポルシェ911カスタム「シンガーDLSターボ」米国仕様とは (2026年10月15日掲載) - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DU2M4T3RLZ1oxTUx0YjlPNWJ1eV9TRVdEVEowUFNTOF94UTl4X1ZwbjRESHVmRHQ2c1NjOE5fR2tNMlRQaWloSXBNVjZhLUR2TGVJUXRZWS1YOEVFZkE?oc=5",
+   "published": "Thu, 15 Oct 2026 02:30:00 GMT",
+   "score_parts": {
+    "recency": 0.566,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.57
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "大阪市・横山市長 御堂筋の将来的な「全面歩行者天国化」に向け「堺筋や松屋町筋のように基本一方通行になっているものはそのままでいいのか」 交通量分散させるため「相互通行化」案を示す - Excite エキサイト",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Mbl9qZUtOQWxockhZQmJEaDFRejFfeUdnZkFGb0lwX1o0cU1XUURyOXlPZzNPc1VSN0hRalY3UWphMWt0U2pjRWg3Y05ndVZmLXpGaW9kQk40WDlzRFN0MzRCNjRoQVkybnMxMmRR?oc=5",
+   "published": "Thu, 15 Oct 2026 12:49:51 GMT",
+   "score_parts": {
+    "recency": 0.781,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.564
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "最新LEDなのに電球のようにフワッと消える。トヨタ「プロボックス」を旧車風にする光〈PR〉 - Auto Messe Web",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NandOZEMzTmhlT05PVGd2VDdDTzB6VjBIUEpNN2Z5RU1hSU8wYk5BZnhhSFo2dTJWdl85MGdqakJzRTRHRW5xMUZJZUxFYS1aYzdySlA3Vk9KZ9IBX0FVX3lxTE44emxZTXR3SW1SV2dnbkxuY09OOGdLa3F2NWc1VU84NzVwSnBZLUhVYTBlVkllQzV4emxqMENGdF84MEVJcTNBbzU5Y25MUmRrQVUyUlV4dWVFb0tDVkVN?oc=5",
+   "published": "Thu, 15 Oct 2026 01:30:53 GMT",
+   "score_parts": {
+    "recency": 0.545,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.564
+  }
+ ]
+}
