@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-17",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 125,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "70台以上がズラリ！ アメ車、旧車、国産車にバイクまで“乗り物好き”大集結イベント【相模VIBES】 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa2dmMmxLeVlkN3BuWm04NHRmSnlDSi01RE9WSkFDMVpUV0RBMkd0d3JqOWZXYndIaUo0dFR3TlJBcGJMUzNoc2paR1RlQWZZVndmTFcyZHZJWF9XdW0yblZneXU3c3g1XzVvdl9GU05Ody0yc1BpXzFxcG9ZRDZPeVR3dzN2aTl0YVNXazdn?oc=5",
+   "published": "Fri, 16 Oct 2026 20:49:16 GMT",
+   "score_parts": {
+    "recency": 0.953,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.686
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "トヨタ「アルファード」中古車が大幅値下がり!? かつては新車より高額な1200万円にまで高騰！ 「高級ミニバン」の相場に何が起きた？ - くるまのニュース",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LYjBfYWVBbkYxWjhINl9QUWcxR0NUcXZMWEJxRHdnNGx6NTVJUlZsOS1XZXNtOHRiak1rZ202UHA3SnREYk1SRmZxM0k?oc=5",
+   "published": "Fri, 16 Oct 2026 22:00:24 GMT",
+   "score_parts": {
+    "recency": 0.978,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.643
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "【気分上々】キャロライナ・スクワット【ゆっくりアメ車解説】 - YouTube",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GV3VtWHA0eVhjUTBQWXRtZHNTR1pHakRMbFVLM2RSMWhRY05fYXlFdWdxMXRKdFM3OVN3Nk5DbVpCQVdOSGZpZU8zRHhuQmliVHhPM3QtVjhMZm5o?oc=5",
+   "published": "Fri, 16 Oct 2026 12:00:10 GMT",
+   "score_parts": {
+    "recency": 0.769,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.631
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "スズキが初の軽乗用EV「e SKY」を発表、旧車モチーフの顔で11月発売 (2026年10月16日掲載) - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9URUhKMjY5YzNpVkVqdjR4YWpfU1c0VV9idHU5Nk9SUl9lZlAtWFdtRzdhUks5c1R5R1ZmRmpfT1EweUctM0dhSVo1YlB2OGFLS2VwbnlyV05Qckc5bnc?oc=5",
+   "published": "Fri, 16 Oct 2026 11:10:00 GMT",
+   "score_parts": {
+    "recency": 0.752,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.626
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "【車検総額○○円】維持費がキツイ！自家用路線バスの車検果たして幾ら？三菱ふそうエアロミディ Kris Knoblauch (aMALR1zy6O) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRlh4QW9OZ21RRVRqczNJdVFOdHg2OVFvdGVJQ1BXVVdpcUxBRDRqYXMyZUg4eDRSN25ZRG5zRm1IaFF1d0FjOHhMQ09ZeUJ5WnQ4TkVOVmg1VGNWY3RuTHo1a2hqekdUUzVyT29raWxITC12Tm1iMkd3dmgwWm9HRw?oc=5",
+   "published": "Fri, 16 Oct 2026 13:02:30 GMT",
+   "score_parts": {
+    "recency": 0.791,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.587
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "メルカリ、中古車オークション会社と資本業務提携 売却検討しやすく - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nU2YtSWhiV0drM2VIX0tRa1hMdTczS3dYRjlyZEh6VHVFcHFRblV0VDA0d25yd3ZuZlB6RkZub0l4dUIwX0hFa2xLQkcyV1J1NEdhV3ZwRTBLVTVUT0RoNDlQYkZCbFY0ZW9VTA?oc=5",
+   "published": "Fri, 16 Oct 2026 12:08:34 GMT",
+   "score_parts": {
+    "recency": 0.772,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.582
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "映画で旧車にハマった23歳が語るボルボ「240」との暮らし - マイナビニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3UnBtVFFNSG5xMUYtZ09xLWF6ckF6SGdXSm53QVJTWVNMeXlIQnJiNXRkSEdHNkhyOWF6V3dBQS1Qa0NSRjJjclRwUFN6ZU14eUxLc0plcHRpa3FkYXc?oc=5",
+   "published": "Fri, 16 Oct 2026 02:00:00 GMT",
+   "score_parts": {
+    "recency": 0.561,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.568
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "お値段は高めで推移 ホンダ・シビック・タイプR（FL5型）【UK中古車ガイド】 実環境ではFK8型が楽しい？ 日本からの並行輸入車も（AUTOCAR JAPAN） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYVIxWEhKYXlDMFZrVjhTMi15MElMSXZsQ0VheWx2ZVVCRHlzTWZ3RjZ0ZDk3NEYtcExxaFhNM1J6eHpWa0h4YXVyVGxDNnNhUDZHSHQzcS1BUUNEcktzeHpFal81R2JLYTktVURKaXhzVWVVLVpBdU50ckU2MzdkR0hIcmVzQWkz?oc=5",
+   "published": "Fri, 16 Oct 2026 09:05:00 GMT",
+   "score_parts": {
+    "recency": 0.708,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.563
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【アルファードは強いのになぜ？】新型「エルグランド」中古車相場が急変！ 1080万円から837万円台、発売約3か月で新車価格割れも - carview!",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTmhkVHlUMnhfSXdENkM5LVBBNl9heVBtR0hjdElpZHVtWS0wb0F5WEhOY3dfanJVYVc4c3h5eFJQaWlNSU1NSmFTNmVrQjZ3elRtNTVRM2JKanZvSGVkWVhtc3ZVTHR3NnVmSlg5Zk5CYjBXWVpVaDVuOHJfWWIyY1BsMTlQWmRTN3IzbA?oc=5",
+   "published": "Fri, 16 Oct 2026 09:00:00 GMT",
+   "score_parts": {
+    "recency": 0.707,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.562
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "【アルファードは強いのになぜ？】新型「エルグランド」中古車相場が急変！ 1080万円から837万円台、発売約3か月で新車価格割れも（carview!）(3ページ目) | 自動車情報サイト【新車・中古車】 - carview!",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR0kzTmFnY1RYZmNWeW5xeWFSbVBzNHBMVVRuNW94ODVWSGJmMnI5RjBPYUl2aFNFakJxSC1ldlJrM0ZpMFlwLUZqd0c3bFIyUEJla05iVTJrNHJobVY0SGRjdTItM0x6SUtBdXFkZTZsQWh6dEE0bjN6TGFRbVRVbnIxeEdIVV9oa3NPNmxCRDhFbEtQTEE?oc=5",
+   "published": "Fri, 16 Oct 2026 09:00:00 GMT",
+   "score_parts": {
+    "recency": 0.707,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.562
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "0さいからの・はじめてのオーケストラ　冬のコンサート（堺） - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPblZyckw3eERvaEhuUENTSVM5NEVkbjdseE0tNm5mVGtJQkNZckhWb1VGakVpc0JxcDVxX2otM21La2NuT3l3d25JYmJJOXpwYUNJLXhZeUpQWk9aTG0wdEVXOEMzenJuaWltcHA5OXNJOERTSGpTcGJFUGxGR1F1ddIBhgFBVV95cUxPcTd6VzFPU3hRZ1FIR2hKLW5IVl9oZ0w2RHVOYjJrM3YtaDhUemlZbXJzWmZPRlYzWkZZUGxCOV94cXhqaGd0UmczdHVOVVdYRVZVVFJYTGx1RXB6U3J0NFduQnd0YnVlYU5lLW95NkdBR1J6RW55UkRJR05mVEJlNDBmbkE5QQ?oc=5",
+   "published": "Fri, 16 Oct 2026 19:35:16 GMT",
+   "score_parts": {
+    "recency": 0.927,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.558
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "画像9 / 9＞平成“最初”の名車もズラリ！「トヨタ博物館 クラシックカー・フェスティバル in 神宮外苑」開催 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBacFlXNGprMU5ndkxwemh0S2d3RE53S05RNG9Gdko0Ny1GMXY2VGR0TWx4YURSWGtkSWJqRjhDcDg2ZDgyMFFxTkJIOU8yOE5EcGVueXp4OHBZNWhJa242Z3pEdDVVLXBSZnc?oc=5",
+   "published": "Fri, 16 Oct 2026 15:14:45 GMT",
+   "score_parts": {
+    "recency": 0.837,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.551
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "日産愛知自大が学園祭、板金塗装の見学会など実施 - 日刊自動車新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iUmtIWVU0dGNLQzNZc2NEbjY3ZnNGOFoxNGxKM09VMHlzZW1TSFpEcXZwNEl6bWJsY3M3bW9Fem5ZQ1lrYWdiYVd2VUlEMm9uYWc?oc=5",
+   "published": "Thu, 15 Oct 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.436,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.531
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "ハリアーのグレードの違いは？価格・装備の比較とおすすめ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CYUNtYlpTZzZJU3ZlMUdyVXN6YUF6YXlKYnRXNXplU3gzTGZFRWhwQUVMUnc0QU5kVEl2SGxPeW5VeTJjZ0E3YVF1dFYzRzlnRS1Z?oc=5",
+   "published": "Thu, 15 Oct 2026 23:32:30 GMT",
+   "score_parts": {
+    "recency": 0.51,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.503
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "「肉の煙には勝てません」アメ車＆バイクを見ながら食べ歩き！ ガーリックシュリンプにスペアリブ【相模VIBES】 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPODVNS29feXdHN2JfOG0yd0VlTHc1bzU4TVVwUlBUVEI4NDRNNWJOeWF3MVRxVnJaWGR6M1I4WkJuVmMxdkNENHVMY2ZZQjljeWJ4VWZJd2lBQ29EWFFyNVV3VGo0WVNSMHNFTEcwWVBiMkJvNWIya0ROM3BiTGEzd3Z1UUJJbE5tMVdjc2pR?oc=5",
+   "published": "Fri, 16 Oct 2026 07:07:03 GMT",
+   "score_parts": {
+    "recency": 0.668,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.5
+  }
+ ]
+}
