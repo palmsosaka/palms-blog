@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-18",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 119,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "アメ車の魅力を満喫できる極上のマッスルカー！ 1967年式〈シボレー〉インパラSS (Safari Online) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVkw5RHBGenBDY2FWdnFuRHBlSjM5VDZ3MkZEdGJRbHplQmJlbGh5MlNnSDlBVkFJTjNqLU92MGVkLVctZm1qVDdfTjd1RHNmM05OTExrNnR0RTdER2hVVWhUazFFdUlJR1NNRjZ2a2VmNldPaFgzWXYyRlFRSHh5SGlDZ1M0NkNMZUE4U1Jn?oc=5",
+   "published": "Sat, 17 Oct 2026 13:00:02 GMT",
+   "score_parts": {
+    "recency": 0.797,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.639
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【どちらを選ぶべき？】スズキ ジムニー vs ジムニーシエラ中古車購入ガイド｜ライバル比較（グーネット） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdnJ0cVB3WmVGUmFvQk0ybzY1Nkx2SlZjUFNGRG5IQi1sd000dVBtOGRvQndiTnYwaW9JNE9zMGFBY2UtdW9CYU94aUhZQnI4MFJvQjNxV19mT1NidmlGYzB6RkN2aU9wMmhueEpNN19pZXBteDdUZ1h5emM4N1dvQXN6aWx2Sjgy?oc=5",
+   "published": "Sat, 17 Oct 2026 18:00:00 GMT",
+   "score_parts": {
+    "recency": 0.901,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.62
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "【40代におすすめ！後悔しない車選びはこれ☆】ガリバー藤枝南新屋店のスタッフのつぶやき G014201792233816308 - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QVFpoY2YzOHRBUHY0RmlhbGtvT2xQek0wYjhUdGtnZUJHbGZjVnloMXJDLUNqT1FGdjdCTWtLRVpZRmRGTTR2bEJUOWFTV0pwSnQwUVlDeG9UN1V2Z2N1Y2xQNllBLWpFdTFZQmJaWDh6OFpqY0c2emdwY014UQ?oc=5",
+   "published": "Sat, 17 Oct 2026 16:47:09 GMT",
+   "score_parts": {
+    "recency": 0.876,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.613
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "70台以上がズラリ！ アメ車、旧車、国産車にバイクまで“乗り物好き”大集結イベント【相模VIBES】 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUWw3N2FTZi1manpZZmY5M3hWa1FfMlN0OXhsaXhDTm5FdFY2RjBFWG15eEtuUDEwRERzeUxGVjliZEhMNktjTjN6X0p6ZlIzZGtsMElHcFVDX1dWQWwxSEpBeFJwa2huM3U2RlNDOWg3cDU0ak93MkpGMl8yN1p2eDNBZ081dGFLcGdyNzVB?oc=5",
+   "published": "Sat, 17 Oct 2026 07:27:23 GMT",
+   "score_parts": {
+    "recency": 0.682,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.605
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ホンダが活用を進める金属3Dプリンターはホンダ絶版旧車乗りの救世主になるか？ 課題はサイズとコストと品質 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWDVEWWxDMFRmd1NOekFDclF5eWJRZ1F5Q28weWs3MERuRFRNbF9mTEtnbUdhN3lmMF9pa1hJTVluZ2lIbnpWQVZtb2dPZW1qbTkyd3gyWmtvTEJWdGlYaDRJNDFFVXA1bXc3TGU3RDJRVFplUzQtZnNPdWx6SUhrZ0F3bklsN0Jjajh1RTl5SzBjXzNJWG9N?oc=5",
+   "published": "Sat, 17 Oct 2026 06:25:40 GMT",
+   "score_parts": {
+    "recency": 0.66,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.598
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ルパン三世 カリオストロの城に感動して購入！ 1959年式『フィアット・ヌォーヴァ500』に乗るオーナーの『旧車』遍歴 現在は4台所有 - AUTOCAR JAPAN",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VR3RuUFR2Mk9qNEZPcVR4Ql9UVlN0MFdIbmtTRE4tVXlocUUxX2ZQODZ3YUVPRVhzelMzSmt4cFN1QlRUMHkwQTJWVQ?oc=5",
+   "published": "Sat, 17 Oct 2026 03:05:00 GMT",
+   "score_parts": {
+    "recency": 0.591,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.577
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "画像24 / 37＞【写真特集/国産車編】ホンダの第1号車や歴代CB、YDS-1、マッハ、コレダ…バイクの名車が集まる「岩下コレクション」全37枚 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pdG1qLTNaRXgwWERLZGY4dG1UU3BUbTRrS250U3dWb2JFaTZWeGxlalcyNFhWTk9aTWkySWhzV1JBTzNTQmJoNkFkZVJ4dEJFVThqczZKNFpPRW92Q2dwcWtidERCTHlwV3pKaVNhWnYzUHRsdkRQNlN3Zw?oc=5",
+   "published": "Sat, 17 Oct 2026 19:04:40 GMT",
+   "score_parts": {
+    "recency": 0.924,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.577
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ルパン三世 カリオストロの城に感動して購入！ 1959年式『フィアット・ヌォーヴァ500』に乗るオーナーの『旧車』遍歴 現在は4台所有（AUTOCAR JAPAN） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVGhLOENrdGd2QmZ2cXdPZ1lBMEVzV2F4U1E3QkprTGY2ZGVValROVDdfODVSYUE5dDRSUFcwMUp6YVd4c3BoVjB5eVRkbzVqUGtJaHpTcWtiOW00TzV0MHlQeC10cldUMGdyWllxOGNwbGxrMkhfNWU0QUR5MHdDMGFfN0lIbzRG?oc=5",
+   "published": "Sat, 17 Oct 2026 03:05:00 GMT",
+   "score_parts": {
+    "recency": 0.591,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.577
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ルパン三世 カリオストロの城に感動して購入！ 1959年式『フィアット・ヌォーヴァ500』に乗るオーナーの『旧車』遍歴 現在は4台所有 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNG9MYmE2Z0FQMjBQMURBUVhqVVJZLTNlTjF0WHNXWnFFNkhpLW5qTU9VdTRmcUVLQ09kbVlKcmZPaVp4RnI0WkxHd1lMWVVDaWt2Z0M1WXM5WHFDV3FKbG9OZmpzOGg1bktSNnlrblhRaXNMc0lLZTVURnlmdWxpNVotUElTTXpm?oc=5",
+   "published": "Sat, 17 Oct 2026 03:05:00 GMT",
+   "score_parts": {
+    "recency": 0.591,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.577
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ルパン三世 カリオストロの城に感動して購入！ 1959年式『フィアット・ヌォーヴァ500』に乗るオーナーの『旧車』遍歴 現在は4台所有 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOblloVzRrSkE3RGEwdnItQkt3YUZsYkVGanpreTVkUFZfc0JzTjZ2RzE4M2Q0UVZWUmRhRjNNUWloaTN2MGVjYi1tZVhZUFZEOHpWdmFURHhhRXhLTFpVWGVoTnVxUUt2T1ZPSWM1TlBnejUzcWRtV1BDMWpsdlVZWFd1aWFDdll3aGFoWnp3?oc=5",
+   "published": "Sat, 17 Oct 2026 03:05:00 GMT",
+   "score_parts": {
+    "recency": 0.591,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.577
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【画像】ルパン三世 カリオストロの城に感動して購入！ 1959年式『フィアット・ヌォーヴァ500』に乗るオーナーの『旧車』遍歴 現在は4台所有 1/4 - ライブドアニュース - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5WUlJmdm5xa1dpQm5sVE9na1NuWnhpVEFGaEtDYlRtc1hscWI2VDNqZWRHNFI4OS1CQTU2ZkhJVU5YYUpOU2syMlg5LUF6SkZKelg2eS1uRTUwTlFlQmlxTjk5a0Zxb01BNGFiMi1sWkdNcWJLT1FJVWR6Tkk?oc=5",
+   "published": "Sat, 17 Oct 2026 03:05:00 GMT",
+   "score_parts": {
+    "recency": 0.591,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.577
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "【どちらを選ぶべき？】スズキ ジムニー vs ジムニーシエラ中古車購入ガイド｜ライバル比較 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VSXNkSkNLMDg5a1ZHb21jQ3ZmSENVeGNTbnF2UGpVMUpCX2prdHJ5RmJMeEFfOUJLODZ6ak9ibFdlZkNEbG9WUGx1SWdwSlAwWlFJS2FjdlJnUmo3WGFodElHbXM3bWZyY2lWb1hST0MybDZ50gF6QVVfeXFMTy1pbTJxMnUteVRjRDlabFJ2eFVzalhMTXNGNkhBbDF0THphdjFOZWxhOUVlVFZuZUEwOW9ZaVdQVTMwUXFUWHNzdlBZODNTQ3R6dnh5aFhpVTNpWEJpaUhIeFNXUTkzeDZYaW41ZjdpbjB5aGNJY3B4OFE?oc=5",
+   "published": "Sat, 17 Oct 2026 09:00:00 GMT",
+   "score_parts": {
+    "recency": 0.714,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.564
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "日常と非日常を両立したスポーツクーペ「BMW M4」｜性能や特徴、新車・中古車価格【写真・6枚目】 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zTmh2aVZKcVZTcWJNdWx3anlqQnhLMnRhMmxpQU5vT0VvWFo0MnE4QkRXRlJaaUF4Q3lzN1Ria0JkZWVzUTZ5UTBJUm5RQnRxdEN5djMtdF9NS3RFWEl6blBBRFByOGc?oc=5",
+   "published": "Sat, 17 Oct 2026 06:38:29 GMT",
+   "score_parts": {
+    "recency": 0.665,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.549
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "「肉の煙には勝てません」アメ車＆バイクを見ながら食べ歩き！ ガーリックシュリンプにスペアリブ【相模VIBES】 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT2xRa3hlZm0yRVFDUWFkVE4yODVkdjFwY0R2LU1rR1pOc3J0cnlwbWpINFg3UGM4ZU1ydnNNM3pDWjhGRVpsc3N6N1BWcm50TG1MMWxwb3dfYnBrWUdtMTJRNzMxbjBuRnFfYVoxZG1pN0xieG1IWlIwb3hzdDAzWTdTVm5GSlREX1NnQjZn?oc=5",
+   "published": "Sat, 17 Oct 2026 08:23:31 GMT",
+   "score_parts": {
+    "recency": 0.701,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.51
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "レクサスの頂点に立つフラッグシップセダン「レクサス LS」とは？｜性能や特徴、新車・中古車価格【写真・2枚目】 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Ka0I1MWQ0dVB4VGRDd2c1c2lpX2NVaFk4SkpHRlpmbFdMV2ZhVzJmWXVyTkdMTy1jTlprT2VJRC1CMkhraWtqWWwyV1FMczVLZkxyNTRVSjFET1FZVDlmbEpILTk4X1U?oc=5",
+   "published": "Sat, 17 Oct 2026 00:17:29 GMT",
+   "score_parts": {
+    "recency": 0.532,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.51
+  }
+ ]
+}
