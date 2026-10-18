@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-19",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 113,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "3年間だけ生産、激レア旧車！高橋克典が自慢のKawasakiのバイク紹介「いやぁ、やっぱりカッコいいわ」 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdElSTEd0LTJGUGV4WnVMcm5rUkhoNmFmb3R5N3pqNnJOYS1oUlJGT0R2TTlza3FmYk52TEpPMVZCUzE2dm9FeUh5Q0RsRVJJVmRkNXBIa1pGT0pOdFJxN1ZJal93RmpzTE9sdVkyQUhVNUdzN0VYeHMtM3ZHaktlNnE1UTVNZ3dySDQyMXRvVTlib2tVSk05QXVWWGw0ZVZFWHfSAZQBQVVfeXFMUHJ4eVphODlsTVBqOG5SS19uLXE1eENTZ093YUVlWFVXZDJUVE81eXpYS1JWUFNPOFp6WXdLZ2ZOSDloYjQtNmhKUXVCaEx5UjdZZzFySGJUQXhIeGY4QWQ2UXlfNENFNy1tZTBXTEx1S0V1WDFwUE1oenpjSTlGRFlrZjR3MEtTMTk4emdWUFcyaVFsVw?oc=5",
+   "published": "Sun, 18 Oct 2026 22:12:50 GMT",
+   "score_parts": {
+    "recency": 0.991,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.697
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "日産「ローレル」がスクエアなアメ車風スタイル＋V6＋先進技術満載でハイオーナーカーの5代目へ、116万円～【今日は何の日？10月19日】（MotorFan） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kQWRjdXpPS3gxdTd2UV9OelNKSC1ZX05ETm56Rk5SaTc2b3VDV1c0QkZPWnpiaDBKU3A2T1F1SVFTZkhpV1NMTEtYSGFzTHpiN2tCYTh4MkJDWlYydDM3VW5Nc3R2eWpHZUx5cHlXTlZkS0hFNUcxaDB5TEMyeUU?oc=5",
+   "published": "Sun, 18 Oct 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.945,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.683
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "日産「ローレル」がスクエアなアメ車風スタイル＋V6＋先進技術満載でハイオーナーカーの5代目へ、116万円～【今日は何の日？10月19日】｜Infoseekニュース - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yTGhwZGxfZVZPTUpLaXdIRDhxQk5TVEF3SkRqd1lKQlJoOEhac2hmVHZLZmdIQlBCcXlRQkx2VG5pYVo3ZXd1Rzg5a3R4WTZKSzRFbWpmYnlhbE9EMElDQWxRS2pmengx?oc=5",
+   "published": "Sun, 18 Oct 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.945,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.683
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "デンジャラス・ノッチ、“昭和51年製”旧車バイクの納車を報告 フルレストア済みの極上品「鮮やかなブルーの色が味わい深いですね」「カッコいい」：山陽新聞デジタル｜さんデジ - 山陽新聞",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42c2gwR1lSbTFKM0Z0Qi1kaXhFRFRyYlBENzVCTEx4UmM0YmlwX29rSk5sTTFxdWFUU21kOFg5eWd2azJEcGo0eVlnRE0yUmVud3J4eU5nU2J6aFlCSzJuUjkzRkE2Q3M?oc=5",
+   "published": "Sun, 18 Oct 2026 06:10:10 GMT",
+   "score_parts": {
+    "recency": 0.657,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.647
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【爆音注意】49年前のスーパーカーが爆走するお店で美女発見！？旧車？アメ車？イタ車？ Cryptocurrency (RQXqgRQmBg) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SMGx1QkJlN3QycjFxbW1HcWpkT0hWQ1JJSTlLRXU5ZmZlTDAxWi15YUZnbjN0UGtOT3htUVBJdlVDdVZjVXBJQkhISTEzRGZuNm15RzRoZkEyMnRXS1NPZ3lDRVpZQQ?oc=5",
+   "published": "Sat, 17 Oct 2026 22:09:30 GMT",
+   "score_parts": {
+    "recency": 0.49,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.647
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "価格崩壊した中古ハイブリッド車7選！「罠か、買いか」を見極めて損しない選び方とは - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93VkZuX0ZFNUtJa3M0YldSUHpCdFI3azNpUkhXWl8yY05POGxvWlZWZmlyUE56b0Nya1R4UUcwVEFWNF9PeS02dUZZQlB1V0pTUmhPWjMxMk1pOTJOV3pN?oc=5",
+   "published": "Sun, 18 Oct 2026 22:02:00 GMT",
+   "score_parts": {
+    "recency": 0.987,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.596
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "「全長2.2m、全幅1.1m」「エアコン装備」「家庭用コンセントで充電」ガソリン軽より維持費が35万円安い電動原付ミニカー「T-mini」が魅力的！（月刊自家用車WEB） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ054bXhLWkdhTzFkT2ZHS3dBZFFBV01pN2tUZlhfY0g5UXhWVXVRbTZGNTZnejB6aENCeUx6NE5PTEtkN285SFRDMlVUZ2otY1EtelFWeGtjazFidjBvWTU0VUVhbUVVSjl6M2tYRDQwMGozX3liNngzLUlLUHVNa0t4NEt5WWdz?oc=5",
+   "published": "Sun, 18 Oct 2026 21:40:00 GMT",
+   "score_parts": {
+    "recency": 0.98,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.594
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "第19回「えいでんまつり」が10/31、京都・修学院車庫で開催！ - Risvel",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE53X1RsVXVXWlg4bnBwM2tZcC1reko2LXBtNU82bmJpbVhWMjJXb191QWZXU0RTZFlPOUsxREh4WUhhcXMzRnhr?oc=5",
+   "published": "Sun, 18 Oct 2026 20:52:31 GMT",
+   "score_parts": {
+    "recency": 0.963,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.589
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "「高級車買う金はあるのに駐車代はないのか」…韓国・混雑する百貨店前で1車線塞いだフェラーリ、Uターン妨害で炎上 - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1USkg1NFBZcXRVbzZDUVZMRnIwTlVPc3BvUHBEYzZqeHdDelBXd0ZWcDNyMGtNWHdUa3FYR0MyYXkzU0JWVVNuY1pCc3BSOXNqNUxIZW1FZWRPY1k2UWI0SExZQVZmekVLeUHSAWpBVV95cUxNVEpINTRQWXF0VW82Q1FWTEZyME5VT3Nwb1BwRGM2anh3Q3pQV3dGVnAzcjBrTVh3VGtxWEdDMmF5M1NCVlVTbmNaQnNwUjlzajVMSGVtRWVkT2NZNlFiNEhMWUFWZnpFS3lB?oc=5",
+   "published": "Sun, 18 Oct 2026 20:00:56 GMT",
+   "score_parts": {
+    "recency": 0.945,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「NCなのにリトラがパカッ!?」 旧車トラブルと無縁の“合法NA顔”ロードスターの完成度がスゴイ（WEB CARTOP） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41U1hyMVdLOS1yY0FHWDZOekE0NWoyZjJMQ2xKRFpsbUpUM2M0RS1rek5qY1pvMDk0UkpPQ2Zib2ZVOTQ0WWhvYWU0cXItNkpMY3ZiZ1B4N3JTOVM0YndpSDItQUoybHdyWV90dU0tWWgwdERpcEcwUGZiT2J5ODQ?oc=5",
+   "published": "Sun, 18 Oct 2026 04:10:02 GMT",
+   "score_parts": {
+    "recency": 0.615,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「NCなのにリトラがパカッ!?」 旧車トラブルと無縁の“合法NA顔”ロードスターの完成度がスゴイ (WEB CARTOP) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGZCMC1FbFlqQjNKTGtRTnNESjkxT043NG5pclF5R2h6eFc3elRaSmdkbHRDZXo2NkE3dUl2YTBiYlBJckUyWDVYWFJHX1JleTlEdkxVOVhGT0dOVnh2ZlBVWkViSGZ1TTJiUVJMTmpfeUt0a1hBSGN2eGRmMjU1WVFDVEkyU09oNzVQR25R?oc=5",
+   "published": "Sun, 18 Oct 2026 04:10:02 GMT",
+   "score_parts": {
+    "recency": 0.615,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「NCなのにリトラがパカッ!?」　旧車トラブルと無縁の“合法NA顔”ロードスターの完成度がスゴイ - WEB CARTOP",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94dG5pUzhKT29hMm9UQVliSHhmeVlxN1pIZ0tUN0lpZ3duU29sMW5YcmtGQVZRS1FZeG04bVhPMUJnX0hrUmhIUTdDWmt4STFFaUln0gFYQVVfeXFMTTZCX0pGSzVUenBHQWF6aDgtTTlWbmRJZFN6Z2hiNjdPc09hLXUzanFHQXRjbjNHNmNZbVFBaW1uU3VmU3VyNnlUajEyY3JBWlVjVHpiMnBVVA?oc=5",
+   "published": "Sun, 18 Oct 2026 04:00:04 GMT",
+   "score_parts": {
+    "recency": 0.611,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.583
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「NCなのにリトラがパカッ!?」 旧車トラブルと無縁の“合法NA顔”ロードスターの完成度がスゴイ - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16U1hRa1Z6UGF4ZGxOOC1xNTZWRERJSVF4bWhPTGtLRmVRdV9CRDJRM1Z2NG12MU95eVFDSWJZY0o5R0haejExVkZnVDI3UzdDcUNZMDltdVl5M3BCeDVN?oc=5",
+   "published": "Sun, 18 Oct 2026 04:00:04 GMT",
+   "score_parts": {
+    "recency": 0.611,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.583
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【画像】「NCなのにリトラがパカッ!?」 旧車トラブルと無縁の“合法NA顔”ロードスターの完成度がスゴイ 5/12 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GNGd4RUJzMm9LczBrYkdTR01kRS1qbHkxN1VRci1mSEhtSUhNREgtY3N5YU1TZUxOaWprbXFqR0s1MDFpTDQxcy11VXVZVnJfbnlZUEZ1TmJCZ2tPck9BaGNPX1NsTkVwem53VFd1SjBpTXZhbzllazhvZjM?oc=5",
+   "published": "Sun, 18 Oct 2026 04:00:04 GMT",
+   "score_parts": {
+    "recency": 0.611,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.583
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【画像】「NCなのにリトラがパカッ!?」 旧車トラブルと無縁の“合法NA顔”ロードスターの完成度がスゴイ 2/12 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4V045S2tYaDh6ZGdONlh4R3VGNTZxZ0x3RkpjcGhjVEhMazZSam5fTzgtV1FWSlhjZUZrSDhwbmgxcFN5SGh3dDNXck5UQUoyWUxzUEtfd3R4VEViWWcxXzFXLXJneVA3aDE3ckdnTEk1SGJidFZqSkJDbWQ?oc=5",
+   "published": "Sun, 18 Oct 2026 04:00:04 GMT",
+   "score_parts": {
+    "recency": 0.611,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.583
+  }
+ ]
+}
