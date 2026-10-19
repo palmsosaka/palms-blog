@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-20",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 136,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "堺の大和川で清掃活動や子ども向け自転車教室 10月24日に無料イベント - サカイタイムズ",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1NckY0UFpjbTE4Z1RYN3JFV0FlY01tVm9Ic091LUhESFVqRnRlQ2hGMThTbll6ZG9DTTBseW1zY1FlX3pHbF84a21VYw?oc=5",
+   "published": "Mon, 19 Oct 2026 20:30:00 GMT",
+   "score_parts": {
+    "recency": 0.928,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.678
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "AGENCIA、中古車販売店向け「プライスボード自動生成API」の提供を開始 - レスポンス（Response.jp）",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DZk1NY0Y3Y0JJQlY4eXZlY2xOYWtxVHhIMEZ0eF9nckhvTklKNnFGTkhaOWhFbWM0emc2d2loMEdGUkpLVTFERGlmOElJREptNjdqdDkyZWVkellQTmMtSGhYQTFNdDcwOGViS09kcmlYNHp4?oc=5",
+   "published": "Mon, 19 Oct 2026 23:00:00 GMT",
+   "score_parts": {
+    "recency": 0.98,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.644
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "リクルートのカーセンサー、利用停止で中古車業界に懸念広まる 顧客対応や業務支援に支障 – 日刊自動車新聞 - Howl.link",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBRMEVBWmdhM2lZVWFuTFZQcGJZRkRybzdNWUZCY0tHVVpMZUlCTnk2WURnVmRrSjRUNjlV?oc=5",
+   "published": "Mon, 19 Oct 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.917,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.625
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【2026年9月】人気の中古車TOP10｜見積もりデータで見る、いま選ばれている1台は？（グーネット） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNHVEYUNIZEVkdGZyQW9sTWR6eGNCam1paEItZ1lna25EN0hMZGJBYnhVUWc0TUNLZ0VqUENKblh3dWJCOVVVQ1JrZWtFTHJ3T2R6U3lIRmxWNGdOMUtuQUtrZ1RtbGxsZVhvdVNya2toa3VfMGJ0Q09EMDJlbDRZWFR1bFYzNjM0UVZ4M1BUdWg2OVBh?oc=5",
+   "published": "Mon, 19 Oct 2026 18:00:00 GMT",
+   "score_parts": {
+    "recency": 0.875,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.613
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "【2026年9月】人気の中古車TOP10｜見積もりデータで見る、いま選ばれている1台は？（グーネット） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZXJ0V1VUTllyb1FmRTRRVkUwRGNseDZoc2dobWRoTGoxNDJVV24yZjRtOVpMMzVqWlR0SVBRT21KcXBQeGVkUDNGcG1Fdm9fNkFvLW55Y2hIM3ozSF95LXRJWWZvNkp1NWs1UFFnMDV2Qy16YXRxS2ZMQk5OUUM2TFJLSElrRkk0?oc=5",
+   "published": "Mon, 19 Oct 2026 18:00:00 GMT",
+   "score_parts": {
+    "recency": 0.875,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.613
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "国内外の名車、旧車が谷汲山に集結 岐阜・揖斐川町 - 岐阜新聞デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54NFRoWkdvZHptcUoydkRwV0RxOWRuUTJlMGhrZlcwdzd5anlQcUdidlc0VmFIZlQwc1c3SzZRMzRwZElibHdRVkhTS0VSemNHX2ZjUEhn?oc=5",
+   "published": "Mon, 19 Oct 2026 08:50:00 GMT",
+   "score_parts": {
+    "recency": 0.684,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.605
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「伊勢崎オートモービルフェスタ」に行ってみた！ 旧車もスーパーカーも消防車も集まる、自由すぎるクルマの祭典——ハッサンの週末カーミーティング通信 #4 - KURU KURA",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XNGdxTTJhWHFOa2lidW96ZmVqOC1DT3RiMnl5dHpGUGhZVUw4dXNPWDVCM245OEwtbm41Q1ZVTEVwN3ZKMjNPc2QybEt3Q3VSYkRJanRsUUYxcG8?oc=5",
+   "published": "Mon, 19 Oct 2026 08:24:47 GMT",
+   "score_parts": {
+    "recency": 0.676,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.603
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "1970年代の石油高騰を機に燃費良い日本車が売れ始めた。現代の石油高騰で電気自動車の販売増に！ - 自動車評論家 国沢光宏",
+   "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPSFhqOXpkaVF2allxOG9KaHRuTE9pcFM1M3hGLWVTZzEtSFljR1VmdWJnb09zMXNEUXhrdVBtQVJzN1lqaVpSTzlRWjJvelVmQXE4WWZyVFNvTk9NcEZDUWd0WkJXQ0dYd0ZnTFJZZVhid0k2bVdfQng0X0F3TDNkSG1qaUtoLVNwdThuMXZ5UlhJeW5Wd3FBV2NlXzF4RmEwQTNrTVByTkxWdzE4ZU01bWM4Qk1JeXM4SU1QWG95QlJFdW1vSzNwZFZTMFd4OWR2WHp5MU1lakdaRTdHWnVzNjQ2bzBrSUlCMGhUVVdOWm82R09oY1JWTXRMR1c0amxHRUdTeVJPWmtvekdwYkxnZzU1b3NidTd5eV9kYmpaNHVoOU9nTTFZdVVUYnZWRHhmMVg0NmxnTlFNdTBDalF1M3BEaHJuTmduc24wUWt3LUIxYmZhTWl1eTNtQjM0SGs?oc=5",
+   "published": "Mon, 19 Oct 2026 23:33:24 GMT",
+   "score_parts": {
+    "recency": 0.991,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.597
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "【2026年9月】中古車買取ランキングTOP5を発表！SUV・ミニバン・軽自動車などカテゴリー別の人気車種を紹介 - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96M1dxTGxEWlp3cGlVRTFGZzlYamZiZ2lNd3JNX3lYbVhCUVdXMERzLUZVQkJTNnMzNEY5ZEdSa24weDhMeVd4M2ppdlRoSy01OFN0c3lFcHVQMWoxdktPejF1cHF3UFNtWnVJX3QycWZlQQ?oc=5",
+   "published": "Mon, 19 Oct 2026 14:40:00 GMT",
+   "score_parts": {
+    "recency": 0.806,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.592
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「57年前のクルマとは思えない…」完成された美しさを持ったマツダの名車。先進技術を満載しながらも短命に終わった悲運の［ルーチェロータリークーペ］を紹介 - 月刊自家用車WEB",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tZExEdEZmZG5qaGt6by1oMlVJTmlOLVFWUWJHbkVSdU1TUGxZdG1ON1VzTy0tY2FDYjVnMlhHaVVQV0dzdkNJWnIyUlNXNngx?oc=5",
+   "published": "Mon, 19 Oct 2026 21:20:00 GMT",
+   "score_parts": {
+    "recency": 0.945,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.583
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "群馬で旧車、スーパーカー、消防車も集まる、自由すぎるクルマの祭典が開催！「伊勢崎オートモービルフェスタ」に行ってみた！ ——ハッサンの週末カーミーティング通信 #4（KURU KURA（くるくら）） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Rc29NQmcyS05ZUEkzRXZxRGhDRkppQjFxYjIyV2RRbGhPTEtuTmZYNmk4ZVdJRmRRcG13M2oxMk1yUUZKS2VjVk1oYTZBdGYyRFhsc21WT3VyTVlUVFBoQTZKVFBLTHB5MDJhMXZXaVpsMEd1TEhHbkljaXBCZUk?oc=5",
+   "published": "Mon, 19 Oct 2026 04:10:47 GMT",
+   "score_parts": {
+    "recency": 0.587,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "群馬で旧車、スーパーカー、消防車も集まる、自由すぎるクルマの祭典が開催！「伊勢崎オートモービルフェスタ」に行ってみた！ ——ハッサンの週末カーミーティング通信 #4 (KURU KURA（くるくら）) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbG15YkFZZHo2alNWLTNuRHBweW9oY0czSHB0U2pNOXlLTnhxOWhsdFM0Qktic25WcDJETlhrVjZPQ3J1T2tOLVdDcHpjbjREcm5ZTm5vYmVqZjZobDFjY3k5NFdlSmU0cXdFbFBUVzZaVzZoekVMWkY0NkVWWGxCcmU3Z29oUlpFcXYtbU1R?oc=5",
+   "published": "Mon, 19 Oct 2026 04:10:47 GMT",
+   "score_parts": {
+    "recency": 0.587,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "「トヨタが売ったアメ車」に「スズキが作ったシボレー」!? 90年代に実在したGM×日本の「異端児」たち - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLUtJaVBZQ3VrZnBwQ1FZcjRsX28tUHBzVEs3WkhaS0kzZldtOG1qdnpKT1BrbHo3ZnBYNmR6YWEzQVYxa1BLeVF4ME0tQkdzNUJ5QXBhdmQ5eTJteFJvTUxUaU9Bc0lwWVRNbWN3VXJiMlRRRlN1d3E3TnNzZVdHWmV2Mko0U3hy?oc=5",
+   "published": "Mon, 19 Oct 2026 02:40:02 GMT",
+   "score_parts": {
+    "recency": 0.556,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.567
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "驚愕の逆転現象！3年後の中古車相場で損をしない!? 260万円のSUVより500万円のSUVが経済的なワケ - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JTVh6S2N3WmFNRjNNM2pjWERNNEVBbnVrQlNMNzJkV3ljWks5clVQRXlQVTFwbjAzRGRlaXhpYklTWTNoQWJESEZKZ3I4bDF6Q3l2WElQUjIyWDdKVVR4QkZn?oc=5",
+   "published": "Mon, 19 Oct 2026 09:52:55 GMT",
+   "score_parts": {
+    "recency": 0.706,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.562
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「伊勢崎オートモービルフェスタ」に行ってみた！ 旧車もスーパーカーも消防車も集まる、自由すぎるクルマの祭典——ハッサンの週末カーミーティング通信 #3（くるくら） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN3prUHdjempyNVdtdGg5aTItaDUtZFNjUjV3YUhwZEZnS2hjbUM5WDVPc2NkQklKeDNLbWxqMUlQaXVHbTRwVE51SVdwVTY2MDZGWTExUGZvWlMwV0xKbjRaMWxFUFRrZlE5bGQzTUtPRkxhYUI5ZVUtRENqRXJtbkpwS2hPRVZBM1BNTXRTdklnMVRo?oc=5",
+   "published": "Mon, 19 Oct 2026 01:46:48 GMT",
+   "score_parts": {
+    "recency": 0.538,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.561
+  }
+ ]
+}
