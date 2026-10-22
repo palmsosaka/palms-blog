@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-23",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 205,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "板金と車検のご利用ありがとうございます♫ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONVFGNFRxcmRNazZGTW9PeXFWcU00TUdyTkVjcW9lV3ZnTG93WmRzZ2xHQzlmNmpwZ2poOEIzV19Nbm5mSkJiWGdDRm14TTZaRFhYTm9mSG5ETkQ1NjFlTVliQnhaNGQ0c29TMmQybmtjN0hUTTN0ZXdqU2dPQXdVSUxLbUs4UXVNSUJvczRGUGc?oc=5",
+   "published": "Thu, 22 Oct 2026 16:00:45 GMT",
+   "score_parts": {
+    "recency": 0.84,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.752
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「マツダRX-7」の復刻部品を生産!?　ミクニの挑戦は旧車オーナーの福音となるか？ - webCG",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnM19sNHdzOWVDSzJqR0tNcGxvUElzWXlXOVhhZUZzZnZ4dkVFaU9yZG9IcGx2OFh6bk9SSkw4T01kYWF3c0E4ZEdMYUtXbE1GTVHSAVJBVV95cUxQZzNfbDR3czllQ0syakdLTXBsb1BJc1l5VzlYYWVGc2Z2eHZFRWlPcmRvSHBsdjhYem5PUkpMOE9NZGFhd3NBOGRHTGFLV2xNRk1R?oc=5",
+   "published": "Thu, 22 Oct 2026 21:00:00 GMT",
+   "score_parts": {
+    "recency": 0.944,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.683
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ムーヴキャンバスストライプスX”2026年式シャイニングホワイトパール/サンドベージュメタリック入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaVZqb1BZSi1MTlpHSFZJaUdoZ3k3N0RpVmxsVVlDTzN2TFh2MGR4WGNwbHNEbHdrVkxVZVhWOXMzaUZTbUdIczlHSUZWV3BTYUF0aFZzQ3lseGZMazF4eVZGNnpKeXBVYjBfRUxvQkRRNzE3MVhEZEFkWjdTQjlSNmVR?oc=5",
+   "published": "Thu, 22 Oct 2026 21:09:49 GMT",
+   "score_parts": {
+    "recency": 0.947,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.634
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "CAR FESTIVAL in KAWAJIMA 2026 川島町役場旧車イベント video8で撮影！5/7 - YouTube",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1ekJSQWx0YkxKd2k4S1pHcmZsRDh2WE5ldWRBcm1MSE5LZTB5THVnQ00xbXJvVU9hX05UejdrVEQ1amZ5RVFuc1RfTUk0azNmZzNlemNBQWFwbFV3?oc=5",
+   "published": "Thu, 22 Oct 2026 10:00:06 GMT",
+   "score_parts": {
+    "recency": 0.715,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.614
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "1946年から発売が始まったベスパは、以後のスクーターの原型を作ったわけではなかった？ 旧車探訪記・ピアッジオ・ベスパPX200E編【1／3】 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83ZGx3ZE5NM0NQNFhtM2p1eGRDMV93Tm84dGJSN0M1Z19pZm1SaHo1a0Rzb0lFcFQ1ZnpaREttNUZ2cTU3ZUtCMnc0Z0dnZw?oc=5",
+   "published": "Thu, 22 Oct 2026 08:10:00 GMT",
+   "score_parts": {
+    "recency": 0.676,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.603
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "『令和に買える新車の旧車。』 スズキ エブリイ ふたみさんのレビュー - carview!",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9NNWRpR1NSQktEaERtcHB5Y0dvaXBrZkpPQXVxYm5pY1NKeUJHczBXSDNUUGlLaFZiQXpkdjV6eDdUNFJjYWxTTFJobGJiQTZlWEFhdG1YRHNyRllBbXFEYTI4QzQ1NUJYa2wxRnpBU0hfaDlyaEM2eXdDNHM0QQ?oc=5",
+   "published": "Thu, 22 Oct 2026 07:27:34 GMT",
+   "score_parts": {
+    "recency": 0.662,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.598
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「OS技研の最新7速MTをハコスカに！」旧車チューンの新境地を切り開く男の情熱 (MotorFan) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWXlCY3FXSnQxUl91MnFuWkRvalJRWTdCdzZmOV9mXzU5c21BaXlXc21RNlphYlliTWVLajBqRnA4UWZVQUQzZUVNS1ZXNUlzRFJNU3pGeHNDX1kteTl2OEdZT0VGamhrUmhvbHJMcjZBOFk1bU5zMTc0TmVmYllwZUJTVEZsY2N1eE5rREpR?oc=5",
+   "published": "Thu, 22 Oct 2026 05:48:32 GMT",
+   "score_parts": {
+    "recency": 0.627,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.588
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「OS技研の最新7速MTをハコスカに！」旧車チューンの新境地を切り開く男の情熱 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NTDdGeFpZdmI2RnFFNkNRMHhsM2pKa1FjRm1YNXJnblQzdzVjWmVRaGI2U3RpanV1bjBIUF9uZldEUFZfVFdtOEtqbk9oNXlZS1V6WlZ2cm04MW1CUE1V?oc=5",
+   "published": "Thu, 22 Oct 2026 04:18:12 GMT",
+   "score_parts": {
+    "recency": 0.596,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.579
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「OS技研の最新7速MTをハコスカに！」旧車チューンの新境地を切り開く男の情熱 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rVEd6TjRaV1BFc0JtSWhPR0JIQmNXVFBhZnVSdWluT0dMQ3BVNkpvQmxFZTdaeExaZmNHRWxHSkNqX2c1ZDYxZ3k3ZVJXZw?oc=5",
+   "published": "Thu, 22 Oct 2026 04:00:00 GMT",
+   "score_parts": {
+    "recency": 0.59,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.577
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "車検の見積もりが25万円になり、想定していた金額を大きく超えました。10年以上乗っている車ですが、修理して乗り続けるか買い替えるか、どこで判断すればいいのでしょうか？（ファイナンシャルフィールド） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VRS1ISU1CR1lXRi1qTW5HZEs4SjIyQU1fRlM2YnM4LWMzQWI4R0MxQnBLOXJ6RU1SWkxBcEFEejJEQXdDcDNiNy1FQVVmYUJfNFFkS2tVb3I5WXhibzU2MEZlRTAyZHQ0Y1E1eThsdUtJQ0tLZS1SVVI3LXN2T28?oc=5",
+   "published": "Thu, 22 Oct 2026 03:40:02 GMT",
+   "score_parts": {
+    "recency": 0.583,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.575
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "車検の見積もりが25万円になり、想定していた金額を大きく超えました。10年以上乗っている車ですが、修理して乗り続けるか買い替えるか、どこで判断すればいいのでしょうか？ (ファイナンシャルフィールド) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWDBJcHlmMS10OWNvYnVxZmRtbVBwWHZVUXZZOGFZWDQtRF82b0syNVJQbU9sX01JdHpJMkZ0MVFWWksycFE5YWtqUm1DekVKMlJlbGFuZ25ERURIU2FsZVJQQUJlY3dsa2xJVzk5TDdCZEpjYkdveVFGbF9hNzBDYVlfd1U2bTVSM3RkZTR3?oc=5",
+   "published": "Thu, 22 Oct 2026 03:40:02 GMT",
+   "score_parts": {
+    "recency": 0.583,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.575
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "山陽自動車道・加古川北ICでトラックがガードレールに衝突　事故処理で上下線入り口が一時閉鎖 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xX21NVEFJel9CRVR5NTJfZzBFYkpmSnhabldoQ180RXA0UDJKclc0cHBZcHJaMDFNOWpheUNjUVdGWXhLM3E0ZTZ0WXBEV1p1LUVVVUI3cGsxTFFuQlBCUjdQWVZTbWZGVWFnUE9udXhzZ0N0SWRTNGp4S2_SAXxBVV95cUxPcV9tTVRBSXpfQkVUeTUyX2cwRWJKZkp4Wm5XaENfNEVwNFAySnJXNHBwWXByWjAxTTlqYXlDY1FXRll4SzNxNGU2dFlwRFdadS1FVVVCN3BrMUxRbkJQQlI3UFlWU21mRlVhZ1BPbnV4c2dDdElkUzRqeEtv?oc=5",
+   "published": "Thu, 22 Oct 2026 03:30:00 GMT",
+   "score_parts": {
+    "recency": 0.579,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.574
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "【納車ブログ】＃108 ご納車誠におめでとうございます！！！！ガリバー福山店のお客様 G014911789879066620 - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc05PUjM2ZkJ3c1I4QTdzRTc1b0NtNUNyYXZSVVZ5VzJLZnQzOVBJOFh2a3ktRzJuVnktOUhZYi1reDJfYW8yd0RqM1d6djJaQzFnWEtNT0Q1eFpJMXVwMGxHY1BDRDhGbmlNNElBT2hCT0JxaWhvQ2F5TUJoSGFiYkV5TUFqZw?oc=5",
+   "published": "Thu, 22 Oct 2026 09:29:01 GMT",
+   "score_parts": {
+    "recency": 0.704,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.561
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "カーリース利用者の99.8%が「納車後にほしい連絡」を回答 ― 最も多かったのは「車検・定期整備の案内」｜Infoseekニュース - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGRC1TWkY1Q0FLdjcyN3h4Y0daWUNJNHZndFlVN2M3Si14dzZSTWxqMlVYc0pHX0daX2FPSlZYclgxdVc3T05wdVpVR2RwTS1FTzQtREFIRVllc0hlRWZsNDdUUDVPaVdqbEp0WUN3dThiUQ?oc=5",
+   "published": "Thu, 22 Oct 2026 07:00:00 GMT",
+   "score_parts": {
+    "recency": 0.652,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.546
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "泡洗車だけでは落としきれない頑固な水アカ。ジェームス売上日本一が教えるリセット術 - Auto Messe Web",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jZ3NRandMRWQtLUtiOHVqYlAxdktPazNvVlZ2NXY1WDVpX3ZQd1UyQlJ2NC04QWhzQl9sRTlvaFUxbU53T2xwM05uR3ZWdU1memxyWVFOTdIBXEFVX3lxTE1PajJuMGtqVGlsYm50N2RQdjhYZ183VnJmLWIzcm1MVl8tcXh6bldmczBjU3U4cTJCTHJDWU1PaThFVDJJMDVhYVFaOGhHQmU1VkpIVkFXaG84MFdL?oc=5",
+   "published": "Thu, 22 Oct 2026 14:46:57 GMT",
+   "score_parts": {
+    "recency": 0.814,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.544
+  }
+ ]
+}
