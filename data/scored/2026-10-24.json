@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-24",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 205,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "公取委、日産東京販売に下請法違反で勧告 板金事業者が11カ月で2808台の事故車などを無償運搬 - 日刊自動車新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93azBtdEpReXhaTHJMLXMwYUd6LUY3aVZhT0VRc01SZFNncHJ6czBiRm44SjRXWHpBOU9SZUhJbjdJQWlKa0pnSFJrTkc5UldsX3c?oc=5",
+   "published": "Fri, 23 Oct 2026 10:00:36 GMT",
+   "score_parts": {
+    "recency": 0.717,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.715
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ヴォクシーZS 煌”2015年式ブラック入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pX1BveHZReHV1SHBiNjg2TnUyM2cxTGhzTVZFMmUxMDZYMGh2cEttUEdXcVRGcXN0X3RkaHVZSUJUUlQwcTZVUzhua0xCaUVoaDRuT2V6a3owQU1GQTJZYjB5eUlrbmc5MEN6bjRlZVhtZFJ5REhZVWUzT1FJcnc?oc=5",
+   "published": "Fri, 23 Oct 2026 23:31:51 GMT",
+   "score_parts": {
+    "recency": 0.999,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.65
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“デリカミニG”2023年式アメジストブラック入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBd2ZIVkpUVmtiNlA4ZU16TWZTT3N2clJBMUhNZ2E3RndzaDhVeDhVMVN2azVRZnhKbFAyUl8zVmtjaFRsd3NvdVQ4bnoxSVpDcVRmTlFKT0EwdXp6TjZ1RnVOak1mQV8xcHlITXRlanhsZ0o2Mjc5TXBXeFc0OW8?oc=5",
+   "published": "Fri, 23 Oct 2026 23:31:50 GMT",
+   "score_parts": {
+    "recency": 0.999,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.65
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“Ｎ－ＷＧＮカスタムG・Lパッケージ”2016年式プレミアムホワイトパール入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPWEs4OVlDaFJMcUdjRW12V1dTamhNT0xWcjlURVZHT2xpLW5ZTExHM0tBRlNBVUJQN1pQYWo0SjEzaXNmeTJWcTQxT1pmRl9Nd0tsLW1oTUw2Rm1xN2pkSTBRb1piLUY3QU1HXzA1ZEQxRS1vcFNTNW4xUjU5M3M?oc=5",
+   "published": "Fri, 23 Oct 2026 23:31:52 GMT",
+   "score_parts": {
+    "recency": 0.999,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.65
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ＣＸ－５XD プロアクティブ”2019年式ジェットブラックマイカ入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wT1N5TG1mOTdYZ0dVbGo1M0VCSmluS2o5WmJyTTgxQlRhUXAwYlFTVURhWFAzbHNzejl4eURJNzk5cEczRVktVGJudmdqMFpCNlJYRlVDSG1veE5waGNuYXFTdTNMR3BHUXE4LXc0UktGSlZJWDJNc29KLUljclk?oc=5",
+   "published": "Fri, 23 Oct 2026 23:31:52 GMT",
+   "score_parts": {
+    "recency": 0.999,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.65
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“Ｎ－ＢＯＸカスタムG・EXターボホンダセンシング”2018年式シャイニンググレーメタリック入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMUhUZmNCdk96RXVSenBnd3d1T3UxVnVIYVFCekRyM1YwRjdGRGtFYlFjQ2NhRHZTNDV4WFZ4ZkVaclhNdDN4VndzUDA1U3BYZllveEhUMk5weDk1MzJLZmxIdlNDYnI3SFU1ZUtqSEI2clpsV3FjU2dMUFZ4SVB3OTdKSHY?oc=5",
+   "published": "Fri, 23 Oct 2026 23:27:50 GMT",
+   "score_parts": {
+    "recency": 0.997,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.649
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“Ｎ－ＯＮＥセレクト”2018年式プラチナホワイトパール入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNXRpejdobWNGSW1uWTlZbWZoa0pxa1VSVkNUcDhjWW5pZ25JcnQxb0dJNlBfMTZ6dGRNMklLYTV5eDhNVEM0cGVmNzBVQWEta1NZRVVHeUFFYng2R3FrZjBlTjNtZzlUdTZDMkhGSjh6c2V4SkxIb1otc2JPenJfVmdDQmI?oc=5",
+   "published": "Fri, 23 Oct 2026 23:27:49 GMT",
+   "score_parts": {
+    "recency": 0.997,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.649
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“カローラクロスZ”2024年式アティチュードブラックマイカ入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWFNoQjJNSlNHRHJqQmpVZm9iQjJVaWt6RlRQamNDU1NnOW1lSFh1NXgzNDdFazB3dnBhQ0dYYWlpS214V1ZueExSaUs2S1JXUXBUVWpFck5QV01GOENZZUtDcE1WMGtSZzlBWHpsVFQyejNhd1VNYWZ6cXFIMDMxWGoySDg?oc=5",
+   "published": "Fri, 23 Oct 2026 23:27:50 GMT",
+   "score_parts": {
+    "recency": 0.997,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.649
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ヴォクシーZS 煌”2018年式ブラック入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTEVSZjNOUUNaVUVkUGo3TjZwZXZSaUh6Q2dVZ3NOZTRqaWo4Z1ZSekN1OV9COFE0N0RrTW5TTXI5Qm1mdjdlU0lzR3phRW9rcDBqWU9JMVppYW5ybjY0bnZ6NXF0bzRQY0JRZ2dOQldjanZDSG1PNmdDMVVZbm9aUnNWdHo?oc=5",
+   "published": "Fri, 23 Oct 2026 23:27:49 GMT",
+   "score_parts": {
+    "recency": 0.997,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.649
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“セレナハイウェイスター”2017年式ダイヤモンドブラック入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT1AtWUktX3hrSEVKUl91Q1pwU0NGd2NHaTUxcFM3T1pteXB0QWxYakJMNjJhQk9GTEVKakd3WWxqUk1nSV9BVVBHSXRNeUlxTnpON3dWWEdqSi1adkhXLVU3X3dsNVRzZHgydWo0ODVMb2V0RmdQdE9jTTU3bGVrTm5zM0U?oc=5",
+   "published": "Fri, 23 Oct 2026 23:27:50 GMT",
+   "score_parts": {
+    "recency": 0.997,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.649
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“エクストレイル20X ハイブリッド”2018年式ダイヤモンドブラック入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT2toVl9VTDNGQkd2YXBvXzd6ekcyOG42MndBWkc0TUJVM201OWZXX19hdEs2ZGJ3X2VYOUwzN19mMjJLZDNXdXpqYzJxd3lNRl9IRjZtSVQ0akh5b0ZyRDVqTmFHZkthblFFeE1TQ3RnZ2ZMZW95T0VTTFV1S1dmQlpNSWo?oc=5",
+   "published": "Fri, 23 Oct 2026 23:27:50 GMT",
+   "score_parts": {
+    "recency": 0.997,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.649
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“クラウンハイブリッドRS リミテッド”2020年式ホワイトパールクリスタルシャイン入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRFJyN2lMcVJOV21Vc01jYU8yNUJseDBWemo3MlNoN2pRVFNFMGtGUlRTaGFOcTBCSWEtT09hOXdUanhCRTZjc3R4QjFVWGR6TnRJUFRwTHhqQUtqLTVaTVZRRElwUlA1QmZfcmtDNFNRUlE4U2hfUk1FaHJqVmlwbmhRMmk?oc=5",
+   "published": "Fri, 23 Oct 2026 23:27:49 GMT",
+   "score_parts": {
+    "recency": 0.997,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.649
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ヴォクシーハイブリッドS－Z”2023年式スパークリングブラックパールクリスタルシャイン入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU1E3dFB1WXVFYlVXNXJURnBEZmtJcThGLURVS2NKSTh3ZVdwb21idWNtamFXTXpScWZ3aTRLVEY2RUdRQzBUWUVuRWlpaGRJaTZJUzZNUV93d3dxUWYtcmttWXlMYkJremFzUURqSEd2MjlHcDVGZkZ6NXl3ZjlsbjNjSWs?oc=5",
+   "published": "Fri, 23 Oct 2026 23:27:49 GMT",
+   "score_parts": {
+    "recency": 0.997,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.649
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "毎年車検から解放される8ナンバー！ トヨタ「ハイエース」標準幅で車中泊と日常を両立（Auto Messe Web） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIVGlMT2xVby1EbXVtdzV1Z1JFUnh4VFNFdWdmYWpIamY3RG9uUW4zOTlSQnJJY3JVY2F5Y3oyT1YyNHU0V3JYYkZ5dW9fVGFBSmdPaGZYTWVtTWp0SXcyb2dwRTZZYnBpcXJuWlpNY3hkd3BDWDdQcDhXZnJxa0k?oc=5",
+   "published": "Fri, 23 Oct 2026 21:44:57 GMT",
+   "score_parts": {
+    "recency": 0.962,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.638
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "「詰んだ……」10年ローンで憧れのSUVを買った30代男性、2回目の車検前に陥った“落とし穴” - TRILL",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SYXlubkdoTm5kSTZidlFYdDhFYWstZUh1LVp6LWdjR013TlBvdEtSOVFkblFMNWZqeUtTSkI0aGw2Mm90cmpKa19nUmoxcW8?oc=5",
+   "published": "Fri, 23 Oct 2026 20:35:00 GMT",
+   "score_parts": {
+    "recency": 0.937,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.631
+  }
+ ]
+}
