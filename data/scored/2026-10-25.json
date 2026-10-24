@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-25",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 201,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "1973年型のフィアット500Rに乗りはじめて人生の幅が広がった クルマが大好きな若きオーナーのイタリア製旧車の愛し方とは - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fckN3aXpYRDdKR05sWGlNU1NxYkJjWE9tZmwwQnZCYmdPT2xjT09XS1daRDA2elFPTWFmMzl0REVLOFNyRzJPQURVRnFWc1pKbzdYZmxhaWs2M1lValZMUTU0ZTJqZ2piUDNPemZXNHV5UGpXdHcySENrLUVMRHM?oc=5",
+   "published": "Sat, 24 Oct 2026 22:05:03 GMT",
+   "score_parts": {
+    "recency": 0.986,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.696
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“アルファード2．5S Cパッケージ”2019年式ホワイトパールクリスタルシャイン入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYjVmOVBvTFltNjk5T2MzaVgxM3pTY1FBMjZLOXFNbHNSU1ZXVWV0QW1YSWJEQmFKSU5QWXA4Rk5QOG1NWElfVUZJQ2tzeTlXcEdpbVdVR0NDaXpuRzlEd2Z5M3pFWElXSlZZOV9ad0VMb0w0TWJuVHBKZ0JLbGViZDlB?oc=5",
+   "published": "Sat, 24 Oct 2026 19:37:44 GMT",
+   "score_parts": {
+    "recency": 0.935,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.63
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ＣＸ－５25S スポーツアピアランス”2023年式ロジウムホワイトプレミアムメタリック入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdG1ScndQZE5XTDJxZUNDb0RTUVEwa0FzU0NTQnBSYW1DdDBKT3V1RUtzSk9pbEFQMmVwY2dwa2RQZ2VSTml4a1BzMzJlRG1zc19UZW9UNmdPUUszWHd0ZDBBOW5abWdWV0pTNV9YT3Q2OVM5WXhUQk5VTVZ6aHFOV2FB?oc=5",
+   "published": "Sat, 24 Oct 2026 19:19:45 GMT",
+   "score_parts": {
+    "recency": 0.928,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.629
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "画像1 / 16＞ホンダの旧車＆名車約60台が元気に走行！ホンダコレクションホール20周年走行会開催レポート - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTV2dmMnlrbVZQRTdMU19TeVllZG9JcTNZeUJqUE5LWjlzQmY4RTMtNFhDa190MVV1a0Q0NDFxZ19oNjFjd3d2WUZYOG5ldV9rY3lNanhwbGdMZjZydktwa3d2bEVJSE13Z2c?oc=5",
+   "published": "Sat, 24 Oct 2026 11:13:42 GMT",
+   "score_parts": {
+    "recency": 0.76,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.628
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "独断と偏見 旧車の車検 - YouTube",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92eEVHWk9yTGhVa1RSVkRjR3BLVGgtSXF4Sk1TY2NlcUtHbUNmSG9pVXA0X3J5cGtlQ3BnQmF0SlBVMWYyMi1OemJzekdobkc4M19sZWxQYzdhLXlZ?oc=5",
+   "published": "Sat, 24 Oct 2026 01:22:10 GMT",
+   "score_parts": {
+    "recency": 0.554,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.616
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“セレナハイウェイスターV”2019年式ホワイト入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeG5XV3B2a1UzWWdsX1I5T2VRNWg1dnk5MkV5bjVSMkZsVi03YWdKUkJIbDhmdVF5NWZwTGppcWVSWjRWdTNfTmotSUJuT21rc1c3cE4xRGIxcmRndmJrUUtSTS1UejJMekFHV3hMZUNENjctdm5SdW5LT19rZXVSdw?oc=5",
+   "published": "Sat, 24 Oct 2026 17:01:04 GMT",
+   "score_parts": {
+    "recency": 0.88,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.614
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ギアチェンジ以外にも考えることが盛りだくさんから、マシンとの対話が楽しめる‼ 旧車探訪記・ピアッジオ・ベスパPX200E編【2／3】 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjQm94aXIyd241MFhsd0NMMnJSUmp6QnVhY2JFR0FRYzBQN2hhSndpUXlWeTJ5S0pRUmtBT19LQlVmYWM2WkxyZEZPT3Njdw?oc=5",
+   "published": "Sat, 24 Oct 2026 22:10:00 GMT",
+   "score_parts": {
+    "recency": 0.988,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.596
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "AI悪用の保険金不正増加 車写真加工で事故偽装 - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oRmt4YVJ3d1JjZ1g1aWZ0WWZDSmZoc1NCdWRkNGgwRlZpR3VvRHU4bGZ2MWFrcEVJM2lGLWUtX3ZXOVg0VGJ4MV80Zw?oc=5",
+   "published": "Fri, 23 Oct 2026 21:18:53 GMT",
+   "score_parts": {
+    "recency": 0.47,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.591
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“キャストスタイルG SAⅡ”2016年式パールホワイトⅢ入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53Vm9sWk5tc29ZWE1YZEZmTWZaX1MyTUs4bGd4MEtqRkdJemFmdXdhWmdGMkdyZmFuWjBaTXhFZ2ZmS0gxUVJXZC1pWEtvSmcwRjBiZ29LR0ZkekdfMVVxbkItVTNfTTJCR3NsX2Q0UlJhY1J3M19TcHA2Q3duQQ?oc=5",
+   "published": "Sat, 24 Oct 2026 13:03:25 GMT",
+   "score_parts": {
+    "recency": 0.798,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.589
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“３シリーズ320dブルーパフォーマンス”2013年式黒入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdjlLMWRvVmdUQUxoMFBOb0tVU2RjSVFWZlUxeVVhaWpOSXBfWEpQUUhzdnd0Qlh3ZUxNVk1Taks5NUNnQzJDMkVfYkxaQXVYM0NJSzBZUVdwakV2XzBiSWItZ0RhSmlJQzBGeExsR2xZTGt4TC01VmFFeHFFX3hzN1dB?oc=5",
+   "published": "Sat, 24 Oct 2026 13:03:35 GMT",
+   "score_parts": {
+    "recency": 0.798,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.589
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ヤリスクロスX”2023年式ブラックマイカ入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVVZ4TmpONEwwaWdabnptOUdBc2U0OGZRY2RZQVhGTEs4czZNSzNqZ052NHAyNkRqSFZCRTJ5Zzkwck9BNDdOZ0dlWlRia1pjQkxUM1hJUnJ2U0N0dWVvWWNQNHp0Rk4wc3JldG9LbE50X3Y3S1dWR1ZmUjJFT0xfWDNaaw?oc=5",
+   "published": "Sat, 24 Oct 2026 13:03:23 GMT",
+   "score_parts": {
+    "recency": 0.798,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.589
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ノートニスモ S”2019年式ブリリアントホワイトパール入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd3hJMXdkNFZuaXRxSjcyQkVxbTgxU2xkMnJQWFV1TVlvVkZOSjZhZmxmekI4eGJPZTVqMTFzT3FHNU9wNXdYOU1qQTRMWVMxOVNYcEU5WXFpcTRfbVAzbEU5MEZLejVrdXVNOWo2VFRqVEpoWjBWdE41dG9jai11OWs3TQ?oc=5",
+   "published": "Sat, 24 Oct 2026 13:03:24 GMT",
+   "score_parts": {
+    "recency": 0.798,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.589
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“カローラクロスハイブリッド Z”2025年式プラチナホワイトパールマイカ入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbURjdE9iRm9QQXJXbWhsMlJrY09EWFROMzkzemJ0aGk2NVZQUkdjeTZTZnB5R0ZkOWE1Ym9EeTluZG81YlNnb2hidUdkOGlOWnNXSjF3UGlWdGpkMkQxNjBFenp2UVo2aFVmZ1AzSVVPVVAxZlNoRGdWRXVNNnBNSUpXQQ?oc=5",
+   "published": "Sat, 24 Oct 2026 13:03:23 GMT",
+   "score_parts": {
+    "recency": 0.798,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.589
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ルークスハイウェイスター Gターボ プロパイロットエディション”2021年式スパークリングレッドM入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwR1hLUk43RnNCSExlTnpWWHpURl80M084bjNLS0ZlRmMzM0dsOGNKTm1QWkN1NDVXdHluTmpxRmxjWkhpZUlUa0YxVVQ3bGUzQkt1SWpmUHg4NldTTkMxYjV3ZFVMck1iT2ljMVRJZmpyWjQxQmhhRGhJenZQZw?oc=5",
+   "published": "Sat, 24 Oct 2026 12:14:26 GMT",
+   "score_parts": {
+    "recency": 0.781,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“シエンタG”2015年式コバルトブルーメタリック入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMmp5RmhsaEJJdVYtUTdGSnFwQlRJbVFLcW5qdF9CM3hZWTRpaXJGXzA4c0lsYkZydXRTTkFCREZ2TTBTSW1rZDc0TkhybXkyU2ZaNFJMWkFISW5oT2tfUkJfQVZoYVRHblQ1LVVwSm8zRmp1RVJaMGM3V1A4WE1nYw?oc=5",
+   "published": "Sat, 24 Oct 2026 11:27:50 GMT",
+   "score_parts": {
+    "recency": 0.765,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.579
+  }
+ ]
+}
