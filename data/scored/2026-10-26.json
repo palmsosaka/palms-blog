@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-26",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 204,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“Ａ４2．0TFSIクワトロ”2013年式アイビスホワイト入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NX3ZzTlpJZGdjTWI5cXdpdjNUeld2TWRPRkNCZG5PN0poRWljM3dvNnVsdFVlcFNKWjJFNU1YSjdPdjM4cjhNa0Y1aER4SExTaFhBeVpwVmFrLVFWd3R3VnVoZDM4QVBPdlUweXJlaVE1RGQxVUZhQzdqTk9rMTA?oc=5",
+   "published": "Sun, 25 Oct 2026 20:11:09 GMT",
+   "score_parts": {
+    "recency": 0.944,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.633
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ヤリスクロスハイブリッドZ アドベンチャー”2022年式プラチナホワイトパールマイカ入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91Qm14UkQ1MkdYa0Q1a1lhWGNTVkVzTWVjYmZaZWhwaEk2dDIxTXplalpraFAyb3hCd2lpeWhEdHVVOXJpa2hvdHU4N1dWUnZxTnUwR1BuX0xMdlduc3lrVFltQjdIa194NTNBZkJsZXFOSDlKS0JINFIxWVRDZVk?oc=5",
+   "published": "Sun, 25 Oct 2026 20:11:09 GMT",
+   "score_parts": {
+    "recency": 0.944,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.633
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ＣクラスステーションワゴンC220d ステーションワゴン ラグジュアリー（ISG）”2025年式オパリスホワイト入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZzBjRXFabDRsSUZQdzJYbHpwZWRUNlRsb1RaRVZZLXFjOHpaNEx0cExFcGZyVDhfY0Zrc1NrcElOWEtCcHZibzFPLU43dzN5MFpJeFdQMUVPblljOGdfWjZBVnVEcW8xaWtrMlNCdkZsQjVlZndiaDA2eEVjQ0FIbVBJcU0?oc=5",
+   "published": "Sun, 25 Oct 2026 19:28:05 GMT",
+   "score_parts": {
+    "recency": 0.929,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.629
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "公用車の車検切れをガソリンスタンドで指摘されたが、係長らの指示を受けられず…レッカー移動せず運転 - 読売新聞",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wVjlieWlWeWNLenhwc0t3bEcxSl9SQjQ2SlZ1S1hMUUo4MWV1ckJ2QVJWUUdpQ0U1XzI4V0VhUjh4bHVodVNqcGlWTXVmS0NYYS00TmpheHpvNFdRTDI5c3FRZF9SbWliOTV3NmFWWnlkUQ?oc=5",
+   "published": "Sun, 25 Oct 2026 03:22:00 GMT",
+   "score_parts": {
+    "recency": 0.594,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.628
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "公用車の車検切れをガソリンスタンドで指摘されたが、係長らの指示を受けられず…レッカー移動せず運転 (読売新聞オンライン) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMl9PSVJQSTI4dHhGMDBVWkprR0J3NldNR2g4dkZZOFRPQjF5bTFxMXNLWG5INm9MLXpjYUQyMk5RV09EeTVERzFvRHVzb3FlRGx4bTllSndISXhoY3JIWXJVWm1hc3VYUFFIQ1g2Z3N0endibW9pZmVtWTF5bXBMdG1RTUlwZV9hS2lJUXNn?oc=5",
+   "published": "Sun, 25 Oct 2026 03:23:17 GMT",
+   "score_parts": {
+    "recency": 0.594,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.628
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ＭＡＺＤＡ２15 BD”2023年式ジェットブラックマイカ入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VblVZckZKUkJ3bkZrcnpzdXdYNFVHTDBJTnBDdWtXU1dhb0tSY2U0Qzl2TF9jRDdsbVZvbXJranpQclp0dVIzY1ppQVFWcDQ1X3FWdnVVdHRNVFN4OUVTUHIzQUhGcURKZXlrYzZTTVE3bUJqWGRHUFFLTTQzTlk?oc=5",
+   "published": "Sun, 25 Oct 2026 18:50:31 GMT",
+   "score_parts": {
+    "recency": 0.916,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.625
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ムーヴキャンバスGメイクアップ SAⅢ”2018年式ナチュラルベージュマイカM入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5WHlBTXhYdUZNU1k0NjlnVzVyb2pUdnJxc2JyeFRUZ1A0T09fYzJqY3J5WENDLXpsMWREeFZId2ZhYzVibnhkZFhfNTR0VEIwcW5UNXlyTWYyMk8taThDcDBqaExaamZXMkNIM0xBQ2VhUzl0c3RCWmg3QjhTT0U?oc=5",
+   "published": "Sun, 25 Oct 2026 18:50:31 GMT",
+   "score_parts": {
+    "recency": 0.916,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.625
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "スタッフ紹介(^▽^)ガリバー1号清水町店からのお知らせ G010991792909462634 - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWTh4dnZyYnVGV1pEOF9CNFBtWXJjam5ZMjFoamNST0dzN3lETFNObEtTV205MlNYOEJrWHZFZDlyOHBLcW93cktjOU8tbTNSUTZtVi1xNFJfUnZfMHpoMDZkNVgxZ0xOSjltelB2Nlo2WVpxSnZyQUpWS2hDWDRmZU10Zw?oc=5",
+   "published": "Sun, 25 Oct 2026 16:37:40 GMT",
+   "score_parts": {
+    "recency": 0.87,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.611
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "【★☆祝☆★】ご納車おめでとうございます！ガリバー北名古屋店のお客様 G013301792837922735 - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdUdyZTlUSG9qSVJUYWVON2FfMkNSdTd4OUdvR0gyN1FSdnNuYnNkY0lVNTlGVTNHbjdNaUFiOFhJemtQODFNNzR1N0xjSGFlQS15WEpFeldyWS02S1VjVVdVUlJPSWxqdG5uTExQampmckxjYlg3R29QMktHbmdDMg?oc=5",
+   "published": "Sun, 25 Oct 2026 15:48:58 GMT",
+   "score_parts": {
+    "recency": 0.853,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.606
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "金持ちの友人が乗る姿に憧れて8年。15万kmでエンジンOHしたトヨタ「セリカXX」（Auto Messe Web） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVDdCNE1pSVBlanhIUUJaSkFQZnY0NHVzQldyUzEyRWRYZVFFSmFOdk95Z1dPX3dLVjJiNXktUjUtREs3WUFYRWsxM2tiQmpyeElGODI1YUtzODRMbGNRcC1IdGttTGtnMlBRNTRyY1hmU1Vlam5kdExhMy1BYS11VERMVWVOT1dN?oc=5",
+   "published": "Sun, 25 Oct 2026 21:30:59 GMT",
+   "score_parts": {
+    "recency": 0.972,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.592
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新車当時700万円超が総額60万円程度から!? 初代MIRAIの中古がとんでもない価格になっている!! - ベストカーWeb",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96aFBUWnp0SWJfNkxBa0E4NFVvSmV3UUJ0STd6Ynp3TV8xSWtJczJ0c2NEOEdPMGUwcDRJT2ZoY0pPZmZYUS1IdWRNajczVzlvRWJBeDNjWQ?oc=5",
+   "published": "Sun, 25 Oct 2026 21:00:00 GMT",
+   "score_parts": {
+    "recency": 0.961,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.588
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ジムニーシエラJC”2023年式ミディアムグレー入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQnd6MFJIYzBrRnhiTkp2S2ctb29xODgwOF92X3h6T0tiTjREa3p6bHBRNjJnYkV1bFFzZFNCLUxkNVg2ejRaZnFaaWVLOTFhM1VxeW05M2Z5aTYtaTlMcFFEUkVtWk9VNVNOdXdRRDNaZTBzZUJSMnJ5Si1WNElLdlotTDQ?oc=5",
+   "published": "Sun, 25 Oct 2026 12:13:03 GMT",
+   "score_parts": {
+    "recency": 0.778,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "極秘倉庫へ潜入！昭和のスポーツカーからハイエンドスーパーカーがぎっしりで大興奮！！旧車好きは散財注意…激レア極上旧車 何台買う？！ドリフトムルシキッズカーには今話題のNFTとマイクロチップが…#32 Devdutt Padikkal (aUEaEZ51yU) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY3lqUmVVcE1ab2tONHd0c2ExeVRzUU5XVW1uUWxESUhybFZhZ2k0R1RZM2hXN2hPMEpNOVpoSHFyX1N6VVFLODY2blZRTnBwYkEycExlTWNMVlNTWHh0dTN1d2ZJQ0Q3Snk5ZGs2am5UNkg5Tk1rYVh0UG8tQ1pGd2F4VmI?oc=5",
+   "published": "Sun, 25 Oct 2026 03:05:16 GMT",
+   "score_parts": {
+    "recency": 0.588,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "＜画像22 / 30＞【全51点】超貴重な昭和の名車・旧車がズラリ！ 日本の名車コレクション［2/2］ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GQm1RNUFtWDhBWVRLN3NNM1FJVGktMnZMbzg5ZWIwSktCRGI2SnppVmFfWEoxR2E5eWFmUng1bkhXZkRIQ001c0MwUHQ1c3pTSzlyX0RpMkMtZDNoRXlYYkJpR2JKSUF2YlE?oc=5",
+   "published": "Sun, 25 Oct 2026 01:16:10 GMT",
+   "score_parts": {
+    "recency": 0.55,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.565
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“フォレスターアドバンス”2020年式ジャスパーグリーンM入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LNS1Mam44Sm02N0J1RFBUTFU0aXhwX1N4Z3h4enNVbDdIZGlHa2RMR29FdXY4QllsdXkwOXJobm9MOXk2U2xXZmhfMlBVd3N3MXZ0OFZlVGtVMC1qM0p0anVrcE80WDFxOU5lS2ozSXRjSEZvb01DY2lwdDBjSmM?oc=5",
+   "published": "Sun, 25 Oct 2026 08:11:38 GMT",
+   "score_parts": {
+    "recency": 0.695,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.558
+  }
+ ]
+}
