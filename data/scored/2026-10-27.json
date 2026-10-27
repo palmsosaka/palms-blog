@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-27",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 139,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「さりげなさが光る大人の旧車チューンド！」初代“ダルマ”セリカの4A-Gハイコンプ仕様に迫る - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MUGZsNnRwcEVpOUtZMmpQbTR6dWtScWxpczJxNkhzSmo1YTFFWUlVWFhpU3VFekFpaEVxQU9GR0xpb0ZEOVdBQWJ3S1ZXdw?oc=5",
+   "published": "Mon, 26 Oct 2026 22:30:00 GMT",
+   "score_parts": {
+    "recency": 0.966,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.69
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "アメ車の女性オーナー向けイベントが埼玉県北本市で2026年12月に開催へ - Dellows News",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5qdklkV19VbnhIWEU5YXVwVkdObFRTV2dralpiZ2JEdjJUSEhxWEF4S243YWRVaGdIUjRZdnppd2tXS3pLVkE?oc=5",
+   "published": "Mon, 26 Oct 2026 18:32:51 GMT",
+   "score_parts": {
+    "recency": 0.884,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.665
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "【ベン・アフレック】は、最新の“アメ車”の魅力に惚れ込んでる!?（Safari Online） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TSFhIZWx1SjZTTmtHVndycTR3NXZQODRWc2NQaS0tOGh2RUhjRGZZNWJKd2pFTGRiM2dzRE0zRjNYTHQyNWtEd1dLTzRiVG42Z0syRmZRNmlXSkNpTVUtRVJVOEpndVRNR25JLWU2ZXYwTjVYRDB2SGstc1RsZjA?oc=5",
+   "published": "Mon, 26 Oct 2026 12:01:01 GMT",
+   "score_parts": {
+    "recency": 0.748,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.624
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "【ベン・アフレック】は、最新の“アメ車”の魅力に惚れ込んでる!? (Safari Online) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSlFnay1qdUprUVpyNHhiRFFFRlBCS2NaUnNVUkJUWV9La3MxU203SHBNZFNiaVpZRnkzVC1xUGZ2WmpmSnlwRWJNR2NJQ2JXWWNubGswZzgxTmppRzR4Mm9JWlZsMUdiYVB4VjBVUml1RFdYclNTOEJ1VWtvUjNBc1YxZ3AteUNTZ240UFRn?oc=5",
+   "published": "Mon, 26 Oct 2026 12:01:01 GMT",
+   "score_parts": {
+    "recency": 0.748,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.624
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "『旧車GIRLS』より1/24スケール「スバル 360 デラックス」のプラモデルと、冬目ケイ氏が描いた着物姿の女性の3Dプリントフィギュアキットとのセットをハセガワが発売！ - 電撃ホビーウェブ",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yTzl3R29hWnZUOHRTckd2TjAxODVieXBreUNYYTVBejk0Z0ZkLVhVUWlBUkxVVVJOb3NYTy1wTURFVGxudDI1Wk1hVjhub3FW?oc=5",
+   "published": "Mon, 26 Oct 2026 10:00:00 GMT",
+   "score_parts": {
+    "recency": 0.706,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.612
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "〈千葉豪雨〉冠水相次ぎロードサービス要請が急増 レッカー車もたどり着けず - 日刊自動車新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fTjdyU0JDUG04bDdObE1SZjZWbmtlOFpQNkptNFN5QnNnVmR6b29xWkV3QTlUZE1aWGdvdXNaUDZTZFppR0VUdjFwdXpMLXdieVE?oc=5",
+   "published": "Mon, 26 Oct 2026 09:39:37 GMT",
+   "score_parts": {
+    "recency": 0.699,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.61
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“キューブ15X”2013年式スーパーブラック入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTU9Sdk1vc2gtNm9ncFBUaW8tN0NRR1I4YmRmOXR5VDY0aVRDVEVBM3U3VGlrOE9Wak4yeXRRaFJ1S0ZGaHBjQndfanY3SHA5ankyYk5LTEcwMzVzUWdnRFhlNTlvSFpkTU42dmpfU3J1S2RrQVZOZjVuNEhValhxUVBoLW4?oc=5",
+   "published": "Mon, 26 Oct 2026 16:55:36 GMT",
+   "score_parts": {
+    "recency": 0.85,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.605
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "2026年10月のカーメーカー「旧車」関連プロジェクトに関するニュースまとめ一覧 - CAR CARE PLUS",
+   "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOOHM0Y1hZT2NEMVBocjRIWjlzYlh5aE1xLXoxam9HVi11YVIxem5iM0M1Nkt6azM3aVcteUdrcmNwSHJjR0o3Nk5jMGZoT3pQNjV0UjhOSnJwc1FpS3Q1OWRud25IeDZLZjFFd3IwQnJNdmthdUptM2s1bHpBQ1R2N290bHZ2TDZNdEgxbHpwX1V3Vk5qRXQ3dDNJRFNic014SXNDaWhFTjJfZnQzV0pkdjlZV1Z5ekJrenpZb25hWWZCbVI5VXdFS1o2LWZvNDc1Zk9rQjlKZnNNc3k3Y1B2aWZUcFFtdEtyalFXVGhjaGRVZVVRY29Cc3RxSGYwU2NWYjh5YlY5ZmFES1NoWGR5T0s3alV2dGJfX0dvcUp0cjN6RXJIV1lURW5OQQ?oc=5",
+   "published": "Mon, 26 Oct 2026 08:32:10 GMT",
+   "score_parts": {
+    "recency": 0.675,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.603
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "大型トラック操る岩佐亮佑「２４時間依頼受けます」世界取ったボクシング離れ、車両輸送でセカンドキャリアもチャンピオン目指す＝前編 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xT09JX29LVUVmSGxvNkI2NzREemM3YjY0NW9BZnQ1VXcxWmNEVlBqb3lCbzliVEktZlNQbGJhMXNibzBxbk1Nc21lUUtoZDVTY0N4QTJkMzVOdmkyNnh1VjVGam5vWjJRNlExV0Fn?oc=5",
+   "published": "Mon, 26 Oct 2026 22:00:00 GMT",
+   "score_parts": {
+    "recency": 0.956,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.587
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "秋の長雨や台風の後に車内がカビ臭い…フロアマットの下に隠れた「見えない雨漏り」の恐怖｜古田昌也 - JIJICO",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sRWc4LWxsVG9OdEJCWjh3LVFpRndQMFlKMmZWRDd1WnRwenN3WFJpUGJKZEdlWjVWb2tQUDRJY1RrRDJtbHZjcGsxbHNLcUN6NXA0SXhnMXRUeFc0bnc?oc=5",
+   "published": "Mon, 26 Oct 2026 21:03:57 GMT",
+   "score_parts": {
+    "recency": 0.936,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.581
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“フォレスターS－リミテッド”2015年式クリスタルホワイトパール入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRXJBWkNIMkVNU0w0UU9qeHNjc3A2X3BFTkZISng4TXZISGZCaklmblNzbnZyTkt5WDZ4enNHeVFlZlp4VndYUl90RUY2VGY4WHVNX1NuZzF1d1Q1WmQyMnlheEFQOHJTTE81U1BuNUdwLTk2b3I4dXo4NDJNbmNiclJLVQ?oc=5",
+   "published": "Mon, 26 Oct 2026 12:57:39 GMT",
+   "score_parts": {
+    "recency": 0.768,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.58
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ヴェルファイア2．4Z”2012年式ブラック入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcDhJb0Frd0RDWW9jV0w5alpVRjQyTFJJUmgydG9pNUhXbU42VGp1SzdrU19JWlpnRktSRUpSOTdsa0hYV3h1blVyUEtwaDl2RnpBcXZWTnhTV25MT1NSNmN6SEVwei1QT2hnSEk2eTZDcF94UTdNVWFWUzBpNnVWQXdB?oc=5",
+   "published": "Mon, 26 Oct 2026 12:31:38 GMT",
+   "score_parts": {
+    "recency": 0.758,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.578
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "外国人らを対象にした交通安全教室 兵庫県警、自転車シミュレーターなど使用 - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYkZFZ3RpcWNtLXB0MUstdEExTmJpTGo0a19rM3NvRVZmZGVMZXpZUTYtd3NJYjVQOVhhSFUyMWtSMnBfRF84YmwxVzZnS0pBdU0yU1FMeW5HUk5jdUxYM0twUkM1d0pQVDMzbUItYkhMeGFsWnExQWFvZVlveDNWTnh1THVMM2pKaVhaM2FmZ3LSAZABQVVfeXFMT2JGRWd0aXFjbS1wdDFLLXRBMU5iaUxqNGtfazNzb0VWZmRlTGV6WVE2LXdzSWI1UDlYYUhVMjFrUjJwX0RfOGJsMVc2Z0tKQXVNMlNRTHluR1JOY3VMWDNLcFJDNXdKUFQzM21CLWJITHhhbFpxMUFhb2VZb3gzVk54dUx1TDNqSmlYWjNhZmdy?oc=5",
+   "published": "Mon, 26 Oct 2026 20:30:00 GMT",
+   "score_parts": {
+    "recency": 0.925,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.577
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ノート15X”2010年式トワイライトグレー入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wX0NzQUk0YmF3ZEVFTGVyY0I3Tk8wemdFRlJwMU55YjdYUUVkQnVjN0c0Y3ZEU0I2RDR5MU5qU1BVZXVvc01Xc0g3MHlrR0tDWjY3VzBrTkt4WXcwcVVsSi14Rk1zU00zbWdSTS1zYXFBdWkxSGxGc0xGWEtBTVU?oc=5",
+   "published": "Mon, 26 Oct 2026 11:23:44 GMT",
+   "score_parts": {
+    "recency": 0.735,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.57
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“デイズハイウェイスター X”2014年式ホワイトパール入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fOFFRVWJuQ2Z5WkQwdk9Sa01xYml5cjh5SUt3ZTJjd2l5UmxucnpCZUNON21VWEtIU1VkQXRBQm9fWU84ejNocGRmejVPZXhsa1FPam52X2k2RjRKdUtjdTc3SF9oS0lJSzZyQ3h0eS1YZXBFdF9CNEdoWHhILW8?oc=5",
+   "published": "Mon, 26 Oct 2026 11:23:42 GMT",
+   "score_parts": {
+    "recency": 0.735,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.57
+  }
+ ]
+}
