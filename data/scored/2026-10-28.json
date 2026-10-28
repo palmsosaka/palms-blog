@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-28",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 139,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ハセガワ、プラモデル「『旧車GIRLS』 スバル 360 デラックス w/フィギュア」本日出荷開始！ - hobby Watch",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsWWZia05KckRBUGVKc2YxbHZDNVVMY3BQTGFsVUFKVmd4azdUZnloMWtpTTl6aW5CRnFDeThFb1BlYVV1MS16a01KRHR5d0NwZjA5RE1nVDBMcjR2RWlMck00VlFSVzA?oc=5",
+   "published": "Tue, 27 Oct 2026 15:00:00 GMT",
+   "score_parts": {
+    "recency": 0.81,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.643
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ハセガワ、プラモデル「『旧車GIRLS』 スバル 360 デラックス w/フィギュア」本日出荷開始！ - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE53eTNKVHpIdVBzVlg5T2ZzcjlrZmxiejBPd2kyaTZsc29uSzRCd0QtdUNnUTFqUG9ZU3EzUm0yT1hoQWVoQXYwQVFBS2pXTDdfM2E5ZTBJLUV1S2xnTWFiVWlIbjNRSlRSMklfNDlva2lRYi1UUW5qag?oc=5",
+   "published": "Tue, 27 Oct 2026 15:00:00 GMT",
+   "score_parts": {
+    "recency": 0.81,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.643
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "南アフリカは旧車・補修需要が高い…中国製が多数進出する「Automechanika Johannesburg 2026」現地取材 - CAR CARE PLUS",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tM2Z3Y1pMcTBPanhvZzFBaXc3MUxaWXVaN0x3dVN0UE1YNEEwbWNBZDZZN3hENVNqNmlvcGtlX3JvOFEzcEZ4WkQwaEVvWUxjZnplT1QxdlZDVFBjM3VOWTNn?oc=5",
+   "published": "Tue, 27 Oct 2026 12:45:19 GMT",
+   "score_parts": {
+    "recency": 0.763,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.629
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "ガリバー甲府バイパス住吉店の店舗ブログ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdTdZX0lGVWp3ZmRsb1NIS0hpelhCNk13SHBMQ3drYXIzdmtEZ2IxNlJ1MXF1SEtTOGxIMVk0UDNJdTNRcnp1YmFrcWZIUXBRazhHQmFxN0NJd3VoeWNzM2VKYWdndjRDQnNJMFVXczlyWjZRMmFaZkt2VWwwa1J6cEdESGE?oc=5",
+   "published": "Tue, 27 Oct 2026 20:16:56 GMT",
+   "score_parts": {
+    "recency": 0.92,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.626
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "ガリバー新青梅街道東大和店の店舗ブログ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnZlpuLWpMQkRodnRoc2p0VTVMdHlaLXJxVWkzWmJrQlhjM1NiQ2M1ZFZFTTd3RGFlcUlzMFpnZnBLOXRxWHppT1ZwZjNrRy1XQ1Fmc2dHbFZOQ05WZmZWWWlFY2dtYmdpSmQzMjVoYzRnM0FJckM4X0FZX21HVVE?oc=5",
+   "published": "Tue, 27 Oct 2026 19:20:12 GMT",
+   "score_parts": {
+    "recency": 0.9,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.62
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“Ｃ３シャイン”2017年式緑入荷しました！LIBERALA リベラーラ入間の中古車入荷情報 LB00341793060195677 - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOakZiUHZ0cHdLMkFEOTdUZUEtSDRod1U2QmVJTGhxRGFZd21HQ1Ffb253TmdTTDVNbzVFRWtJZE9BQXpSM3VXcXg2QnpUN0lSeE1GVkRyNDlpSEl0LW9MbjlFbFk0RzNLdE41eXhrZVJPdDZ1N0xoRTdwbmF4OXVKMHpn?oc=5",
+   "published": "Tue, 27 Oct 2026 16:52:58 GMT",
+   "score_parts": {
+    "recency": 0.849,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.605
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "北海道の車サビ修理発生率は東京の約3.3倍 イケウチが自社データ調査を発表 - Dellows News",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE01R1p5WkdBMkdfYUNQcHVjdkktMHgzM3ozNTFSb0RJS294by1TcVhya3VWUElnR2JUc0VaanNJOFVEbXpJbUE?oc=5",
+   "published": "Tue, 27 Oct 2026 16:10:02 GMT",
+   "score_parts": {
+    "recency": 0.834,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.6
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“シャトルハイブリッドX”2017年式ミッドナイトブルービームメタリック入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYlNIMFltM3l5M3lXTXRmMjNzT0M4UFVnMzFOaGtncHU3M2xsVzZSNVNHYjRCbl9jMnd2LW1vd1JOck9kaUdQRmlsU2JrVFFqZDBPdGZ0dU9tcV9Hdk5nLUpBdkl3NTlpT01HcXJodjVvSEpmQjJ3OXl2YnNxcFhiWHF3?oc=5",
+   "published": "Tue, 27 Oct 2026 16:07:43 GMT",
+   "score_parts": {
+    "recency": 0.834,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.6
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "ベトナム保険協会は、NCDシステムを通じて自動車保険データの共有を推進している。 - Vietnam.vn",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb1ROS1VtSS0wWUNuYkVLQ0dLZUlwV3ZRZUg5dmxyQlBkQW1fVWRGNzhPMDJLQVRXOTYwNWpWYl9WMGxZaF84N2czNFVaSGN5cVJpQUVXNVNway1tbmZZQkM1QjBXVXlmcUlCeExQdllnLXFQcTIwTzQtcVFOUUUyd3gzLUVEXzNIQmRHb2JnNm56ZV9tRmFsZzJrNXFmME9JQkV1aGJoZkMzS3dOb0lLenB6YUE?oc=5",
+   "published": "Tue, 27 Oct 2026 15:20:25 GMT",
+   "score_parts": {
+    "recency": 0.817,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.595
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "なぜ中古バイクは「冬」が狙い目なのか？ 安く買える車種を見極めるポイントとは？ 新車出荷はピーク比13%減！ 値下げを左右する意外な事情とは - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14Nkx2M0VOaGdMSmhQcTBjZlNqaDdROWE5d2RJVlZycGkwakdyWUZwTkFKbHhOYlJyWHd5eGV4clNBMDFHZjQ4eV9hamhCNzNrcGFDUjBOS3Z0SW5mZ3JCdkdITEduaWdhOE1WYk1B?oc=5",
+   "published": "Tue, 27 Oct 2026 22:21:00 GMT",
+   "score_parts": {
+    "recency": 0.963,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.589
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "【調査レポート】車のサビ被害、北海道店舗は都内店舗の約8.6倍！放置で修理費用が跳ね上がる冬の「融雪剤トラブル」を防ぐ - ニコニコニュース",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2aE85RVEyak9HN1k3STJtZi1GcGxXdGlONXZhbHd2Zkdja1A0NnNBZmE0UHhvbkw0SFZsNTJCYzlSOXBRWWtyODByc2sybW5TczlZSlJqaF9iaUtucEpPa2xfa1pVTXhjM2YtU0VyenhyNU1DeGxzMDJ3aw?oc=5",
+   "published": "Tue, 27 Oct 2026 14:00:27 GMT",
+   "score_parts": {
+    "recency": 0.789,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.587
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "【TOKIO国分太一】太一さんのカスタムアメ車を突撃取材!!!｜シェビーバン Jay Leno (e8fJMTBmVE) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyc0lVSWNtaHF4UmZvX29PUW5OdmZKU2VOU09objdpZzRIblR1WFFiQUFfUHRwX3BDX2RRaDJpY0lJOUlxRzg4eEU5RkE4cFNhNkFMNzB1cHNNdXp3dlh5UldQQXRxZw?oc=5",
+   "published": "Tue, 27 Oct 2026 06:05:32 GMT",
+   "score_parts": {
+    "recency": 0.625,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.587
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「家族のために旧車を諦めた男たちへ」！ トヨタ「ハイエース」街道レーサー化（Auto Messe Web） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TR3FXS1ctVXpEUWE0dW1rcWFnZHIyS01PSXJDLU8yMnpLWnJDUS12UkdZS05DRjJhZVNpZVhOMXpVTFhHc3dfZGQ0NmhzZm5vVjFMRk43OU41QnhMaGFwUFBnNUFnVXBkeklrSUo2SnlBQ3l5UGZpdEF4cjQtU3M?oc=5",
+   "published": "Tue, 27 Oct 2026 21:16:45 GMT",
+   "score_parts": {
+    "recency": 0.941,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.582
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“サクラX”2023年式ソルベブルー入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hVzZyUUpGOHdIRmJmZk1IYUZEckl1U0V5YzJnSGs1Rk1faDNmcVRRTy1nZVQzcjhLWVhqcWowVXpZckJBYXFDY3BxdkJKbndveWtTOWVtcUNIbDVRTmUxVVZLNjROaVpqdmNSTUctZVB6a0hMeEZFRjNVMG9fS00?oc=5",
+   "published": "Tue, 27 Oct 2026 12:27:11 GMT",
+   "score_parts": {
+    "recency": 0.757,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.577
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "日本ペイント、車体塗装のVR教育ツール開発 若手に熟練工の技術伝承 – 日刊自動車新聞 - Howl.Link",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5DWHF1Y1hXdERqRnQtbmk3azVNemYwaklNODRQTktMMHJ3ZnlyZTRJbXR3OVc4TTBfdE1z?oc=5",
+   "published": "Tue, 27 Oct 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.914,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.574
+  }
+ ]
+}
