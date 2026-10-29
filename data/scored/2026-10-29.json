@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-29",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 131,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "オールドタイマー主催の旧車イベントに250台が集結！ 【昭和レトロカーミート2026in蘇我】 - モーターファン",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11ZDRPMFd0UzlNY1U0VE56V081dUFScEpIOEhsM0txRVo2bExfYS1nQkJFa1hlRDFleTdHSFRxUG5MSDBWTzhYb2l6ejlmUQ?oc=5",
+   "published": "Wed, 28 Oct 2026 23:54:00 GMT",
+   "score_parts": {
+    "recency": 0.988,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.696
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「えっ、古いクラウンが中東に!?」円安で加速する日本の中古車“海外流出”のリアル（WEB CARTOP） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yN0diRWdZOHdOV0NPNTEtQy0xZWQzVFQwejVJQzZHaVNMS2RjVVFJUzhOZUJ1SHV4X0RvTUdHcG94VTdCcnhCekh3Y1RoZ3pCeVM4dnNuV195ZXdYeXRsZ0d4QUcwWXI5aGFGck5GR2JkYi1GeENkTTZ6NXBuaE0?oc=5",
+   "published": "Wed, 28 Oct 2026 21:35:08 GMT",
+   "score_parts": {
+    "recency": 0.94,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.632
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ノートe－パワー X”2019年式ダークメタルグレー入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFVmhPT0VwY1JOU0ZNaVBwNnZWbGJpcy12TGpxaVM5OVZ4SGJiMDdCR3FyanpHS3lLS2Y1QjhfVnQ4MEozZldkRk1CVjl0RnFoUGprZHQtdDdrRXc0eHlHdkFUQnBWYThkSmVya2JpcjEwZG14OXA3Wm9WTGNvUQ?oc=5",
+   "published": "Wed, 28 Oct 2026 20:02:22 GMT",
+   "score_parts": {
+    "recency": 0.908,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.622
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“マーチ12S Vパッケージ”2012年式ホワイトパール入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTE1pM2NTNHRnczRodXFzODRjRVZkWjg1ZzdyNnBNVE0xOXQ0MkthTkFIdmxlRExNTXNKOFJZbDljVzkyUW90dTJKQTdNZmlyNGh2LTZKNkZFX1VSdjZJYkNRMTE5MmV2cXpVNXlsOTh0aTAxRnFIRXh5OGVETmZVZGV1bVA?oc=5",
+   "published": "Wed, 28 Oct 2026 20:02:03 GMT",
+   "score_parts": {
+    "recency": 0.908,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.622
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "新車・中古車・サブスク…一番コスパが良いのは？全国300人にアンケート調査（グーネット） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd3g2cTFIbVg3aDY3MUZJZUlDWFhnYUdhcjV6VGEtWUNlYWJfNDJ1cjNPLUxfTUVENUV1UmhZblNEZVVUQmpkWEpOVThqNWlIOHVfbzRYekdnNVdCR2N5dmladzAtQUxPZ01PYXBMUDhCN0paanh0c3BDWTd0WWlYS25rT2ZmdFRSZXhKS0ExcnRPVlJp?oc=5",
+   "published": "Wed, 28 Oct 2026 17:28:50 GMT",
+   "score_parts": {
+    "recency": 0.854,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.606
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "角目4灯で70年代USトラックに変貌!? トヨタ「ハイラックス」をアメ車化する驚きの造形 - Auto Messe Web",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55b2dxVk1jcEZTSDRRLVowTFhkQU5UVERNUDU5d0NxTTJIYmN6RVFXSHg1cE4xNWRlakNPMjB0NHhWa2k2OXUzbEl2UlFQRjY3a0FLVmp4R09ZQdIBX0FVX3lxTFByUVBhYU5uQ0Y3TUR1V3g4VlhKdnBYeUkyRjF4blFoYXM4ckFNdzdfellIQ1YyQmc1cy10dlJZcTNPZUlOWU5fX3k4OXhjVVNPTmJmVmh5NXJPcTFVSlRZ?oc=5",
+   "published": "Wed, 28 Oct 2026 09:30:31 GMT",
+   "score_parts": {
+    "recency": 0.688,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.606
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "旧車デビューは「直せるか」で選べ！ 買って後悔しない維持しやすい名車5選 (WEB CARTOP) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZDJQTWVxM25oNTFxXzU5WHF3c1ZncnJIYTd3NDZldElGYm5JNFc4MHlnbjlqZklEV1hNNWZxcDhDek9EaWdRTDlMeThYMzVGVUl6ak9HV1dIOXd1VmkxcEstTzB5MHJ6dGgtTF9hdFB1cHBJelpZbV85YXhFVFJYZGxHQ3IwbVVlSml0RC13?oc=5",
+   "published": "Wed, 28 Oct 2026 08:31:06 GMT",
+   "score_parts": {
+    "recency": 0.668,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.6
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "旧車デビューは「直せるか」で選べ！ 買って後悔しない維持しやすい名車5選（WEB CARTOP） - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMmdiX09zY1cxMy04cFUwbVJ6dnNhTjhQOFhsQjJMQmx2YWdqdkpUbVBNTFVaRzF5clhRQXBUODNZNE5DbnR2bXRZNjhCektUa3BSdU1ReXhCS0ROdGNqd09idmh0bGxzU0xyQUtpamM2Yk1BNW5lV21Yb0Q3SmJXUU9jZS1tZTVtbktiWW1wYldFMXcwTkN6eXhVYmhubGFkRnNKUDQ1SUtGQXRBS1N4WDBuUXFTWkZ3MEhjRkk2bmlkRTY0MmdMZXR3cWg3OXVoOHBJ?oc=5",
+   "published": "Wed, 28 Oct 2026 08:20:00 GMT",
+   "score_parts": {
+    "recency": 0.664,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.599
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "旧車デビューは「直せるか」で選べ！ 買って後悔しない維持しやすい名車5選 (2026年10月28日掲載) - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VdndEVGFuOVJPVEZ4LTJQNzNMVUJPYUR3aF9JNlJCZTBsek1JTUt6NHBRUFJvZ0Jma3NrV0pvZmRxT1ItTUFuRWlJUzk5THE1T2k0NGxDUVQtRHZveHc?oc=5",
+   "published": "Wed, 28 Oct 2026 08:20:02 GMT",
+   "score_parts": {
+    "recency": 0.664,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.599
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "実録 34万km ハイエース16回目の車検費用が恐ろしい...。（修理）ハイエース バックドアがロックできない閉まらない他 - YouTube",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sai1HSzVNZG9TQnpjTWsxY2V4eTBya1hBdU9yTE9EcXo5WjhwcUV0anNRZVlrbGVTZVpqZjJ5MzVxYzVCX211TVQwdDdoSV9qdW44NVU5bUctXzNm?oc=5",
+   "published": "Wed, 28 Oct 2026 08:21:09 GMT",
+   "score_parts": {
+    "recency": 0.664,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.599
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「さりげなさが光る大人の旧車チューンド！」初代“ダルマ”セリカの4A-Gハイコンプ仕様に迫る - モーターファン",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwd3N6UTc4OVUyRWZPYXpCVHRVdlp2YlR1T2hFZ3hCYUJRV1JhMkdHUVZoLVphZjVrVW1ocHlsYUVJTng3aWdoZkdySk0xSDdtcFRWb3BxdkZBQnA1LVJHLWdJZw?oc=5",
+   "published": "Wed, 28 Oct 2026 23:03:23 GMT",
+   "score_parts": {
+    "recency": 0.971,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.591
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "スーパーワン登場で新車より中古のほうが高いってどういうこと!? ホンダeはいま買うべきか本気で悩む！ - ベストカーWeb",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NUDZxdW0xR0NhbDgtSGJQWEVNQmt5em02NWh1aHMzcHRSVWRIQ1Vyb1lUdEVqQUloSTB3OTVKeS1JbVZuclNaWklXcDc3RHcycXQzM1BaNA?oc=5",
+   "published": "Wed, 28 Oct 2026 23:00:00 GMT",
+   "score_parts": {
+    "recency": 0.969,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.591
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "☆☆☆ガリバー いいブーブーの日☆☆☆ガリバー23号鈴鹿店からのお知らせ G010291793157614655 - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNXzY4dGY4emJmZXFoSFdSSE9ORktMZFc4bUVNbWc1N3hrX1BxV0hqSW1pNU5QdDg0c3dHT3dMZ0FFZzRRSmhNWjZiN1dBREliaUhUZ19LWjkxZWZhZm5DWW9yb0J2UEhBNVc1N2FjbnhhMHRobE0zMDc4ZjQ?oc=5",
+   "published": "Wed, 28 Oct 2026 14:08:52 GMT",
+   "score_parts": {
+    "recency": 0.785,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.585
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「66年前の小型車に、このスペックはヤバすぎ！」ミツビシ初の自社開発乗用車は、ガチで凄いクルマだった【三菱500】 - 月刊自家用車WEB",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5laWRvYVlVRWJndlhZYi1UWkxTNnUtNmxPUFdKVXpNLWhBOGVvNmZKbFFvQm5BYmk4T0pmOXVFdmZpRThLYkY2R1NlWExBNW83?oc=5",
+   "published": "Wed, 28 Oct 2026 21:15:00 GMT",
+   "score_parts": {
+    "recency": 0.933,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.58
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「当時としては非常識なモデルだった…」豪華すぎる装備に驚愕。40年以上前に登場した伝説の名車［ホンダ・CB1100R］を紹介 - ヤングマシン",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BTXFQeTQ2dWVFMDFUQlBrX2I1Ylh6cTBFQ1kxSU5yTzg4MHZrOGloN3RqMHprdkxRZnBfNnVuYnMtSjl3ZW5hNkFaVklkQ3ZENU5xNEZDNA?oc=5",
+   "published": "Wed, 28 Oct 2026 21:10:00 GMT",
+   "score_parts": {
+    "recency": 0.931,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.579
+  }
+ ]
+}
