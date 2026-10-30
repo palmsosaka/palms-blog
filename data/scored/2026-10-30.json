@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-30",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 178,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "飯南の道の駅でわくわくフェスタ 特産品販売、働く車・旧車展示も（みんなの経済新聞ネットワーク） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2TmxCcE5wTW5BSENkT1d3MW9CS3BjQ2FuSUcyUXQ5TnZZY0JuY1MzWWFSOVIxR0wxblJ5V1lGLU9MQjVLQU1ERnhmeXgxVUFmMnJBYmFXd1JHRTdfeDVadUgtQWkzVDBpRHV0dkx3cmI4b3dqQ1ZIbGJ2ODY4NnM?oc=5",
+   "published": "Thu, 29 Oct 2026 23:00:10 GMT",
+   "score_parts": {
+    "recency": 0.969,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.691
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "エーゼットから「旧車用」「旧車ハーレー用」と対象を限定したオイルが登場 - ヤングマシン",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2c2drcVpSaDhoNjUwUzJXYTBib0RwWmRPTkgwWi1EVGxya1lMZ1hzOFA1aTNEdG5YM3B6Y0dfdFd3cFdTNE5XRy1OVjEyODJXdDh2b1RldDlXTnRSMTkw?oc=5",
+   "published": "Thu, 29 Oct 2026 22:30:00 GMT",
+   "score_parts": {
+    "recency": 0.959,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.688
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "車検時期から逆算し最長2年間、自動で顧客をフォロー 中古車販売店向けLINE公式構築および運用「Lキテ」プロプラン提供開始 - ニコニコニュース",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zRnFoam9fWm9zUElEM2dIYjdDd3JGWGdiOUN1cUNjaHJIMEo5S1Jqazk5emFLMGFlaThZbTV6d3J2dzdUUU45ZzNnR3Q1QlNybk1jX1pEZU5tb3FWakd6R3hLaGNQV3BEeDVhU3FRbmVJQXdSR0k0RnRvMA?oc=5",
+   "published": "Thu, 29 Oct 2026 22:36:30 GMT",
+   "score_parts": {
+    "recency": 0.961,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.688
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "中古ソリオのおすすめは？予算50万・100万・150万円の狙い目を紹介 - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PZWd6ZElteEpIQkY4MXhnTW13T1RKWFpzTHV5ajhtODh5bEFNLU0xYjlvMF9WbHRGWEp4MUk4cUJHRTNUdVc2ZW1mb3NvaHBuRktZ?oc=5",
+   "published": "Thu, 29 Oct 2026 23:31:15 GMT",
+   "score_parts": {
+    "recency": 0.98,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.644
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "【池内自動車】「怖い・入りづらい」板金塗装のイメージを一新！お客様と現場を繋ぐ接客のプロを育てる『フロント研修』を本格始動！(画像ギャラリー No.2) - MOTA",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tMXNaQnBxLTM5OXJrYjFWOG1aZ194S056eUsxcU1IMEYxc1VXNnZyNmozdTREYTIzQWp1R2ItV1MzXy1rYXN2ckEzV29YeENRMG9FSm9Mb3hBQzhINHc?oc=5",
+   "published": "Thu, 29 Oct 2026 15:15:41 GMT",
+   "score_parts": {
+    "recency": 0.808,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.642
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "【池内自動車】「怖い・入りづらい」板金塗装のイメージを一新！お客様と現場を繋ぐ接客のプロを育てる『フロント研修』を本格始動！ - Excite エキサイト",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51SlZQOEczM1o4V1Rqc1JuODg3aHhIU3ltdWhnbk5ZTlU2a2RuRFZvVGZpXzAxRndhd1luem1XUFNHVjQ1aGhmQmJQaXJCSTNENjBZdXE4Tm1mTW5Pa08tdERyWUQ0NXZXRWVuSGVaanVMNG9V?oc=5",
+   "published": "Thu, 29 Oct 2026 14:10:00 GMT",
+   "score_parts": {
+    "recency": 0.785,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.636
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "光明池駅前南地区再開発（大阪府堺市、和泉市）／具体化へ事業協力者募集／協議会 - 日刊建設工業新聞",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE41QVBMcnQwd1ktdTNLOTQ4blY0VW1PY3dTWWFjalpfRXFvSGRfMk9CMU14VjhGLTd3d3VYMlFjQ3RXQkdkVzZn?oc=5",
+   "published": "Thu, 29 Oct 2026 21:01:46 GMT",
+   "score_parts": {
+    "recency": 0.928,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.608
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "「次の車検まで待とう…」整備士の指摘を無視した結果、5万円が“70万円”に…40代男性を襲った誤算 - TRILL【トリル】",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FcnlPdkxLNFhDT01RWklMZHYyZlM2T3I1RTZDRFhGbU1lNkhyUjZpU3hHVXFjU1FIZmhnT1RaYTFjdlkwOFM5clR6ek5XSVk?oc=5",
+   "published": "Thu, 29 Oct 2026 17:35:00 GMT",
+   "score_parts": {
+    "recency": 0.856,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.607
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“アルトラパンX”2020年式ノクターンブルーパール入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUDJaN0hGYjBKZTVrYndjb1c0NDNkdkZXc2J6dVU1UGFrS3ZFYjZMbXN6QXYzazNUa01SeEc0YnNXbWpFVW9rV0NteWgxaV9EaEFreGI2WU5iVWg3RVBBV1Q4TnVUTWpfbXVBbVQ4X0RrOGVhOXVwZXUydmNWZU9VTW1wRU0?oc=5",
+   "published": "Thu, 29 Oct 2026 16:50:30 GMT",
+   "score_parts": {
+    "recency": 0.841,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.602
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“デイズX”2024年式ブラック入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbnFZa2wyNFpDRXlpbmRFUkJqTk44SFFGT0E4NGpMeUZpSkhsdWxkQ0xxdFNTenlKRDZvSE5mZXI1VXNGaUtQVm1uOW5vdkxvdmc5SlRHeTJkZGpEb1llUFExTHFGZEpjeUFwTk5KYnV5YVdZZ3dSaW5EbXk1Nm1MbXZpVQ?oc=5",
+   "published": "Thu, 29 Oct 2026 15:45:25 GMT",
+   "score_parts": {
+    "recency": 0.818,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.596
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ワークスのケンメリに冷房付き510ブル！ 日産旧車3選（Auto Messe Web） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSUVyS0dwRlBRWnBBMFloaXdyV3A3Y1hoODhOWlRCWmw1dFlENl9Vb1JvM0tXNmh3eVBYdDAyX1ZuNVZyMGRnTXFWWC16N2FLd3U2WWhnSkNlYmpZMFhOVkdfWnJ0dHF4WVdpMHFERld4dnUyX2Vqa0RZazlrUGdXNmRXX25WaUJBMWVMQjNB?oc=5",
+   "published": "Thu, 29 Oct 2026 21:56:25 GMT",
+   "score_parts": {
+    "recency": 0.947,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "日本最大級の中古車流通データとオートオークションの知見を活用した慶應義塾大学総合政策学部・環境情報学部 株式会社ユーストカードットコム寄附講座『DX時代の自動車流通論』を2年連続で開講 - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2by11WER0RFV3VVdFUEdycGFNWUpvVFdqT1ZuZ3BUWlZXRThfY0FjRXR1LTZ4cTYyVV91LVJWVXo1ZXZJaUVydExrUmdsVGlvSktrTld5azh6ZVBqM2FyN19Kc3NidEtrRDNlVlpydmhmdw?oc=5",
+   "published": "Thu, 29 Oct 2026 13:10:02 GMT",
+   "score_parts": {
+    "recency": 0.764,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.579
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ファミマで買えるワイスピ劇中車…日産「スカイラインGT-R」台座に置くだけで光るミニカー - Auto Messe Web",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjUmxnMG90THhvNzM2S2RzcTJhSEVVSnd5bHBMaUlCVEl2bVN3N2FEejZJNWZ5QlhBNmZWLUlETGFpalFoZFZFeGJpNEFEeWJBWFY5cU9BYkdHd9IBX0FVX3lxTE9HNmNTejRKcmp4M3lpOHlNc1lody16RE41TnZHUUwybEwzNHJ4Y2F6TVlnOE0tZmJGQ25maWZfYXVJUktxU3p1QVUzWWYxajFBV0ZpdjhDLU0zSUZ2bG5V?oc=5",
+   "published": "Thu, 29 Oct 2026 21:00:15 GMT",
+   "score_parts": {
+    "recency": 0.928,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.578
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "浜寺公園で11月1日「トラックフェスタ2026」 乗車体験や吹奏楽団の演奏やライブショー - サカイタイムズ",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE43cTd6RWQ4UWpwZ1YzX1NtVlJwa0ktOHc5YUh2TGNRV0ltenV4WEFXUm5XNDNFTzZBRWVpbDZnUlpWTFZIWjRacUFhQQ?oc=5",
+   "published": "Thu, 29 Oct 2026 20:30:00 GMT",
+   "score_parts": {
+    "recency": 0.917,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.575
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“Ｃ３シャイン”2020年式青／白入荷しました！LIBERALA リベラーラ三重の中古車入荷情報 LB00401793232994949 - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE10RnpDaXZlRHZ2NlRraWcyeWxjV180RDd1SmFYRXA5cU80SXg0RnJYYTJvTWg3SFlNdDFUcHViMmt1S29Dd3lNeThESjF6YmI2b1VSVjFjOVZMTDRfaWFKY1k5bzExOG1pRDNlWkF6dnRHTUlXUWg3VUZZc0U?oc=5",
+   "published": "Thu, 29 Oct 2026 12:00:59 GMT",
+   "score_parts": {
+    "recency": 0.74,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.572
+  }
+ ]
+}
