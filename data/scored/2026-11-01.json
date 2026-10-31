@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-01",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 119,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新車はおろか中古車も買えない……日本で静かに急増する「マイカー難民」の絶望的な現実（WEB CARTOP） - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QbUZnVU5mSXpraU5ndnJtQjFRS21HbVFJTG84Wmd1d3JOc0RhQ2xYcENuajQ5ODdkZzZ2RWdramQ5X2UzdGQ5LXMwbEY4STh4LUNIZUUxRVVLSDNIVzhTNVRpSHFEU3AxdnBWRWNCbkctdG1xSWM0dS03UjZVdw?oc=5",
+   "published": "Sat, 31 Oct 2026 21:51:07 GMT",
+   "score_parts": {
+    "recency": 0.959,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.638
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新車はおろか中古車も買えない……日本で静かに急増する「マイカー難民」の絶望的な現実（WEB CARTOP） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NWjZLLXlvRFdNVmhyOVJQWVdGbWRUbWhWUmRxdUJFdkN0ZHJKMkp5UWd0UUd4QTlQcEhfcm03eDhHU1YwZlBmclRDREM3MVpyUVVnanhSQkIya2lLVGhBamVTbi04MW9FczdVSzIxOW5keFdnN1M4VnFSQ1FLZnM?oc=5",
+   "published": "Sat, 31 Oct 2026 21:33:13 GMT",
+   "score_parts": {
+    "recency": 0.953,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.636
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "中古車のウィーカーズ、自賠責保険を年内販売へ 国に代理店登録 - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EdS0zOWpiSTZjMzZQc2UzTDNvUkdiNVNoNVQxRWs3UENGQVVzNVNlWVV1RHhYeklVSnU3Ui1Xd2JScHF3Rnh6UnB4N3k5OGpNczNYMTFMZTd0eGc3QkdzT21pLU4zZlVucVhtcw?oc=5",
+   "published": "Sat, 31 Oct 2026 10:10:00 GMT",
+   "score_parts": {
+    "recency": 0.715,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.615
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "【池内自動車】「怖い・入りづらい」板金塗装のイメージを一新！お客様と現場を繋ぐ接客のプロを育てる『フロント研修』を本格始動！ - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UZHQ4QXM1UG1IX3JScVVXMlR0MEZuNjE0aHdQcU5STnhMbmNxamJPamVSOFJ0TW1pMmtteTExLUt5ZjNUREthMW1TcFFHbUxlMjZ1VXo0bjNmSVI3ODZCell3b3ZiTTVzRWdPczh5WXVCZw?oc=5",
+   "published": "Sat, 31 Oct 2026 22:10:00 GMT",
+   "score_parts": {
+    "recency": 0.965,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.59
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "画像15 / 22＞イチョウ並木を旧車100台がパレード！「トヨタ博物館 クラシックカー・フェスティバル in 神宮外苑」レポート - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtb2xTRnFhcFM2Q1VYX3JpekZPRDRjSE9oWmRVQUNvRG5XSVd2V3R0dnBHd1BVLXJyVHVjd1l5RXptX2duOWw1MUo4MDlFT2pDWHEyWW9vLXQ5VHM2TzB5em9Eb0huaGVGUGc?oc=5",
+   "published": "Sat, 31 Oct 2026 03:22:30 GMT",
+   "score_parts": {
+    "recency": 0.574,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.572
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "画像5 / 9＞時価2億！世界に1台だけ現存するバイクがここに！世界の名車・旧車が集まる大分・由布院「岩下コレクション」 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNcGtra2tXaFJJWjhZTEdfb2RzYmNiYWNzVFFwYkRZRnhBRUMzR1g1WmhZbjFXYjA0dkJUQXkwX1FraFhkaER0RWFPOTMyRzlXdllxRExpS2hVdVZzc3Q1alNRdTh3bVJ5WFpOaDc1VW42UnVjRTlKLWxNWQ?oc=5",
+   "published": "Sat, 31 Oct 2026 02:54:27 GMT",
+   "score_parts": {
+    "recency": 0.564,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.569
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "モデル「西山茉希」が\"お気に入り四駆\"との2ショットを公開！ 「とてもカワイイ」と絶賛！ 日本でも大ヒットした懐かしの「アメ車」とは - くるまのニュース",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VaVo0SDFSX3IyTWJDVXFTVENMSy1ZcWx0dDZFMk9qdUI5LVNzNjdCWkxMRG5KQ2dxdWljMFBwOG1WUnJ0cDllbmN4WQ?oc=5",
+   "published": "Sat, 31 Oct 2026 00:10:00 GMT",
+   "score_parts": {
+    "recency": 0.507,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.552
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "モデル「西山茉希」が“お気に入り四駆”との2ショットを公開！ 「とてもカワイイ」と絶賛！ 日本でも大ヒットした懐かしの「アメ車」とは - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcnFzNHN1UlREVzh3MlI2SllTT0tPRWhONkhJYllGNGV0ZFc4aVd6N0szamNVMmp2U2VHMTVfXzlMQWg2QlRENlZXa092b3Y0TEpyT19sVXd0aFE0SHBnTUZ5SkhIUTFGaTBKMVltZXctRzBiX0ZPN0ZzZjFFQWUtaXdzb2RIUVJKbkHSAYYBQVVfeXFMUElBR2Z2VjlRYUtfVVdra0ptZXlSNGNkaXI2YXVDM1dfRGtEVjJnN2V3OGViTkU2TUdzcTZ2WGVWcDJQSy1HUHh2QVI2Z2N0UFl2MUM2MUdzNV8zN0Jkelhvbjd1ZDhXTElzVEVaMmcyQ3NLVzVpQ1hndm9uWUNXaVUtaXdWOHc?oc=5",
+   "published": "Sat, 31 Oct 2026 00:10:00 GMT",
+   "score_parts": {
+    "recency": 0.507,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.552
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "モデル「西山茉希」が\"お気に入り四駆\"との2ショットを公開！ 「とてもカワイイ」と絶賛！ 日本でも大ヒットした懐かしの「アメ車」とは - くるまのニュース",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5FTnE5VDF0NEZBaDBVRVc4NUppanpVb1c0OVFKMzVZOFhiYjNZWnlXWHk0S1BsYjA4aExNOUVFbEN1SWE1dHBnUENMLUI?oc=5",
+   "published": "Sat, 31 Oct 2026 00:10:00 GMT",
+   "score_parts": {
+    "recency": 0.507,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.552
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "岡山市で輸入車ディーラー11社が集結、認定中古車約300台の商談会 (2026年10月31日掲載) - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HZDlBRjZsT29qUHowQTEzMjFUWEJ1dU92NUtHWHl0YzNLZm1lZmFDUHB4SjU3OGxPWVlobWo1VnVSTk5hcjZ0OG9rSUwyeFJIMUtRek5zaHNZY2F0Z1E?oc=5",
+   "published": "Sat, 31 Oct 2026 07:52:00 GMT",
+   "score_parts": {
+    "recency": 0.668,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.55
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“Ｘ３xDrive 20d Xライン”2019年式パール入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMENQeHpnR0pwUzAzVDBVZnh6VUNocnh6ZTFEVkFwRVB4WVRQTlc0SFYweXRucVM4OUJBbTNSdEFyWWxRbjBwMGxNM0xDTVBFY0hQT2N6ZHB5LWt6WjhvQlVlRHZsVFMwRzFEU0VWMUNtcFphVld5R1NFc08zakRqa0FTaw?oc=5",
+   "published": "Sat, 31 Oct 2026 04:32:55 GMT",
+   "score_parts": {
+    "recency": 0.598,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.53
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "ユーカーパック、月刊「中古車相場レポート2026年10月号」を公開(画像ギャラリー No.7) - MOTA",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BT2NXM3lBYkdWQVRmUXY2ei0xT01UVl9VMXFkUFlTTmZQT09qZC1wd1hEcmZGbmN4d2t5Q3kweUQ1dGE5ellKTnozU3ZfTDJBckxWUktIWVhmSll6Mmc?oc=5",
+   "published": "Sat, 31 Oct 2026 03:15:42 GMT",
+   "score_parts": {
+    "recency": 0.572,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.521
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ＩＳIS250”2014年式ホワイトパールクリスタルシャイン入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ORmNsSk5RLXVGaFktRldwQjdyam9tc0pEaG1PbGxUUDBGc0R4VnZ0N1NqQjY0WUx3eUxnbjNnQ0ROWmhTV0pQY3FKWXZISFBxb2hValB3am9aeUZpek1USlVGNTJLVmsyOHZ6R0ttS0NOejNlelJjNDlyS0dFSVU?oc=5",
+   "published": "Sat, 31 Oct 2026 02:34:30 GMT",
+   "score_parts": {
+    "recency": 0.557,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.517
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ジムニーXC”2025年式ミディアムグレー入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wUFRtUVVXRE1IQmFtYmxHOTk0YjdDSk5ISE9zVy05d1NOV3ZUQnhVSFdWbXVLQW95VWJOSW8zX1VwaU1XeEhlV0VrdU1KNWsweFZDUVJ1amtLdmV4V2gzZkhuYTlOLXBrM196TnV6S00tMzRGR0UwbS1FdUhmQWM?oc=5",
+   "published": "Sat, 31 Oct 2026 01:04:06 GMT",
+   "score_parts": {
+    "recency": 0.526,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.508
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "ユーカーパック、月刊「中古車相場レポート2026年10月号」を公開 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvR1gzOUlFR2k5ZVVmRFBENUpScDBaOXBvWkJ4b0JFQmdHdmNJWllFMUh5a3ZBVm9XX0FuU0NzZmR0QlRhNWJtb1RXOGRlcnJDZ0NPTWRHeWd5dkdoWExaWG9SNDh6QTFzQXc?oc=5",
+   "published": "Sat, 31 Oct 2026 01:00:02 GMT",
+   "score_parts": {
+    "recency": 0.525,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.507
+  }
+ ]
+}
