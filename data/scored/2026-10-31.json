@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-31",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 174,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "中古車AAで出品急増、成約単価13か月ぶり減少 - LOGISTICS TODAY",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5wazllU1c1Q3ZNVFdXMUI5aW5QTWF3NFd2UjBuQUVwaTBBT0RNN0JidUVCMXNQZkR2enZxcWdNdjlRZ3h0a1RtSkdn?oc=5",
+   "published": "Fri, 30 Oct 2026 22:57:56 GMT",
+   "score_parts": {
+    "recency": 0.974,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.642
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "旧車を乗り継いだベテランが惚れ込んだ一台！・ロイヤルエンフィールド HIMALAYAN 411【みんなのバイク】 - MotoMegane(モトメガネ)",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTmIwMnllZ2FDWHVveTN2TGNqZzR1UXFFbGo2eGhSQ0FrdnFZa0o0VHR4NkxCQTduZ3NLTTczVllnU1RjVjQ5T1FWS1lOOXR1dlduY2ZsRGNMU1BfR2pNM1JmbHphUnBtVHBxaWxLbWczS0FIeDdlTjRDZGh2X3VjSHIzSUJtSmRvNWNyMV9ocl9ETVhWME80UWw4Nng5NGdLVmRjcU93OTBGdw?oc=5",
+   "published": "Fri, 30 Oct 2026 09:30:00 GMT",
+   "score_parts": {
+    "recency": 0.694,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.608
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "中古車買取相場、9月はわずかに上昇し高値圏で推移上半期の中古車輸出は過去5年間で最高水準を更新、「査定額の二極化」が進行中古車買取相場推移レポート（2026年10月版）(画像ギャラリー No.7) - MOTA",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HMGhxcjdmbWhWdDV6QjladkptR0lUdUtQeHNHRUp4V1V5RDJXWm96ZmQ2MjdQTjcwRTdsQ01BYXFiZHdTenZaeHZSVDA4MzRGT3lFSm1lX2pkSnoxNmc?oc=5",
+   "published": "Fri, 30 Oct 2026 17:01:27 GMT",
+   "score_parts": {
+    "recency": 0.851,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.605
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "びっくりドンキーに行きました！ガリバー熊本東バイパス店のスタッフのつぶやき G010131793269068639 - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qQ1JVVXNkNHVrRWgtRjZJOTZCVnFMVmFxZUZiN1NHZ0pYUTZ6RUJVOGg5NHlFanNSTGNCQThweHQyWEFiVER5S0NjR0hNUFBuWjBjck9VbmJZRnNadmtoaGhUclQyZzhZWHBEX0FGbGZ5TnJpamQzNGpvbVB6Zw?oc=5",
+   "published": "Fri, 30 Oct 2026 16:14:32 GMT",
+   "score_parts": {
+    "recency": 0.834,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.6
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "11月22日は、いいブーブーの日！ガリバー8号長浜店からのお知らせ G012241763343954038 - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yMC11M3JNZkZQQzJHSnF0bjN4YmMxNWtoak5kR0FjbHlOOFBUa19IVzBkY183cWJsdmxJUmhJQmZONC04YTRKNzRveDdMVi1ocTFqbDBNbmJiMDQzMmV1bUhzVmVPSDNvOGdzSU9vWV9iUVh2cFZSZC1ZdVN0STg?oc=5",
+   "published": "Fri, 30 Oct 2026 15:32:17 GMT",
+   "score_parts": {
+    "recency": 0.82,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.596
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "中古車買取相場、9月はわずかに上昇し高値圏で推移上半期の中古車輸出は過去5年間で最高水準を更新、「査定額の二極化」が進行中古車買取相場推移レポート（2026年10月版） - Excite エキサイト",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fZW9qMVZGV2RONG53TFZfQXJUSGp1VGtVTnROS0pJWXdsM1lTbGhqTERnSUlXVE85NU03MGR0NC1UZXM4dDBOeVF0dGNsOWV3akxZZ1RXYTdlLXEwampEaUhMM01mTjh0REF0SjV1ZXoyd3Az?oc=5",
+   "published": "Fri, 30 Oct 2026 15:10:00 GMT",
+   "score_parts": {
+    "recency": 0.812,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.594
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "「軽EV」は中古で買うのが正解!? 日産サクラが新車より100万円以上安い!! N-VAN e:とのお買い得度を比較 - ベストカーWeb",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FaHVzOFh4NGc4V3ZMYWlMOUotaC1ZbGtiUkJXek1VZmtlcU5SVEVLZFpmTkp1UDZONWdvQ09QUmlDTm1ELXFzM1JrVnhUS1lmOGFnLXZibw?oc=5",
+   "published": "Fri, 30 Oct 2026 23:00:00 GMT",
+   "score_parts": {
+    "recency": 0.975,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.593
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ムーヴXリミテッドⅡ SAⅢ”2022年式シャイニングホワイトパール入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50bVRVYVY5ZzcxLVZwckt3U0U1VlNfd1lvVUNNNmRieDRnNG5FWTF3aWd4d01RU28yNWVQUUIxTGdkTjh4M3NfZ1hYTkN4S2NiYl96czYxSkF6UnFQb2dwTkpwVVBRaE5LSzlRczBSeXRqX3JORlV6dldXSW5rYkk?oc=5",
+   "published": "Fri, 30 Oct 2026 14:41:16 GMT",
+   "score_parts": {
+    "recency": 0.802,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.591
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "「現行N-BOX」が総額130万円から!? 新車より安い未使用中古車も豊富!! - ベストカーWeb",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tQkR4b1VsU0hSZFZQTlhISWV2d2dEa1VLZ2o5SDgtYXpCQVozUjFtWWQ0c2dBRVlLLW1GZGtnWWhPWWtNZF9FcHpGNmF4UEVndVlMNU1nNA?oc=5",
+   "published": "Fri, 30 Oct 2026 12:00:00 GMT",
+   "score_parts": {
+    "recency": 0.746,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.574
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "恒例の・・・ガリバー久留米インター店のスタッフのつぶやき G011731793348171838 - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PUS05T3ZJMmU0ZkREeE93OW5Yc3N4bU1naGkxMUV5aFktajM5Xzk0cXF2ck1MMm1rRmgzVXRJX1lmWWwyS1g5TFJnMXpmdkhZYkFEVUpSeTBMX0hjWDVycXFPb1BmYjVBU1dXbHQ1bm9HcGRHdnA2anM1dzQ?oc=5",
+   "published": "Fri, 30 Oct 2026 11:43:32 GMT",
+   "score_parts": {
+    "recency": 0.74,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.572
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "使えるEVがいよいよお手頃価格に ヒョンデ・アイオニック5【UK中古車ガイド】 レトロモダンな堅実ファミリーカー - AUTOCAR JAPAN",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DTHhOUDBOQnNnc09yMFl3bGdZWExSU1JZZEhjU1RmVE51WDBqM2hUQWphci1Hbkx2M1MyY21RMUk3ZGJaVkxUVGowNA?oc=5",
+   "published": "Fri, 30 Oct 2026 09:05:00 GMT",
+   "score_parts": {
+    "recency": 0.685,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.556
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "使えるEVがいよいよお手頃価格に ヒョンデ・アイオニック5【UK中古車ガイド】 レトロモダンな堅実ファミリーカー - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV2xJdVp2d0NmM0gwc2s2VUMwSE5va1Vwd3lSU2ZGV3ZOb3YxYklheFBValZNUzJxODhXTUNWRUNRNEdVdndQMmpjaVhrWmoxbVQyZmMwcDE5OGhyOThOT1kzUU00Vk5KUVozbGZLWEJrSGdGVzVUNlFyVGVCY081enFGd3huTmtK?oc=5",
+   "published": "Fri, 30 Oct 2026 09:05:00 GMT",
+   "score_parts": {
+    "recency": 0.685,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.556
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“アクアG”2021年式クリアベージュメタリック入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTUt0aUdRaUNyNnlGMk5hV3IwWVBBamlrUy13a256RHdYdDJESDNMN0NGREpGSlQ0MzJfUXpmN1l4RnM2ckt4cElyeG14bS1EeEExS3BaSDBwMzFIQUtzdk5nMEpvZHRvTVJVcXBZM3JUdjBzTXQtQmswM0lMc0NEYw?oc=5",
+   "published": "Fri, 30 Oct 2026 08:49:08 GMT",
+   "score_parts": {
+    "recency": 0.68,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.554
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“セレナ20S”2006年式ダイヤモンドシルバー入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT1FYdl9XWVc4QkNYVmlCT2ZhZzVnajFUaS1IWDdfQ0ZIX3h4OHl1bEgzVVF1a1duUk9RSTlOSm1PeHQ2T0szaTN1eWI0enFuUUFNVXVkTmtZWjZPZlE5cHRmUnVxb1NEWEZyUC1jYTVtanNwX3RqM3lMV3JGZzVnZi1yOA?oc=5",
+   "published": "Fri, 30 Oct 2026 08:18:45 GMT",
+   "score_parts": {
+    "recency": 0.669,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.551
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“フリードハイブリッドハイブリッド・Gホンダセンシング”2019年式シルバーミストグリーンM入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNTFrVmR3eU5vem5YY090SWtiVjRpR2NZTnp2Q0VXbnJUWXdzTm4wWUE5VmtmWXJhMUlaMFNDMkVtQ1JOdlBsc0dtWlhKZlR5cHNYb2JHVHpZOEJFbGRoQ3dYd2hKVVJxOWFRT2NsZENvenFGdTRib3Q1aEdEUlRBa2lYYw?oc=5",
+   "published": "Fri, 30 Oct 2026 07:58:34 GMT",
+   "score_parts": {
+    "recency": 0.662,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.549
+  }
+ ]
+}
