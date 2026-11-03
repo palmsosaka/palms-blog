@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-03",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 184,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "【OPEN】 １１月３日（火）営業開始していきます！ガリバー50号小山店のスタッフのつぶやき G009361793174865569 - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9oMWt2YXZlVVR6bU1lZ3RQVFJUOG9wQVl2cU5BclFqLXJhcmRndmpsajBDajFsb1VuZkdCSWhacGlkbmtVNGVkWnB6U0NocGZEU2tBWDdzN3J4a0lyLS1qNHlFcEd3VFpJcThFY1ladXF4LXdmTktfX29Zczg?oc=5",
+   "published": "Tue, 03 Nov 2026 01:28:57 GMT",
+   "score_parts": {
+    "recency": 0.975,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.642
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ノアSi”2015年式ホワイトパールクリスタルシャイン入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ3BQRDdXem5IdERhUjFIMFVTUzg4cmY4Z002eVd5OTFDZHNRVDg3SmxzWFZCYi1XSXZvVURpcnJhVDJkUU9qYUdENnRwVzlnZEx1TkFndmxSRjIxakFHZDhCMFo0UEg3TlBJU0E4STVYU0h3WW4xdTY1d2lUN2tZNkM2cDQ?oc=5",
+   "published": "Tue, 03 Nov 2026 00:38:20 GMT",
+   "score_parts": {
+    "recency": 0.957,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.637
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“８６GT”2012年式オレンジメタリック入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTVdoeUp4WHF4YXlwdl85RGY4dXlkVFBMM0Q2Sk5KakFSb1Z4aWtPOTNnWFJWYktUZHNQSGVFaUczNnNJdGREbGhOUElsRVVZcTFrNkx0ZHdjZEtaQUI0cVJzVDVRQmpCMGJ6MnppZVZ5Vk15UEtycEY1aS1Ob2drLVFnTVY?oc=5",
+   "published": "Tue, 03 Nov 2026 00:34:14 GMT",
+   "score_parts": {
+    "recency": 0.956,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.637
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "デンジャラス・ノッチ、“昭和51年製”旧車バイクの納車を報告 フルレストア済みの極上品「鮮やかなブルーの色が味わい深いですね」「カッコいい」：山陽新聞デジタル｜さんデジ - 山陽新聞",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42c2gwR1lSbTFKM0Z0Qi1kaXhFRFRyYlBENzVCTEx4UmM0YmlwX29rSk5sTTFxdWFUU21kOFg5eWd2azJEcGo0eVlnRE0yUmVud3J4eU5nU2J6aFlCSzJuUjkzRkE2Q3M?oc=5",
+   "published": "Mon, 02 Nov 2026 08:26:31 GMT",
+   "score_parts": {
+    "recency": 0.62,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.636
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ＣＬＡクラスCLA200d”2020年式黒入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbElUdWZBZUNSSEszRlJ6R0lRWHVaQnhfWmFmWmhLcFFGMmlURUtIOUpTYlZ6NHJ5OG1RN1JDTUZvT0ZDQkhkeWtwdTczRDVzNlZfbUhCOV9CMnhEeWZEN0tMVDdQNnE0WmNwaFZhQXpwMTFwNnNzM1V5NWd0Y3R2OFg4Zw?oc=5",
+   "published": "Tue, 03 Nov 2026 00:25:53 GMT",
+   "score_parts": {
+    "recency": 0.953,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.636
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“セレナハイウェイスターV”2020年式マルーンレッド 2トーン入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMVR6Sjk2aWlhYVNoQkd5cFZCWE1ZNEtMZVpVWVVNU0VHTjllY2RGNm9tVjhnMjZHVGI2c3lheGlGcDFScnZ1V0l2WHQxNzlrRllmT05sNWxxcnYxR0NzUHlzdjUydjQ0cWFwcjdtTW1CMVJHSFBCV3E3SkwwLXVCaA?oc=5",
+   "published": "Tue, 03 Nov 2026 00:25:52 GMT",
+   "score_parts": {
+    "recency": 0.953,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.636
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ハスラーJスタイルⅡ”2016年式フェニックスレッドパール/ホワイト2トーンルーフ入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMUFOWU5PMi1sNjBUZnpHNFF1VlByWjRjQ2tiN2FCUFZDeGtaZ015aWJhVWI4VnBGaXY2UGpvWVM2N2NYYlAxM0ZNelRRN3lKZnZwa1ktLWw1WE41QTNnczNGRlhuX3E1VG4zUGgyQmFNNk1iZU1CVGZ6QzJPWndZaTgxQ3M?oc=5",
+   "published": "Tue, 03 Nov 2026 00:25:51 GMT",
+   "score_parts": {
+    "recency": 0.953,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.636
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "A氏は、母親名義の自動車保険の家族限定特約に種被保険者として登録され、3年間運転した。 事故なく運転したA氏は最近、2000万ウォン相当のアバンテを購入し、本人名義で保険に加入した。 保険加入経歴を.. - 매일경제",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kQTJ4cEVYS3BzSWxGdVF3b01TZmk1QlZvdHVfYWs0SjJuV0FoSFJmNFU1QnlIQWQxdzl4b3JSbWVCV003YzYyYmJMSkxPak1xc2c?oc=5",
+   "published": "Mon, 02 Nov 2026 04:56:57 GMT",
+   "score_parts": {
+    "recency": 0.547,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.614
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“シエンタハイブリッドG”2017年式ホワイトパールクリスタルシャイン入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdUZYUDVmdk1HTTFrLWU2SGFrRVpCRzAxdnZBVFpyQ2dpRnFQNC11UzFpVk5xSk5zb2haT05iSFNuM0c2bXBiVXFSUWotZTc1VS1WejIyRFNBSm5nTFVvQnU1ZGwtdmFvVTNEMjgzMV9OT0dVd296WTlmOV9tVkZBV0VmT1A?oc=5",
+   "published": "Mon, 02 Nov 2026 19:56:10 GMT",
+   "score_parts": {
+    "recency": 0.859,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.608
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ホンダが活用を進める金属3Dプリンターはホンダ絶版旧車乗りの救世主になるか？ 課題はサイズとコストと品質 - モーターファン",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EdGVjX3lZMDB2Zmx2dk5LUjA5czc0NENRWVVKa3haam81cVdvckxBeDM5RGJDOUttNVpubGs3RlU2T3F5V19pNlZTMXJhRnZMVGJZc1ZkRUtfeDJqa3c5dUVn?oc=5",
+   "published": "Mon, 02 Nov 2026 09:03:21 GMT",
+   "score_parts": {
+    "recency": 0.633,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.59
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "スタッフのつぶやき - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CNTZnZ1V2NXpHRjRENFFJYjdvQ0NEY3RoVy0yY1B1OV8wV2l4eGVnQWdRWEdRaU5ISmxMang5RnhiU0h3d0hVZzA5VjRDckwyMGdBVWlIVC1KWHdUblRtU250UDF4ajFJdU93eWZKQ21obmRIWjRLSVFocjA?oc=5",
+   "published": "Mon, 02 Nov 2026 16:25:54 GMT",
+   "score_parts": {
+    "recency": 0.786,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "ガリバー いいブーブーの日ガリバー294守谷店からのお知らせ G014821793587372119 - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPa2JqWEdjc1loNEtIWFVRV1JvNEpLdGQ2cXhHNlN0b1pzckFqTFlPOTBpYXBfQldCdWpGWU50aVh2dDdFc1lwSE5tb1lnUk1meHV6UzItZGlXNEk5UEMzM0tuUk5YakhXNnlfWVEtOTFicTBXdUxzQmMyLTFDV1VQelp3?oc=5",
+   "published": "Mon, 02 Nov 2026 16:25:54 GMT",
+   "score_parts": {
+    "recency": 0.786,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "タイで古い車から新車への買い替えに4万バーツ（約19万円）補助案、ピックアップトラック15万台が対象 - タイランドハイパーリンクス",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vakxja0tXRVFPc21CTm53VGNjcXVYR1NlcWNIaDJQdjNRd1lIaHVlM0hocFV2ZDNNNkM0V293TWFPV0FVdURzNFdkZmxhWjc1NEk2LQ?oc=5",
+   "published": "Mon, 02 Nov 2026 23:01:57 GMT",
+   "score_parts": {
+    "recency": 0.924,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.577
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "JCBと三井ダイレクト損保、「J-POINTがたまる自動車保険」「J-POINTがたまるバイク保険」を提供開始 - ニコニコニュース",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3WjE0NkhoZU9lLVJUenl5OFY2QUh2MHNUZDV1V1VyMTJvMnVaSFlwSkgzYW9HMkdMZGJYZTFYNzdiTWZOeThabjNWWTJTT3RWcUhmUEw5Y21BWGpqcVZIZGN1cUZCeFdm?oc=5",
+   "published": "Mon, 02 Nov 2026 14:51:23 GMT",
+   "score_parts": {
+    "recency": 0.753,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "フェンダーが深く被る超低車高！ 3.1LのL型直6を積んだ日産「スカイライン」とS30Z - Auto Messe Web",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tdUlRZ1dDMWQzY3hZcTZ1WVJVV3JtTGM1a01fNEFlSXlPRHFtQUlLM3dZQ0U0Sjd0bjNxNmFSdjhvWVprdmh1MTlnUlo1ejZON1J6cmlsOENJZ9IBX0FVX3lxTFB0alllS1BLUmFRZjl4UV9WTjVVY1ZZcFlXU2tua2Q0czlVVmFYOU1NVW16ODdzZlZmd0IxSXBlYVM4elN4VS1iSzBKZ0FoUUd3S0toOU9wQ01vYXdGc2pv?oc=5",
+   "published": "Mon, 02 Nov 2026 22:00:37 GMT",
+   "score_parts": {
+    "recency": 0.902,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.571
+  }
+ ]
+}
