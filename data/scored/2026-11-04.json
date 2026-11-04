@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-04",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 171,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "田村亮の新たな“愛車”日産『サニー RZ-1』ってどんな車？ 中古車市場に出てこない“幻の名車” - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xX0MwZnp5a0dBY3JDQ3dhcXRCMkFJOWxZelJBeW1WREVZdnNRYkJGN1BKTWRmbzZjRnNNeDRlNnJXMHQxdmVlTEJHbkNjdV8wZHRxdmZOaUxoTlA3UThDeA?oc=5",
+   "published": "Tue, 03 Nov 2026 21:45:00 GMT",
+   "score_parts": {
+    "recency": 0.933,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.63
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ダイハツ タント 4代目（LA650系）をグレード比較！装備や中古車相場で見る選び方ガイド（グーネット） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONVRweXhzNDBYT2xXWV9uUnU5WWNidGFtNmlsNUxFblh6Tmh5dlhVZEpOSXAzODhMeFFIelRlODVBRUZMYXFjTGRTd1c3OTNBMEpUVFpEQjZJUVdGTS1KbEc4TjZ3OWJmdzFoTkVBQ2hNUl9iUVVaX0x3M2hqUkdTRms3T3Y4Mllj?oc=5",
+   "published": "Tue, 03 Nov 2026 18:00:00 GMT",
+   "score_parts": {
+    "recency": 0.855,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.607
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "JA自動車共済はひどい？評判・口コミから分析－70歳・75歳の保険料もネット損保と比較 - セレクトラ",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vcFBDSFQ5dUo2WngzeFZ2N0ZNNnlGeGpsTzUybTk1Z1NsX0haMG1aNGVqQ3BvdFpaenFCN04yQUQ5T0VldDVhN1JMQUtGd1Y0MGtLTEFzdVc1QnIwaFR1VQ?oc=5",
+   "published": "Tue, 03 Nov 2026 17:52:26 GMT",
+   "score_parts": {
+    "recency": 0.853,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.606
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“アルファードハイブリッドハイブリッドX”2025年式ブラック入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU0FZeWxkbjB3eW1DVkRLd29sTmtJczFqeWszaU1sMTYwNUduVzhsU0dZZlZnYURKRWRaSmhvckxiX2hQTFk0b0hOSXdPUC1wRWNGVlZHZmQtOGZxY2d3dTN3RHZYSHVXdzk4N1ZTZG9taWtuX3M5dlZTbEVfOW44Mmh3?oc=5",
+   "published": "Tue, 03 Nov 2026 16:17:22 GMT",
+   "score_parts": {
+    "recency": 0.82,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.596
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「完成まで約15年！」名車スカイライン2000GT-Bの“現代化”に全てを捧げたオーナーの情熱 - モーターファン",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90VUt2X1FpeEVWVGQ5VnNleTlkMlNpUWFPcGlmdTZHcWNLbGkwQkFybmRCdkI0SHpQaERqU0RFb1JTVFBoc2NkLWNwaVNqdw?oc=5",
+   "published": "Tue, 03 Nov 2026 22:30:00 GMT",
+   "score_parts": {
+    "recency": 0.949,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.585
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「商用トラックなのに中身はスポーツカー⁉︎」63年前に登場したホンダ初の四輪車【ホンダT360】は、すべてにおいて異端児だった！ - 月刊自家用車WEB",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUd2gxLTJyLXl6ZG9iS2l4cnZuWGc5VFNoZHJFNXJmbjcybDZwT0t4LXFQOFhnZ0pfZndRSTRRLTBrQjFHQ2szYzJKOTd3T1UzcTBJMmpmbWRuU1dEMXBDSWtB?oc=5",
+   "published": "Tue, 03 Nov 2026 21:10:00 GMT",
+   "score_parts": {
+    "recency": 0.921,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "エアコンを完全撤去したケンメリに軽パワステ移植のハコスカ！ 走りを追求した日産旧車の熱意 - Auto Messe Web",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EVUptY2NsWlVJZl9ac1RDaTY1VENDR2NHQjBqTXpiWTdlM0U0M09mQWh0WVc1MGhDdHV5clJvOVo3YThMTTFDY0tSOUtIVzNuODZZZlRyYnVGSVg3SzBsZXBCX1hxTEs4YktzR1VmX1pScVNpekE?oc=5",
+   "published": "Tue, 03 Nov 2026 04:07:17 GMT",
+   "score_parts": {
+    "recency": 0.566,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.57
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "ブロードリーフ、BtoBの部品ネットでJTPの大型車リサイクル品 調達先多様化で利便性向上 - 日刊自動車新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KbF9qakdaM013cWt6ejc0M2dNeUJILVFnd2VueF81WkJvMmN2cWRMSlVPWk9zbDJtZENrY0NiZFFlWjFtMXVFTGpPTW5TS2R2LUE?oc=5",
+   "published": "Tue, 03 Nov 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.897,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.569
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "（大阪）堺市北区中村町付近で下半身露出　１１月２日 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd0tWcTFrVFZ4cl81ekYzNVJEeHF0dFJIQjI1cHFLOHdSc2p1M3J0NS1HTC14S2xyenlRRjhSX19jSUJUZTg2ZmQwVklWSEJSa2tZWGs4SzFsTjRpQm1DcDF2NXRfRVRNWmZFU2VTd0IzTzFwT094UWNTeElNS1RUUXhrTVN6bmlRNGw4aXMydHpNeDVobTV1YWkyc1F0cnYyS3fSAaIBQVVfeXFMT3dLVnExa1RWeHJfNXpGMzVSRHhxdHRSSEIyNXBxSzh3UnNqdTNydDUtR0wteEtscnp5UUY4Ul9fY0lCVGU4NmZkMFZJVkhCUmtrWVhrOEsxbE40aUJtQ3AxdjV0X0VUTVpmRVNlU3dCM08xcE9PeFFjU3hJTUtUVFF4a01Tem5pUTRsOGlzMnR6TXg1aG01dWFpMnNRdHJ2Mkt3?oc=5",
+   "published": "Tue, 03 Nov 2026 13:15:00 GMT",
+   "score_parts": {
+    "recency": 0.756,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.557
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "韓国の中古車相場が急落…3年落ちBMW 5シリーズ、新車の半額3,759万ウォン（約440万円） - BigGo ファイナンス",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16N2JpaVY5bWFqd1RaMnBKTWhFVm9IbGhvRGxqMFRhdkpWTmRlWEo3M1FaLXNrNXA3UG5iOEpGYmJ0dDd2MUsyN01WWm8xOWFtVzBCQjJRN19uX2FkNVVoS3BQNUhqZ05pdTBYb3VReV9qZ1g5?oc=5",
+   "published": "Tue, 03 Nov 2026 09:36:00 GMT",
+   "score_parts": {
+    "recency": 0.68,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.554
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "ダイハツ タント 4代目（LA650系）をグレード比較！装備や中古車相場で見る選び方ガイド - www.goo-net.com",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VdnJ3dTFFb0lPYURldThxcnM2bW1uTnBZODBwd3hwdnVvc2I3LVFwU1J0WXpaMTlCRFZLeFU0TVJIcndjN3ItcEJQWUpVdnJKalJQaXNrX3dKdUljUFphRFNQZzg?oc=5",
+   "published": "Tue, 03 Nov 2026 09:00:00 GMT",
+   "score_parts": {
+    "recency": 0.668,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.55
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "ダイハツ タント 4代目（LA650系）をグレード比較！装備や中古車相場で見る選び方ガイド - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQekNLY1hwMzhFN1RBTmxEYkUtQ29BbEROdHd6MlgwTE45M3ZRXzhLY2NIVTl6X3BiRG5sOEdDY1JVN0ZWT1JKd3NOWUJjOWpBVFdsNHpnUVY5ZDhrSUtSV2JyWFEzRl9YZmdzQUZjSlhvQjg0YWEyNGp3WHN4UE5IZlNDXzVDWnFmWmNvT3h1M0RvREtsaUt5YUlSXzBocHctdXJ6WkNuX2tCT2xFbEcwZzhpMTNnYTc2T3FTTmZIMkxhajlMVk1Yd0l30gF6QVVfeXFMTl81VUVwaElaS2pGeEVXWkpqWVpUZmtmNjF5elZocW1QUXQwM216dUFvLUo3VHpYOEc3SzRqLU5KdDN0YkxwTG5CbU1DaWJ4LVFDWnhmUnNTeHl2R1pwaHJXWkVIQ3pIX1FTckxmV0M4T1pzd3FWT016aGc?oc=5",
+   "published": "Tue, 03 Nov 2026 09:00:00 GMT",
+   "score_parts": {
+    "recency": 0.668,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.55
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“トールカスタムG”2022年式パールホワイトⅢ入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUjhkNE1UOEo0ZzVsVDFxcDdxa0pxeWRTbjdMLXZGZGZWZmN3SVVibTV1US1vX2s1VmNZRl9MY001akIwUlFQRUtnSG9ZUTdqRWl5VlFaN2Y3Tm9VZ3F0VDNiREJqS3p3TVJmeGwwaWRSWlFlNUdSNGVRSTkzLVdPSGI1SQ?oc=5",
+   "published": "Tue, 03 Nov 2026 07:29:12 GMT",
+   "score_parts": {
+    "recency": 0.636,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.541
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“アクアG”2013年式シルバーM入荷しました！ガリバー鹿児島川内店の中古車入荷情報 G006911793665007602 - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMENzbkZxNDBhanU5eG45SkgtdGJ6bHdocXZvS1dzTUFWSThaQm9BVjhiZXJKb0NpVXJPRTZycENaQnlwM3EyUmprUGNhX1ZROHRBdWd1amZxVENvOG1fNWkxVTJWdUduRUhXSGFJWTJVTlJtYVZVQU41enpiZ0pfSnBib2I?oc=5",
+   "published": "Tue, 03 Nov 2026 07:24:43 GMT",
+   "score_parts": {
+    "recency": 0.635,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.54
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "実務者研修を堺・住之江で通学受講するメリットと失敗しないスクールの選び方｜馬淵敦士 - JIJICO",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sSFZDT2NoemdaYkVtdVBuU1FLZTdQNW55UzZybmpTLXBuclZIenNWaDU2ajF3b0pGdUM1ZVZQamRNY25nbWtSWTZJUldwTEtOUW5ka19GX0I1ODM2cGhfdmotOA?oc=5",
+   "published": "Tue, 03 Nov 2026 16:00:29 GMT",
+   "score_parts": {
+    "recency": 0.814,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.524
+  }
+ ]
+}
