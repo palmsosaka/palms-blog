@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-05",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 159,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "2022年夏 みちのく旧車ミーティング 会場風景２ - YouTube",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DeURoalRKRzhGb2N3NXV4ZHVkRWlXZkxUMWpWd2J0ZkxReHNremJxeGxyR3FrV1k2UFRYVHhkWEFsYnROY19CZlEtZjJibVJ1bTd3UUVJem8zbUpB?oc=5",
+   "published": "Wed, 04 Nov 2026 22:04:59 GMT",
+   "score_parts": {
+    "recency": 0.937,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.681
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "RSワタナベに履き替えたサニトラで、初のクラシックカーラリーに挑戦！｜松田次生の旧車徒然記【第11話】（NOSWEB） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43cTJEVmlWYklUZVNDVjFHdzFsOTE1V196eWt3djBoMW9qa0VkS1Z4aEtmekNDRHhHRHpLZDJMLWYxRnoyajJtNzZ4dW1hSFhJQXVYcVFZQlg3cFFfLXBib2FZUkgwdU5oMGNQN0VTN3Aza2hiZXVhU0JfREFuZkU?oc=5",
+   "published": "Wed, 04 Nov 2026 21:05:00 GMT",
+   "score_parts": {
+    "recency": 0.916,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.675
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“Ｘ１xDrive 18d Mスポーツ”2021年式ストームベイ入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNHRPODBxSUw1U2pZd1BXdUhCUkduVU9obS0xUnRmWDVKelVkMUNPWjdPUTFkbWRBcnBuYzBXSWltbl82Qkx4QnZXLTkyejdGblJpRUd4LWJKSFBpd0ZXbFFpLS0wNll6dmg3Vm1WaTlkRUsyRkZwQTZJa0EwODB2SEtn?oc=5",
+   "published": "Thu, 05 Nov 2026 00:39:23 GMT",
+   "score_parts": {
+    "recency": 0.99,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.647
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“プリウスS”2012年式ブラック入荷しました！ガリバー市原平成通り店の中古車入荷情報 G002031793837828235 - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSMVNXYVZUZmJHRDRscE0yT1UzUHdELUJHVDRucU1rand4NTUxT1dVS21WdjQ0ZkR6czcwMGlNQlE3eHdpM2tPdVBpVEVoaFZ6eWZSR1p2S29uc3M5SDNKTUlRQmg5M09XNUpaQ0t3cFVaUnFKaXNVaGE2Vzc1SFk?oc=5",
+   "published": "Thu, 05 Nov 2026 00:35:22 GMT",
+   "score_parts": {
+    "recency": 0.989,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.647
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ジープ・コンパスリミテッド”2021年式白入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6aWhjdHdOalRBdGdxMm1OeS1lQ2Nyci1aZENzWGpvUEMxeWU4dnhHYVVoSVM2SDhFVUJQTjgxWndzRmhHNlJ5TjlUZ0M2NFNra0czSWRYMTFhcEhkbGNBZU5ydlEwSFAyMXdFb3FpYUJzX0ZtN2F0T0pMWE9oakE?oc=5",
+   "published": "Thu, 05 Nov 2026 00:35:22 GMT",
+   "score_parts": {
+    "recency": 0.989,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.647
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“コペンアクティブトップ”2006年式リキッドシルバーM入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ0ZKbG4zQlhfR2xxR1JyRlMwY19sWmsxMEhNVU1RZWlJb3FhSTgtX3BBTEtTTVhESDk3RlZlZ3dXQUJ5ZlhONHlBel82VW1XTjFxYWVCaUVWNmNOSGU5NWM0aXJweEVSY1BtOGRwdnNOR2g0REFqOGFTS1I5am5xRVV3?oc=5",
+   "published": "Thu, 05 Nov 2026 00:27:19 GMT",
+   "score_parts": {
+    "recency": 0.986,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.646
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“Ｖ６０B4 モメンタム”2022年式青入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRWNGWTNDLS1EbnVCd0ZRRlY1YU9KY2VON2dfODJLTlZzU3ZkS3RYb24zR1lBRW1BZmVYdy12NmY5azIxT3lWU2hkR3pxNkJNSFhEMTFpRGFpUFRRb2VNUUdqRlJLT2VwdEQ3dmdiUTZHazVLX212X2NWUEpOaXplQ1Jn?oc=5",
+   "published": "Thu, 05 Nov 2026 00:27:20 GMT",
+   "score_parts": {
+    "recency": 0.986,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.646
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“シビックLX”2022年式プラチナホワイトパール入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSzdNNFJmbUpheHJMWm1wZ2xtMHUwZjdYY3dycHBCMnJyQzRUdzU3SzJkemQyeGswWm1Sdm9FZmlkZEIzMldscWRCckZpOHdkUHhJcGUwVU42YlZVRDE3Z20ybERNcUxTVF9oZF9JV2RxSldKak9QVkNwVG5hTjJUMUEtdGk?oc=5",
+   "published": "Thu, 05 Nov 2026 00:25:20 GMT",
+   "score_parts": {
+    "recency": 0.986,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.646
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“２シリーズ218dグランクーペ Mスポーツ エディションジョイ+”2020年式アルピンホワイトⅢ入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWTBhVTJ2eUdLSEVWZjE2ang1S2JnalFXaE9BTFV1OUdydU9uTV80RGxnbGpXSnRaQmpNMy1wSjQ1Q0pJOEw2TlVpWGNlTkRNbU9Qd3dyN0xfbURDeGtPY3B0UllYRE12YW5YVjRBWkw1TWF5UVZVZDVGME1HTkx0LVdB?oc=5",
+   "published": "Thu, 05 Nov 2026 00:27:18 GMT",
+   "score_parts": {
+    "recency": 0.986,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.646
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ＷＲＸ ＳＴＩSTI タイプS”2014年式WRブルーパール入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONVF0UzJFZEgwY3JMXy1IUmZqdExPNEd6ZVhZOHB2RGZTN1BzaXlxb0hxNXZEQW1DaGQ5Z1pDZEJuRFQ5ZlhHVWQxRkdxMXMydjltV3JvX3V3YXlUVGVteTRUaVVDbTZOYjJaSzlCMzdKNWlldTlDWTRyVDZMUlJFY3ZGYWU?oc=5",
+   "published": "Thu, 05 Nov 2026 00:25:20 GMT",
+   "score_parts": {
+    "recency": 0.986,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.646
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“フリードハイブリッドハイブリッド・EX”2017年式ホワイトオーキッドパール入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTXVKZ1F4anFUQVh4VnJ3V0xYdDhUWVFyajNpbGtOYk9oTWlQdnBtVTdISjVJbWdncXhBMEZxenNMTEtYUFBGSUZxTncySUNSQndfNjVIYTR5THdSdFpwNVhIWjFUcU5ES050bkhydG03c1p5aUlrTWNOMzZjLWp3NEx3?oc=5",
+   "published": "Thu, 05 Nov 2026 00:27:19 GMT",
+   "score_parts": {
+    "recency": 0.986,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.646
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ヴェルファイアハイブリッドハイブリッドZ プレミア”2024年式ブラック入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa1BSTHk2ajBMWnBEc1NKQ0tzSkNFVEt6dVByNUt0MXpuSE16NGw5MG5UOFB0YTNJYUdtSWVGTjFGZnJGNEdtS2hrYWZ5VnhOM3NwbG5mMDBRbXlMT3AtbzljVFJRaVF4RXU5c2xGWGpReEZRd29pR2FqOUpQWmtJMmdn?oc=5",
+   "published": "Thu, 05 Nov 2026 00:27:20 GMT",
+   "score_parts": {
+    "recency": 0.986,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.646
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“インプレッサスポーツ2．0i－Sアイサイト”2016年式クリスタルブラックシリカ入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVHFuYnJsMXVRYUpCU2RfZkxUYzRzSjZTWWQyY0hSTUdvVTJuV2p4MlhleHZ0UENtWk5vQkJFMUEya0RmdUZ1UlMtbDBja2RtLXhpdTRqa2lCREJYUE03TmROLTFiS1lIY2pzTVZkTXhDNUNSa3V0WUh4Ti1lNVdWeHln?oc=5",
+   "published": "Thu, 05 Nov 2026 00:27:19 GMT",
+   "score_parts": {
+    "recency": 0.986,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.646
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ＥＳES300h Fスポーツ”2019年式ホワイトノーヴァガラスフレーク入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNEZtYWdRbi1udFgtaWhHS3hMVDlSOGNYSk1NdUpMX2ZnWGRTaU53Q1JOMUl6Z2lxQ2d5S2NQVEhyZE52dGRTaUZsNXJiNlhFamZ2WTY2MkNrbDlEc2ZTNlk0NTJXU2FrT1VTeE9oRDRQMUljXzZuRERCOWcxLVZlWjBoeWc?oc=5",
+   "published": "Thu, 05 Nov 2026 00:25:19 GMT",
+   "score_parts": {
+    "recency": 0.986,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.646
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“クラウンクロスオーバーG”2024年式プラシャスメタル入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWlowYkZHTkNjNUNpYXByczdaazJ3emJGdERLU1VTQWxnV0hfMFRNZE5uamZRN2prYUFTUEpobWNOd3FGem9Ja2VGSnZyTlZvT0tTTExPM3VDZG5yTEZFbmdNWE9aZW5yUmV2cnZZS1FTb3l0WHBUSDZLZDFqckJnUzZB?oc=5",
+   "published": "Thu, 05 Nov 2026 00:25:21 GMT",
+   "score_parts": {
+    "recency": 0.986,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.646
+  }
+ ]
+}
