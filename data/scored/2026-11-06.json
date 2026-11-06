@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-06",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 163,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "アメ車の旧車が大集合 北海道からも愛好家続々―伊豆の国 - 伊豆新聞デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzMDRuLTBPTWRhZ1NMUExTVFVmUURyTXY1UlFNR010ZU5mRURFQ193RVhRcDZyLVhvTmtuZ2U1X1VaOTRvSnlaNVl1dldtRzdidXd4NXFn?oc=5",
+   "published": "Thu, 05 Nov 2026 18:57:03 GMT",
+   "score_parts": {
+    "recency": 0.87,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.761
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "自転車通勤の「もしも」にどう備える? 大阪・堺で学ぶ、見通しの悪い交差点の事故例と6つの対策 - ニコニコニュース",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RMi10TVpUc1VtTWU1TE00RDkwUEd0bGtkTVhzWmV6clB1SzNXZUdPM0k1SVlWRC1qSjZiR0xwMjNEUjc5MWZqeUtJQThTaHl2OEw0QzdNMFpnWWdYVzlWX0NVMWZjNnRYWGp1a2thUVRSQm51dzN5cURhc1M?oc=5",
+   "published": "Thu, 05 Nov 2026 09:00:17 GMT",
+   "score_parts": {
+    "recency": 0.663,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.699
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "フォード「旧車マッスルカー」が“現代の技術”で復活！ 米国SEMAショーで公開の「R125マスタング」とは！ - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NWGRRX1FPRkhFWU0zaEMxU2VkQUxJaEVnWVhkSXFudG0ySkxvelg0bVo4Nmw3YU1zbXZOM0ZZVWxWVWJpaEoyazVLell2aFRtVUw3bDN1ekJOeE1ORE0wekVHLXJNdFBYOGpBRlhHZkt2TDQtOEpEbzdvUFM4a3c?oc=5",
+   "published": "Fri, 06 Nov 2026 00:10:00 GMT",
+   "score_parts": {
+    "recency": 0.978,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.694
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "超レトロな「旧車マッスルカー」が“現代の技術”で復活！ 360馬力「“V8”エンジン」＆走りの「5速MT」搭載！ めちゃ美しいファストバックの“超本格カスタム仕様”フォード「R125マスタング」米国SEMAで公開！ - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc2dULUNLOVcxNzFuV0VjOC1raU9KdFk2MHB2SloteWlSVW5IUTE4anBwQXRoTlBsbkZqb3l5LVppSTgxOFFmcUhudG5Tel9pYmIxMDR0d19yNFhVX0Z1dnBZUDlFOUl1aXJOZ3JmLTQxWExQR0VCQjUwaDR6WGFIa9IBhgFBVV95cUxNaVhzTXVnekQ2QVZYa2p1Ui1SSVpMRzE4Mm1Ia3JUWE5NWTQyT0V4cGFLV2x2a1k5dVA1cjJZMG16UXRjbVFEclp0aEs3Q1ctYTRScHl3SzZ1ci1FZXV3dExuSm1KX0dGVy1GQXc5RXh2TThJeDJ6YWV6OXJVZi03c0dNd3dYdw?oc=5",
+   "published": "Fri, 06 Nov 2026 00:10:00 GMT",
+   "score_parts": {
+    "recency": 0.978,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.694
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "自転車通勤の「もしも」にどう備える? 大阪・堺で学ぶ、見通しの悪い交差点の事故例と6つの対策 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EYTdOVTBmWUItcjZWSFI0azNrcUJ1d3RVODB2Vl9jMzFJUUc1cmVxZ0JJSkJQNU9rX1NwdF9iOXcyekRzLUREWkF3NnhsNUhzRnR1eC14M0JLdThQRENTUTY3V085ZVN1TWpRM3FB?oc=5",
+   "published": "Thu, 05 Nov 2026 08:00:00 GMT",
+   "score_parts": {
+    "recency": 0.642,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.692
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "「日本車はエアコンの利きが悪い」は本当？ 40度超えの酷暑のアメリカでもアメ車の車内は極寒だった（WEB CARTOP） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vQ3VMMnBlcEhaSVYwOERoQnlETVhqOGJwRl9rWmhhNnE4UEg1T0JEbC1acS15eWVaT0o1dGFOOEpIbDdlZWZ0RlBtN1lWV0FBZC00TFJuUmFrRHU5d0xQRm1lUzlXdUhHa2pXelVOSWx4eXJoZ1JwT1BsczNBejg?oc=5",
+   "published": "Thu, 05 Nov 2026 21:32:04 GMT",
+   "score_parts": {
+    "recency": 0.924,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.677
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“トールカスタムG SAⅡ”2018年式プラムブラウンクリスタルマイカ入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOGF0M19aazlxX3dfdkJBOGlGaTVhdmpLbWluc3RuS3FVcjlySnNRWkNWUUc1NTBlNkx2aHJiNmlyMFlyNzI2RzRxclhuX2lKUndYSzMtejU3LThTeXRWZ3lVdXlaakdCN3FvUmdKdWJOMlVKMHZCR0E3cmEweVlhdnhR?oc=5",
+   "published": "Fri, 06 Nov 2026 00:37:37 GMT",
+   "score_parts": {
+    "recency": 0.988,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.646
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“イグニスハイブリッドMX セーフティパッケージ装着車”2016年式プレミアムシルバーメタリック入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRnV3a2F2c1N5RGpfa184WXNtcHlqYm1zcGRYWDlORmo5dURYMGFHVGl6cjQwdmJXM1BrVmpzeENfZHpiTnNJQlBrMHdPWU1jbkg3VDNiTG5henk3MURJQkNQS1RfUHZESzJ5TkZ5bE9QbWRULWgxU1lMZ3A4NjRQVm1n?oc=5",
+   "published": "Fri, 06 Nov 2026 00:37:37 GMT",
+   "score_parts": {
+    "recency": 0.988,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.646
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“スペーシアカスタムハイブリッドXS”2020年式ピュアホワイトパール/ブラック入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLXJuTW9ZQktvMGxHOXhTU05RLXNuc09PT19oeTV5a3dQVXFWMy1NTDZRRGxta3N2SzdmQWJ5QzB2ZGJWeHJBUGJfWms2QUFHMFpWc041VVgtaVUyUkxGeWtxZVRNQ0tiTm9LblFHV0g5TkNBUG1uZ1BZRzB3ME9HUFR3?oc=5",
+   "published": "Fri, 06 Nov 2026 00:37:37 GMT",
+   "score_parts": {
+    "recency": 0.988,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.646
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "試乗予約始めました！！！ガリバー仙台泉店からのお知らせ G008391793865936291 - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYnp3dnQyLWoycnl5YmRteVRGQy0xM0xyTm5EeWpJVkR4Z3FoUXlBNVNNTktDZnVaWFdmMkxxZ1RWSWpiMzZaN3F6V2Q3YXZwdmZjQk52ZUU1UlEyWHp6NWh5ZDR4a3ZZcUxqalNzWHl2b18tT05fZEJNT2Y4M093TA?oc=5",
+   "published": "Thu, 05 Nov 2026 21:13:31 GMT",
+   "score_parts": {
+    "recency": 0.917,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.625
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“アクアG”2023年式シルバーM入荷しました！ガリバー前橋南インター店の中古車入荷情報 G014031793837808478 - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tT19mZmZkTWxyYS10LVVpTXBxLTBCNXgtRl9Xc0JuamlYamJXTUN5OFpyUnVaLUVGS1J1MHJOeDBKaFotWUdlZXkyQkNyNHhFUEhiU0k4WE5icmZaMzhUcEZOcFNKMVh4eFpPaXJGa1N5a0ZNQ2tXRW9zWi01bDg?oc=5",
+   "published": "Thu, 05 Nov 2026 19:37:59 GMT",
+   "score_parts": {
+    "recency": 0.884,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.615
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“Ｎ－ＢＯＸカスタムターボコーディネートスタイル（2トーン）”2024年式プレミアムクリスタルレッドメタリック入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkb1A4UE9jZmlRNDdjTVR2SER2aVBuTWhwelBCR2Y0ZGFXMnI4bDZwTlMtRzhVQmwydG8wcTFtenJFM1J4X1lXVHRZTGVKUzgzS0w2ZGJDLVo3cnVUSV9yeG9YU0xLaTNhS1pCa2FMQ2o4WmVQUWY0cjJvLUc1WU0?oc=5",
+   "published": "Thu, 05 Nov 2026 19:37:51 GMT",
+   "score_parts": {
+    "recency": 0.884,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.615
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“タントカスタムRS”2023年式ブラックマイカメタリック入荷しました！ガリバー京都店の中古車入荷情報 G015201793837810054 - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wRHcxNnhqazJMUTJDMURYS1NZcko4Wk16UzJrSzUtUUwtR2RnYVNmUHk5bWxXeExuQS1Fb3BhYzI5MENvRWx1Q25CT0VMN2JNWVBjODN6b3VHcHFSRWxyV205YWphdUhwWkVzX3p4WDF2ckUzd25ORHRTU3JTaTA?oc=5",
+   "published": "Thu, 05 Nov 2026 18:00:06 GMT",
+   "score_parts": {
+    "recency": 0.85,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.605
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“コペンローブ”2014年式ジョーヌイエロー入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsMUFQVENqWDdWZEJ4Yy1GT0NlMDhWeDhid2h3RFlqTDVvTTMtaFFZbEl6Mlp0Z2RXblRxNUdpM2xDVmNBUWNNMVZHeFdRVFJQZ2xndVBIZUpISk9od2lqX21tWjBIV2VIWEkxMzZNaDhwckkzZ2RFTkJ2ay1heDA?oc=5",
+   "published": "Thu, 05 Nov 2026 18:00:06 GMT",
+   "score_parts": {
+    "recency": 0.85,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.605
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ミツオカ「バディ」が帰ってくる！中古車ベースのメイクアップモデル約70台を販売へ（グーネット） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQmxNWHZYaWMzNGMxMVc4bGFGN1ZYVU9FVVNvY3NNdlUwTFhENDM4alZyWko1bkU3V1NEMHJYTTZzdVlyeHEzNDNKdmJhaERNWFJrVFA1YTNBZ0pKWHRDZFJXSEZOVS03d3NGUUR5dTM1SDdNZ0ZxSTZMaExwamdPT25BdFptZ3JEWnFfY3A0Zk5jOElD?oc=5",
+   "published": "Thu, 05 Nov 2026 17:28:49 GMT",
+   "score_parts": {
+    "recency": 0.839,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.602
+  }
+ ]
+}
