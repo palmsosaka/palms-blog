@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-07",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 171,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "事故車のロードスターをごっそりDIY移植！ MG「ミジェット」見た目は英国旧車で公認取得 - Auto Messe Web",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkd2wtUHdjVGgzaEw4bXhlbk5pdnFjenF3YWtMLXJGV3oweS1sNDc3LVRqWEtISnppX0Qtc0FWSDFhalZEcDZoenk2RDk5dmpDakhaOVdGbmlnQdIBX0FVX3lxTE1iUnB0S1J1TjN6STZPZFRoRks4QTdZN3hMbnpmWkcyQzNyb2xkYjJrd0swb0k4cUVDS0ZzRjFpOUp6SzRPQkpJQkp6NzQ4dWR5cTNuQ0p4dTFYRkVHcnlj?oc=5",
+   "published": "Fri, 06 Nov 2026 22:00:16 GMT",
+   "score_parts": {
+    "recency": 0.949,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.785
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ヴェルファイア2．5Z Aエディション”2018年式ブラック入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcmtvVWFmaWl4WV9fbDZmWHlEZmRLUjhJeWVPWHFmdzl5cUkxWDFnajVXTHE2azY4NGhMMFZvNnVvWGZqa3pRX3R2dVJSWkdrZHpybEtJemVkWl9NUEJ6aS1rUG1iQ3BZSkh5RXllRnoyMnFFZFBQWEhaUjRSOGNNNGJObXE?oc=5",
+   "published": "Sat, 07 Nov 2026 00:23:34 GMT",
+   "score_parts": {
+    "recency": 0.999,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.65
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“セレナXV”2022年式アズライトブルー入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTG45WUhETDJNckVrUkY2YmF5ZzA5LWUwYVUzV3E4LXR2aHZrNWJmSjdMLURBa2owbG1hX01lZnJZYy1LWVQxUWZmaGlLblY1MWtSX0pCaEpic0F5S25KU0VfbUdHRFoxS2ltSXQ0UmRsU2hBQTNBWFN5d1pOLTZVbDJYTXA?oc=5",
+   "published": "Sat, 07 Nov 2026 00:23:34 GMT",
+   "score_parts": {
+    "recency": 0.999,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.65
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“デリカＤ：５シャモニー（電動サイドステップ非装着車）”2025年式ホワイトダイヤモンド/ブラックマイカ入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZSjFMczMxWEgwdWU2QU9kdDBTTzFhZTVzcUd4QnVlWVdPMG05U3hkSDU2YWdDTi1BWlE5YVVMcldlQ25pUUtTOTBYbHQ0eDFPaHZEUFNMaXFJY3FtbC1lOTdPc1hEd3o3THlvd1d3WlBHeE9jbGZYMFlkVHBkU0U?oc=5",
+   "published": "Sat, 07 Nov 2026 00:25:35 GMT",
+   "score_parts": {
+    "recency": 0.999,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.65
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“フレアワゴンカスタムスタイルXS”2025年式ブルーイッシュブラックパール3入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR1RqMmpSZ0FyamtSVXpsX3dIOEpkQmVaZlNyelVDQ1k3X1NrN0lVWWUxdGd5MzFtb25EQmxwWTJNMFpEX1k1THJXa1N2RFVtU1MyN0dYQmtpbVQxcjB2dC1qS05YV3ZOeFlCRm1NS1dESzdoamZ4b2E0LV9HTnk0NVZvZ0k?oc=5",
+   "published": "Sat, 07 Nov 2026 00:23:34 GMT",
+   "score_parts": {
+    "recency": 0.999,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.65
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ランドクルーザープラドTX”2021年式ホワイトパールクリスタルシャイン入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaUMtejVKN2RUcHBDNGdqVFY0a0FzN0RLSGJQcHJXVm1BVlF3SWwtamYybnAzclBNYWY3cFU5OEk3SkppUVlWSnRucFVjbmIxUTJtb1l4b2xScnI4MVl1Y1RKSEN5eVFzZWhVU1VOY1hzMjlDOVoxRnc2bmhDekUyYjZSalM?oc=5",
+   "published": "Sat, 07 Nov 2026 00:23:35 GMT",
+   "score_parts": {
+    "recency": 0.999,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.65
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“デリカＤ：５P”2026年式ホワイトダイヤモンド/ブラックマイカ入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSlZhaTQtZ25ObDhOaFFaTGFibFVVci11ZUdzMEVnMnd6c3RsOXFYWUp2Nm9RakgwLW9WWDExemhIZ042RVN6dFNNNjFwUUNSZi1pbUt1LXp4RHptc0pvQ1lJYWJVV2tFYjQxSFJUQXg3ZWxjNGhUb2JJMDhud0NGTXhCYS0?oc=5",
+   "published": "Sat, 07 Nov 2026 00:23:34 GMT",
+   "score_parts": {
+    "recency": 0.999,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.65
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ハスラーJスタイルⅢ”2018年式アーバンブラウンパールメタリック/スチールシルバー2トーン入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRmdEV2pRa0lTUTFUU3dONlZkaTUtVXJrTm83MGNmdDBHTXdMU19FMThvLUhSd0RsX3lMTThBeHB6cG5OZ1NoVDJ0SWxKSHpKSUJyQjBKNjI1OVNSazRpNHRzYm1RcDlpMk1xbnJ6aFVVMUhZZnhsd0F3VlVpU2ZNMmh3?oc=5",
+   "published": "Sat, 07 Nov 2026 00:21:32 GMT",
+   "score_parts": {
+    "recency": 0.998,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.649
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ステップワゴンスパーダスパーダ ホンダセンシング”2018年式オブシダンブルーパール入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNzFKd1ZObFpTNTNQbFFBUzN6WDJ2T2tfYXc4S2xsQ1FSc3JQTGJNeVJPRUdLRzdOTGhERk9sWF8xajRVQVhOeGhNT0haQkt2b09mZFd5WW91RVVtMlZwNGlPbUFYRUs4emFvQVZkU0swbUFuZzR1ekxvUEcyRHNheE9n?oc=5",
+   "published": "Sat, 07 Nov 2026 00:21:32 GMT",
+   "score_parts": {
+    "recency": 0.998,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.649
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“デミオ13Sツーリング”2016年式ディープクリスタルブルーマイカ入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSjBkN0JlU2t4MUpWZHlDSkJqdkRVbGNkeWd3aFZTMEhQV1BpdGhOTkI1eGQ4OFBtOFNzN0w2ekE5X1dGOUw4YXB3SFNGdmRSWmg5TkxDUjFObDVqYnJjU2hFb1dhMmdBMm1CZTh5ajc1OXMtemZ3bGFldGJ4VzA1MVlR?oc=5",
+   "published": "Sat, 07 Nov 2026 00:21:32 GMT",
+   "score_parts": {
+    "recency": 0.998,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.649
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ＡクラスA200d”2019年式コスモスブラック入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVFRscnJVck1UTl9QZjlVODRfTVV1QjZCY3JzbmM4dUpEZ0h5akhwNFExa1ZNM0VtTVNkMkZCOWtBMlhFcW5xcDFETWtDTWtfZWd5SFJIZVRPb21UcXprb21JbDRaMkVSekloQXVxWjk0VUltT3ZPWXBXSGZVNmYwbVl3?oc=5",
+   "published": "Sat, 07 Nov 2026 00:21:35 GMT",
+   "score_parts": {
+    "recency": 0.998,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.649
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“５００８アリュール”2019年式パールホワイト入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZFJwMktyM0tibnhQUkdlQVZrRTZ0ODFXQjE5OVZ2VXZPSkVSQW02SXczMTNRRk5XSXc1RjI4TFZsUFAxN1VpV0JDUzBENHNOVEZaNUFUVFJ6RDcyX1lPTXJIQkIycDVwWWJGOWFLdTRQUXoxR2RlUmt3bUtWV21tcVFR?oc=5",
+   "published": "Sat, 07 Nov 2026 00:21:32 GMT",
+   "score_parts": {
+    "recency": 0.998,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.649
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“アルトラパンX 全方位モニター付メモリーナビゲーション装着車”2015年式コフレピンクパールメタリック/ホワイト2トーンルーフ入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUkxLdzIxMDVNeUs2UW9rVEcyR1BaSEdBR0paQjZwMFQyb2xKbzlqaTJzTFB6LVEzX3FsM1VWcFN2YXJhNEdQc2ZreFJuZ1F5c2w3ay11OTU5SlJ6ZGZ0aEJ4cTNNN3YwYzBlWFFkUng5NTRPdGdSakVWSmdmb2MtMzdR?oc=5",
+   "published": "Sat, 07 Nov 2026 00:21:32 GMT",
+   "score_parts": {
+    "recency": 0.998,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.649
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“プレオプラスF スマートアシスト”2013年式コットンアイボリー入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ05TOTdKRjZ2cFFlMDBPcHpfUlFodVJkZGhZZnlJaThsQ0FocTBuZkk3TmtKaUNfNWR2dEl4RnVPRGdwUWZPM09IUGxyb3NTaVJCajJmcUhucG96NXc0aTlsMHF0QVB6OHBRWFJkNTdxZEp6UGx0ajJxenk5dXBDVHN3?oc=5",
+   "published": "Sat, 07 Nov 2026 00:21:33 GMT",
+   "score_parts": {
+    "recency": 0.998,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.649
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“タンクX S”2017年式プラムブラウンパールクリスタルシャイン入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtNGpxb09pRmdPa3Y5bmYxZUlRV3RvV1ZGVVV4WklPVUxSd19qOFpSaUl3bW1oR01hSkNKdXRxaHk3RWhfeGc2Nm42aEdGSmpTUVJydl8yRlRNUm9qYng5a1VXaXY1MlQxMHdpcWh0NEx1OUItX05xOXVzZmhCclU?oc=5",
+   "published": "Fri, 06 Nov 2026 23:26:34 GMT",
+   "score_parts": {
+    "recency": 0.979,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.644
+  }
+ ]
+}
