@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-08",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 150,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "事故車ロードスターをごっそり移植！ 見た目は英国旧車のMG「ミジェット」で公認取得 (Auto Messe Web) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcVZId09kTzVSUWg1ZTl5TlNLTGhTSGstRjNiZEJ5V2RPaUF1U0hiaklwU08zbkVlT2l2X1BBQ3ZKVnlYRV9GQnZHTFRmZWJQRk8ybTBsQTdiOVNPenVDbm5HOHpOMGthSG5idnZBYUZSLS04LU5uVmhDZGRibFF3emlOS0Z3aUJvM3RqWjF3?oc=5",
+   "published": "Fri, 06 Nov 2026 22:11:04 GMT",
+   "score_parts": {
+    "recency": 0.461,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.638
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "「約1,000万円も安い！？」新車1,460万円のレクサスLS、中古車サイトを見て分かった“驚きの光景” - TRILL",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50VnJKZ1N3ZThwR0VySzBGekxOS1lRdHUxSTdSMGNpM2lGUXpYcVpheGcySy00cFBQRS1iTHQ3RG1uckRmRHd2SGg3UkFiSGM?oc=5",
+   "published": "Sat, 07 Nov 2026 21:35:00 GMT",
+   "score_parts": {
+    "recency": 0.949,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.635
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "同じ読みで旧車を愛する集団でも大違い！ 「旧車會」と「旧車会」の一生交わらない世界（WEB CARTOP） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb0hHTG9pRFBhd2xlMllTdDUwZV9RLVE0R0hVN0tyWmdQSktOYklrSER4YUU4VVBiN1VHRFZQdmxIZDZtSFRkdDd5cUNSRUFIREFvTl9hTkRNQTFyaGNNQVBzUmlRUUU2bWFBcm96M25ydmFlaHFDMUwyR05XVnJRbncyelFZVVpj?oc=5",
+   "published": "Sat, 07 Nov 2026 08:20:51 GMT",
+   "score_parts": {
+    "recency": 0.673,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.602
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "＼ガリバー いいブーブーの日／ガリバー木更津店からのお知らせ G005951793961338691 - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42RWxCbUJVbmpMRGhIbWdtbndiZUtGYnZYaE85VWstN2hGWGhNWk9oUzNTbmdZMEluQURIaDRxV2syNENYcE1jWEVGNHlJa0pqWXhBS0N4MGY4VjY5OUhjSWxMTmdsRF9GTjd1akFmNjdkOGV0QmE1cXVwTEl3RjQ?oc=5",
+   "published": "Sat, 07 Nov 2026 16:00:25 GMT",
+   "score_parts": {
+    "recency": 0.833,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.6
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "「ガチな車が多い」女性だけの車イベント 強烈カスタムのRX-7、スカイラインは驚きのヘッドライト - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGUXRDU2xmckVJUWFhLXpXR3FETllEVkJxYmJMNmZKYUlqaGR5NEowcEY0MHRwaW93MVpzUUtFSDdaeURYRmdYVzBNalAxcXVQV0JPd09pUXdXa09MZWhtanZLMmtXdGN2cEVVMnJR?oc=5",
+   "published": "Sat, 07 Nov 2026 23:41:26 GMT",
+   "score_parts": {
+    "recency": 0.993,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.598
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新車は約650万円のベンツのSUV→中古車サイトを見ると？新車のN-BOXより…目にした“驚きの光景” - TRILL",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43TldaekxMU0R6WlhMVVNEWC1vb3M5R0VyOHZwMDVFaEJtZWZ2V0dxcTN3V2xFVWNMY1pnWmVFUGEtbjFodWFEQ3FlazJhSHc?oc=5",
+   "published": "Sat, 07 Nov 2026 15:35:00 GMT",
+   "score_parts": {
+    "recency": 0.824,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.597
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "日本は13年で重税なのに……日本車が次々とアメリカへ「流出」するも現地で愛されまくっている現実に複雑な気もち - WEB CARTOP",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WaW5QSk5KZHpkQ2hYTm5VTnJNV3hXUTF2Z2RoVnlYMGUzcjVFb0ZKY0hqRnVJN0U4YUs2b1p5d3o1YXk2OWxzNElPaGZpdktxMDRF0gFYQVVfeXFMTXZIZGVfTmZ4WGdXUWh0aXJibVRiLWpGZHh4b0xkR3NxZThXT2J2UlQ4U3R2YmlSSlZjeWYxY09nbWVpc1ZJN3FGNXRNTTE2WE9BQUM2TGpsZw?oc=5",
+   "published": "Sat, 07 Nov 2026 22:00:55 GMT",
+   "score_parts": {
+    "recency": 0.958,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.587
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "MINI 3ドア（F56）前期と後期でどう違う？｜輸入車の前期後期を比較MINI 3ドア（グーネット） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdmpfTTd2dVBhSXpZRnVwYnY0TFVDcEVubTdTY2xHUXVvSmhvNVQ4RzZzSG1ZdFpOMFJxMmpUTTN1MHdqanRQWkZqMVljejJGSi1SZG52Ujg0am9zM3hJMmJmRk04cDlRSVNJcmZ3MmZHcWt6TF9Cb3NFMndxb015SmRYaGladW1q?oc=5",
+   "published": "Sat, 07 Nov 2026 18:00:00 GMT",
+   "score_parts": {
+    "recency": 0.874,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.562
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "オールドタイマー主催の旧車イベントに250台が集結！ 【昭和レトロカーミート2026in蘇我】 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuLUVoZHA3VjQ5ei1JdU0wdGJoY0lrcndnR2I0TDdCVENsUG9YbGxTX3BDWXdZLWlmbXRXTk5BMXZheWNldHc2aGlpS2pTU3pxaE1ZdUFMd25UZw?oc=5",
+   "published": "Sat, 07 Nov 2026 01:00:25 GMT",
+   "score_parts": {
+    "recency": 0.52,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.556
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ＭＡＺＤＡ３ファストバック15Sツーリング”2020年式チタニウムフラッシュマイカ入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMFllTGxKOEQxdmJ2T2xoQVh6a25na1BhVFBvdFFmS1ZrdS1XdzJXSWNVR0c5SlZycDhvUjV3VTFDcTNMOWlFWkJmLWVTbEw0eGp0YUczRk1scDYyQmxxZVppdWJGRTd6OU1LMjJ3MTZLdVM5THNwM2dtMVV6RXJkSEMwRQ?oc=5",
+   "published": "Sat, 07 Nov 2026 08:07:16 GMT",
+   "score_parts": {
+    "recency": 0.668,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.551
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ディスカバリースポーツスタイル7”2020年式青入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NN2tSM183WWxjcTVOSXprZmNWbHlsbXlORTRZMmRGYTk5UkVjTFNaX3RQenRyanpfeDRxQkNSZndXLVBDZFNDUUdNZHdQRjBuOGs0UFpBei1yTWpKWURaa0V5ZmJSU0pneHZDZ1dfbVJQVnFxVzVjMEJuR3ZVejg?oc=5",
+   "published": "Sat, 07 Nov 2026 07:34:45 GMT",
+   "score_parts": {
+    "recency": 0.657,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.547
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ＮＸNX350h バージョンL”2023年式ソニッククォーツ入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41NnFzSC1GSVdrNjI1N0F5TnJrUnNvRWFOaEx0Qm9ONW1QZkNLSENkY2I3cHRtSXRJdU9NcDZQS3NhLVJ3V01aNXVLLVFKSEotYk1mSmZMY3dBaFY3UWVjem02bHduNVZudjV5X1YxbXN1Q08ySTJyc25iT0FWNVk?oc=5",
+   "published": "Sat, 07 Nov 2026 07:12:47 GMT",
+   "score_parts": {
+    "recency": 0.65,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.545
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ソリオG”2014年式フィズブルーパールメタリック入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONEZMclY3TmtSM3VGeXhzT0dBTjdIMXQzX3JSSndmNFJrNUZQZGZJOUF3c3o3U1BIVE1EV3p5c3ZmYklVejVaZ2xvN01yTktWV1BJRW9QNFZGdFNNMmxwUDNBNWpQakNEY0RmQVowbVJhUl9QWWJyMlRoR1BBOTB2c2M3UQ?oc=5",
+   "published": "Sat, 07 Nov 2026 06:17:50 GMT",
+   "score_parts": {
+    "recency": 0.63,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.539
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "事故車のロードスターをごっそりDIY移植！ MG「ミジェット」見た目は英国旧車で公認取得 - Auto Messe Web",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkd2wtUHdjVGgzaEw4bXhlbk5pdnFjenF3YWtMLXJGV3oweS1sNDc3LVRqWEtISnppX0Qtc0FWSDFhalZEcDZoenk2RDk5dmpDakhaOVdGbmlnQdIBX0FVX3lxTE1iUnB0S1J1TjN6STZPZFRoRks4QTdZN3hMbnpmWkcyQzNyb2xkYjJrd0swb0k4cUVDS0ZzRjFpOUp6SzRPQkpJQkp6NzQ4dWR5cTNuQ0p4dTFYRkVHcnlj?oc=5",
+   "published": "Fri, 06 Nov 2026 22:00:16 GMT",
+   "score_parts": {
+    "recency": 0.458,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.537
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“スマートフォーフォーパッション”2016年式黒入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeHloU0kya0RWLUdiM1BOa1Jfdm9zdXFWcUZxYmxaN0R4ak5QaHdkZjZYeTAyUVhuWjVxM0kyLW9sUktmWTJVTGUxbTdveDNYQnpjRU04elJyRFNCdjcyRXJSUXJCc3M1S3JHQnZQNHplWUZoOTNQMk5EYVU0aTN2THNWUQ?oc=5",
+   "published": "Sat, 07 Nov 2026 06:01:23 GMT",
+   "score_parts": {
+    "recency": 0.625,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.537
+  }
+ ]
+}
