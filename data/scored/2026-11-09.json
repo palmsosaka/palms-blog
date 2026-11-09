@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-09",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 108,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "デカすぎ!? 全長5.9ｍのアメ車「ラム1500」が日本にやってくる - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLYjRzTDF0NFFHLTVjQTlZbjRGRmVyZExrRkg2TTZQcHllS245aW1pXzZkMWFCYzFzU0VSMkM3ZVNjcVpXSm1TVTkyMHdMQkxpTUpER1dHUmZndGJTQ0tCc0xyTmFYNXM3UXpUV1pn?oc=5",
+   "published": "Sun, 08 Nov 2026 23:00:00 GMT",
+   "score_parts": {
+    "recency": 0.975,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.693
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "Hondaの歴史が息づく会場で旧車・バイク120台を募集！Casa Garage「The Timeless Meet Vol.2」 - Dtimes",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBHd0F6NUEtY0dOWjhzTmRpUXM1WHc1cXBWTGh2djFnU244ZUhVcW0wUzc5cm54VXVQTWZyaEVzMFR0b1MzZmc?oc=5",
+   "published": "Sun, 08 Nov 2026 21:11:09 GMT",
+   "score_parts": {
+    "recency": 0.938,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.681
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "newmoとKDDIが自動運転タクシーの社会実装に向け資本業務提携 2028年に大阪府堺市で商用化を目指す - LIGARE（リガーレ）",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWQVJBdzNoVlZaeWJKajBJTnA3TU9uMGsyVVQ1d29maXV0cnMtZEVWR2RYWEZPczRPUFFKZ2NDck5qaU5aQU0tT1duaERXOWtCTlFoeDUzckZMQQ?oc=5",
+   "published": "Sun, 08 Nov 2026 23:32:21 GMT",
+   "score_parts": {
+    "recency": 0.987,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.626
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "バイクを車検に出した50代男性。店員「代車がこれしかなくて…」→出てきたまさかの1台に「限定車ですよ！」「どこかに行って欲しいw」「むしろ乗るべきw」 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE04aTNfaExJcDRIMjNfQ19fa3pqRGQyUFUtclpuM00zbXdwU2hZXzhYUjRvTUhpRUZ1TXN6TFhocWVMYzQ5Smk3a1BsZFRULW50S05yNUU1Rm5iaWU4U29PMnRXSTMzMXZVaDlRMnFzcFJNZEVxV3VzUDVoR095QdIBgwFBVV95cUxQeUMxR2J0Rkpqc3VheG04ZnlnSGdrelhDQWNBeVlieEJBQkZhbDYwTG96bTM2RWJ0ZzBZOEIxU2R1eV9DSXlTZEJzVUNnQ0JrWk5ZdjB5RFBUZjBiSHhDbGw3cEVlQmcxZ0lVRDU3VW5BSllub2RCcDNVc0ljdGVxUS0wVQ?oc=5",
+   "published": "Sun, 08 Nov 2026 12:15:00 GMT",
+   "score_parts": {
+    "recency": 0.752,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.625
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "不動車から生足で地面スレスレ！ メンバー上げ加工で全国各地へ自走する日産「ブルーバード」 - Auto Messe Web",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84YmRPVDgtS1hTakVIVXVNLXBDOWtaWUdVNUxIRy10b2J4STF4dkRSNlNBNHB1SEV1QTZMOXA4N0l6dlFQMGU5REFoTjl6djd6MVFxNUdGR214Z9IBX0FVX3lxTE5aYk5EY2ZuYTE4Z0x3VDhPVGVsOWZOQWp3ak5Ia3Rub2VZUWhlcDFrNXBEcXVlYkc3OUVBTEpaZ1AtbHppMmYzN0ZQcDBmVlF3TTFsb2Z4MG9xdlBHVWhJ?oc=5",
+   "published": "Sun, 08 Nov 2026 21:00:39 GMT",
+   "score_parts": {
+    "recency": 0.934,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.58
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「ええ～、 ピラーについてるアレは飾りじゃなかったの？」９割の人が勘違いしている、Cピラーについてるエンブレムの”本当の意味” - 月刊自家用車WEB",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5FVjNjeGVEeE9IbEFIM1JoaldVdklZSEtUdjVnU0U0Tlg5bG1qajl0TllTekpvVzJsb0NrUXlzbnU5UjE0US1PZGVLMVIzSGJW?oc=5",
+   "published": "Sun, 08 Nov 2026 21:00:00 GMT",
+   "score_parts": {
+    "recency": 0.934,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.58
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "KDDIとnewmoが資本業務提携、2028年に大阪・堺市で自動運転タクシー商用化へ - 財経新聞",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVbzBwZlBvQ2FjeWRXcDJSUzYtSnoxRURRbkVJLUM4MjVISUtiSkR4M0pDVlo0WW1EeVNyVG1wQkhWMDFzV2FHeHIxYnZEWGlFYUcyR1FWZXpQNUJzYWFfZ3d2Y9IBaEFVX3lxTFB5WjNmUGZCMDBkaW51Vi1YcVdBVTVNZHk4Y1pIMm5ySzh4YW55Qjh6RVhfWndXLXJvSmZtOEV3WUlCdEpmR0F6N2NQaWkyVDBNaWZxcTRaUFU0bGEyZU9vMU40dmRlNUJt?oc=5",
+   "published": "Sun, 08 Nov 2026 14:26:29 GMT",
+   "score_parts": {
+    "recency": 0.797,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.569
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "石原伸晃、“石原家愛車”だった59年前・マツダ“名スポーツカー”に大興奮「父がこの車の助手席に乗って初登庁した光景を覚えている」 - 山陽新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpRnQ5cWktTjY4VlRyWGhqWWFvVVhiekI0X2Y3akNIMm9wMWpJQUpWVUVJN251Tzh0NGlZZzB2WHFuTm5FWVpyem9DSHRucTZtWGc?oc=5",
+   "published": "Sun, 08 Nov 2026 18:02:20 GMT",
+   "score_parts": {
+    "recency": 0.872,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.562
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "光岡自動車がSUVモデル「バディ」を中古車ベースの「メイクアップモデル」として販売 - carview!",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNODM4bW1FNFpkVjhURV9CeXdIVkgzTGdOZFFESWhGNWVSRmVBZXc5WGZhcWN6ZWh6ZjNTSXp5d0VlTmVqR29sX1hDMWxGNlBjNTQ2ZVNsSFczWnM1bWdLM3lyal9vczlqZkZOY2JPSFp3NXVKblI1NTVvRWhqbEc1S0drQk9KV0wwcDZlUTluSEd3cno2?oc=5",
+   "published": "Sun, 08 Nov 2026 07:47:06 GMT",
+   "score_parts": {
+    "recency": 0.659,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.548
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "自動車所有者に対する義務的な民事賠償責任保険は、第三者の権利を保護することを目的としている。 - Vietnam.vn",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORzhsQlI0WUNPSHprT3dqR0c4RHAyLXczZnVudUtieWNqQlpCZnU0SHpfVUFxLU9CUDdtQmZ2aGJmZlcyWFlpZ3RTNElfbDVyOG1GLWtpMVRPcmZuaVNLb3Q0ZFdJN1Q5UkdBV0FhVk5GWVVlR0NhMFYyTmZzQXBYTFBzQWVEMXNlSTRYb3NQNUUxS0pFNWNpMmdqRl9hTmdjQTJSRGxKSjktQ1pmVEVlNUNqUEJobGVNbTVN?oc=5",
+   "published": "Sun, 08 Nov 2026 06:44:04 GMT",
+   "score_parts": {
+    "recency": 0.637,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.541
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "スズキ・ジムニーノマド 中古車が新車より46万円高い!? それでも売却予想額は265万円台…プレミアム相場の裏側（MotorFan） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hcHB5TjIyR09ZUm1fbUphcnNLTmdMbEd1cnJuTVpCdWFUQVhyWHRyU0V1TmFZVlFiV2RQdXBmTERCcUk5LTVNVFpMSmdieGtGZVVLazF5NVVIZUNURWZBVmNNUm9yajRycldzemlCXzd6Z1plaVJRZWVaZEdlczA?oc=5",
+   "published": "Sun, 08 Nov 2026 05:44:24 GMT",
+   "score_parts": {
+    "recency": 0.616,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.535
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "中古車の値段が、2008年の約2.4倍に…新車の納期が戻っても安くならない“意外な理由” - TRILL",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TU1RWV2NFdk1xRjVJam82OHBOOFhVQng3dGxNTDdWekhxaWdsUjFDX0NEdkZrTUZtVkRCem1JT3N4OUR0MUEyWldSQW1yYW8?oc=5",
+   "published": "Sun, 08 Nov 2026 05:35:00 GMT",
+   "score_parts": {
+    "recency": 0.613,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.534
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ＬＳLS500 バージョンL”2020年式ブラック入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxVW1UU3ozSEQ5SUFZZ2xMNUd4aHAyMVpLLTUyM2dzb3M0Rmd0eGhNZHlzRllHUVYxRUd1Znh5MzhqR2MwZndUdWpGQXdyTnJ0RXFVZXQwczBWdDk2X0FOX3RickN0YXV5VDJzQUZtLTA4bWczVWpIMDBpaUVxdw?oc=5",
+   "published": "Sun, 08 Nov 2026 04:11:37 GMT",
+   "score_parts": {
+    "recency": 0.584,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.525
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "堺市の交通事故は12月が最多 事故が多い交差点は石津西町と新金岡団地東 - サカイタイムズ",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBEaDVpRnIzQzF0SjNaZ1M1NkhDT19tT1BXREROcnV1ZEswdDgzckp5YW9xbHFyandsdjQ0MjlydnhnUzJHQnVhWjNsYw?oc=5",
+   "published": "Sat, 07 Nov 2026 23:11:52 GMT",
+   "score_parts": {
+    "recency": 0.48,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.524
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "ホンダ フリード GB3 Gハイウェイエディション 在庫車ご成約 - www.goo-net.com",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56Y1ZXaFZPUDJuS1gydlZKeXBlYkVOdkRjblNOMmdUX3pValhwSUN6aU10LU5iUUlOZ295TWp4SUxCZ3hYdkR2RGFQRWI2Ykl4NDVSb1cwVC1ITEJldXdIMXpKaw?oc=5",
+   "published": "Sun, 08 Nov 2026 09:54:39 GMT",
+   "score_parts": {
+    "recency": 0.703,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.511
+  }
+ ]
+}
