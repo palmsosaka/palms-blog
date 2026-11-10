@@ -1,0 +1,656 @@
+{
+ "collected_at": "2026-11-10T12:00:14.652378+09:00",
+ "items": [
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "newmoとKDDI、自動運転タクシーで資本提携 - LOGISTICS TODAY",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5Ub0NySzVOZERiM3Z0UVhmOW9Lak1NVnFaeEJQMngtdE9PbVM4UlNqd0J6THJRNGNJYmkxSzY2YVBQVWdNMk10SGJn?oc=5",
+   "published": "Mon, 09 Nov 2026 20:15:51 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "「さかいでバスのっとく？キャンペーン」について - 亀山まさき（カメヤママサキ） - 選挙ドットコム",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IYjlvclExN3BfNm5rdjlWaEJsZU1jQWl1X3dCWXVjYmt0b0JoekFsdzBvVzVmdnpmQm9iU1d0NEVXNzQyU0FuRXBqeFAxNDFIVFM3R3pGWGRvYlZlV21B?oc=5",
+   "published": "Tue, 10 Nov 2026 00:15:17 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "KDDIはなぜ自動運転タクシーに注力するのか　堺市のデータセンターを活用、2028年に商用化目指す - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYTJUQlhmczdMZTE5M2pNcDl0bXRWSHNpVTZtZms4bmFZNHluRDN4Z2dRcWlHR0ZodVZrcHpySlFLWWtveE1URFVNd3p4RlRZWHhmODE0SHowdFhadlUyWmhrUVI1eHNrMnEwUjNoTGowU0ZFX2doNm1JcnZFQVphQXI2LUFrRjUxWFd0b3V3bHcxXzBiZnp2R0NvYWrSAZwBQVVfeXFMUGEyVEJYZnM3TGUxOTNqTXA5dG10VkhzaVU2bWZrOG5hWTR5bkQzeGdnUXFpR0dGaHVWa3B6ckpRS1lrb3hNVERVTXd6eEZUWVh4ZjgxNEh6MHRYWnZVMlpoa1FSNXhzazJxMFIzaExqMFNGRV9naDZtSXJ2RUFaYUFyNi1Ba0Y1MVhXdG91d2x3MV8wYmZ6dkdDb2Fq?oc=5",
+   "published": "Mon, 09 Nov 2026 04:34:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "newmoとKDDIが自動運転タクシーの社会実装に向け資本業務提携 2028年に大阪府堺市で商用化を目指す - LIGARE（リガーレ）",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWQVJBdzNoVlZaeWJKajBJTnA3TU9uMGsyVVQ1d29maXV0cnMtZEVWR2RYWEZPczRPUFFKZ2NDck5qaU5aQU0tT1duaERXOWtCTlFoeDUzckZMQQ?oc=5",
+   "published": "Sun, 08 Nov 2026 23:32:21 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "KDDIはなぜ自動運転タクシーに注力するのか 堺市のデータセンターを活用、2028年に商用化目指す - ITmedia",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uZFpDc0pJLVV5VU1iQ1ZuY0dleDlRN3ZrS3I2Vlp1VUFUODN6c1pTTUJFTlJCd2JBaWdrRlBnc2NSdDdzQjRISTE0NkgzdFJ4S3FtN0ZXZ3JqX21rcDk3eVJRb3BFMDE2ZS1OX3VRV002QQ?oc=5",
+   "published": "Mon, 09 Nov 2026 04:32:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "2028年に大阪府堺市で自動運転タクシー商用化を目指す（newmo/KDDI） - ペイメントナビ",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYZXNBRWt3aXZzREk4U0x5Y2ZRMF9fRHJpQU9fUUZIUjNRYWVtTkRKOFFCLWplbGRTMXRjTWtsdmtYOXhzUlRMTlZ4ekRkVEJlcmFRejhrYS16Q1U?oc=5",
+   "published": "Mon, 09 Nov 2026 01:55:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "newmoとKDDI、自動運転タクシーの社会実装に向け資本業務提携。AI計算基盤や高精度位置測位を活用、2028年に堺市で商用化へ - DRONE.jp",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Va05BQ3ZUV0dCRlp5X2gxNm0wTV9vWW54eVNCZlJEcTNweTVGNzM3V2pXa0s0cndiZ3MtM21NRU56ekFBOTBYS1ZMR240cndtYWpZV2ljS3ZsZjg?oc=5",
+   "published": "Mon, 09 Nov 2026 01:51:31 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "KDDIとnewmoが資本業務提携、2028年に大阪・堺市で自動運転タクシー商用化へ - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLWDBhODIxbnd6VmxLMlNtTzByU21tR2VCUllWREw4UFM4Zk1CWXFBYTBiY0NUTURtWVVCRVJJVXNKYmFSXzliNjFWLTg2Q1R1UTVkcWpEa0ppcmxUR0RncTdKUnXSAWRBVV95cUxQS1gwYTgyMW53elZsSzJTbU8wclNtbUdlQlJZVkRMOFBTOGZNQllxQWEwYmNDVE1EbVlVQkVSSVVzSmJhUl85YjYxVi04NkNUdVE1ZHFqRGtKaXJsVEdEZ3E3SlJ1?oc=5",
+   "published": "Sun, 08 Nov 2026 14:46:29 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "堺市立小学校92校のうち32校が再編検討の基準に 全学年1クラスは14校 - サカイタイムズ",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jNGd3WGVBQ0FaUzliQWEtNU1pT2U3REV3UjJOeV9YdkFubS1FZWl6RUxyOHJncmZ2ektUa3hDRHNwZmlqNno3X2NQRQ?oc=5",
+   "published": "Sun, 08 Nov 2026 10:53:23 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "【ＶＩＶＡＮＴ】最終回視聴率 瞬間最高２２・５％は堺雅人二役「乃木ＶＳ劉」対峙と〝薫の謎〟シーン - 東スポWEB",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1nMnRtYTlXUGQyZmJYV05vY0lTMjhJdHlTRVRfTWU3WUlYT0JhelpGUE9UQzVRcXdMSFNvWHlUWGJjSXJrS1dtVUxZZVcxd3M0R0FleEI3cnQ3OTNi?oc=5",
+   "published": "Mon, 09 Nov 2026 03:43:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "newmoとKDDI、自動運転タクシーで資本業務提携 2028年に堺市で商用化目指す - 月刊「事業構想」オンライン",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdUlsWTgxREdzTFROLW4yblBIcGVzUVZIOGNYMDA1azcwWmNLMDZwVDlRWEI1aFZZaElnVXFBUEJfTnlaMkIzZHlqeFZZVzNkT3JJdWVTV2tQZkZCbWc5UlBQWldXZlFHdEpZWk5UeERwNUNOOWlmakdIWUtWZWJLaFFuX05Rdw?oc=5",
+   "published": "Tue, 10 Nov 2026 01:03:52 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "熊本のバス・電鉄・市電を横断利用 新共通定期「ふらピッと」27年4月開始 利用額を合算し上限適用 - LIGARE（リガーレ）",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4td21Uc24yc3JXR2g5ZHhzd1RlaHFab0dYNHlrWm1YeFp3aU5fZFJ1RjRfbHdmUk5xU1RWWThzaEQ4SkhKdldFd1M1Tk9jN01hcVVv?oc=5",
+   "published": "Mon, 09 Nov 2026 07:05:08 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "newmo、シリーズBラウンドで208億円を調達 | newmo株式会社のプレスリリース - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rMnpZNzlGWkdwZnd4cjZ1dm91NkdwRFRmY003dmNIV2U5allMMkkxUHN1cTFkXzhmQnRlanVTUFVwdmtRODd0azdOQjRvZmRmUEpMeUVXcHJWVUVZN3k5UHhWNGthUldKMlE?oc=5",
+   "published": "Mon, 09 Nov 2026 01:00:02 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "「接触するまで気付かなかった」路上に倒れていた60歳男性が車にひかれ死亡…運転していた男を現行犯逮捕　大阪・堺市 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jYUU4QjdDb2MyUXBQUkMzaTY5aTBrSDBOalF3NVJFM3NOa2tBMVc5SVBtXzUwMlBmT3htWXc5R1FabHRLNWJNNE1nN0VXN0FtRVQwUFplNXZDTmxYblE4b29HeFVQZ3lTb1hlNGhQMWYwQ3F0T2M1VHBKVnbSAYIBQVVfeXFMTTVpU1cxZ2dMNk5OWmZhajFPeHh0akprYnJPSTIyTk04OE05MW5hNXdpOXk0RTlPektpeXJmUW9YTHBpMlZydFBSRC1QZEk3ZV90cHB5eGlieTVwR2JJcmJXc1FRNngxMWxvVm41ZE9UdjBCdG42dnloRmFPQ21GWnlzQQ?oc=5",
+   "published": "Sun, 08 Nov 2026 06:15:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "積水ハウス、住宅団地「みどり坂」のEVバス運行で地域由来の再生可能エネルギーが使用電力量を上回る 住まいとモビリティをつなぐ循環型まちづくり - LIGARE（リガーレ）",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zUnpCOWhMOXlkVDcwZWRPV0YtMXpNYjFJTzE4bUwyakRzNFNkUkJ1dFBwTldyVXo2Q0ZWb0daVTRGM2tpS2NmQ3BRd1dyTUdSZHRqVXNseXctVW1s?oc=5",
+   "published": "Sun, 08 Nov 2026 23:32:21 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "【道東道】釧路町内で事故 一部通行止め解除（8日12:00現在） - 千葉テレビ放送株式会社",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BcjBJOTF6RlJ2aWtrOWJNWXJ2VlVrNDZORHd1ZjdCS2x6cnRXY3BDdkdmeXZfT1JocTNoYnN4cUczTTZCUW1nY0RtVTVlSTFFUHZSQ0JCTUdVbkotNXNz?oc=5",
+   "published": "Sun, 08 Nov 2026 03:17:44 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "サイバーレッカーの金銭取引と実業家への脅迫を追う特番が放送へ - 미디어파인",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSGh2TzJBbDVNOGs2cVdKdE1SdUI1ajJiRkhOMG04ZklDZ0hvRTUzM1VKZzBSRE50UUVKdFpicXlIV0RkNHR6QWVqTlpqd3J3QldUV0ZMN2lJMXZLVjN6ak5uRmJxdmdoRl9pamxOZDVVN1NRMzFQUVk5ZFdmUVN3MU5tZHZ2eDdUNUZv?oc=5",
+   "published": "Mon, 09 Nov 2026 22:18:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "〈インタビュー〉全国自動車整備協業協同組合協議会、永島善樹会長 認知拡大策で加入メリット訴え - 日刊自動車新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBocUxmSUZNRnJjSkd6S29nWG5JU19obndDMXI2T2lmRzM4ZEt5dk5GczF6dU84aWhJY0dfX1ZMcjZndlN4ZGZCQ1EwajNNVDFpUHc?oc=5",
+   "published": "Mon, 09 Nov 2026 20:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "AIやDX技術まで登場··· レクサスコリア、第16回スキルコンテストの最優秀選手を選出 - 스타뉴스",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQek9GeU1NbGZzUjUyTmQ3TUw3NGJVZmhhU2tjUElfd0RMMnlCMUltcF81VFlsOUtZMi1DcnN0REUyNmZDbWRNTU5fcEJfSURKS1lIYzFkLXZNVHUwcFFFZGlFTmZrLW16Y0ZDTm1vcm5iN0o5UV9sUkhEc3E1SnY5QWhxOA?oc=5",
+   "published": "Mon, 09 Nov 2026 10:02:41 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "レクサスコリア、電気自動車の整備・顧客対応力を競うコンテストを開催…7部門の優勝者を選出 - 매일경제",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zX09jc2MxcVNfcF9yaThyVmwtM0Z1TFZuN2FpUVZlRTNrRU5ubTBEbzRKa3NMOUw4bFNqeEkzQXJyMlluQk9KX1ZkNVl1LWxpRlU4?oc=5",
+   "published": "Mon, 09 Nov 2026 02:40:10 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "日整連、第25回全日本自動車整備技能競技大会を開催 優勝は埼玉整振チーム - 日刊自動車新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jb3RQcmg2enpTdnlaZFpRTk5wdE4xcU1CR3ptd1RzWTJQQ2F1dVRNZDYwQThHNDNfQnJoTmpLNTJ4cl95alNHblZwdzctY1hoSFE?oc=5",
+   "published": "Sun, 08 Nov 2026 20:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "議会ファイル(美馬市・11月9日) - 徳島新聞デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KQTdZMXByVS1YRFFFUl8wMFM4UC0ycW9JVi1YdVpwOXNibTFvdW9ILWhEVTJIWV9zenJhOTdNUEZia290clNzTkcxZi1kQWFYdHVEdXNR?oc=5",
+   "published": "Mon, 09 Nov 2026 20:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "資産7億円の桐谷さん 保有株にネットざわつく「プロの立ち回りですね！」 - オリコンニュース",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GLTdhMzBYYmkwRGtMeGJKcE1rLU9qYVMzQ0Fwb212d0ktbG9hb2ZtWWEtbEl2ckMzZmlqd2lvU2pHUndPOVlUV1pZdUhldzQ?oc=5",
+   "published": "Mon, 09 Nov 2026 06:40:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "ホンダ フリード GB3 Gハイウェイエディション 在庫車ご成約 - www.goo-net.com",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56Y1ZXaFZPUDJuS1gydlZKeXBlYkVOdkRjblNOMmdUX3pValhwSUN6aU10LU5iUUlOZ295TWp4SUxCZ3hYdkR2RGFQRWI2Ykl4NDVSb1cwVC1ITEJldXdIMXpKaw?oc=5",
+   "published": "Sun, 08 Nov 2026 09:54:39 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "トヨタ ピクシスバン - www.goo-net.com",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80U296U3Y0d1FJakVGTlpsZzREam1vbDRHbnBpTnloZG55WDgySWVxWURMUFo2UW9LUUxCTVlSVVZXZGh4dDlUZC1kWmxybW03LW5ZNFZLdzJOYWtOczNVSVIzbXRHUHhldHpyOGpoZ2J4bzRsd2JaWXZ0NkE?oc=5",
+   "published": "Sun, 08 Nov 2026 10:30:05 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "関西ペイント、2027年3月期業績を上方修正 海外子会社の評価差益計上で - 日刊自動車新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GQ1NvTGJwa2VHREdrNThZZE5URU41SmIwWkc5RWQ2VzZvbkUxa1VSdU1wUU02NzlBTm9HbWh0Q1k5WlpwajJRU0w4VjNrbFN4U3c?oc=5",
+   "published": "Sun, 08 Nov 2026 20:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「この510ブルーバード、走りが別次元！」SR20改と前後マルチリンクで武装したレーシング旧車（MotorFan） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDSElWYW5jS2Q3TU9PN1RCRzVJOEh4WE84cXo5MnQwdjI3NlZzMmJGRklXMlhicHY0T0VHM1pLT0xzZWZjOHRCRkRvODNfS3g4S2hZRE03eXp0VGNuUF9GTHN5clZTX091QWdJaVM3aFQyLVFsaU91d3ZNelplMUE?oc=5",
+   "published": "Mon, 09 Nov 2026 21:30:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "新型「“国産”スポーツカー」まもなく登場！ 旧車デザイン×丸目4灯ライトがイイ！ 二人乗りのミツオカ・LA1どんなクルマ？ - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcVozMGlCR3F3anYyR2JHNXRteUlhWHFKdFVwTkRzcHZoZ3FwZ2VxekF5b2ZxY1NIeF91TWZlcWc4UHdPclNQVHBDSzlFY0NhMFkzcmFWVUpWQUs3SzVLLUdQQ2I1YUs4ay10QlQyYjg2c2YyQXRTaWJaemFPS2JEc2c5cEdmZ9IBhgFBVV95cUxOcVozMGlCR3F3anYyR2JHNXRteUlhWHFKdFVwTkRzcHZoZ3FwZ2VxekF5b2ZxY1NIeF91TWZlcWc4UHdPclNQVHBDSzlFY0NhMFkzcmFWVUpWQUs3SzVLLUdQQ2I1YUs4ay10QlQyYjg2c2YyQXRTaWJaemFPS2JEc2c5cEdmZw?oc=5",
+   "published": "Mon, 09 Nov 2026 03:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "新型「\"国産\"スポーツカー」まもなく登場！ 旧車デザイン×丸目4灯ライトがイイ！ 二人乗りのミツオカ・LA1どんなクルマ？ - くるまのニュース",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KQmVHdHFjdlJaUjQtaTRDb3ZEeVBWMHc4eFhEYUV1QV9SQUFYVk9ock5lTG13akw4clhWYkZXMjEzRzNhVWtrV2xRTQ?oc=5",
+   "published": "Mon, 09 Nov 2026 03:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "不動車から生足で地面スレスレ！ メンバー上げ加工で全国各地へ自走する日産「ブルーバード」 - Auto Messe Web",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84YmRPVDgtS1hTakVIVXVNLXBDOWtaWUdVNUxIRy10b2J4STF4dkRSNlNBNHB1SEV1QTZMOXA4N0l6dlFQMGU5REFoTjl6djd6MVFxNUdGR214Z9IBX0FVX3lxTE5aYk5EY2ZuYTE4Z0x3VDhPVGVsOWZOQWp3ak5Ia3Rub2VZUWhlcDFrNXBEcXVlYkc3OUVBTEpaZ1AtbHppMmYzN0ZQcDBmVlF3TTFsb2Z4MG9xdlBHVWhJ?oc=5",
+   "published": "Sun, 08 Nov 2026 21:00:39 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "Hondaの歴史が息づく会場で旧車・バイク120台を募集！Casa Garage「The Timeless Meet Vol.2」 - Dtimes",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBHd0F6NUEtY0dOWjhzTmRpUXM1WHc1cXBWTGh2djFnU244ZUhVcW0wUzc5cm54VXVQTWZyaEVzMFR0b1MzZmc?oc=5",
+   "published": "Sun, 08 Nov 2026 21:11:09 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "Hondaとのコラボで旧車・バイク120台を募集！「The Timeless Meet Vol.2」11月15日もてぎで開催 - 千葉テレビ放送株式会社",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNWHdQS2FPMmJGb2l2czUwOC13cW43MFMtQ1JkQzVjaUxDRjJHSm81WlNKdmJlSjFaMW1mbVNXRjdTcFV1dkQ1cmVpRHdSTFhGVV8wNmNZSTJ3YnNYNnAw?oc=5",
+   "published": "Mon, 09 Nov 2026 01:02:30 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "Hondaとのコラボで旧車・バイク120台を募集！「The Timeless Meet Vol.2」11月15日もてぎで開催 - ラブすぽ",
+   "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPZ2g3R1FoazUweGNRWG5zT1NZWUZyN3F0SnFaZGtFMVpZSlNLOFNmRUV3YXJQVWFHRGpZVXpfRFRnZG5QUF9oQkdEUE1xbzBWUTcwZkVudU9pY0pRcDJSR0NMWmNzajd4WGwxc1hNSUljMHZwaDJhMzhTNV82SU1oUXZ0SHpsLXBQNEVrTjJKdUlJcU1XeVNPQWduV3NwY2tXa0dzLXR3S1BWOEtJSERLNFg3TjN2YkhPYlcxM0s5QklrYXp0YzB4VlZjeXNkcmwzWFViZ2lBOTR0a3JfT3czWTlMdnhXT2RVS1MxN2pYVHNuYlJWckpaYUlJN0kyTGRkNExqQ3lydUZscE5pTnBTb0xtdHBrX0ZNdkhBbGdpMDg1bGdnbmVXMXFMbFkzVzFoQVRRMUc2WVh4akFXYXM3V04tTERhZw?oc=5",
+   "published": "Mon, 09 Nov 2026 01:01:45 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "11月10日朝のニュース：ホーチミン市は、労働者が古い車を電気自動車に買い替える際の支援策を検討している。 - Vietnam.vn",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcWZSQXgwSXFkcGpoWDRxXzRNVlJQSDREUGU1MVNBdm0zWHRUb25lUWk5ZEhQQVlqVHhMY2w4UEdoU3NDeXEyaVVuZk1YWmRSeHJuZEJpN1VkcjlyM3RFb0Y5dDllaTR0ejBtX1dFelltdXcwQXBtSHNrRmh4VWUzVktmeF9wdk1EemVEcm5pNUtwVzNHX2xSbUJRV0prdE43SjFsUlhmNU1zOTA?oc=5",
+   "published": "Mon, 09 Nov 2026 19:35:22 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「ええ～、 ピラーについてるアレは飾りじゃなかったの？」９割の人が勘違いしている、Cピラーについてるエンブレムの”本当の意味” - 月刊自家用車WEB",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KYi1Fc1BFN1dTdFczc2UtNDh0cEYtSXQyaENhbTQ3TkFKN0c2T0twd1VwVGZ2VG1ydTRRWl9uUkd5RVNwaE5aSkFYM00yczJIVHd0M3RIaEsxSW50V09iejJR?oc=5",
+   "published": "Sun, 08 Nov 2026 21:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "日本は13年で重税なのに……日本車が次々とアメリカへ「流出」するも現地で愛されまくっている現実に複雑な気もち - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOV9HR1ZFWGxackQ0cEI5Vm5VaWxpR19JQ2dhc1liZ0xiNnJkaGlZOHlab0hkMmszdllHVVNmeFdRbUZRWmtjMDhENXBGc2hWM21RdXRWV09vSlpES21qS3JLb3NHNVdrVmppZ0FNWVJGM29OWjhCQUpWdkYxMmhUV0tLWElzOHNj?oc=5",
+   "published": "Sun, 08 Nov 2026 22:00:55 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "100台限定！ トヨタ斬新「\"超レトロ\"セダン」が凄かった！ 流線型ボディに\"赤い本革シート\"採用！ 中身は「ハイラックス」だった「クラシック」とは - くるまのニュース",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1PU0VNM1ZJOGdQLUZEM1NFeTJIRVJha0xHbDlmVUxiNzZpRU1zbk1DbVd2cnJma1NpcFB5cmFvbE1YOEtoRldhTTBzMA?oc=5",
+   "published": "Mon, 09 Nov 2026 11:10:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「中古車は新車に比べて10年乗っても総額が安いのか」新車300万円、中古車5年落ち150万円・8年落ち100万円でシミュレーション（LIMO） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNlZiLTJQdG9zcEFQdVIxT2ZqUjV1cm82Yi1pUTZramRrNmJUSHp3VU9kYm9vTEEwenVSUXVNaEw5RHg5NU54UnVLNS0zUHdNWmJSNms1MUpuN29xeENObmtISUc5d0pvZDdYT293V21uWjVTU3k0NThheTlvWFNBbzNVXzlPRnBfaU1yakt3?oc=5",
+   "published": "Mon, 09 Nov 2026 00:20:57 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「これがないと生きていけない」19歳で手に入れた愛車はもうすぐ30年 女性カーイベント記念10回目に感謝の拍手（ENCOUNT） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iTmxOUjh0eFg2aHBTang5aFBacHROemhvRGxuam9zNlg1RXQ3bFJUOHZMd2kxbUJOU1dJb2pfYlFrUDNOZ0s3bjQtVFZKbG5zRHVOZTJERDhjRE1RTUlpM2pXRzg3czhFTk9QeDVVV3JEX2p2NXVTX0Q2clAzV2c?oc=5",
+   "published": "Mon, 09 Nov 2026 01:10:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「ええ～、 ピラーについてるアレは飾りじゃなかったの？」９割の人が勘違いしている、Cピラーについてるエンブレムの”本当の意味”（月刊自家用車WEB） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZU9KRXB5WTVSY2xUMlB6ajhXY1ZhYU9Ud3dZRU9Lc3Bfd3FZQ0Z0NlZkTE9JOEtUT3NSQ0RXdG14bXo0djUyUjZwRDlNOUVoS29JcU1JZjRoZ1c0cEpOa3g4SmVYdFpCODRoaGo5UmEya0ZtcDBrdjRGYXY4X0NPR19HclVJSnFH?oc=5",
+   "published": "Mon, 09 Nov 2026 02:55:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "交通遺児に中古車フェアの売上金を寄付 宮崎（MRT宮崎放送） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWjJMYTFzdGtxeDgtc1ltQnV3S19Qbm1LNUVWSWpKdmVzVzhNUGVpOFV6ckVDbjYwYy1uMHZsVmt1T242bDExVVIzaGxiR1FkUzV3WmtIWVRmRXpTLVB1Mm5HY1BMa1h4anEtLWVDc1R5QzAzd3NjcHNOWDJ6dUpTMnNZeFhYOW54TmtNUVl3?oc=5",
+   "published": "Sun, 08 Nov 2026 03:07:13 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "父の知人から譲り受けた1オーナーのMR2！ 20歳の時から乗り続けてます！ 【昭和レトロカーミート2026in蘇我】（MotorFan） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UM3VvSVVqYU0xUFRzLVl1dFZsVVpER01uWms2LWN0R2lpNW0xT1JHb0tzOHdJLUNHdnRZbFFfcWJYMHhrb29CNTd5WlBoaVZEbTlOdHkzaER1RFcwbGdFMXZzNUlqbGQxM3MwWUFjNWthNEd2ekNiQjktSEJtTFk?oc=5",
+   "published": "Mon, 09 Nov 2026 00:02:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【検証】“新車で700万円級”がわずか3年で200万円以上値落ち…？ メルセデス・ベンツやBMWの中古車は本当にお買い得なのか - carview!",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUGZOcTN1ZDljVTNZNzNSa3ZYdkNlQWNLYU9uSDBxUEQtWkxzdWNvcDk3aXJ2aVk3Tjl0Z3J0MHNQUUNMTU9GZnFyVzJlVzFJSUxHY2pvMDF1YTZieVpxMHlQRmUwSl9RVjllLURYMEN5VUNrVC1FQWJRXzhHUENYNENSR3ViWW4xWUNTRA?oc=5",
+   "published": "Mon, 09 Nov 2026 08:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "AWDならやっぱりSUV！タフな走りが魅力の輸入中古車おすすめ３選（グーネット） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVi1WNFdNa3JtbEEzSEotVy1OTDltMktqZVI4NExldzRBNG85NW1OM1cxeXZzTExNXzZTX1pJeDQ4bTJET1NqWVl4Q2lWX2JsS3FNVnZIcHhDMWtabHljenRpUjYyYUFhelRVamNYTTZ5ZDViWkJqT0dPQjYxTUdSb0pDMUUyVkhKNThoRDNtVy1hRU1U?oc=5",
+   "published": "Mon, 09 Nov 2026 08:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "スズキの「ちょっとおおきな\"ワゴンR\"」に大注目！ 丁度いい「5ナンバーサイズ×5人乗り」仕様で\"快速ターボ\"＆\"アメ車風仕様\"も設定！ 海外で進化を続ける「ワゴンR」拡大モデルとは？ - くるまのニュース",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBEZEk3RXJjdjRJZ2V0RnhJQVVGLUd4bXhocWRaY19oM0dHbXdUaUNsaFdNcVFHZFFiQ2Qyb0g1SVFrRzg4bGEzcGdZbw?oc=5",
+   "published": "Mon, 09 Nov 2026 23:40:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "スズキ・ジムニーノマド 中古車が新車より46万円高い!? それでも売却予想額は265万円台…プレミアム相場の裏側（MotorFan） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hcHB5TjIyR09ZUm1fbUphcnNLTmdMbEd1cnJuTVpCdWFUQVhyWHRyU0V1TmFZVlFiV2RQdXBmTERCcUk5LTVNVFpMSmdieGtGZVVLazF5NVVIZUNURWZBVmNNUm9yajRycldzemlCXzd6Z1plaVJRZWVaZEdlczA?oc=5",
+   "published": "Sun, 08 Nov 2026 05:44:24 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "新型「“国産”スポーツカー」まもなく登場！ 旧車デザイン×丸目4灯ライトがイイ！ 二人乗りのミツオカ・LA1どんなクルマ？ - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ybXRoWG5kcUlMVmFuU19aY1RrOEZ6dGlmd2xEbE9uRmtkTGFWQ2ZaaFJEN3JOTVJLUGJUdURod3BuWEt6Tkl6N1JVUTctWHFiNTl6clRjMS1OVG42S2tR?oc=5",
+   "published": "Mon, 09 Nov 2026 03:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "GACKTさんの元愛車「トランザム」が意外な場所に！ チャリティーで手放した「高級アメ車」が民泊の展示車に 本人も喜びのコメント - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45b0tFTjc1cHRqTDZnZ2xyNnB1WG4xSzlQaVIyYk9vTGJrMG9vZjgwWkhkV2l3dnprZng3MXZjMVNPVnN0SHR5SFV2M2hwRlpVRkxxM2lmQ2IyenV3dFAtOFRPZVFQTG53OVlhazdZcjg0dVFpdVEwZXlpbDhwekE?oc=5",
+   "published": "Mon, 09 Nov 2026 21:40:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "GACKTの\"元愛車\"がまさかの「民泊」に!? 「1年がかりの特注内装」＆「ド迫力ワイドボディ」採用！ 本人も感謝した「アメ車」意外な\"その後\"とは - くるまのニュース",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1PTFdhZXAzeXNhWjRlLXlRbjZaOWpQZUtibnVCaGNlUzBvVHJKWGU5T0FxUWZyVXVtS2VLck1VZzZQMEs0VjBsaWRHWQ?oc=5",
+   "published": "Mon, 09 Nov 2026 21:40:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "「アメ車はこれくらい振り切っていい」大型ピックアップトラック『RAM 1500 Limited』日本導入に驚きの声！ - レスポンス（Response.jp）",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqaV9TcmpLNU44SXF2U0FUQWVQTDdFUHFPc251UG5DckxWTF9wWnV0bkxKT3hkOEo5YkhZdFNxXzhXSnRZakpYV0tCemR1N0VBZ0RVeFEwc3pscDl1MTgw?oc=5",
+   "published": "Mon, 09 Nov 2026 11:00:03 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "スズキの「ちょっとおおきな“ワゴンR”」に大注目！ 丁度いい「5ナンバーサイズ×5人乗り」仕様で“快速ターボ”＆“アメ車風仕様”も設定！ 海外で進化を続ける「ワゴンR」拡大モデルとは？ - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQV1JJTlpxeS1namZreDMyRFpFNEhWemMweng0SEZfcVhiUWEtSEhWZ2FiV2VBSjRnTG5nWGhkdHBlY0VScFE0RFg0bk8yaDdiZkxKajh0VlV5cU1vUExDNDBwMTl4WWtsc1NUVDMyR1Nwc2xmN2NSdlZrVnoxNHVtR9IBhgFBVV95cUxQUE5fbXRURGFYRmhmTnpPOUYwUlBiZEdwOEIxaUtlNG1rcVF3SUw1b2wwenNPWU5ObVNZbXlfZ044TXhVT2ZyU3lsLUc1NC1OOEJ2bkN3MVBvOWVZRHJTbTBCZUQ4M2p3aE9VZlo1UFNrMnFwbTdud0tjRlFSSFNhNkdXZF82Zw?oc=5",
+   "published": "Mon, 09 Nov 2026 23:45:19 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "「アメ車はこれくらい振り切っていい」大型ピックアップトラック『RAM 1500 Limited』日本導入に驚きの声！ 2枚目の写真・画像 - レスポンス（Response.jp）",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5UOVpyTHlhWVl4eUVsZzEzekhYQ28zV3VSUzQ4MTRORnJxZ1ZkMTJFMzZ0bERqUzhrMkU0ZW9ySWViQjVUMUd3cHZzT0ZxTFpFdTVyTUtBVkRKcGlTekdSTlBXZWdnYk9waGVNWmNsMA?oc=5",
+   "published": "Mon, 09 Nov 2026 11:00:03 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "デカすぎ!? 全長5.9ｍのアメ車「ラム1500」が日本にやってくる - マイナビニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EMktJZnVqdTMwd3ZPQ1h5RVJUdFBPV0NzLUFlRFl5NEhlVUhLaDRTcjZlZy11NFBvanppb3Ntd0MtT1F4V0Z6MmlXYmU0UnlTNUNwRzlYUUxjWnJRZ3c?oc=5",
+   "published": "Sun, 08 Nov 2026 23:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "スズキの「ちょっとおおきな“ワゴンR”」に大注目！ 丁度いい「5ナンバーサイズ×5人乗り」仕様で“快速ターボ”＆“アメ車風仕様”も設定！ 海外で進化を続ける「ワゴンR」拡大モデルとは？ (2026年11月10日掲載) - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jNloxcXZqYXdWSDBNWmdBd0Y4Um9WNXhibWtBeHVYQ1lwTS1XRnJLaVplMWhJX3pBX3VaWWw2UklQdFlJNUdSSzBuQ3dHajVURElLaHV3dXJ4UGVlb1E?oc=5",
+   "published": "Mon, 09 Nov 2026 23:40:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "デカすぎ!? 全長5.9ｍのアメ車「ラム1500」が日本にやってくる (2026年11月9日掲載) - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81NWI1aDhmVzZlWUxvX2ppampCZmJqQmJleFpXNkFnWjB4a2I3b2JsQk9kN3BNQWtaaWtTalEtUmUxb1g0RmFJY1lKc3lpa3VlNlhEdXNnaE9JYVpWZ0E?oc=5",
+   "published": "Sun, 08 Nov 2026 23:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "GACKTの“元愛車”がまさかの「民泊」に!? 「1年がかりの特注内装」＆「ド迫力ワイドボディ」採用！ 本人も感謝した「アメ車」意外な“その後”とは - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSQzRXSGtQRHhmMVNOMTFMQzdQcnBPdVFyemRsTzZFOHE3Qlk2MFU3TkxmOFJQeDg5T253UmJiVUplM0t0OFQycldPOTRfZUw4RmV2SHRRdFRTS0gzNjVB?oc=5",
+   "published": "Mon, 09 Nov 2026 21:40:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "“車検不要”の「新型リーンスリー」が“最大68万円”の助成＆補助対象に！ “国と都”の制度活用で「約100万円」まで負担軽減 - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa2xNS0RBSzR0amhrckNiZjJZek14NzZzcWpDU05vMm1tZ1F1X1FiUHBXNEFVZFRnTkZmb3luc1JqcjNvcENrZ3E1YWlXRU1LdU1DUUM4azkwMGt2TGRtdmlSTHZudDB5UmZaX29lLXExNnJnU2FtVEJ1WUtrR2ljdnd5ZWdqYnAz?oc=5",
+   "published": "Mon, 09 Nov 2026 22:40:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "【調べてみた】軽の「ターボ」と「NA」のランニングコストの差。車両価格・燃料代・オイル交換費用を計算したら意外な結果に - carview!",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeEtWSWtZdHd0NUhSQkVidy1CODM4RU1zYnFUYXBKUmRGRERHNEVxS0txX0dmbEN3R19HMGljSlVDc19WQld2dUNrOF9FWnZMMjJ5Y3VRMGsxb1lydW93WEJ3QkdnaWVON3RpMGI1MDJTN253UU8zaUY0RFlCb3l6NjA3anJRRkVxZmhiaV90Skd4NXJ2ZlE?oc=5",
+   "published": "Mon, 09 Nov 2026 23:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "三菱 タウンボックス - www.goo-net.com",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TaHUtNWNiN1Rpd0hlSW1lN3RUczl6cmtqdDNJanZWU2V3VnVXMUlXeDJjZTBJUWpSWjVqeGVGOXp1d1Bnelh4am1kSHpQOHVNU2YwSWZfYVRDcXFxaDd2dlcxc2h5UlhfOENBU3NVN1BLTHVBZ1FXVmxwV2U?oc=5",
+   "published": "Sun, 08 Nov 2026 06:38:53 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "「中古車は新車に比べて10年乗っても総額が安いのか」新車300万円、中古車5年落ち150万円・8年落ち100万円でシミュレーション（LIMO） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UR2xLTW9QVWhVV0pmM2ktT3E0MGFsem9mejNoWGxFbHo3aUY4UlNPZ3Fyd3daOElyVjFzdkRBTGVydDBsUy1PemVKejEyX191bkpWRjE1c1kxQVFaelR1SXNCeXktVW03NUE5RnBQNWtGVFIyYkJiZndjbEo1Zk0?oc=5",
+   "published": "Mon, 09 Nov 2026 00:20:57 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "ユーザー車検にかかる費用と注意点！「帰ってきちゃったじゃん！」と嘆くハプニングも - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RNXcxOHlEb0tvb0NYQWlILWtHZy1HUVBoS3pqb0tvOTV5anRFS3VFUUlqTUxDZkZBZ3NXQ3ZaT1F5ZkRIRjk2a2VBcDdwclRJYkpwaVBxYUFCeDNWMkFN?oc=5",
+   "published": "Mon, 09 Nov 2026 09:13:20 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "スバル クロストレックは月々いくら？ 残クレ・KINTO・カーリース・現金を比較【2026年11月】 - トランスカー",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fNXNKN1h3aGJZUm1UUHQzTU85SzNtdkY2LS1zTk1yYUtMa1BESkNfM2V6aV96dDZDeUJmVUd3NWRXU2Z1dTQzSXMwYmgxMzZWYjUyUmljVnFzeFJ3cUVnV0o1U3VqWTA?oc=5",
+   "published": "Mon, 09 Nov 2026 04:20:30 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "素人DIYによるフロントガラス交換劇。数万円の節約に成功するも、引き換えとなる想定外の手間と労力 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01NFBaX1ZvMHM2NVhRdWp5UU9MS1hvY0ZPNGJYMm90MUM0VmNSVnowcjRKRVUxdVhKM3JCTWxqSW13VGI0VEFkVlpKbXZqR0tIYjJCYUJ4eVlGeEdYX0JR?oc=5",
+   "published": "Mon, 09 Nov 2026 09:44:31 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "韓国、自動車保険「8週ルール」施行から1カ月余り…1日平均570件が追加治療の審査申請 - BigGo ファイナンス",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zY0hnMUU3dDF5a2NINEJOS3ZLSHp5SXEzS3Q5c1JiR3ZHSVJRQjMydzlXb3R5aVRYZHBURHJKQkxtMnVPSDZScjJwSm5PbWpyVV95cmIxMGtHZnphdmZLVXhWRVBPcU9Idmt4QUVDMmFqS2Vh?oc=5",
+   "published": "Mon, 09 Nov 2026 01:05:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "交通事故の軽傷患者が事故後8週間が過ぎても治療を受けるとして審査を申請した件数が1日平均570件に達することが分かった。いわゆる「ナイロン患者」の過剰診療を防ぐために導入した自動車保険「8週間ルール」.. - 매일경제",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sVUFCSnRNWTRfTXBBQm4yYkliSHJoa3NWaGwzV1dMa3ROVkN3eVNLYS12WFJiRVZCaUtMSko1REpjakI5RkR5eWU0TVhFNm9SOEE?oc=5",
+   "published": "Mon, 09 Nov 2026 00:39:09 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "自動車所有者に対する義務的な民事賠償責任保険は、第三者の権利を保護することを目的としている。 - Vietnam.vn",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORzhsQlI0WUNPSHprT3dqR0c4RHAyLXczZnVudUtieWNqQlpCZnU0SHpfVUFxLU9CUDdtQmZ2aGJmZlcyWFlpZ3RTNElfbDVyOG1GLWtpMVRPcmZuaVNLb3Q0ZFdJN1Q5UkdBV0FhVk5GWVVlR0NhMFYyTmZzQXBYTFBzQWVEMXNlSTRYb3NQNUUxS0pFNWNpMmdqRl9hTmdjQTJSRGxKSjktQ1pmVEVlNUNqUEJobGVNbTVN?oc=5",
+   "published": "Sun, 08 Nov 2026 06:44:03 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "JCBと三井ダイレクト損保、年間保険料の2.0%分のJ-POINTがたまる自動車保険・バイク保険を販売開始 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmbTEwQ1haZUhTcnRBdWNmYi1tYU5oRmIzd1hvZkE5MkYxNUFHUGdWc0NUREdmSi1MRFlBa0xTN2FWR0JCWnE5YjJkRi0tOEVxU3NGSE1iaHQyREZQbHprY3ZPNHNFdVdBU2d1bGh3?oc=5",
+   "published": "Mon, 09 Nov 2026 03:48:37 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "来年スタート こどもNISA「それ、子への贈与です」 - 毎日新聞",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FRklHb1c1SnNGOE9NbF9ZaFZCUkZKRFFYVG02RWZuYTM1azZoWkxWaDZROFIyVlFWLTR3bGQwNUpqUjBVWm5CZk00cGNndldrSkRKSzJwbmRuWUVZaTg5TVpHR2llYzlXZl92VlNqWi1kSVljTkNPdDluRUlmUm8?oc=5",
+   "published": "Sun, 08 Nov 2026 21:30:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "日本の食卓を守るのはカンボジアの若者!?　物流大手が仕掛けるドライバー確保への「本気すぎる一手」 - WEB CARTOP",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iclBMVHExazY5SWZzc2lhNUxKU2YwaURaUldva0xLb21JRlZDbGo5Z19SRkV6OU1mY0IwUWlEcHBEdFhBX08zdWxrd2ltWE5FSWdOREozME7SAVhBVV95cUxPYnJQTFRxMWs2OUlmc3NpYTVMSlNmMGlEWlJXb2tMS29tSUZWQ2xqOWdfUkZFejlNZmNCMFFpRHBwRHRYQV9PM3Vsa3dpbVhORUlnTkRKMzBO?oc=5",
+   "published": "Mon, 09 Nov 2026 11:15:47 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "MS＆AD、漏えい100万件　不正アクセスで、顧客情報 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcEdXR2drcWxPODNyMVBjaUpPUXNLSHpKWHkwTDJMeG5SUkdhQnFBWFdZbzNRdjVOZ1hVVFhtcFlVRjZTNVZTU05vNTZyTWJtWVhEZlFFRWJPeUxhSDczaHBWT0tPUFVlenBWaE9sSHVpQ2Q1cDNaZk9NMEhEeEUyUngwZUFVblJjcmpXNTBORHhMTFXSAZMBQVVfeXFMUHBHV0dna3FsTzgzcjFQY2lKT1FzS0h6Slh5MEwyTHhuUlJHYUJxQVhXWW8zUXY1TmdYVVRYbXBZVUY2UzVWU1NObzU2ck1ibVlYRGZRRUViT3lMYUg3M2hwVk9LT1BVZXpwVmhPbEh1aUNkNXAzWmZPTTBIRHhFMlJ4MGVBVW5SY3JqVzUwTkR4TExV?oc=5",
+   "published": "Mon, 09 Nov 2026 03:13:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "保険、運輸、科学技術に関する多くの共通規制が廃止された。 - Vietnam.vn",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOODF6OGU0eVM1Ni1IbGUwVWZuMlpnVzBwa3RNb0xwSHM1OTEwYTN4aHNpSkhtQTIwQ2JkdWdBY1NBQlo2TUFQZVA4ZnlZQUZTaEhGZlRSSm15VXhmRzdqSFpMSjlmTHNCSmNhSkpaT1I3OGZ4SUtUUVhkelQxdmlKMnlRdWNodjR4X21ERmdwSk9kYk5ncGNmTFlOc2lhVmt6V0U4dA?oc=5",
+   "published": "Mon, 09 Nov 2026 09:30:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "保険研究院がスイスのサンガレン大学と人工知能(AI)、自動運転車、サイバー危険など新技術拡散にともなう保険産業の対応方案を議論し、国際研究協力を拡大する。9日、保険研究院は7日、スイス·サンガレン大学.. - 매일경제",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9md2wyWlR6enZ5RnE1Ylp1TS1FbFdDVy1qSjVYeTEwcERIcF9OemVKWXNqa3A4akhtTnRlMnc1ODNLRm1HWlM1dVdOSDR1d213ckE?oc=5",
+   "published": "Mon, 09 Nov 2026 02:22:15 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "2026年11月7日集計のトヨタ シエンタ買取相場速報 - リセバ総研",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JLWExUm9YSVBRN042TFpKVG1SR0txV2pTTG1NMDlEMmN6QXBwc0lYWVFvUkhPcHpLRFd3bkN0ZUVqclN2Z20xSHJRMTVQajA?oc=5",
+   "published": "Mon, 09 Nov 2026 15:12:48 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "「見えない情報」も開示し、安心して購入できる中古車市場へΙ業界人インタビュー（グーネット） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaEQ0dlZjRlYzaVJMVDMxRkxlUmY5ZHhIOWNQTjBNNHBBa1JvRVNKb0l5VUx4SFUwNGprQ1MybjFMUE5yX2JTUF9iV2J5eGRrNkVsRkRZcmlGTGpNSTdhSC1hcDNVZmtRNzl6QUhqVnpESksxTWFERTg1Z3REdWpIcVFZOVh5Nkp4dTRQdTc1blIyZEl3?oc=5",
+   "published": "Mon, 09 Nov 2026 13:29:29 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "2026年11月7日集計のトヨタ プリウス買取相場速報 - リセバ総研",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9PUzFtTzR5YnNEMkczdFlDQjBfX21nQ0I1Q3lWVS1zeXIzSVdoT1FDRDVpZlQ0b1I3RWhPQXFUVVhKcXplbEw4RnhnZDNXZw?oc=5",
+   "published": "Mon, 09 Nov 2026 18:31:12 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "中古車市場の活性化と業界の健全化を目指して／対談企画⑧ - グーネット自動車流通",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xVkFuWEtxUWJtRXUzTjlmWGVGQW1EMEFiRHpvR0N0LU1RV1NhNWZXczA2VmMyUXZqRjgzb0lHQzhxS2hMTUFpWWhQR0ltSlhvWWdOc1lGNlhZVjlnUHpDNGloSjk0MXUxbUE?oc=5",
+   "published": "Mon, 09 Nov 2026 07:31:43 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "2026年11月7日集計のハイエースバン買取相場速報 - リセバ総研",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZZFFrbjU3WE5sVW5yZmlpYWRNblVSc08yWlRMUk5lSm9nQ3hDeEZnalNEY2IxeUtoMEZhcWI0bEVtSzI1RkV0ejJqOW5HUzF5RU13?oc=5",
+   "published": "Mon, 09 Nov 2026 11:03:20 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "2026年11月7日集計のスズキ ジムニー買取相場速報 - リセバ総研",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QRnVJd0d2QjNldUdnSzh3Q1lMdVdfck9lM3NnYUhBbzh4VGNMU1gxVm5pVEg1b0xndExwRjAyclRFQWRKQ1NDXzFFQ2hGQQ?oc=5",
+   "published": "Sun, 08 Nov 2026 21:31:56 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "2026年11月7日集計のホンダ フリード買取相場速報 - リセバ総研",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1UTG03QThWX3B4UnI4cVF6S3g0RUVjNjhXbWl3cmdUZnF4MzNIaXNISmRVcmYwXy1paGNpX3F0Rm1iTDAtQXZBMkc5Q05QZw?oc=5",
+   "published": "Mon, 09 Nov 2026 12:54:59 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "2026年11月7日集計：ステップワゴンのリセールバリュー／買取相場速報 - リセバ総研",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uSUs1TDJUTFVPNmJMUTB5X0g0Q0h2cW0xdXNRSTBENFFURVI5dWQweUZjNkQxOUs3cDczWHRwOGJzMFhYYXZEeEJIc05WbTU2Nm5R?oc=5",
+   "published": "Mon, 09 Nov 2026 11:23:03 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "2026年11月7日集計：ランドクルーザー250のリセールバリュー／買取相場速報 - リセバ総研",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwZGlFREttTmRXcEZyOEdxZllGbWZYSHVyT21QMHhQWHJBWmZTWDlDQ3BrWHBIYlVJOTctZUV4SFk2TEFZOUpNc2NlWGhVUHY2TXl2WncxTE9pUQ?oc=5",
+   "published": "Mon, 09 Nov 2026 07:02:02 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "2026年11月7日集計のホンダ ヴェゼル買取相場速報 - リセバ総研",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1fVzMzRjB4cDE2MURkSlNXUE9JWC1mY09HVk1GWktTcUtBdHFGa002SjREeXoxc0dLY0tvUWI4MlpERHFLa0k4WW10ZlE4QQ?oc=5",
+   "published": "Mon, 09 Nov 2026 05:47:15 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "2026年11月7日集計のトヨタ ノア買取相場速報 - リセバ総研",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JYlpvYzdBY0JWcjJ4aHAzOVRoWDJYZDNwMFZZaTU2MU1FYWNMbWU0VG9tbGRMMnJUdXgxTHp4THZ0Uld5UnAxLXBFenc?oc=5",
+   "published": "Sun, 08 Nov 2026 17:47:16 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "2026年11月7日集計のエクストレイル買取相場速報 - リセバ総研",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kRFJqSnBaRi1FaGdnYlRmNGdOdFlWZm5uV3YtLTJIeHdqRU1Ub0Q2Z3FybG1ub2pEbEdCSUJNb0NTVnRJM3RJbW9kWEU3WUlv?oc=5",
+   "published": "Sun, 08 Nov 2026 20:52:35 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "2026年11月7日集計のレクサスRX買取相場速報 - リセバ総研",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04ODhIZTFNUzc0QWRHNlV4WWpic1JTZzR0Zl9LRU5zak40R3lZQTFQa2Q0V2stdk9CbDFNZEpVQ1V0ZnRncnJ5OE1lVHA5eEpsSVE?oc=5",
+   "published": "Mon, 09 Nov 2026 00:21:25 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "2026年11月7日集計のフォレスター買取相場速報 - リセバ総研",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nOV9IcW0tYkpxY3haWExPaHNIdzlmU3dGRzdreThPVEhBUjJLUDA0cTQ1WVdNdXZqVnJhT1k2Q0syYW5DRWZqYTZ0OGpIMV9sU0E?oc=5",
+   "published": "Sun, 08 Nov 2026 08:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "2026年11月7日集計：ランドクルーザー300のリセールバリュー／買取相場速報 - リセバ総研",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jS2RTNWN6VzNSQk1aTERudGpPR2NLTHVsbEN5RGI0VVVJQUJMTmFld011a1pjdHpWN1VsdzJlZ0tBYmlXZlVOdG1ydlV3M0d2QlNvRUZDTnZWQQ?oc=5",
+   "published": "Sun, 08 Nov 2026 08:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "2026年11月7日集計のトヨタ ライズ買取相場速報 - リセバ総研",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1nb3NFRzJhTWFlc2RTUTZlY3dDc05hcTlqOXhmWTVHZWZiYnRXM21YYVhTQkROdXJDRl9BaG5kMjBJcTdGQWF6OUVfSFoxZw?oc=5",
+   "published": "Mon, 09 Nov 2026 01:12:40 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "レクサスの頂点に立つフラッグシップセダン「レクサス LS」とは？｜性能や特徴、新車・中古車価格 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhcHFPaGFBd09ib3pKODVfXzdOa0RuWm9sLTYtaklvMWtvSHp3LXVJbzJpZ3ppbE15YzBBWDN3TE44ZC03NnNuaEtuR0EyamlRamo5MEJtdFRzRFZOUWZPcnBvUF80c0VrQnc?oc=5",
+   "published": "Mon, 09 Nov 2026 00:17:39 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "2026年11月7日集計のマツダ CX-5買取相場速報 - リセバ総研",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBid19XQ01kYUZoTG9HWk94LVNld01lbU5NNVVFYzR3RW1Tb21CVjV0VFVKeGdBQWo2OGpnS2NzdFBCeHlHMkQyZHVRU28?oc=5",
+   "published": "Mon, 09 Nov 2026 00:05:10 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "スズキ・ジムニーノマド 中古車が新車より46万円高い!? それでも売却予想額は265万円台…プレミアム相場の裏側 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iS0swWjBjOWQ3SjlDcXlMVGEtcGlTQWt0a2VtSVRsNW96MF9LQ3lrU0RFMm81RjhiSUZsaTUzWU5lV2ZsTmNsQ0pmZmJla2ZvVFFrUFVmSHdsVWFKTDR2VXA0TzU?oc=5",
+   "published": "Mon, 09 Nov 2026 01:03:30 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "AWDならやっぱりSUV！タフな走りが魅力の輸入中古車おすすめ３選 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sU0tRWG5nQ2pqWTczYk1tbTZhd3M4TGhrOE5KNUM2SWdPVXdxeWpfUHRLS2E0c19Pd0w3a01FWk9tM2czdmlneEt3WUlJOFBsU2w5b3V1aXF5WUV5SWtLdDR4LTBzb3J6ZEFGSmstczVVUm1GbDAxdldR0gF6QVVfeXFMTmxTS1FYbmdDampZNzNiTW1tNmF3czhMaGs4Tko1QzZJZ09Vd3F5al9QdEtLYTRzX093TDdrTUVaT20zZzN2aWd4S3dZSUk4UGxTbDlvdXVpcXlZRXlJa0t0NHgtMHNvcnpkQUZKay1zNVVSbUZsMDF2V1E?oc=5",
+   "published": "Sun, 08 Nov 2026 23:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "中古車の値段が、2008年の約2.4倍に…新車の納期が戻っても安くならない“意外な理由” - TRILL",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TU1RWV2NFdk1xRjVJam82OHBOOFhVQng3dGxNTDdWekhxaWdsUjFDX0NEdkZrTUZtVkRCem1JT3N4OUR0MUEyWldSQW1yYW8?oc=5",
+   "published": "Sun, 08 Nov 2026 05:35:00 GMT"
+  }
+ ]
+}

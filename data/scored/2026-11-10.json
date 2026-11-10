@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-10",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 93,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "スズキの「ちょっとおおきな“ワゴンR”」に大注目！ 丁度いい「5ナンバーサイズ×5人乗り」仕様で“快速ターボ”＆“アメ車風仕様”も設定！ 海外で進化を続ける「ワゴンR」拡大モデルとは？ - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQV1JJTlpxeS1namZreDMyRFpFNEhWemMweng0SEZfcVhiUWEtSEhWZ2FiV2VBSjRnTG5nWGhkdHBlY0VScFE0RFg0bk8yaDdiZkxKajh0VlV5cU1vUExDNDBwMTl4WWtsc1NUVDMyR1Nwc2xmN2NSdlZrVnoxNHVtR9IBhgFBVV95cUxQUE5fbXRURGFYRmhmTnpPOUYwUlBiZEdwOEIxaUtlNG1rcVF3SUw1b2wwenNPWU5ObVNZbXlfZ044TXhVT2ZyU3lsLUc1NC1OOEJ2bkN3MVBvOWVZRHJTbTBCZUQ4M2p3aE9VZlo1UFNrMnFwbTdud0tjRlFSSFNhNkdXZF82Zw?oc=5",
+   "published": "Mon, 09 Nov 2026 23:45:19 GMT",
+   "score_parts": {
+    "recency": 0.932,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.68
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "スズキの「ちょっとおおきな\"ワゴンR\"」に大注目！ 丁度いい「5ナンバーサイズ×5人乗り」仕様で\"快速ターボ\"＆\"アメ車風仕様\"も設定！ 海外で進化を続ける「ワゴンR」拡大モデルとは？ - くるまのニュース",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBEZEk3RXJjdjRJZ2V0RnhJQVVGLUd4bXhocWRaY19oM0dHbXdUaUNsaFdNcVFHZFFiQ2Qyb0g1SVFrRzg4bGEzcGdZbw?oc=5",
+   "published": "Mon, 09 Nov 2026 23:40:00 GMT",
+   "score_parts": {
+    "recency": 0.93,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.679
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "スズキの「ちょっとおおきな“ワゴンR”」に大注目！ 丁度いい「5ナンバーサイズ×5人乗り」仕様で“快速ターボ”＆“アメ車風仕様”も設定！ 海外で進化を続ける「ワゴンR」拡大モデルとは？ (2026年11月10日掲載) - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jNloxcXZqYXdWSDBNWmdBd0Y4Um9WNXhibWtBeHVYQ1lwTS1XRnJLaVplMWhJX3pBX3VaWWw2UklQdFlJNUdSSzBuQ3dHajVURElLaHV3dXJ4UGVlb1E?oc=5",
+   "published": "Mon, 09 Nov 2026 23:40:00 GMT",
+   "score_parts": {
+    "recency": 0.93,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.679
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "GACKTさんの元愛車「トランザム」が意外な場所に！ チャリティーで手放した「高級アメ車」が民泊の展示車に 本人も喜びのコメント - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45b0tFTjc1cHRqTDZnZ2xyNnB1WG4xSzlQaVIyYk9vTGJrMG9vZjgwWkhkV2l3dnprZng3MXZjMVNPVnN0SHR5SFV2M2hwRlpVRkxxM2lmQ2IyenV3dFAtOFRPZVFQTG53OVlhazdZcjg0dVFpdVEwZXlpbDhwekE?oc=5",
+   "published": "Mon, 09 Nov 2026 21:40:00 GMT",
+   "score_parts": {
+    "recency": 0.889,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.667
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「この510ブルーバード、走りが別次元！」SR20改と前後マルチリンクで武装したレーシング旧車（MotorFan） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDSElWYW5jS2Q3TU9PN1RCRzVJOEh4WE84cXo5MnQwdjI3NlZzMmJGRklXMlhicHY0T0VHM1pLT0xzZWZjOHRCRkRvODNfS3g4S2hZRE03eXp0VGNuUF9GTHN5clZTX091QWdJaVM3aFQyLVFsaU91d3ZNelplMUE?oc=5",
+   "published": "Mon, 09 Nov 2026 21:30:00 GMT",
+   "score_parts": {
+    "recency": 0.885,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.666
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "“車検不要”の「新型リーンスリー」が“最大68万円”の助成＆補助対象に！ “国と都”の制度活用で「約100万円」まで負担軽減 - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa2xNS0RBSzR0amhrckNiZjJZek14NzZzcWpDU05vMm1tZ1F1X1FiUHBXNEFVZFRnTkZmb3luc1JqcjNvcENrZ3E1YWlXRU1LdU1DUUM4azkwMGt2TGRtdmlSTHZudDB5UmZaX29lLXExNnJnU2FtVEJ1WUtrR2ljdnd5ZWdqYnAz?oc=5",
+   "published": "Mon, 09 Nov 2026 22:40:00 GMT",
+   "score_parts": {
+    "recency": 0.91,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.623
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "「アメ車はこれくらい振り切っていい」大型ピックアップトラック『RAM 1500 Limited』日本導入に驚きの声！ - レスポンス（Response.jp）",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqaV9TcmpLNU44SXF2U0FUQWVQTDdFUHFPc251UG5DckxWTF9wWnV0bkxKT3hkOEo5YkhZdFNxXzhXSnRZakpYV0tCemR1N0VBZ0RVeFEwc3pscDl1MTgw?oc=5",
+   "published": "Mon, 09 Nov 2026 11:00:03 GMT",
+   "score_parts": {
+    "recency": 0.667,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.6
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "「アメ車はこれくらい振り切っていい」大型ピックアップトラック『RAM 1500 Limited』日本導入に驚きの声！ 2枚目の写真・画像 - レスポンス（Response.jp）",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5UOVpyTHlhWVl4eUVsZzEzekhYQ28zV3VSUzQ4MTRORnJxZ1ZkMTJFMzZ0bERqUzhrMkU0ZW9ySWViQjVUMUd3cHZzT0ZxTFpFdTVyTUtBVkRKcGlTekdSTlBXZWdnYk9waGVNWmNsMA?oc=5",
+   "published": "Mon, 09 Nov 2026 11:00:03 GMT",
+   "score_parts": {
+    "recency": 0.667,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.6
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "交通事故の軽傷患者が事故後8週間が過ぎても治療を受けるとして審査を申請した件数が1日平均570件に達することが分かった。いわゆる「ナイロン患者」の過剰診療を防ぐために導入した自動車保険「8週間ルール」.. - 매일경제",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sVUFCSnRNWTRfTXBBQm4yYkliSHJoa3NWaGwzV1dMa3ROVkN3eVNLYS12WFJiRVZCaUtMSko1REpjakI5RkR5eWU0TVhFNm9SOEE?oc=5",
+   "published": "Mon, 09 Nov 2026 00:39:09 GMT",
+   "score_parts": {
+    "recency": 0.451,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.585
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "【調べてみた】軽の「ターボ」と「NA」のランニングコストの差。車両価格・燃料代・オイル交換費用を計算したら意外な結果に - carview!",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeEtWSWtZdHd0NUhSQkVidy1CODM4RU1zYnFUYXBKUmRGRERHNEVxS0txX0dmbEN3R19HMGljSlVDc19WQld2dUNrOF9FWnZMMjJ5Y3VRMGsxb1lydW93WEJ3QkdnaWVON3RpMGI1MDJTN253UU8zaUY0RFlCb3l6NjA3anJRRkVxZmhiaV90Skd4NXJ2ZlE?oc=5",
+   "published": "Mon, 09 Nov 2026 23:00:00 GMT",
+   "score_parts": {
+    "recency": 0.917,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.575
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "newmoとKDDI、自動運転タクシーで資本業務提携 2028年に堺市で商用化目指す - 月刊「事業構想」オンライン",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdUlsWTgxREdzTFROLW4yblBIcGVzUVZIOGNYMDA1azcwWmNLMDZwVDlRWEI1aFZZaElnVXFBUEJfTnlaMkIzZHlqeFZZVzNkT3JJdWVTV2tQZkZCbWc5UlBQWldXZlFHdEpZWk5UeERwNUNOOWlmakdIWUtWZWJLaFFuX05Rdw?oc=5",
+   "published": "Tue, 10 Nov 2026 01:03:52 GMT",
+   "score_parts": {
+    "recency": 0.96,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.568
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "「見えない情報」も開示し、安心して購入できる中古車市場へΙ業界人インタビュー（グーネット） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaEQ0dlZjRlYzaVJMVDMxRkxlUmY5ZHhIOWNQTjBNNHBBa1JvRVNKb0l5VUx4SFUwNGprQ1MybjFMUE5yX2JTUF9iV2J5eGRrNkVsRkRZcmlGTGpNSTdhSC1hcDNVZmtRNzl6QUhqVnpESksxTWFERTg1Z3REdWpIcVFZOVh5Nkp4dTRQdTc1blIyZEl3?oc=5",
+   "published": "Mon, 09 Nov 2026 13:29:29 GMT",
+   "score_parts": {
+    "recency": 0.718,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.566
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "〈インタビュー〉全国自動車整備協業協同組合協議会、永島善樹会長 認知拡大策で加入メリット訴え - 日刊自動車新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBocUxmSUZNRnJjSkd6S29nWG5JU19obndDMXI2T2lmRzM4ZEt5dk5GczF6dU84aWhJY0dfX1ZMcjZndlN4ZGZCQ1EwajNNVDFpUHc?oc=5",
+   "published": "Mon, 09 Nov 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.854,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.556
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "11月10日朝のニュース：ホーチミン市は、労働者が古い車を電気自動車に買い替える際の支援策を検討している。 - Vietnam.vn",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcWZSQXgwSXFkcGpoWDRxXzRNVlJQSDREUGU1MVNBdm0zWHRUb25lUWk5ZEhQQVlqVHhMY2w4UEdoU3NDeXEyaVVuZk1YWmRSeHJuZEJpN1VkcjlyM3RFb0Y5dDllaTR0ejBtX1dFelltdXcwQXBtSHNrRmh4VWUzVktmeF9wdk1EemVEcm5pNUtwVzNHX2xSbUJRV0prdE43SjFsUlhmNU1zOTA?oc=5",
+   "published": "Mon, 09 Nov 2026 19:35:22 GMT",
+   "score_parts": {
+    "recency": 0.846,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.554
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "サイバーレッカーの金銭取引と実業家への脅迫を追う特番が放送へ - 미디어파인",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSGh2TzJBbDVNOGs2cVdKdE1SdUI1ajJiRkhOMG04ZklDZ0hvRTUzM1VKZzBSRE50UUVKdFpicXlIV0RkNHR6QWVqTlpqd3J3QldUV0ZMN2lJMXZLVjN6ak5uRmJxdmdoRl9pamxOZDVVN1NRMzFQUVk5ZFdmUVN3MU5tZHZ2eDdUNUZv?oc=5",
+   "published": "Mon, 09 Nov 2026 22:18:00 GMT",
+   "score_parts": {
+    "recency": 0.902,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.551
+  }
+ ]
+}
