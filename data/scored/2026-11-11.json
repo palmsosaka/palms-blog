@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-11",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 105,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "自動車事故の際、損害保険会社が提携法務法人(ローファーム)を通じて弁護士を直接支援する運転者保険「現物給付」サービスが拡散している。 法曹界は「弁護士を不法斡旋する素地がある」として特約販売中断はもち.. - 매일경제",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UaWw3ZzJrWC1YUExtRmtQa205NlBLdDVFdGpyeWJ6S0pVN3lLV1llb1lCTWRoSFFOcXEzUWJ6WUc5OU1lcVRiS1pCVzJmRzBMUEE?oc=5",
+   "published": "Tue, 10 Nov 2026 22:21:06 GMT",
+   "score_parts": {
+    "recency": 0.946,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.734
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「この510ブルーバード、走りが別次元！」SR20改と前後マルチリンクで武装したレーシング旧車 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16czFFczZIdTJfV2tiNms5Y29RbEZNWnlLV0FLc18tTlN3MVNlcDFLbWNnbG9NYTNFQ1JaM0pCYmllN1BDNVVlMXRUd0RlckYwb3A2aHROZFpYaHpma0FxNXpWZjRVQ1IwOVE?oc=5",
+   "published": "Wed, 11 Nov 2026 00:20:22 GMT",
+   "score_parts": {
+    "recency": 0.988,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.696
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【スカイラインスポーツも登場したの!? ポインターのベースは？】ウルトラマンシリーズを彩る劇中車たちの軌跡｜特撮／アニメの中の旧車（NOSWEB） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93YlFWOWVYdDRRdkdhZ2d1S3NLak9qM0RySXpWTTk3MEgtX1o0TGR0aUQzYVgtN0JnMWJVWThfYVhTMHU1b2tWX1ZwYS0zVmM1R01nUEd6OVhCWVBTNUFRNWE3QUF6blhWcXd6aFBMV3ZuZjZTTjJ3X3lYZ0FLb00?oc=5",
+   "published": "Tue, 10 Nov 2026 21:05:00 GMT",
+   "score_parts": {
+    "recency": 0.92,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.676
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "旧車の運転席でノートPCを開いてL型調律！ 日産「ケンメリ」6連スロットルと快適エアコン - Auto Messe Web",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tS1h1NzVJU0tlODlfOWk1QzlveHZqbExBQWtCLTFyQlhoVjJFUC1NY0ttMV9XOVo3ZDZURXhrWUpPaVBjWjU2U1Z4MWFGUVl0aW9yR2stWnJmUdIBX0FVX3lxTE14bGxuTVhaYzF1aTFiWUlENkFTaHRIOGRvc3BreU43WFdETzhfNmNzRXNpZkgwZ2hQSkZJakJfR1RxQkJqZU9DbW9GSm9PMTY2eUhlbkh5VGVFU2xhSVZn?oc=5",
+   "published": "Tue, 10 Nov 2026 21:00:34 GMT",
+   "score_parts": {
+    "recency": 0.918,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.675
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "電気自動車の車検費用、ガソリン車と比べて安い？ EVオーナーが語るリアル (2026年11月11日掲載) - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sc2l6TWZsbEtOdG9VYWJyZ0xTcHQwaGpia1p6dHg0aGliRmhVRW1BcENCYWFic0h6XzlsZ0hIMERWclZuM3oxTV90VENydEkwaXQwUmpjNHU0a0pVZkE?oc=5",
+   "published": "Tue, 10 Nov 2026 21:20:29 GMT",
+   "score_parts": {
+    "recency": 0.925,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.628
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "【速報】工業用水道管の取り替えに伴う工事の最中にあやまって上水道管を破損する事故　付近の府道３４号線で交通規制も　現時点で住宅の水道や工業用水に影響はなし　大阪・堺市 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PMzhqek9fWXJBZURZRUltQVF4NDVGc2ZISHh4ZllqQm1TOFVBOTF0TVEtMzdFMEtpQnA0VUhlZkFPVnZobHFwNElOMkFfNG9WNkVsbUE2WTlpV1dYTnFvRXpOeFJZVmFIQXNCMzhsSGtsX0lxVkZ30gF8QVVfeXFMTzNGZTJqWkhDYi1vNEtrSDN3Nm55VjBVUDZubmJoNTBqZElDUjhLLXc2NUd4ZUtsOFVIdERQdVg1Z192Z0FSOWVtQlBDdlc3LXZ5M2NCZFFEMGJBTzNkRUg2TEg2bmM4S2xYZjVTR3gxdFMyRjdjWjc1bHBIdA?oc=5",
+   "published": "Tue, 10 Nov 2026 15:59:00 GMT",
+   "score_parts": {
+    "recency": 0.814,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.624
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "【速報】工業用水道管の取り替えに伴う工事の最中にあやまって上水道管を破損する事故 付近の府道３４号線で交通規制も 現時点で住宅の水道や工業用水に影響はなし 大阪・堺市 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZXpHRHVKczk3bFlmeHBzaThXQm9vcHpEZDhiYmtpbHNpZmpGdVU3Mlc3NU1pTzFCVmtHQldoRGNPX1d4LWFCYnZDc1pqQUlVbkVhWGh5ZlYxS0taNmdSZ0hTQnE5X2Z4MVRuU3VUQ05Qc202MW01cXUxaUluOGhUUXBoQ0ZSVnpqSTdLYzZR?oc=5",
+   "published": "Tue, 10 Nov 2026 16:01:31 GMT",
+   "score_parts": {
+    "recency": 0.814,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.624
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "KINTO、旧車レンタカーに「初代レガシィ」 トヨタ車以外に拡大 - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNTXBPZEhZaFUxZFg5VkV0SHJDVmRXYTI2MGRnM09Ba3hUZkJOTm5CZmpRam04WVpRN2pJVGxIX2czeXVqWk5oWFBqdUhZLUN3OVVqbjNWeDRTRnU1UHlyWnRSeUY1Y3dmTHU5Tg?oc=5",
+   "published": "Tue, 10 Nov 2026 08:49:43 GMT",
+   "score_parts": {
+    "recency": 0.665,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.599
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "キント、Vintage Club by KINTOの特選旧車レンタカーに 「スバル初代レガシィツーリングワゴン」追加 - Car Watch",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XcDNqVkcyY1F3X2R6Wmk2UkFTWXpGZmZyM0ljRUlDdmwtcGVFVDlHNW4tcV9TY3pMOHdTMHRoODh6bzE4bUgzTVVvS3FfbkN4UGJLQ3VoRjR0bDdWd01Nejdsd3Y?oc=5",
+   "published": "Tue, 10 Nov 2026 07:58:35 GMT",
+   "score_parts": {
+    "recency": 0.647,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.594
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "キント、Vintage Club by KINTOの特選旧車レンタカーに 「スバル初代レガシィツーリングワゴン」追加 (Car Watch) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMG9EQzg5anFqeW9lMFY4Q0VRN3piTjFvejFTOVhrUlNuYTdLVGVvc2g4bVBZZHBEWVRSSGJSbVVpUzBhazRXZTZqVG5hYlJJM05WdmtiREpYSDl3WExwNlJ5X1Q4WloxaFBXSnpXUGxFbnFtTk1QYmFVdW9mR3FKTUJNNTFRbU1FUWkzMm53?oc=5",
+   "published": "Tue, 10 Nov 2026 07:58:00 GMT",
+   "score_parts": {
+    "recency": 0.647,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.594
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "初代スバル「レガシィツーリングワゴン」、KINTO旧車レンタカーに登場…トヨタ車以外にも拡大 (レスポンス) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZUdFRFRfY01JbnpwNmt3eGV4OUhxWElMVHB0bm80VUhoWXRIT0xkWE1KdWtBbXRMRWJzY3ZDWEhhejZ0ZjdlT19XT05jRlJua0YxMm5wVHR4eXJ4NGRXOGZVUHc3clV5WFYxc2dTbWpndVZnR0gzWl9GSEhyc1JSRDdIUmpyYmtVQjVNTlB3?oc=5",
+   "published": "Tue, 10 Nov 2026 07:15:49 GMT",
+   "score_parts": {
+    "recency": 0.632,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.59
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【2026年12月21日開始】スバル 初代 レガシィツーリングワゴンがKINTOの旧車レンタカーに！料金・貸出場所・魅力を徹底解説 - 最新自動車情報",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMElEVURsX0FvdGswOWpvLUt6VmVPZE1KdzdNVTFvdWJwMFhna2xXR0JMV2RhLWFQTlpXb2pzU3REUFh1YWJNUlA0SDdwTFpHR3BlM2paaTgzSk53WWUwVWFyX1NOTFhXS0xaQUU2R0JmS2QzamM3VW8yOWZDQVMtYnJyLXM4MVI3YWdBSDE4NHdVRFE?oc=5",
+   "published": "Tue, 10 Nov 2026 06:10:31 GMT",
+   "score_parts": {
+    "recency": 0.609,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.583
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "初代スバル「レガシィツーリングワゴン」、KINTO旧車レンタカーに登場…トヨタ車以外にも拡大 - レスポンス（Response.jp）",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IaEQyYWI2SmxBOF9EWm5BNGNBU25nTzVkN1p2RE0zN2xVZEFkaDBUT1l6QXpnTTFIVHhNbS0yaGRldmU4R2ZqZ3ZSenFlc2V6eUxsbDc5RHdFdFFXOVZn?oc=5",
+   "published": "Tue, 10 Nov 2026 06:00:03 GMT",
+   "score_parts": {
+    "recency": 0.606,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.582
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "初代スバル「レガシィツーリングワゴン」、KINTO旧車レンタカーに登場…トヨタ車以外にも拡大 2枚目の写真・画像 - レスポンス（Response.jp）",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43U0paa1pMa2NNQkpmWHZQVl9SWUdvODVrazZQVk9EdkttSmlfSmtXWWRCZUpwQWE5MGZBVU5iTFFjZTRwbE0zR0xzemtLbTRleDVQTk14c05DWFVkNTY3TG5xZ3FjMHBhTWNjQ1BuZw?oc=5",
+   "published": "Tue, 10 Nov 2026 06:00:03 GMT",
+   "score_parts": {
+    "recency": 0.606,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.582
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "初代スバル「レガシィツーリングワゴン」、KINTO旧車レンタカーに登場…トヨタ車以外にも拡大 3枚目の写真・画像 - レスポンス（Response.jp）",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nX21uUHJRUzdNb21HUTZRblJFQnA0b3FRVHdReVZZRDlPTjZNTmZCelJLbjdGeXVHREcwMEVKdHFIaGpMUTMtZFUtODB4ZXVzQTZtNHpqUHVuaUVvdExMd2lnUVFndWJma3VLVk8zSlVFZw?oc=5",
+   "published": "Tue, 10 Nov 2026 06:00:03 GMT",
+   "score_parts": {
+    "recency": 0.606,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.582
+  }
+ ]
+}
