@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-12",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 108,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "1950年代の旧車から、23年式の軽トラ・カスタムまで 80台の愛車が並ぶ長野・飯田「丘フェス」名車展示 - CAR CARE PLUS",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Qb20ydVZ0TmkwQjBobjdwNWV3emp0NUk4enl5blNoN2tSVlgwSm1SSHE3Tmd1dC1ZcERRTkk3QURGRWp3clVFcXJoLUU3Y0VWYTJRN0s2Wm85YTBGcUNUeUh3?oc=5",
+   "published": "Thu, 12 Nov 2026 01:47:51 GMT",
+   "score_parts": {
+    "recency": 0.995,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.699
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "未明に普通乗用車など5台燃える レッカー会社の敷地内「引き取りに行って下ろしたら…」 福岡（TNCテレビ西日本） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyOFpieHJjNUVwcXFpcnZicmltbzNSYUZCWXB5MFV2X2xLVGlOVXVfc2dHS1ZMeTVfV0tGZUVvaG84WTRvRU5HVHdka0RSUnZNc2ctaTdtVFY5RUVNeWJVQVZIWEhWNVU5bWRmdXhCQVdtVy1SbTNwR2NBZGVZMzQ?oc=5",
+   "published": "Thu, 12 Nov 2026 01:04:01 GMT",
+   "score_parts": {
+    "recency": 0.98,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.694
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "未明に普通乗用車など5台燃える レッカー会社の敷地内「引き取りに行って下ろしたら…」 福岡 - Excite エキサイト",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12bmZ5S0R1VVp1blZwMXV3UllLZm1heTI2OUp2OWYtcjFRQ3ZFYlR6c0tsNF8tZzU3U1N2eVpWSzV5dTgyUnVhVGNVLVdpbW54RHJmeDdGRmllMEFnWE9vbFJTMEduVUhGWEwxaFRB?oc=5",
+   "published": "Thu, 12 Nov 2026 01:06:00 GMT",
+   "score_parts": {
+    "recency": 0.981,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.694
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「旧車は我慢して乗る時代じゃない！」快適性に振り切ったRB25DE搭載の240Zが凄すぎる!! - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ua0pYN2xqQ3VrWnRkM095MTdiaXE2SWJGX2RLTlgtMGI2VkRIT2t3Wk1kYzZjS0Z2YmpoUVNJTEstajlKTFBOZjBjQkxydw?oc=5",
+   "published": "Wed, 11 Nov 2026 22:30:00 GMT",
+   "score_parts": {
+    "recency": 0.926,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.678
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "悪路でも頼もしい！輸入AWDコンパクトカーのおすすめ中古車３選 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBsd2hqQXVYSU51aFJwbHg2RVlKYXNObVFzcFA2ZGp5dDJvWjZKdmkwX3U0V3lubnJUTVNmREtfN2pUb2JabUI4YUNvNjZsRVppN2FzcEt5RWFxdWFfNXhpVnlZWC1jQkNHZVBta2VBM2NXY2hZUlNIdDJn0gF6QVVfeXFMUGx3aGpBdVhJTnVoUnBseDZFWUphc05tUXNwUDZkanl0Mm9aNkp2aTBfdTRXeW5uclRNU2ZES183alRvYlptQjhhQ282NmxFWmk3YXNwS3lFYXF1YV81eGlWeVlYLWNCQ0dlUG1rZUEzY1djaFlSU0h0Mmc?oc=5",
+   "published": "Wed, 11 Nov 2026 23:00:00 GMT",
+   "score_parts": {
+    "recency": 0.937,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.631
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "やっぱり車検が無いのが魅力的！カッコいい250ccクラスおすすめ10選（Webikeプラス） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JM0RWOU1VVTlFQnMzejl6aDRjM1FvY3VhLWFaanJaMDFWRWd3OGtySzFWUWE0RUx2dnNTMG0yZUx3b0p2c2d4VG41U3g2Zmh1QUV6b09RVW84Rkx0YmFGRGFzMWZGMkFIVXFTUDE4MGg5WEpUN19PZ3FxdlZMNUE?oc=5",
+   "published": "Wed, 11 Nov 2026 22:43:20 GMT",
+   "score_parts": {
+    "recency": 0.931,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.629
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "「新車は842万円から」のBMW5シリーズ→中古車サイトで検索したら…？走行2万kmでも付いた“驚きの価格” - TRILL",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mTDl2NHQ5cGZtRHNCYUU3UGtzZERQMVV1dHdQcHBFd3ZDUkV2TEVvanpnRHllRGhkMVkzRzkzRmxNRWNkYWRvVExIemJDcm8?oc=5",
+   "published": "Wed, 11 Nov 2026 21:35:00 GMT",
+   "score_parts": {
+    "recency": 0.907,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.622
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "米国の今年10月の消費者物価上昇率（前月比）は9月より小幅減少したが、食料品売場で価格が上がった品目群はむしろ増えた。 9月に並んで下がった牛肉と乳製品の価格が1ヶ月ぶりに反騰した。 自動車保険料も9.. - 매일경제",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGQzlJX2NMb2hLUjJJNFdXanktMTJ5dlptd3lGLWd2d1J0WGtZUDlNbENuU19XZVoyVGJITjVCSHFqMHJWbW84Q1BTT0JGczg?oc=5",
+   "published": "Wed, 11 Nov 2026 21:20:13 GMT",
+   "score_parts": {
+    "recency": 0.902,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.621
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【倒産】アフリカに中古車輸出で成功、“金鉱山”など事業多角化した「津梁貿易」に破産開始決定 負債総額約1億円【東京商工リサーチ】（RBC琉球放送） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1telVpTF94dW14clRmcEctdUl5cFZsU3d0ZXl6OFdETTlhcFkxZ0Nfek96ZDdhLXlSYXpRSHNWUTF1SDluc0Y2VXlRNUJ3dUhFZVlIT3ZvelQ3dnZncnpabUo4ajhPVmRfWW92YnBEV1ZoenFTUWRqbmdocVBIMUE?oc=5",
+   "published": "Wed, 11 Nov 2026 21:04:11 GMT",
+   "score_parts": {
+    "recency": 0.897,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.619
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "KINTO、SUBARUとの協業を旧車領域へ拡大、 Vintage Club by KINTOの特選旧車レンタカーに 「初代レガシィツーリングワゴン」追加 - 千葉テレビ放送株式会社",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53UTlEQTRsaUdXVzFoUENaYXRJUUlHSEFzUHM4eVFPeWtJXzRmcTh0eHRVZjl5R0pLSks4Rjd3dHpQdWFXdU84dzh1blU4bWpKRXUzTWNFSk1kVFM2a09r?oc=5",
+   "published": "Wed, 11 Nov 2026 10:47:28 GMT",
+   "score_parts": {
+    "recency": 0.683,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.605
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "ナフサ危機はいま 自動車板金塗装業者ではシンナー不足は改善も価格は高止まりで値上げに - FNNプライムオンライン",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TZHBYbHJZR3NyOE5zVHI2QlJYbHpQUnpVdXM4QWlwcGxzWlZLRXQzeW14dFB6V0czTndhWXc3OEZBT3ZndV83THQ5TEtqQQ?oc=5",
+   "published": "Wed, 11 Nov 2026 09:57:00 GMT",
+   "score_parts": {
+    "recency": 0.665,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.6
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「この510ブルーバード、走りが別次元！」SR20改と前後マルチリンクで武装したレーシング旧車 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPZmJlTk1QMWlYWFZIS2tDZlpNNHdWcy1YRXZCODVKaFBnVDlQbFJ0NHYxVWRtQm5kMkNOeHRYdDhoNlN1U2JsY3ptb2tWNDNVMzZrVHQySHNydlUzMGU1UmhINkh4QXBnaVE?oc=5",
+   "published": "Thu, 12 Nov 2026 00:19:06 GMT",
+   "score_parts": {
+    "recency": 0.964,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.589
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「14インチが帰ってきたぞ！」ボルクレーシングTE37Vの30周年モデルは旧車乗り必見の一本だ（MotorFan） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qTDZUcUJIMjBVMml0Nm8xVEFBQmU2aExHeDJ1YVdqN1I0c3NSNTEwTm5LNEcwYS1WNWhWY1dWQWFDcWVMM0g2UHRMNnktaHlZdllJakRIVUptSTJkRkZnR0R6cW93ZXV1S1NNSkd2OXBGT2JDQ3pHdlphcUp6eWs?oc=5",
+   "published": "Wed, 11 Nov 2026 08:00:00 GMT",
+   "score_parts": {
+    "recency": 0.624,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.587
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "中尾明慶、愛車3台を一挙紹介 “新規購入”も匂わす「もう1台欲しい車がある。どうしよう」（ENCOUNT） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYQThLY1dBdkQ2VU9zVXZKRFBFRnVsRjZEUmFTM1NxSEFYeFVJemFoaHlEaHhNWVN6cGFCcEhwR0ZjV0ZwNlVaU2pPSUNjNGhhWmpGT2N5MGR2azJFeW5zRGlZcEJxVGZZUUtQbThYOTE1SG14MGJPUGdHb01tQWs?oc=5",
+   "published": "Wed, 11 Nov 2026 21:37:08 GMT",
+   "score_parts": {
+    "recency": 0.908,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.572
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "初代スバル「レガシィツーリングワゴン」、KINTO旧車レンタカーに登場…トヨタ車以外にも拡大 - CAR CARE PLUS",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xQ3Y1UWJlbzdvekF6TllqY2FIQVM5LTg4Rml2eV9tdDlpcmRkVGlPU01iUkJhMHhMYVJWYW1YYXVpSVpKUUlFaWpYU1AwVXFQZXNnTDMtb25IczNPZmJJdjhR?oc=5",
+   "published": "Wed, 11 Nov 2026 01:51:42 GMT",
+   "score_parts": {
+    "recency": 0.497,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.549
+  }
+ ]
+}
