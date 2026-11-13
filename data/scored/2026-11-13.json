@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-13",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 111,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "交通事故で電気系統が故障→発火か レッカー業者の敷地 車5台が焼ける 福岡 - TVer",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YR3Z4WHpOVHdicDNZazF2UGFGZFFuTnZfQ0dTYkllTmE1U2ZxQ1RfNUVZUUNNcldCa0p5OS1jM1RjRnVtOExfUVdiZw?oc=5",
+   "published": "Thu, 12 Nov 2026 10:38:05 GMT",
+   "score_parts": {
+    "recency": 0.69,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.707
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "交通事故で電気系統が故障→発火か レッカー業者の敷地 車5台が焼ける 福岡（2026年11月12日掲載）｜FBS NEWS NNN - 日テレNEWS NNN",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPck5KMC1PbW9VY25Rdk5lZGkwdWxCX3VNWGZfS3p3X0N5R0RPVEtyQkxGQzE4YmhQVDkzeHpzQ0R4blJuZG1yUGstTjRWWjFCMlNYdGlUdjlnaEhZUm5TTzZmdHZmQXJwUU1fLWVaM1hQUmoyeDRQS2ZFRUhHTjRNYUlJQmgtTDA?oc=5",
+   "published": "Thu, 12 Nov 2026 10:04:01 GMT",
+   "score_parts": {
+    "recency": 0.678,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.703
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "交通事故で電気系統が故障→発火か レッカー業者の敷地 車5台が焼ける 福岡 (2026年11月12日掲載) - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81ZVFNb2FhdldyaW9CZlpRVFNsNkhLSjJOVXdVSE4tQWhQMmZnMWtMd2lKSnJMQ1kzUEs2ZFlLNlFDWHVmWlRGMlhEQzc2dzNJbXM3UzdXWmNyWTItTEE?oc=5",
+   "published": "Thu, 12 Nov 2026 10:04:01 GMT",
+   "score_parts": {
+    "recency": 0.678,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.703
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "【イベント】第3回FUJIOKA オールディーズに行って来ました！旧車、アメ車、バイクの個性豊かな展示車をご覧ください 2026.11.1群馬県藤岡市 - YouTube",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBBdEY3NWhuQ1M2aTZ5bGcwTnhCaXBwM2NwVmVPenFZU3dBd3N2dHk0OU1FU1NvX2NJeE1EQ3phSHdqdw?oc=5",
+   "published": "Thu, 12 Nov 2026 09:55:55 GMT",
+   "score_parts": {
+    "recency": 0.675,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.702
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【旧車と共にある人生】所有歴約50年、左ハンドルのケンメリと歩んだ半世紀の物語…カーオーナー・斎藤義典氏 - CAR CARE PLUS",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iMFRCZk1GakowOXZhdnBCaFhlYTgxdGJYWnZiQXhORUFiQ05iNmpWTVNMNXJPb3UwLXVhSTBQbkVqZl9BYmh4RkRpeDJYNzhJY2xKaTYzZ1NweGNFM2ltNDRR?oc=5",
+   "published": "Fri, 13 Nov 2026 00:14:43 GMT",
+   "score_parts": {
+    "recency": 0.973,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.692
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "「月収10万円なのに…」140万中古車を試乗もせずローン購入した20歳大学生→2年後、買取店で告げられた\"思わぬ査定額\" - TRILL",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SOGx5NE9zeXRUU29rOGtybG5rY3V0UGJBSmZkSGxsTTg1MV8tcnUtblRRTERGYlJpS2c3SHYyZlc3alBWNDlFaWs1SHRLbkU?oc=5",
+   "published": "Fri, 13 Nov 2026 00:46:45 GMT",
+   "score_parts": {
+    "recency": 0.984,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.645
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "「初回車検無料なら全部タダ」新車を買った40代女性→初回車検の明細を見て絶句した“思わぬ誤算” - TRILL",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fYXhGNnh6U3hrRGV0WFN6eWY2RF9uYl9tR3FNWFdWa0g3NEhMLUF3Ti1mUnFqQTh1QnlCb0RTSHRmSnBBcVg3bWotN1ZvU1U?oc=5",
+   "published": "Thu, 12 Nov 2026 21:35:00 GMT",
+   "score_parts": {
+    "recency": 0.918,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.625
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "ホンダ N-ONE（JG3／4型）をグレード比較！装備や中古車相場で見る選び方ガイド（グーネット） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMTQzQ1lTWUo4cnZVRUVZei16SDlsUjZWTmhfYjRKeERJVnlSZkxFUG5WS0dtNEJGZlVIdUx0NUFsNDNEMml1NlBFX0l2QXowLWNuQ0Q4ZmhVV1FNSy16dzB5R0VfdVBDRnlKNGJsR0loNmx0eDhTUGlSN3VuOURfdEwxUk02LW45?oc=5",
+   "published": "Thu, 12 Nov 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.864,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.609
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "レッカー業者の敷地内で車5台が燃える 故障車のバッテリー系統が原因か - Excite エキサイト",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kNi1kby1LbmxUOXMyMFdQUUZYZUNNVHotOVN0OXMyNHN2UFpFTTg0R1NESEVCUkpwZUZCYVhSRVNVUUpBbngtMk1lelhKSjRDY2lLdkVhanV4aXB2d2F1MHBMRzBjRWdwM0QzSVhB?oc=5",
+   "published": "Thu, 12 Nov 2026 10:41:00 GMT",
+   "score_parts": {
+    "recency": 0.691,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.607
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "レッカー業者の敷地内で車5台が燃える 故障車のバッテリー系統が原因か（KBC九州朝日放送） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnWDMwM1ZkX3hFcElLVG9lYVZmbl9DY0o3eW50WVlBMC1NSFc0djFHX0tTSktCbEtVVWJKR1J0dl85djZfWHpiUktOZWhQR2ZwaVBCajQzN24wUHpKN090aHJTQTdDZWdaSm1FclJHcEVQbWhHN2ZjRndDMGhVWXM?oc=5",
+   "published": "Thu, 12 Nov 2026 10:15:03 GMT",
+   "score_parts": {
+    "recency": 0.682,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.604
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "神木隆之介が乗る“幻の旧車バイク”の正体は？バイクからミリタリー車両まで劇中車徹底解説！【『ゴジラ-0.0』の楽しみ方】 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LRkZBd25HSnFHZWljeHUzZThsTldfclVWaXg4TlBTRzJLUUdsaFg2bFZlc25SZVowTElGNTBBUnJYQVZaWlZiOU9iVTdEdkc4TVEyS2JZTUFOR1pQdVZxeDZkZ1NfUURwdkwycjBwWDFDaW85Vl8xVEJ6b09hWk0?oc=5",
+   "published": "Thu, 12 Nov 2026 09:00:00 GMT",
+   "score_parts": {
+    "recency": 0.656,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.597
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "神木隆之介が乗る“幻の旧車バイク”の正体は？バイクからミリタリー車両まで劇中車徹底解説！【『ゴジラ-0.0』の楽しみ方】 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMUtLUWFxOEVXWnFYekxFRXhMODBxN2V1UE1rLUlDUXVaOHhScVc3SDNWNjNYSDhHZEtRNFhMRU81RTBIQzRRTEdwWU5nektpYnhZWEJNcGV5NmN1OUpaQy1FbjFnR0FOWlFvZTVjWjVZVVVQcElodDI1S0ZGLVFvaEVhcjF5enVTd0VBckVB?oc=5",
+   "published": "Thu, 12 Nov 2026 09:00:00 GMT",
+   "score_parts": {
+    "recency": 0.656,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.597
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "神木隆之介が乗る“幻の旧車バイク”の正体は？バイクからミリタリー車両まで劇中車徹底解説！【『ゴジラ-0.0』の楽しみ方】 - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wSGRieTBjYnlwcXNEQ0hCTThQRnBHcUttcnNUeDdYNGZlRGNLUFlMNXBnakx0WGVqaTBXUEkwamtFTlhwOVZlVWRjR1UzSElVQWZRU254QVdmQUZjUE1yQzVrTnh2U1Z6?oc=5",
+   "published": "Thu, 12 Nov 2026 09:00:00 GMT",
+   "score_parts": {
+    "recency": 0.656,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.597
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "レッカー業者の敷地内で車5台が燃える 故障車のバッテリー系統が原因か｜KBCニュース - KBC九州朝日放送",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQV0RxOUVmZGVNMDBrT1Vod2dzMlVlT1liWVYtbHh1eWJBb2JXQVpzSXZYT2xybHo3WVpXcUhqVUhxZlFyUjBXanNVQlZqM1F3UnlnY3I3cFptdG95c1FsLVBuSmVuemZZaXNsQ1hR?oc=5",
+   "published": "Thu, 12 Nov 2026 08:35:00 GMT",
+   "score_parts": {
+    "recency": 0.647,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.594
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「旧車は我慢して乗る時代じゃない！」快適性に振り切ったRB25DE搭載の240Zが凄すぎる!! - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TX1pmTDRWM2dlZjJrQ1k3UmxjVEo3YU5QOF80cmliRkR6alEycVBJQWRYTFo2N2hmRU8tVTlMREFWNVhYVXRGNkRkdGVGamNNOWM3V3hOcEJGelF5WXdmamxfcXVkQQ?oc=5",
+   "published": "Fri, 13 Nov 2026 00:26:48 GMT",
+   "score_parts": {
+    "recency": 0.977,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.593
+  }
+ ]
+}
