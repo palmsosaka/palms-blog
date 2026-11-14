@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-14",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 104,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "「事故で翌年の保険料が跳ね上がる」は回避できる？自動車保険に登場したネット型“3年契約”で変わるリアルな負担額 自動車保険を「3年契約」にすると値上げも事故の影響も受けない？年間5万円の保険料で“約4.9万円の差”が出る試算 | 概要 | LIMO | くらしとお金の経済メディ - LIMO | くらしとお金の経済メディア",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1vSEwyOEY2UThGc1FuaERsSWpZLTVYb2Jobmd3NXVPcG1yYkp1b0laTDQ2TlgzcWgxQ1ViaFZBYVR4TnhEWHpOUTA2NWQ?oc=5",
+   "published": "Fri, 13 Nov 2026 20:09:00 GMT",
+   "score_parts": {
+    "recency": 0.897,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.719
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "堺市西区浜寺石津町中1丁の泉北1号線で水道管破損・漏水 東行き3車線を通行止め - サカイタイムズ",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nWVVFXzBPOHRZMEcwQUlGOHVucDk4X0k1RklLQlR1VUJ4bGtfV2pMNzF6RGs5TGF6UjZ0ZzI4XzNPNkI0LWY3bFVVOA?oc=5",
+   "published": "Fri, 13 Nov 2026 21:00:00 GMT",
+   "score_parts": {
+    "recency": 0.915,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.674
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "海外への中古車輸出拡大、「堺泉北港」が川崎・神戸港を抜いて３位…日本製の人気を追い風に - 読売新聞",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WVzBtWU1EZEZ1WDVmeE9Hb2F0dDZUaEhmNVBGeFNlR2NGNUVxUmhTTFJ2UFhnbGlrcmJ3aVdtaGdURmtIblJaVkhlX042RUVkQ2J0dzY5b0tUaXl4TnIyVGdMT1A5UkJlN04xeXY5RjBWZw?oc=5",
+   "published": "Fri, 13 Nov 2026 06:00:00 GMT",
+   "score_parts": {
+    "recency": 0.602,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.631
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "「マジか! トヨタの本気がやばすぎる...」巨艦アメ車の国に「日本の軽トラ」投入へ! デカくて高いクルマに疲れた米国で独自戦略を力強く推進 - 株式会社モーターマガジン社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BTkM4Uy1KTXR4a2hJemJjc2ViaUlYYm1WYU9SWV9Xd2RlcTgyWUlsSTVoT2htZHRLRmwyQXF6UzExYV9PNjZfQTFhMU1kSmtOcjJlbDhrODVKV3RRM3c?oc=5",
+   "published": "Fri, 13 Nov 2026 10:59:31 GMT",
+   "score_parts": {
+    "recency": 0.706,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.612
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "大阪府と堺市の食費支援事業で不正アクセス 申請者のメールアドレス漏えいのおそれ - サカイタイムズ",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02SkJINXRKdTRTUDREWk40MDBDTmE5MEw0MGxxUkQwVDc0MWJYenlyVkVGMGlNTFZfQ3pBMWhPak1hekpwVElKamhScw?oc=5",
+   "published": "Fri, 13 Nov 2026 21:00:00 GMT",
+   "score_parts": {
+    "recency": 0.915,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.604
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "「マジか！ トヨタの本気がやばすぎる…」巨艦アメ車の国に「日本の軽トラ」投入へ！ デカくて高いクルマに疲れた米国で独自戦略を力強く推進 - Webモーターマガジン",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1WVUNyb3I3M0s3SFUxMEJVWlpUVi1DcnY0NW9XVjFyY1NBUUxxOW9UUDdDX3NMSEktazhBdlhZcHpQZk1xWkJuY19Hbm43WlVPdTV0RnE2RQ?oc=5",
+   "published": "Fri, 13 Nov 2026 09:07:00 GMT",
+   "score_parts": {
+    "recency": 0.667,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.6
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“アルファード2．5S Cパッケージ”2020年式ホワイトパールクリスタルシャイン入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR1drMHNxX3NBWlF6ZFJ6c1Niei1HNWt5NWJwVU5kZE5CZXlaTFZUWncxSzNBSjlzbEwwTHlpTmJ1Qy1vcmdnNmNmZ0hvWmI0azgwMVZnd2RjOEpJTThfLXhRQlZhTnVvNnpYRFQzSU5wd2RyZFp1VXdqTnpBbzRpeF9Taw?oc=5",
+   "published": "Fri, 13 Nov 2026 15:39:26 GMT",
+   "score_parts": {
+    "recency": 0.803,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.591
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "N-BOXがヤリスに負けた!? ダイハツの復権・アルファード即納・ライズの圏外と激変の10月新車販売ランキング - ニコニコニュース",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTTVYwQm92RV9LdHdBX0J1TXQtVVkzZUxnTjlwR1J4V08yLTlMUVhiVHlYQXpvLUNSQjB2WDMxdGZxRXVxekVDbWw2a1NON3FYeFJtbU1VVHY1SlYzUUc1bHczOVRuVnpCUFVicmozUTh2cWtja0xGdkNYRQ?oc=5",
+   "published": "Fri, 13 Nov 2026 23:03:16 GMT",
+   "score_parts": {
+    "recency": 0.957,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.587
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "斬新「“丸目”プロボックス」が凄い！ レトロな“旧車デザイン”＆懐かしの「ケンメリ顔」がめちゃカッコイイ！ 商用バンなのに「上質インテリア」も魅力的なキャルズモーター「マリナコンセプト」とは - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS190U0hqcVRULVMwM1c0b2tLQWFqR19KSVMxTDNvVXlLQklObVVZd3piNW5JT1hmNm9zOGVNN2xmTmVObG9vZ25YT1l0b280VlVVODVvS3JwalJKdU5QY0FvNFpsWXdWaE9kRU1ZZ1Y2dG5SdUx0QWZGaV9qUm9nU3FkS1JSQdIBhgFBVV95cUxQS190U0hqcVRULVMwM1c0b2tLQWFqR19KSVMxTDNvVXlLQklObVVZd3piNW5JT1hmNm9zOGVNN2xmTmVObG9vZ25YT1l0b280VlVVODVvS3JwalJKdU5QY0FvNFpsWXdWaE9kRU1ZZ1Y2dG5SdUx0QWZGaV9qUm9nU3FkS1JSQQ?oc=5",
+   "published": "Fri, 13 Nov 2026 06:30:00 GMT",
+   "score_parts": {
+    "recency": 0.613,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "斬新「“丸目”プロボックス」が凄い！ レトロな“旧車デザイン”＆懐かしの「ケンメリ顔」がめちゃカッコイイ！ 商用バンなのに「上質インテリア」も魅力的なキャルズモーター「マリナコンセプト」とは - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlRFF0bmdJYnljZ2ZpYkF3aTU2WTZCa2NZUHFrdExJY1lXUnZGSkJlczROX2FiUjRfQ1dhb1JDUWZ3QmdXX3NhLWdmaTdqOUxJQVExdmJMX1N0aDNHSlBJ?oc=5",
+   "published": "Fri, 13 Nov 2026 06:30:00 GMT",
+   "score_parts": {
+    "recency": 0.613,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“デリカＤ：５G パワーパッケージ”2019年式スターリングシルバーM入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTUdTSTVUU3BqamtuRnU3ZWNSRTJRQ1FPTmtYTFUzdGoxc0YwWmp3dExZSjVuOGRXT2tKM052QnpoeXZOUXRRTFQwOVd3OHFtMUlqV3BBNlRsVXlkNWgzWk9BU3MxbF82QXNvZ2x3WG13a1NVWFdNcjVrN1BiXzNLajV1ckw?oc=5",
+   "published": "Fri, 13 Nov 2026 11:31:18 GMT",
+   "score_parts": {
+    "recency": 0.717,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.565
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“アルファード2．5S タイプゴールドⅡ”2021年式ブラック入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQlZwMFBOVG9oX25MZmdXYksyNGp4VWY0MmdlVFpfZkpiNHpzcDZnR2JEakR3WWtLOXFtZy1yMDgxb2o2UVVYdzdXcUpYXzM0Vk5nT2Ywa0lnQkNkd3FxdnRvaEFRam1udDZDOU9FVVNhb3UtQ3IzS2JCOTFmY0JBZUp3?oc=5",
+   "published": "Fri, 13 Nov 2026 11:06:43 GMT",
+   "score_parts": {
+    "recency": 0.709,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.563
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "11月15日午前8時から阪神高速湾岸線などで交通規制 堺市内を通る区間も対象 - サカイタイムズ",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0bjhnNDNsSzhVYnVYNlY4M2hkWnRhSkJLbXBJVmJ4U0t5SjBmMUVQSEtJNXRfN3FjWGx0bDl1RlBTWVpHbVo5eDdpWQ?oc=5",
+   "published": "Fri, 13 Nov 2026 21:00:00 GMT",
+   "score_parts": {
+    "recency": 0.915,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.554
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "堺区で11月14日から「橋わたしフェス」 13店舗・施設を巡るスタンプラリー - サカイタイムズ",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Tc3lZLVFub09DcGZoQmZhcEZTOVJXbWVRTUhoS0lCV1RpNGlSc0psRzNkbXc5UWVTZTV1emZUamliQnhSTDJ5MXhaTQ?oc=5",
+   "published": "Fri, 13 Nov 2026 21:00:00 GMT",
+   "score_parts": {
+    "recency": 0.915,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.554
+  },
+  {
+   "source": "google_news",
+   "query": "堺 交通",
+   "title": "堺市中区深井清水町で女子中学生が男の腹部へ絵を描かされる被害 11月13日 - サカイタイムズ",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fYm5qckh4ekMyTFZGTDFNdUlGTWN3MGdPQ3RpSzlxZjVzbXFYTmh2clI4TmRrNzk4a21QcG8zd0I3SHBXVzRXbkx0bw?oc=5",
+   "published": "Fri, 13 Nov 2026 21:00:00 GMT",
+   "score_parts": {
+    "recency": 0.915,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.554
+  }
+ ]
+}
