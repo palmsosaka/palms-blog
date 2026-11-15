@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-15",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 93,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "2027年に100台限定で日本初上陸…ド迫力アメ車に夏森ひじりが大興奮「こんな車に乗っていたらめちゃくちゃかっこいい！」 - ENCOUNT",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwSHdXRC1mZW5aRVNzRUktSWpHS19ibDFIYV9Jc1ZveTFFdXlNOWFOek5vRVFiOWVHM3pyVDdfcEVLMUtjSy1CT0xMTFBnaHJfbUEw?oc=5",
+   "published": "Sat, 14 Nov 2026 19:35:24 GMT",
+   "score_parts": {
+    "recency": 0.899,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.67
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【中古車テスト】スバル フォレスター（5代目）：悪路に強い「2.0ie e-BOXER」は買いか？ - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORGZxdVdydFhMT0o2anVGR3FudW9MOTdYM0U1eldfQUVrUUN2Tm5TMi1LS1N5NlFQNDJ4ajNaTG5SMm1STnpZUVd2QVhnS1RKVVVFTGZPbUpwbGFlX0VXZG9mbUhnV3ZFRDVGWW1STkRWejdhY3dycnc3cGxzS3lUSmF2LVFxVHIt?oc=5",
+   "published": "Sat, 14 Nov 2026 23:50:00 GMT",
+   "score_parts": {
+    "recency": 0.987,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.646
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "月に数回しか乗らないなら、車を持たずにカーシェアのほうが安い？税金・保険・駐車場代を入れた年間の費用で比較（LIMO） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40NUZTV2dqUjEwSzZtVHVqSDU2X0wtUDJGdDlMMk9nMzdHSW9iMU1OdC1VVEVWa1ZrNkpaMWVGVGZ3dGhCR0FtOVM2YjRXOVhBUlQ0TXU2Wm5yTTJPdHZMNThRRFZDeVJqdmdGNFpIVHFHSi0xRUQxMnMwaTlSSXM?oc=5",
+   "published": "Sat, 14 Nov 2026 23:23:06 GMT",
+   "score_parts": {
+    "recency": 0.978,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.643
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "2027年に100台限定で日本初上陸…ド迫力アメ車にモデルが大興奮「こんな車に乗っていたらめちゃくちゃかっこいい！」 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtcEd5Y3Q1OHBBTUN5Q0dWWTJ1Wm13b2x1am9BMGNNazAxUVEtTHU0ZEVUb3RaUklnMmpTcm5RRmlaS2IzZjh3OHBfcTBVcWdwTHVqb25zRWdMUW1KbFdpREktVngtSjhidGx6Q3NHM2J6TEMwN1RJOGlhS1ptZEk?oc=5",
+   "published": "Sat, 14 Nov 2026 13:10:00 GMT",
+   "score_parts": {
+    "recency": 0.765,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.629
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ベストセラーミニバン、トヨタ ヴォクシー（80系）中古車購入ガイド（グーネット） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNngxNUJ0TmtrTEl2TGU3Z2lzVXdYRTgxS3RJMktNT3F1UGVMbHJjTXFPbjFzN1dRRlh4YnpuZTBHRE9wcGRFb3JIeDA4LW40RU8xVXg3V2V2THhiN0tJQkZzbTdwbkYzMTFaZ0Nlb0w2MHZJeGI1QmRGdGk2dEJtMTZWMlp3UDZv?oc=5",
+   "published": "Sat, 14 Nov 2026 18:00:00 GMT",
+   "score_parts": {
+    "recency": 0.865,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.61
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "クラシカ横浜店長の上村恭介さん1週目！旧車のロマンを語る - TBSラジオ",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10QjFjRFZYbk1ab0w5YTJ1dTVBd1ctVklGWUJwX2tKYkhLemRIYWdKZ1pqb1Q0UnlPUUpFS2pkTldEMVRDQk5ZN2lwemxDUkJEX0E?oc=5",
+   "published": "Sat, 14 Nov 2026 08:30:00 GMT",
+   "score_parts": {
+    "recency": 0.668,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.6
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ステップワゴンスパーダ”2025年式クリスタルブラックパール入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9abnQzdHpsMm5UeXczVXQxQ3YzdnF3UHd3UWhKWXUyeHc0bllKUHh2SkZIQnBaNlUzbXBZZmJXVTZISm52dUY2Ylo0SmlzQTVKbTRaSGtEbWVidGhMS2hQMS1PUnp5ZC13RU5QNGp6aTBHRkpXZ0owUEs5aGJINEE?oc=5",
+   "published": "Sat, 14 Nov 2026 15:25:07 GMT",
+   "score_parts": {
+    "recency": 0.812,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.594
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "デンジャラス・ノッチ、“昭和51年製”旧車バイクの納車を報告 フルレストア済みの極上品「鮮やかなブルーの色が味わい深いですね」「カッコいい」 - 山陽新聞",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByVkw0RUVNUFJaQzBqaFgxcWN6cmd3QVphbjFEZGktdG54VS1CME13OXM0Qzg4UUY3bzdYcUdjV2pLYVgzUk9MMkFzeFdlQmtCU25oQ2NVWDduX1F4eUN0aHJFX3JMRGl3TW5DMTNFYVRUcjd6?oc=5",
+   "published": "Sat, 14 Nov 2026 09:34:21 GMT",
+   "score_parts": {
+    "recency": 0.69,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.557
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "ベストセラーミニバン、トヨタ ヴォクシー（80系）中古車購入ガイド - www.goo-net.com",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Wa0lMeGpac0xfTldVRnhWR1hEVlZnQ0R4QnR5b094dURzMHBrS3RrSWV5T1hiZ2RQZi1kQ2JMZE5MMF8ydTRGbnZPbEQzdWJNM1RMNFJ4b3o2dmlaZlFfTWxCVVpBLTllQW0ydl9Fdw?oc=5",
+   "published": "Sat, 14 Nov 2026 09:00:00 GMT",
+   "score_parts": {
+    "recency": 0.678,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.553
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "旧車イベント情報 - YouTube",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pcnhNb1Z5VEM4aFJXaVFoYTZsdVE1dXV1VEJheFpEaU1KajdwNS1lS3Zhd25tMWtTMVU5VzV4azdGM01xc19aczZWc1ZGM0xDNURiOWNNQ0xrQ2Nq?oc=5",
+   "published": "Fri, 13 Nov 2026 23:14:55 GMT",
+   "score_parts": {
+    "recency": 0.475,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.542
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "自賠責保険料が11月から上がり、自家用乗用自動車の24か月は1万8560円に。軽自動車と原付はいくら上がった？（LIMO） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ydEl1QkxTcEFfTkxOenZBWHZXTWtOZ1h5RE5fandvMnhnQVFkTGxjLXk0NnhLVkhJTDZ3M2REVnM1V3V3Q2s1QXFCTnktenVvblpjMXp4eS1hOUNOaHcycnpuak1oczNhZkluSlc5blB3SzJnaG1UcWtDcEcxT0E?oc=5",
+   "published": "Sat, 14 Nov 2026 06:35:54 GMT",
+   "score_parts": {
+    "recency": 0.628,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.538
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "日整連、AI研究に着手 整備情報の学習でファイネスの機能向上 故障診断への活用も視野 - 日刊自動車新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZaU82V0toRHpPdXg4YkMyWGtrdVJ2ZGdKUXU1VkxPWVRzNUZJTDJybXFqQXVYZ2N2SklVc1pLWWEtYzNQM0ltRnJnMS1OcEc3Y0E?oc=5",
+   "published": "Sat, 14 Nov 2026 11:30:02 GMT",
+   "score_parts": {
+    "recency": 0.73,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.519
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "レクサスの頂点に立つフラッグシップセダン「レクサス LS」とは？｜性能や特徴、新車・中古車価格 - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Ka0I1MWQ0dVB4VGRDd2c1c2lpX2NVaFk4SkpHRlpmbFdMV2ZhVzJmWXVyTkdMTy1jTlprT2VJRC1CMkhraWtqWWwyV1FMczVLZkxyNTRVSjFET1FZVDlmbEpILTk4X1U?oc=5",
+   "published": "Sat, 14 Nov 2026 03:08:45 GMT",
+   "score_parts": {
+    "recency": 0.556,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.517
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“タントカスタムX トップエディションSAⅡ”2015年式ブラックマイカメタリック入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSdS14aGFrSW16WHN6enoybXM4SWg3YjVja205dUJpUVN6QlQ0Ul9Nc0ktMDBWQUZwQkt1U21pc25ENFVudGdsNmRqMVNPY3RhRW9XWTVDeUdlRjVWWjZXRDdxUlJaNGtKS1Z4TEtlZFZ3d3lLQldMRS0yNlFhcW8?oc=5",
+   "published": "Sat, 14 Nov 2026 02:31:15 GMT",
+   "score_parts": {
+    "recency": 0.543,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.513
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "公正取引委員会、ホンダ茨城南に下請法違反で勧告 車両1014台を無償で運搬 ホンダ系で初の勧告 - 日刊自動車新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzSDRSMWpmQ2xOTjZyU2ttbkc2ME9HaXJMUXVXd0Y5YW5TM2dVOEg5ZHRReWNLbWQ0RDQ5Q195RE9sRVYwbE5PWTJRRnA0TzJ5anc?oc=5",
+   "published": "Sat, 14 Nov 2026 10:18:37 GMT",
+   "score_parts": {
+    "recency": 0.705,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.512
+  }
+ ]
+}
