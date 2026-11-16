@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-16",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 102,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "「出入り口をアメ車がふさいで写真撮影」「エンジン音が絶え間なく」松田翔太の“交通違反”トラブルを住民が証言 パトカーも出動する事態に（デイリー新潮） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83c2hoM0lnUG1xeWZ4bllqa05kNmhHLXlkelV0bWpxbjBkRjZzVWEtOThuX1dtLURZb3NFdVZ1T0c0eTZqcklfZVFVd3FuZ2JNTk14RGVGcThZZ0JPZmRJZWxVUTRlUmoyS3JQRmJXd01MNEpiaUNfUmVQQl9GMlk?oc=5",
+   "published": "Mon, 16 Nov 2026 00:11:02 GMT",
+   "score_parts": {
+    "recency": 0.994,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.698
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "祐徳稲荷神社の門前商店街に旧車約40台 鳥居を背景に展示 鹿島市で「なつかしCARにばる」 - 佐賀新聞",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83TW9UY1Rqdk93em9obHNzZkZFMndUd3FlazliaUd5TmVGV0NJVE9pWUFqVFRMWXg4bmg2aGRuMEx3c3hueG9BZEFFT1Q5RWQ3elpiMlhn?oc=5",
+   "published": "Mon, 16 Nov 2026 00:00:00 GMT",
+   "score_parts": {
+    "recency": 0.99,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.697
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "「アメ車、デッカ」 ＳＵＶ納車報告の女子ゴルファー「ブロンコくんと旅をするのが楽しみ」と運転席からサムアップ ＳＮＳ「さすがスケールが違いますね」 - デイリースポーツ",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yckF5LUxlSTdpNTYzWjhxSG1UaGVnUkZ4Y1NvT2tMY3dFeExxYlFZOElVcVdDWVJWTHlHY3U0N1hKZTdYNFI5TGZqLW5iZ29EN1N3YWpiTzhMNjk0cXRUWndNTGlxY28?oc=5",
+   "published": "Sun, 15 Nov 2026 23:26:00 GMT",
+   "score_parts": {
+    "recency": 0.979,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.694
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "「アメ車、デッカ」 SUV納車報告の女子ゴルファー「ブロンコくんと旅をするのが楽しみ」と運転席からサムアップ SNS「さすがスケールが違いますね」 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05M2RicXA2WnRZMF9LSHBiWEYySUZRbEdnM2g1M2Zld1ZEWkd0R3RHbDdod1dmY0FxWEgySERtelpPVUNTSXJtaWZqbUV6SXZwTjE4elB2NDZQMnhmZldJYlVHNncxcG9DMmlNczVB?oc=5",
+   "published": "Sun, 15 Nov 2026 23:26:00 GMT",
+   "score_parts": {
+    "recency": 0.979,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.694
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "「アメ車、デッカ」 ＳＵＶ納車報告の女子ゴルファー「ブロンコくんと旅をするのが楽しみ」と運転席からサムアップ ＳＮＳ「さすがスケールが違いますね」（デイリースポーツ） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UV3UyanFxcTlBa1B4c2hYei1GVnJYaFBBc2dQSUJqM0NrcUR4cmRKcVg5UTVLRndqWWJDMUhpZTJrNVVoLWljbmVuT2pNdFA3dVNXOWViZXlGZ2JscG1CR0U5bjBlQ2pUeS1ua2RRVDNfbFBZdThYdmJaVnJNSjQ?oc=5",
+   "published": "Sun, 15 Nov 2026 23:32:52 GMT",
+   "score_parts": {
+    "recency": 0.981,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.694
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "自動車保険を更新する時期になり、保険会社から年間保険料が2万円上がると通知されました。事故を起こしていなくても保険料は上がるものでしょうか？ - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HNG1IMlJqc3RiclV1MG0xNWtDLV9jQjgzbDFaYUNHYmJUUUZoYjdDWDNHS0dMZEtXTVRxVTRaMmtjY0dsZEhJR1B5dGZhYXVMN2pFWHRIaHRhZDlIUWhN?oc=5",
+   "published": "Sun, 15 Nov 2026 15:24:30 GMT",
+   "score_parts": {
+    "recency": 0.812,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.693
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "中尾明慶、バラクーダやハーレーなど愛車のバイク＆アメ車披露　「選ばれる車もバイクも全部かっこいい」新チャンネルに期待の声 - リアルサウンド",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5SjVtOE5fa0gyNUpkWWxNeUwxbklpTHo1SmxUVTJBeGJtSWFmbkR6Rll4dmNya3FSUkxybFBBaXREdnpMWGhNM1dhWHVuOTdVUWdadXBHNzRacWV2TUt2Q9IBZkFVX3lxTE9ZY2RmWEw5aWpFM3Z5dzlwYVZNcXFmR1pvYkhvZERpQ2lXdm9fSUVSeFY3RTdfa1ZJUG5UVFM3MGFCWEVua2sxRW01R0tyd0Y3cmdpbE1lRnAwdWV4Qk5BekJvV3dmdw?oc=5",
+   "published": "Sun, 15 Nov 2026 21:50:34 GMT",
+   "score_parts": {
+    "recency": 0.946,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.684
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "アメ車の直線番長は昔の話！ ドリキンが驚愕したMR「コルベット」の異次元ハンドリング【土屋圭市 峠賛歌】（WEB CARTOP） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JX1FyaUhkNkIwWllFMFdoRWdBV1FYZ25jQnZ3RGhyMEhjVFg5ZTBremlJczlKbmdFSmo3ZXFkOXhXWWJ2WXRObzBmWFh0OFh1VEFpSmF1b2VVRHp2LTM1ZE1JNG9LRjcwMkdIdFVvTHV2YVRrVVhpeHl1UWQyVms?oc=5",
+   "published": "Sun, 15 Nov 2026 21:49:08 GMT",
+   "score_parts": {
+    "recency": 0.945,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.684
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "元“青汁王子”三崎優太氏、愛車『ポルシェ』で事故「停車中にフルスロットルで突っ込まれた」 お互いけがなし - 山陽新聞",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZVUUxbFZ3a1pfSjFwSUotcEhUVlh6dGd1V09hdXZiUXYtZzIxcXJYN2hVTU5oZmplUHBjVDYzSjFHalFQeGxFYkRLMmNKeGZMUUdQb1hCUkVHWHlOZ1RxSU5IT3NZM1pWYWRwSg?oc=5",
+   "published": "Sun, 15 Nov 2026 21:30:32 GMT",
+   "score_parts": {
+    "recency": 0.939,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.682
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "アメ車の直線番長は昔の話！ ドリキンが驚愕したMR「コルベット」の異次元ハンドリング【土屋圭市 峠賛歌】 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MWlVhWmxnUENkUzlUSmZhMjJIR3ZPemFhZDdERkZ5bTdTcDl1U1hjbGJVX21HUGx1YWM4ZFppZVVVaHBqMzJ4WTBkTTBjandULUJYRnh0Zkc4ZGRfOWc?oc=5",
+   "published": "Sun, 15 Nov 2026 21:30:09 GMT",
+   "score_parts": {
+    "recency": 0.938,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.682
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "映画ワイスピのアメ車から着想のガンメタ塗装！ 180馬力に鍛えたトヨタ「カローラレビン」 - Auto Messe Web",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSMDFseVRXRmV4UkRTX0xBaklGZHhfM3dESmJNZ29RYmU2MGdDZ0JwZGhEVHZYUC12ekZRa1FGem1rWk1UZTVCb2VIb0drS1VkZ0FYdUVCcVVRdGRSZ3pF0gFfQVVfeXFMUFIwMWx5VFdGZXhSRFNfTEFqSUZkeF8zd0RKYk1nb1FiZTYwZ0NnQnBkaERUdlhQLXZ6RlFrUUZ6bWtaTVRlNUJvZUhvR2tLVWRnQVh1RUJxVVF0ZFJnekU?oc=5",
+   "published": "Sun, 15 Nov 2026 21:00:23 GMT",
+   "score_parts": {
+    "recency": 0.928,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.678
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "「ロボタクシー」事故の責任はメーカーか乗客か？ 法整備と自動車保険のいま（ベストカーWeb） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOEw2cklWQS1YbGsybnAzbE5NVTdnS3VCNl9zd0NFMXlTUGg5SGVSa1BtRWVHMllWOUJoWEZJQnc4QWdLd05TMnJxRGpjUGFUVnc3eHNOTW9BM3pSay1UM0hoYmRZQThxOEZ2YmlZdXQ3N2xEQS1TTTRxaU05NUpkOEJmMDZvQ3Vs?oc=5",
+   "published": "Sun, 15 Nov 2026 07:00:00 GMT",
+   "score_parts": {
+    "recency": 0.636,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.641
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "デンジャラス・ノッチ、“昭和51年製”旧車バイクの納車を報告 フルレストア済みの極上品「鮮やかなブルーの色が味わい深いですね」「カッコいい」 - 山陽新聞",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByVkw0RUVNUFJaQzBqaFgxcWN6cmd3QVphbjFEZGktdG54VS1CME13OXM0Qzg4UUY3bzdYcUdjV2pLYVgzUk9MMkFzeFdlQmtCU25oQ2NVWDduX1F4eUN0aHJFX3JMRGl3TW5DMTNFYVRUcjd6?oc=5",
+   "published": "Sun, 15 Nov 2026 21:03:01 GMT",
+   "score_parts": {
+    "recency": 0.929,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.629
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ＤＳ３クロスバックトワ・ド・パリ”2023年式シルバー入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX2FuZ3A2eHZBdm5RYk5OTWd2bmJndnJ5MDF6MXBwekk2ekZHUU1RQnp6akNUVlgzVWF6R0RjU05XSjdGWnpkNEF3aGw3SnRaZUlRU2t5WWI3b0Rna3FBMzhFTlNYcTZXbmhleU1DdjJKb0doVXhTOFJzYlZOVDRRU1V3?oc=5",
+   "published": "Sun, 15 Nov 2026 20:05:25 GMT",
+   "score_parts": {
+    "recency": 0.909,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.623
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【旧車と共にある人生】左ハンドルのケンメリと歩んだ半世紀 - レスポンス（Response.jp）",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9laDU1djJxOVo5bWtXXzEtQ2xyT1ZxTjBlVDVESjg4dG5jODJxeFJGSVBaNnZlTWUzclh3LS1YNzZkUzJUTEFmUi1faGxTZ0RiVVY0X0pXRlQ1VFlzNjFDWm53?oc=5",
+   "published": "Sun, 15 Nov 2026 09:00:02 GMT",
+   "score_parts": {
+    "recency": 0.678,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.603
+  }
+ ]
+}
