@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-17",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 89,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "国内トップクラスの流通量を誇る「N-BOX」のリアルな中古車相場をデータ可視化。愛車の適正価格と“相場急落の節目”が登録不要でわかる無料シミュレーターを公開 - Excite エキサイト",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56TnNIN2MxRFpwVXdQX3hoRU5JdWV3US11MEhid2p4dWhrb0piNU9rMlE1MWt4OEJQdVh5eUZnMjlpclZheDA3VklUaXVUOWlhQVdNUlJjRUJEaFJfd1YwN2l0a2o2OGhoT0wxalVHNG1odnM?oc=5",
+   "published": "Tue, 17 Nov 2026 02:15:00 GMT",
+   "score_parts": {
+    "recency": 0.979,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.644
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "超・希少車になった日産「ウイングロード エアロエクスプレス」 AOGミーティングで発見 「苦労」重ねてレストアした1台 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jOFppeFZDSFhkUW13ZEwwMUZoSWFiRGFTQkRhaERWSXkzNEw1SlVnSExYcXJMbTdFS3ZfQ194ekptLUpWaUd3T1V6Rzk5Zm5xcFZIT2N3NlZPT3N1SFZXU3lzZXZNOXJZRFhldFJsOTYtSFJOZUVVUGFIYmZTMUk?oc=5",
+   "published": "Tue, 17 Nov 2026 01:10:00 GMT",
+   "score_parts": {
+    "recency": 0.956,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.637
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "ガリバーつくば研究学園店の店舗ブログ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU0RIZzhWLUIyR0QyQ0JUQjFyUG5IaWFPS1BtcjBmWXN1akJWdWJBaVExRW93TTlCcWUwc1l6QmREY29vR2ZOTTFxdXdxZFZaYmhCRUdMeV9fcXI0UDBTS0ZPXy0zM2dkaUI2cUl6WVM4UndzWUdRUXVyLV9HaTM0MjRn?oc=5",
+   "published": "Tue, 17 Nov 2026 00:28:58 GMT",
+   "score_parts": {
+    "recency": 0.942,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.633
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ルーミーカスタムG－T”2018年式パールホワイトⅢ入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa3owNWdYWFZHSlVfWUNVOWthNTZsVVF4LWRPSFlJY1VENlZySHV5a3cySUFCcEVCbnFnbzlTT1pGWlJ6VTNVYnZjNFNrWl9JWEY1QUw3S3VIUGQ3aWRtVnBJb01ITGlJSVVOeVYwWDNKMl9ONGVrZ0NBM2hVbklsNXNR?oc=5",
+   "published": "Tue, 17 Nov 2026 00:31:13 GMT",
+   "score_parts": {
+    "recency": 0.943,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.633
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ジューク15RX Vセレクション”2017年式アズライトブルー入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMFJGZTkyRkFEM09PYVVXWmhzcHRXRU5BZ2JNbFExelpLNFNUXzc4SlI3MFY0amtvdmpnRW9VNEkyQjl3Zkg3MkxxT3R3NmJBMHVtQ2k0X2Yzd25vb3dnSXg4WV9ac0JqZy1kcWI2WGhud0pSdVpCYnIxQllFcDl5ZWlB?oc=5",
+   "published": "Tue, 17 Nov 2026 00:29:00 GMT",
+   "score_parts": {
+    "recency": 0.942,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.633
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“デイズX”2025年式ピンク入荷しました！ガリバー58号宜野湾店の中古車入荷情報 G011931794874596904 - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSXBCaWhFQjV3TlI0NmtaV2hhY2F4WlVpN1NkVm9MT0FwaklVR0dJbURsTjVaWHVGWFl3VlYwMlRycFVWcWRESi1RcEdock1rVG5DU1V4SENPOFQ5MGlWeGFQQ0FIVlBQczFScU5KNHpVa2wxcWJpTWtiTmkyUjhGazhR?oc=5",
+   "published": "Tue, 17 Nov 2026 00:27:14 GMT",
+   "score_parts": {
+    "recency": 0.942,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.632
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ＸＣ６０T6 SE AWD”2009年式アイスホワイト入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdTg1UTJobGJHdG5scnN6TGRheHhjX3l3YmlwZ3k0MlU1MXhsazRLdDZJcVlhV3o5b2xFSThTMnBiSHNTdm5TS0xTTjRPN1g5ZmwxVW12aGhpR2FxMkJTRU5xV0FCWkRNR25SeGoxVDNjdnF3NmtqOTY4TXJLeUhWXzV3?oc=5",
+   "published": "Tue, 17 Nov 2026 00:27:10 GMT",
+   "score_parts": {
+    "recency": 0.942,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.632
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "クラシカルな旧車顔を、ジムニーノマドにも。トレノ フェイスグリル Tr27「CODE09塗り」にノマド全7色が登場 BEYONDJAPAN - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FcElYLWplWl9INFZRdEo0blRXVkJIaDJkYzd6UWFEVTAwQVRMa0pVOW9LMldRblM3LUxuRTV4emw0Q2dhQllpakZWOF9hN21FYy1EV3llY0hFeWxUeXVWUncyYTJ5NWJBM3VEVVhfaGcxQQ?oc=5",
+   "published": "Mon, 16 Nov 2026 15:15:33 GMT",
+   "score_parts": {
+    "recency": 0.75,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.625
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新車価格約460万円の先代トヨタ『クラウン』→販売終了から約4年、中古車サイトで検索すると…？意外な価格が明らかに - TRILL",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEdURLcE1RNnNuYlczdHRYTk5qVzBnVkRBdDdyNXNCbkRwckVTbWZacGNqbkZlWEhadXFER1Y0OTdDbFZYWUVHNkFFTU1yVU0?oc=5",
+   "published": "Mon, 16 Nov 2026 21:35:00 GMT",
+   "score_parts": {
+    "recency": 0.882,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.615
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "デンジャラス・ノッチ、“昭和51年製”旧車バイクの納車を報告 フルレストア済みの極上品「鮮やかなブルーの色が味わい深いですね」「カッコいい」 - 山陽新聞",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wbVg2aWloMGw3VXZaQkJURUJnaG9YVVBHalZOeFhMSGZWQV9VeGI3dWtxMDFUWHUteThTT0psQzNVRlhKV2tVU2ZERHRNbjFxMFVBRlNzX3ZBeXpidFB4SmtVQkdJRFVLY3RmMTBlSExhMkpl?oc=5",
+   "published": "Mon, 16 Nov 2026 20:17:52 GMT",
+   "score_parts": {
+    "recency": 0.855,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.607
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "日産サクラ3年落ち残価率35％、軽EVの「売る時の価値」がガソリン車の半分になる理由 - BigGo ファイナンス",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VRXpFTXNod1UtZzdTLVJYWEgyYVNiM09BaEJ2cDdwaWcteUNRXzVVdjVGQmx4ZmZsRkZvNmlqTWttWjVKQm5YNG9ONVE5TmFRU0o0UHZRS0hiNFdQRE15YlJMVXp2UVFlUjFzN2loc05ZN3kt?oc=5",
+   "published": "Tue, 17 Nov 2026 02:25:00 GMT",
+   "score_parts": {
+    "recency": 0.983,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.595
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "高槻でネオクラシックカー約70台を展示。11月21日開催・入場無料｜自動車交通トピックス - JAF Mate Online",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03RldzSFNJU2FyVFRvYmNFM1RsZC1XWHJiWnhOOHI5MVk1ek9DbEpuaDg3YzN1eXY5VExleUEzSEJYcC01emo4dklhS3BSYlFuVWFQVWlYdGlnYVkwY25rSWlwS1prY3hVMFI4?oc=5",
+   "published": "Tue, 17 Nov 2026 00:40:20 GMT",
+   "score_parts": {
+    "recency": 0.946,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ＸＣ６０D4 AWD Rデザイン”2018年式赤入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUXNwVmJMMmtnTkZCU0MwZzdPSTg2cDVTeWlHV0FpVEY0ZTV4blh4YjNfTnpkak5BcmlhY1BOLV81blhjNV8wTDJQdXhaY0xLaEpmV1lPR3NPVERyU2tXOEJpQlRtcjRSTTlkam1xWGhqdF9MRUpGbUJwbnk5LXB3NUh3?oc=5",
+   "published": "Mon, 16 Nov 2026 16:09:45 GMT",
+   "score_parts": {
+    "recency": 0.769,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.581
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "【2026年10月】ソコカラが中古車買取ランキングを発表！軽自動車はムーヴが首位、プリウスは前月比38％増 - ニコニコニュース",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Oa1FIdDNsdE1JZE14bHhwTVpoMXRpV0FELVBBU1MzdGhDOUM1RWVGOFBPM1MyX0FIMlpKUzJJX09vYWdIXzlwOFF0dVJ4dWpnbTJSZUUwZ0xCNUFDZldodGxtVW9EbVVP?oc=5",
+   "published": "Mon, 16 Nov 2026 16:15:15 GMT",
+   "score_parts": {
+    "recency": 0.771,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.581
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "冬になってきましたねガリバー294守谷店のスタッフのつぶやき G014821794817873287 - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44TXNfUnlublFreUJzdUNja0Fkb3FKMF9kVEFUS081RnoxVkp1WjI5ZlhWZXFIbEY2NjZFdmdmU2NraFQtRVYxWXZlbFg0ZTZQTmxCc3JhMHdQdk4zSkVVU0xqS1M3bVVXV0R6OTBseVlMV1FrOHB2U2cxN0E?oc=5",
+   "published": "Mon, 16 Nov 2026 15:51:28 GMT",
+   "score_parts": {
+    "recency": 0.763,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.579
+  }
+ ]
+}
