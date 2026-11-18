@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-18",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 111,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "中古車輸出のリアル⑦ 年間8000台を世界へ送る輸出商社の流儀 「安さ」では売らない理由 - PROTO総研",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EMGdYcVRWd3dTUkVvaUFVYVMxbTM5OWFac0lMb3U3eHhVa2tQZnJPZHYzcDI2X05ZMnZ6UWxEeXdkOERMb080Sm1YWUZjeGdqZmc?oc=5",
+   "published": "Wed, 18 Nov 2026 01:02:03 GMT",
+   "score_parts": {
+    "recency": 0.966,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.64
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“Ｃ３セントジェームス”2021年式ブランバンキーズ入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM1prSkVOVUo3NkUtREw0QmZYVWNNYnVXT21uZ1VxdEt2Z0tTMU92REhudG5pMDdfNE9MOE9Ra2p5SUFxaTN3MzAzTDR6MG0yMUNIWTlOdk5nanFUYnRDQVJtZWFfVGdSNXBCZHhoZXFZcnJnQVJ4ejBFSXQ0NEZaWHpn?oc=5",
+   "published": "Wed, 18 Nov 2026 00:30:52 GMT",
+   "score_parts": {
+    "recency": 0.956,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.637
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ＸＣ４０B4 モメンタム”2020年式白入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTnE2aFo4N1JkTHpvRXM1VTVsZW1BMzNETDNwLXIwZTdjNVV4dUZVbmRZREs2TElYa2JrdDA2eEJHWlp3OEIyNmFhMEtEOVlpYlJpTjFvalI2WkpRWFgxa2VVeUw1OS03NUx4aG4zdHIxel9hd3FjWEtJcktmeHh6M2V3?oc=5",
+   "published": "Wed, 18 Nov 2026 00:27:54 GMT",
+   "score_parts": {
+    "recency": 0.955,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.636
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ムーヴカスタム X”2012年式パールホワイトⅢ入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObkJWWXZ3SEtmcS1yTE00QVlCYVh6Mm1Cd1pLUk53bGQ4OTFpTXpqVVBXdjFGR1JrRG9vUkF1VVE1eFZnZWd1M2NLQThIQXR1NzI2VEwwa3ZNdUVSakdxcmt0clFYZVMyRnhkS084VWFneGlCZVRBVVBHZlZMTlBDWG5B?oc=5",
+   "published": "Wed, 18 Nov 2026 00:27:51 GMT",
+   "score_parts": {
+    "recency": 0.955,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.636
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "【中古車が熱い】新車は618万円～の現行型「プレリュード」が軒並み“400万円台”のバーゲン状態…いま市場で何が起きているのか？ - carview!",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV2hrUkllTF9QRHFGUVNxd3lQanltb2lDNnpFVGZMaWxFU3ZNcTVGdlJudHc4T1VQREY4eFF6SG5mQXg3emg4Ti1zN1lCS0VXay1lVVFQVk50LWpsQjFPOXRERXdxRlp0OGNUenlYenZPSzNnNEIwWnRQZ3lvc2I3aVM5Y0gwU3V4MmRxVA?oc=5",
+   "published": "Tue, 17 Nov 2026 23:00:00 GMT",
+   "score_parts": {
+    "recency": 0.924,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.627
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "〈千葉豪雨〉冠水相次ぎロードサービス要請が急増 レッカー車もたどり着けず - 日刊自動車新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fTjdyU0JDUG04bDdObE1SZjZWbmtlOFpQNkptNFN5QnNnVmR6b29xWkV3QTlUZE1aWGdvdXNaUDZTZFppR0VUdjFwdXpMLXdieVE?oc=5",
+   "published": "Tue, 17 Nov 2026 09:11:18 GMT",
+   "score_parts": {
+    "recency": 0.636,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.591
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "千原ジュニア、新たな“愛車”購入へ？ “矢吹丈が乗り回した”約60年前のアメ車に心傾く「めちゃめちゃ運転しやすい」（オリコン） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQW82aDByY2pNVjRhZW96UGc4c3F4TFJZWEJUeUpQSkFreHFTMDFERWNXODFuNXhFeEMzTGtEZEVGRTB4bDVOVjdUT0lSc013ZUJ1S3pUMDB2WmprcnFRRGlET1JTZUZodnRNcncxWkVZcTZTaUt3NzZfZ0lxQVI0REJnbkU5Sk00bHhELTF3?oc=5",
+   "published": "Tue, 17 Nov 2026 08:40:13 GMT",
+   "score_parts": {
+    "recency": 0.625,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.588
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "千原ジュニア、新たな“愛車”購入へ？ “矢吹丈が乗り回した”約60年前のアメ車に心傾く「めちゃめちゃ運転しやすい」 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvLTdxY3VOQmF3YTFWVVFHTlBIUmNucnJPUjA0Vi1keWdMUUlvci1zVWF2NWM3WTdNOTJFcy1hdFU5WVN4alJYTm10UXZETXkyMmJDMEpiOFY0ZUR0eFdn?oc=5",
+   "published": "Tue, 17 Nov 2026 08:40:13 GMT",
+   "score_parts": {
+    "recency": 0.625,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.588
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“コペンGR スポーツ”2021年式パールホワイトⅢ入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeU4taFdSWkNpQW8xeTZnUVI0ZTYtQkdWRnRSYUlHYkRNN2QwV1lITjNvOVUxZDhib2J2Z2RWamhueU5hSXZfVENtd0R1XzMyRzc2Wkh5Tmh3YXU4ZlJDUVBFcnA4R2VtRFlHVmsxY3V2bnBUVlhNZ2RiMWdkckVMYzNvQQ?oc=5",
+   "published": "Tue, 17 Nov 2026 16:18:17 GMT",
+   "score_parts": {
+    "recency": 0.785,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.585
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "お車紹介！ガリバー熊本東バイパス店のスタッフのつぶやき G010131794824967261 - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50NTFSLXg2bVItdVVkRW9MVUFpdkFYYzBZSDZmRnYwRWFZUnVUV2l6TEloZ25pTTVRM2pFZmJpcFBsd1JfYjNVVFZ4czZybTF5ZTA0Z1QwQW0yc1NNd2JBcXRhTTFkRWhvUWdzR3dxSExBU2llc2ZTTlZreUNfUQ?oc=5",
+   "published": "Tue, 17 Nov 2026 15:36:28 GMT",
+   "score_parts": {
+    "recency": 0.77,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.581
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "「ガソリン代・燃料代」トップで65.4％…自家用車所有者が車の諸経費で負担に感じるもの（不破雷蔵） - エキスパート - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN1hLTU90ZnhkNTVERFpudjhjbWRxTjNFVWpxdEpHODNLRXYxT3pEOWY1OXcwZTkzZTZBdFpKVVd1d09Xa3pPRGhOYUdhbnR6SmYzMXRfeXd2aTBvSjdjeVA3S1NVUm50RUNYczdXdjBvdWtmTS1VWHZDS0VwRzRkRlNrbVdEczkw?oc=5",
+   "published": "Tue, 17 Nov 2026 21:56:46 GMT",
+   "score_parts": {
+    "recency": 0.902,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.571
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "連載「BSサミット・シニア活躍ガイドラインから」（下）協力体制の構築 - 日刊自動車新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GTEtsYllZOG1YSzhzaGRyLUQwOWtGLXJmV1UtRUtDOVFLSGpHcnR1UWViT1ZlLWZ6TVZKdkZ3dzJKTXEzYWNaei1vcllDTW1qc2c?oc=5",
+   "published": "Tue, 17 Nov 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.862,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.558
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "「ガリバー いいブーブーの日」ガリバー1号静岡清水店のスタッフのつぶやき G011221794894166226 - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SaVZEWmg0ak0weG1TRUhxdTBfenVBaFhYNHJhRkJEaFRkdmg2Q3lIVWtBaGVNdjAza1M1UWZOR0praVVDTGdWODZ5X3p2X0NRMDZfZVdWSjA4X3ViNmhwcnA2VHRHSFBTMGdyNGhFNlJMaS1fY1ZITUdja1pnZw?oc=5",
+   "published": "Tue, 17 Nov 2026 10:47:40 GMT",
+   "score_parts": {
+    "recency": 0.67,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.551
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "ガリバー甲府バイパス住吉店の店舗ブログ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeUZDd1MtWEVUUDRPODY0bmR4LUdvZEVIcTh2cXZTX2p3REFJYTgyVXMwVlhxeXBiZVF2LXNEd1BCMlNEdmYwLVdVM3BiTDZmZXNUX1pWNGlpM1BMZXpsRUk2SlpucE9taUhkeWJkdEthRURZZXJuYVh0VlNaNDJCZlcyQlQ?oc=5",
+   "published": "Tue, 17 Nov 2026 07:27:41 GMT",
+   "score_parts": {
+    "recency": 0.6,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.53
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "ガリバーアウトレット外環河内長野店の店舗ブログ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50dUY4SUhOdzRVRHdhRjR3YnlXTDBIQXdaM1VuNERPRVRjQk9jYW44cGpQN2ZYdHdnOTk2Vnp1VUl1SjJabVo0X2VTOXVTV013aWR5dVEzTGdvWkFsVVA0SS1fbUNjUjAtYld2MHdKSFJRa0gzTW5vbG1oTDFnTzg?oc=5",
+   "published": "Tue, 17 Nov 2026 07:27:50 GMT",
+   "score_parts": {
+    "recency": 0.6,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.53
+  }
+ ]
+}
