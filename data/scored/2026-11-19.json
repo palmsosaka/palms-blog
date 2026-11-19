@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-19",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 100,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "軽自動車や旧車にもCarPlayを！ナビ交換不要、1万円台で愛車をスマート化できる9.3インチ「OttoScreen Link」新発売 - valuepress",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NZEo5a0JfYnlIZUxsSGNrdUdEdkR3Qk1iRDgwRS02T0NUV29zUFkxd0czZVU5NUpEWjVxeGRETWNFZktmX3ZOdFVWdGhvQVU3Y1BQNHRzSTh5Zk0?oc=5",
+   "published": "Thu, 19 Nov 2026 00:00:00 GMT",
+   "score_parts": {
+    "recency": 0.957,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.687
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「セル一発始動で旧車特有の気難しさはゼロ！」毎日乗れるRB26搭載S30Zが魅力的すぎた!! - Motor Fan",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5KM3d5a0llVmhTcm5Pak16Y2JaeXA2c1g0UFdseDM2RDE4T2p5NHVNdkdPU2JiQ3A2VFRGWG1MRXdqZndFNkF0Qmt0ZUswUQ?oc=5",
+   "published": "Wed, 18 Nov 2026 22:30:00 GMT",
+   "score_parts": {
+    "recency": 0.925,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.678
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "一体何が!?「アルファード／ヴェルファイア」の納期が大幅短縮…「需要の減少」「中古車価格の下落」で“人気に陰り”は本当？ - carview!",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQWNmUDR2eTJvRnBRcXNpckNmNDFjYURsLXRISTFlLWtyN0Zha3NSLUFKa1dxTmpHQ3FxVVZDT0lkOGptRi1POUs5Tk9OS21MbUZlY1hxODJIdzNXSUR4UlNGNTMwd1Q2MGtPY3VWQ1YzMGI2UDRwcS1xNEZ3N1RXNmN0azh0WXdwS204YQ?oc=5",
+   "published": "Thu, 19 Nov 2026 00:00:00 GMT",
+   "score_parts": {
+    "recency": 0.957,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.637
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "マツダ・キャロルが4カ月連続で値上がりトップ 2026年10月の中古車値上りランキング（グーネット） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcnhyXzQ5UUN3VWFYalJKbGgtT2llT0p6UGhkOEJXcjJBS0xpWjRWaVV4RjNQUnJQS2hBdllDQllpUy1seU1HS1hNcC1aOW9NMjhTem9tZ0Fwc19QbmpzbjZiNDdTX1RYaTVKbEJQQ3JNUEhfR2p6NndCSHJNM2lXcEJGU1U1ejJw?oc=5",
+   "published": "Wed, 18 Nov 2026 17:21:32 GMT",
+   "score_parts": {
+    "recency": 0.818,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.595
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "かつて失敗したアメ車とは違う！ 「センチュリー」「DS」「ジェネシス」と単一車種をブランド化するメーカー戦略の裏側 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oZWxXcVp5MHVrZGY3RTJDelBYU0tSOW1sYnktajRhVGRxZUhmQmpmOUpIcDVOaUlod1pfZlJzNllQSy1EN0xqN3pvOHRpVy0ybTBnQ0JMSGFLZjYtN28xVGF3czIyanZwRVVwSmJrNDRGSHZncWJCalJJMURaSDg?oc=5",
+   "published": "Wed, 18 Nov 2026 08:40:24 GMT",
+   "score_parts": {
+    "recency": 0.637,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.591
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "かつて失敗したアメ車とは違う！ 「センチュリー」「DS」「ジェネシス」と単一車種をブランド化するメーカー戦略の裏側 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51WXp6VC1OelEwN3RRaHNjUVUtLW9RUFZPTTFuWV8tUDQ0WlVxVzczSE5VQmYyU201TUg3OUYyVFhuU1p1VjJpVEg0ZXU2Q081RnBqLW9vYWVZWGdUeUlYMmJVeGJBa3RSVTducFZYMTZhLWszZDlOZEluYkZvZw?oc=5",
+   "published": "Wed, 18 Nov 2026 08:30:00 GMT",
+   "score_parts": {
+    "recency": 0.634,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.59
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "高級車を盗み\"ロンダリング\"繰り返したか 男２人を逮捕・起訴 盗んだ車と同型旧車をフリマで購入し車体番号を盗難車に取り付け\"偽装\"か （関西テレビ） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wdWNPSHlUcUFBaVZUNDlXT19wYVJyT2FGVEY0U2xyU0NhRUJOLUxzZHBNb1Bqb2pwZ1J5X2VSYkFaZmxWQmt1UDhyY1FPdUFfcUJJZndCbllYU1E1MFE2UUI0aVc5cVhSMnhOSHJkMjZ6a1FFT0Z1RFpBWmlpMms?oc=5",
+   "published": "Wed, 18 Nov 2026 08:12:02 GMT",
+   "score_parts": {
+    "recency": 0.627,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.588
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【GTA6】車一覧と入手方法【グラセフ6】 - GameWith",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1qaUM2bWEwZHpvc2RPNURVbHpKcWxZVXdqTXktX0Z6RmhjZ0h2LWg2UU9FTEZYM1NLSkF0cVZHMVlyV1M5QUE?oc=5",
+   "published": "Wed, 18 Nov 2026 23:17:54 GMT",
+   "score_parts": {
+    "recency": 0.942,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.583
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "\"まもなく登場\"の新型「\"国産\"スポーツカー」！ 旧車デザインの2人乗りモデル！ 流麗デザインがイイ ミツオカ・LA1とは？ - くるまのニュース",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yQVdzdUtUNnhvS2F2X2ZPaS1BRmRLTTlrY3BpUkRmUUg3aVFIWmhPQktOZzhhMG1PSnBERWxlelEtc1VwWmhkQ2RHdw?oc=5",
+   "published": "Wed, 18 Nov 2026 05:45:00 GMT",
+   "score_parts": {
+    "recency": 0.576,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "“まもなく登場”の新型「“国産”スポーツカー」！ 旧車デザインの2人乗りモデル！ 流麗デザインがイイ ミツオカ・LA1とは？ - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lOVV3ejhNUkRDUmNPYm84bXdUSHQ3LWdKOEdodTZVU1dHemx3NXlQOG5lc3BBVmoyZzZ0YmQ2QTRMT091Nzh0WDNhcUEwZGxzVjNiTF9Ma01lZVJRcHc?oc=5",
+   "published": "Wed, 18 Nov 2026 05:45:00 GMT",
+   "score_parts": {
+    "recency": 0.576,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "“まもなく登場”の新型“国産スポーツカー”「ミツオカ・LA1」！ まるでアメ車な2人乗りモデルとは - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SRExaTWk1Z0pKdDJvNVJYek9hbk5NT0dHVmlheVZpMGh6RkFmQ1hfQXFBX184XzdCR1V5dHdtUVVWSUdQazVYWFZXcEt1dUw3Zk5WT284VUtISG1NQ1JSQVcyUk5IcWxfUVB1WlZHWGhKSFJLVE1XaVlqS1BIYlk?oc=5",
+   "published": "Wed, 18 Nov 2026 05:45:00 GMT",
+   "score_parts": {
+    "recency": 0.576,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "“まもなく登場”の新型“国産スポーツカー”「ミツオカ・LA1」！ まるでアメ車な2人乗りモデルとは - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdTBtV0dmZDNpVE5BNGw3VWQ0QVF2YjJrVHpXLTZYZjhXcUZMWWRLZDZUcjI5X1l4OHZwN0gzMlRpMXp2ZXVoZnlZZ2xLdnVMa2ZRYlpaMl9MaFhqc3hkVGlZOWgtUVIwTE1weDU3UTQ1a2hPVkdvSURBZ3lSbi15OWZFQjVTWDZhQVpYdmxn?oc=5",
+   "published": "Wed, 18 Nov 2026 05:45:00 GMT",
+   "score_parts": {
+    "recency": 0.576,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "残クレは完済したら損をする!? 自動車専門家が教える「残価設定ローン」のもっとも賢い終わらせ方 - ニコニコニュース",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBSZDd3R1A3XzRNc0JwSUluaE1ZTjZSWTRSOGdZZEYyMGZsQjVXZHJsaHFQWWl3Ukp1ZW1WLTZxdlRoOWVIbjdMQlBDejZ5OThMcUJRMXI5YzE2blkzNEFTMFUwZ2dTWHNTTWRQbmI1WExCcXBDWWRBWllOOA?oc=5",
+   "published": "Wed, 18 Nov 2026 21:33:16 GMT",
+   "score_parts": {
+    "recency": 0.906,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.572
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "JA自動車共済はひどい？評判・口コミから分析－70歳・75歳の保険料もネット損保と比較 - セレクトラ",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vcFBDSFQ5dUo2WngzeFZ2N0ZNNnlGeGpsTzUybTk1Z1NsX0haMG1aNGVqQ3BvdFpaenFCN04yQUQ5T0VldDVhN1JMQUtGd1Y0MGtLTEFzdVc1QnIwaFR1VQ?oc=5",
+   "published": "Wed, 18 Nov 2026 12:18:55 GMT",
+   "score_parts": {
+    "recency": 0.713,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.564
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“クラウンハイブリッドRS リミテッドⅡ”2022年式プレシャスホワイトパール入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QTDYxNkU0YUpkWUdNaVhJaGg0RVJkanBjLTNfMENBMlBrc0Y4Y1NOZmtRa1F0d3g2VWlPYnMyNFcyR2k4Y0lrTmQyZTVlNDU3azZEY3hZWFpmVFU5RTd6RWZuajY5bzQxZGo2b0dDTnNEYU9vRmpZeUdPWUJGMU0?oc=5",
+   "published": "Wed, 18 Nov 2026 11:31:34 GMT",
+   "score_parts": {
+    "recency": 0.697,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.559
+  }
+ ]
+}
