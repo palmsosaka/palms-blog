@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-20",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 113,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "中尾明慶、1971年型の愛車「クーダ」を披露！ 結婚前に手放したアメ車への思いと購入のきっかけとは - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OV25nUUt4MzlfQjhuTWZyMEU5ZjFPZ05vOVZ6a2dvYVdLdE5tTXpXM042Y2d4NHEwOHNCRENCS3hYSldXd0hzQnlVZ3htVF9zR1NlNk11Z3ZKRU5QVFgzMDZod3RtTWl6b21fcnZQTzNOd1g5Z2NFMDk2S29WbWM?oc=5",
+   "published": "Thu, 19 Nov 2026 21:40:00 GMT",
+   "score_parts": {
+    "recency": 0.911,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.673
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "オークネット循環型経済ラボ 調査レポート 2026年10月の「中古車市場価格指数」を公開 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96OTlFcFFrN2doN1NiMWN6SW1xRTFKN2J4bEZUSXZGT09LYnREdHBlMG9pTHkzcDB1OVZxbGNVZ2c1Rm9XdkE3RmtfTklOT0ZKMTllYnpITXN3emZxWU92WTM2MVJLOHB1b2c?oc=5",
+   "published": "Fri, 20 Nov 2026 01:30:02 GMT",
+   "score_parts": {
+    "recency": 0.991,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.647
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“Ｚ４sDrive20i スポーツ”2019年式アルピンホワイトⅢ入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZFFqTDN1QV9qc1BobFNJSVEtQ1pvS25ua3NWNUxocVp6Tks3cDFTRWpNUnhOT09HWklOc2RiaGFNNWVzQWp4R0pvdmxqVFJycHhObXBQRk54OEtqVF95UFR5ZnJTdncyTnNqdTdCbG04VmVXWGUtclBFbFRtczFISTZR?oc=5",
+   "published": "Fri, 20 Nov 2026 01:06:54 GMT",
+   "score_parts": {
+    "recency": 0.983,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.645
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "10年前は“500万円切り”だった日産「GT-R」→生産終了1年経過、中古車サイトで見てみると…？驚きの相場が明らかに - TRILL",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yV0NVUTNWbkJsbFczOUpmblB3YXJzNnN6aUZDUVFqTXh1Nkdpdkw3OGxCRDdLT2ZzcGJOZld3R1UxNE5GQTJCNV85V1BoUFE?oc=5",
+   "published": "Thu, 19 Nov 2026 21:35:00 GMT",
+   "score_parts": {
+    "recency": 0.91,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.623
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "【速報】スリップ事故か？車両4台が絡む事故 当時路面凍結 高速道路は両方向通行止め 北海道 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE44RlRoUFdSc0RPM3VhbHZLVkpvM0M5QWktc29nS01GU3k5b1A0V1F0WUVoZllSeG1yOFNDN0ZDOElaN1pycVdibWVHdm5QNlRUbF9YZkVRUkV5WHh2WlplYkVMOTdaZko0cHA4cU9R?oc=5",
+   "published": "Thu, 19 Nov 2026 12:49:31 GMT",
+   "score_parts": {
+    "recency": 0.727,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.618
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "台湾、大型ディーゼル車の買い替え減税を4年延長 車齢10年以上の旧車を2027年から対象に、1台最大40万台湾ドル（約190万円）節税 - BigGo ファイナンス",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSQWNoUUhaNXpHZlVjYWFDdnVrLVV0VFdTOHRBcGoyaWo2ZGxEaWxFUjRTOUpIM2x3MTNuNW9CeVpOcEppenZfLUI2aTNRS0FhVy1Sa0tvcjMzYUFCMDFXTHZxbWthMHUwOG9TMjhyWGZ2SEpq?oc=5",
+   "published": "Thu, 19 Nov 2026 10:05:00 GMT",
+   "score_parts": {
+    "recency": 0.67,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.601
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "軽や旧車でもCarPlayをエンジョイ、愛車をスマート化できる9.3インチ「OttoScreen Link」登場 (レスポンス) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVUxETWd3enRwemN3V1RHanpfQ200dDF1cG9UOHpzYUphb0hGZWFtNXZzTW5FR0pkYWUydzdZRlFSSlhIOWhTYU1yQWZyX2ltdHp2SDd5OXJWc241ZlJPN2puN2ZucjJaalFwRFcyWDNxU2otT1dIREg2amtwT1ZtcGp6bmFPRDF4cGxsdHZR?oc=5",
+   "published": "Thu, 19 Nov 2026 09:45:03 GMT",
+   "score_parts": {
+    "recency": 0.663,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.599
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "軽や旧車でもCarPlayをエンジョイ、愛車をスマート化できる9.3インチ「OttoScreen Link」登場 - レスポンス（Response.jp）",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xc29jM2xNVFJQRTdPdXNpMk45N0txOGVFUGRIdnV6NGhlV3pjSnZfcVkwTVBKcHJkUnFPYlVfdTFyenBpaWFpZDZnYnl6TGs1bDhLSXNyLUc5SHRyTUtJ?oc=5",
+   "published": "Thu, 19 Nov 2026 09:45:03 GMT",
+   "score_parts": {
+    "recency": 0.663,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.599
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "【速報】圏央道・関越道で渋滞 大型車など相次ぎ事故（埼玉新聞） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nVk53eG5pVUp1MEhzMXk1Sm81RXVGS3FocGttYmVZSlFSR2NoS1I2MlNVc2JhazFVdFU4TUpXYlY4QVRtMU5ZUzZmcEppRk5yZkF3SFlsRk80bEZ2RW9ja1FpZjRodk1rbUo4WS1keWVOTjJkbGFXQVh4SC02Z28?oc=5",
+   "published": "Thu, 19 Nov 2026 09:39:30 GMT",
+   "score_parts": {
+    "recency": 0.661,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.598
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新車442万円のアウディQ2、中古車サイトで走行3万km以下を探すと…掲載されていた“意外な相場” - TRILL",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rbTRkMVkzRnc5UmVZUVUweDgzRFFDcmpDdF9ta21iZU1RdzhGOThIVlV5MDhwQkQ0VmRxWGMzalctZEF2YnBxMS0xTFBSQXM?oc=5",
+   "published": "Thu, 19 Nov 2026 17:35:00 GMT",
+   "score_parts": {
+    "recency": 0.826,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.598
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "見た目は1955年型なのに約9.8リッターで741馬力！ 極低車高のシボレー「ベルエア」 - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYzQzUXJad0E4Zy1rUzJJZ0swUmZoYXZBTk83SURNSkNwNWpZVWsxay00OWpYcGt0VTRmb3dadlh4endpZXBCNi1tLUNNRDlrRkJORFR6aW1HYURWaXF4RnJVUHJxS0ZsVjNZWjZrNm9FYnJNNkYyeHJnb2gyekNQY0pNdXFlWFdN?oc=5",
+   "published": "Fri, 20 Nov 2026 01:00:13 GMT",
+   "score_parts": {
+    "recency": 0.981,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.594
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "「こんなにタトゥー入ってた？」元サッカー日本代表〝びっしりタトゥー＆旧車〟初瀬亮「男の人で嫌いな人なんていないよね？」 - 西スポWEB OTTO!",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BWHNWZUNFWlNCQWtuNUt1cEoyX2NQSGltUVlBLUtVRmkzemJTYmZLbE5QQWhUX3Jvc1V1cTB1MEoxMlN6cDJvZnhkVDlBYjdqSmE2Q3pqT1BQN2VnRThV?oc=5",
+   "published": "Thu, 19 Nov 2026 08:20:00 GMT",
+   "score_parts": {
+    "recency": 0.634,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.59
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "「電気自動車なんて……」ドリキンの偏見を粉砕！　BMW i4＆iXの走りに思わず唸った【土屋圭市 峠賛歌】 - WEB CARTOP",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BV0ZERmZnVF95SHpkdzdxX0pJdHFpUEU3SXFmS1JzYi1hTnZlSWdLTU91WE9nUFgtRDVmYV90emp1MUxHdXFlV3I0MzlOZXRGS1g00gFYQVVfeXFMUFQ5Um5ZSVFhQmVNbE0wd0JmQ2J2aDNWX3dqdU9xTWltTHFOOC13UW5wZ2ZSdWNaR2xnY3NMOE9wNnlYOE9yOWRvMGJPRDcwWWEwQlJldXlERA?oc=5",
+   "published": "Thu, 19 Nov 2026 21:30:41 GMT",
+   "score_parts": {
+    "recency": 0.908,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.572
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "出張販売で素敵な出会いが、、、？！ガリバー藤枝南新屋店からのお知らせ G014201794998303376 - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZTZOWGZMUVFtQWtsNzM5YmNyc29kRGN6ODQzb2NWeGw3SGxENkxSb0R5LVlVR1lSTlBYTUNITGZCeEhXX0VMU1BzekdiTE1MdWtQd1lUWVFNbWRWU3gzTzEtRWFmVUdjaERXTkN5RjNsUVluSi1QSXpoeDhINHFZZC1aWQ?oc=5",
+   "published": "Thu, 19 Nov 2026 10:13:59 GMT",
+   "score_parts": {
+    "recency": 0.673,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.552
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ナビ交換はもう不要！1万円台で愛車にCarPlayを後付け！軽自動車や旧車にも使える、工事不要の9.3インチ「OttoScreen Link」新発売｜Android Auto・スマホミラーリング対応 - MOTA",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9uMWhIODZmekJFY0Z6c2QyRGhrU2c5Z1RGaERMOTY2ZF80UXBwUTJNd2dDeXFiZWl2NmR5bmhuMmItajZzeHVtUFpR?oc=5",
+   "published": "Thu, 19 Nov 2026 02:08:01 GMT",
+   "score_parts": {
+    "recency": 0.504,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.551
+  }
+ ]
+}
