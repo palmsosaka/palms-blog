@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-21",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 133,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "今グングン値上がり中のY２Kアメ車における名車！ 2005年式〈シボレー〉アストロ スタークラフト - safarilounge.jp",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DWE0ybkZiN2JuQngzakVnRGV4aXpJN0FORVAyZW9CTnhwT0o2THZ0cmxJTk9IeTFsVXJlUVJBYkRYZl9EaGRqTmtPb2xTZXBYb0NKaF9kaHhwVnRNbF9JQTZyVW1WN09WbHRDaEZoTQ?oc=5",
+   "published": "Fri, 20 Nov 2026 23:03:31 GMT",
+   "score_parts": {
+    "recency": 0.942,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.683
+  },
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "国交省、車体整備に特化した初の統計調査 2026年夏に実施 事故車修理の指数や賃上げなど把握へ - 日刊自動車新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00ZlM0T2I0SXFxU193ZnBFc2RvdmkxdHJhakJyQm1NUE9UMnByR1J2a1BJaDYzelR6ZTdUNDhMMXR2MUcyWHB5enU2RnItSHlRbVE?oc=5",
+   "published": "Fri, 20 Nov 2026 09:40:57 GMT",
+   "score_parts": {
+    "recency": 0.663,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.649
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“イグニスハイブリッドMV”2022年式ピュアホワイトパール入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb2w4dUNlekZOTjlXcF9iU3QtTVZwVnBTbTZCQjY0VHRERzRVSlhNaG9OTDZ5MVRfeWt3SkZnUk9zRjV6a2I5VC1LaFlBeVUzQU14ZkUxMUF1Q0daeGZNWmhQYi01dHZkdEpFajhwNWktRkJLcnYtdW1IenE5WkZkOFR3?oc=5",
+   "published": "Sat, 21 Nov 2026 00:40:38 GMT",
+   "score_parts": {
+    "recency": 0.976,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.643
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ＭＩＮＩワン”2017年式白入荷しました！LIBERALA リベラーラ新潟の中古車入荷情報 LB00581795220219670 - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRzRQbVU4MGl5VXBzZEVBYXUyQVR0UjdyQ21aNm5EYVN1Z1JyN21zUWYwa0doY0lfTEVWdFF6QVp5ZHZSanI3cmRvNjRVUzBqQ191cldQSVRxM2o3bXl4ZU43TWxUQUtLb2tWRC1TRkN5aHl0MFcyNm1tZlQ3Y3hVRGN3?oc=5",
+   "published": "Sat, 21 Nov 2026 00:40:55 GMT",
+   "score_parts": {
+    "recency": 0.976,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.643
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“Ｔ－ロックTDI スポーツ”2021年式ピュアホワイト入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOU43ZnVHWGtENUNtcWk0V01IdDZCa3ZzeGtqU293eDVBTUY0TTRidGxqcGMtbmRDRUkyUHR4SlZTLUNLMWVzZkRfS2RaU21GUjZndW4wdlU1bFpLazdoc0ZCTVI0NjBIMU1MRUFHSVRlMUNpVjZiMUpwVkkzYkp2akZR?oc=5",
+   "published": "Sat, 21 Nov 2026 00:40:55 GMT",
+   "score_parts": {
+    "recency": 0.976,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.643
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ハスラーG”2016年式ブルーイッシュブラックパール3入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS202c2ZxZnVoOW9SLUR3Qm9oTDVIa094aGt2VjBvNXlPVGF0dklKLTVlalIzYm5RUGdTXzlOcmE3dlZJOVVHR2dkRUJ5aVJJeFZXX2UyeHd2T1dkRmx1T0F0b2t1WXRRa1N3cFUtdGtxQjZPbG1vLXk2V21RY3kyTA?oc=5",
+   "published": "Sat, 21 Nov 2026 00:40:59 GMT",
+   "score_parts": {
+    "recency": 0.976,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.643
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“エクストレイル20Xi Vセレクション”2021年式ダイヤモンドブラック入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZFBFNHBKdmZ3bTdSdE9paHM0MkhNTWdKLTdfUjM2VEMxcmFZcjFFUUY2UG1zaUNtWHl0akVTOUdwbDBZYnd2N2paQS1wZU1ra2Z0SGZTYm5hR005MDVpdHRTaXZwOHpkc0tBbkJ5anRoaDB6TE0ySl84cFNQcGxwR3Z5dw?oc=5",
+   "published": "Sat, 21 Nov 2026 00:24:36 GMT",
+   "score_parts": {
+    "recency": 0.97,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.641
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ノートX FOUR”2024年式ピュアホワイトパール入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RVm5TTDFQSVl1cmc5WkZfSTJxbkNEVnhwU3JJZzY2UTh5U0hPcjlnVGVRaGRQWUd6dTF3TFJZMVZRY01taU8xTE9QOEtOUy1Ndk5DcXpXai13d0pJUXdWOXRkRGpEUVpiX3pvUWRMeWtEZ0Q0M2dOY0tqVkFxdw?oc=5",
+   "published": "Fri, 20 Nov 2026 22:14:03 GMT",
+   "score_parts": {
+    "recency": 0.925,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.627
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "エグっ！「日本に１台！」侍ジャパンの４番がレアすぎる巨大アメ車にメロメロ １８３センチ、１００キロが小さく見える圧巻の車体 - スポーツブル",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5OYWJEZDJUV3ZCTExKc2JZcldKNHZwM2xzV1hWMlNCLWktb3hXdjM0b0R3RHNvaFFJRHpFT0otVTZrNkowWGUw?oc=5",
+   "published": "Fri, 20 Nov 2026 11:14:00 GMT",
+   "score_parts": {
+    "recency": 0.696,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.609
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "エグっ！「日本に１台！」侍ジャパンの４番がレアすぎる巨大アメ車にメロメロ １８３センチ、１００キロが小さく見える圧巻の車体 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2bGhObTNtZzRyT1VHNWdlZkI0aGIzSlVkUi1TLVBwN21UekFtTzItZk5ZaXE4TEQxYUw1YW1GMmhiRm1yWExFRFltaTlvOUNlUWhRbmVvNmcxNWpnWkNmR3VtQjhtcHp4eXhMaW9UYUtVU3lEYXNCcE80bTBKUXc?oc=5",
+   "published": "Fri, 20 Nov 2026 10:42:57 GMT",
+   "score_parts": {
+    "recency": 0.685,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.605
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "エグっ！「日本に１台！」侍ジャパンの４番がレアすぎる巨大アメ車にメロメロ １８３センチ、１００キロが小さく見える圧巻の車体 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcml4WUFBQThJV0hOZTBkVFotd1J2WGZEZ2lSTFBkVVNxMGtMUVJtNlpMSE1ITF9VTWx6Mkl0NWVlYm1mNy1iY29zSnNQWnRxZ1Q5Vk16QUlabEdYbXgxR3lESFhKZzVIdUh2SDVpdGptSE52akpFWEtoLVVWVkVNOWdmMEJKemhpOTFxN1ZB?oc=5",
+   "published": "Fri, 20 Nov 2026 10:42:57 GMT",
+   "score_parts": {
+    "recency": 0.685,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.605
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "自動車重量税の上乗せ、91.5%が廃止か引き下げを希望。JAFが4項目を要望｜自動車交通トピックス - JAF Mate Online",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZMWxkZHMyQlBkRFVKejh5Uy1JckVkZjNSeENVYURyLXJRMWVyNWVPTGQ0b1ZGdWwzZ0RpclVndjRlb1lxd3QwNlNxOGxya3NHaFRqVUhBYzBYbVAybmg5WlJmNV9DRGFrZEww?oc=5",
+   "published": "Sat, 21 Nov 2026 00:07:29 GMT",
+   "score_parts": {
+    "recency": 0.964,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.589
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "スズキ「キャリイ」の旧車カスタム仕様！ 超レトロな「コーディネート」をラスターが公開！ - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xeFNqblR1MV9SNGxFbTNta1hwZUVZMlNvTnE0ckJ2Nmd6cWtLdUZVbWJOX2t6bkNiRXYzSW1XSGVBQ0VxU2lBUEEwSF9WYk01Sl9zN0xGWDN6TUxMcE83b0Vaank1Wnk5NXNWcE4yN29hVVlYUE92NGZGN2tyTWc?oc=5",
+   "published": "Fri, 20 Nov 2026 07:10:00 GMT",
+   "score_parts": {
+    "recency": 0.611,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.583
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "スズキ「キャリイ」\"超レトロ仕様\"公開！ まるで昭和な「丸目2灯＆旧車感」でも現行モデル！ 懐かしの\"名車デザイン\"再現する「注目カスタム」コーディネートをラスターが公開！ - くるまのニュース",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XbTRMOUtHODFmWGZLeFROcWxMSTREQTkydnZBYWtCUWlZMDZ5cUZWSEJpSlAydVpsRnRiTVJuLURLaHRsSWYtZXI3RQ?oc=5",
+   "published": "Fri, 20 Nov 2026 07:10:00 GMT",
+   "score_parts": {
+    "recency": 0.611,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.583
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "スズキ「キャリイ」の旧車カスタム仕様！ 超レトロな「コーディネート」をラスターが公開！ - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdk5VVzVlMkI1NWNhWnFyb3BpOWxaWDdneXZJb3Y1Mzd2WFNVdFNBYXRIU2s2aERMTEVUaVZLOFJhdWJ1bmx6Ym1EN2kxWWNsNDQ4MmVWMGYtd0poVlZVSDNvUE5zNEZCUWtpVGF4M2tZeC1nMmtQXzM1UGdsUTlobXREeURkQlJHRDNydEJB?oc=5",
+   "published": "Fri, 20 Nov 2026 07:10:00 GMT",
+   "score_parts": {
+    "recency": 0.611,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.583
+  }
+ ]
+}
