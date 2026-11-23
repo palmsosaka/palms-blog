@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-23",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 138,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "板金塗装",
+   "title": "事故でフレームが歪んだ車はもうまっすぐ走らない？「修復歴」に対する誤解と計測修理の技術｜古田昌也 - JIJICO",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wczRTMTFVWU5PSG95X3hnRlhYVmdQUFRIcnhKbTJ4Z252WkI5QXZUTnY0Z0U5OUl2SWsyUDBNRVFLVjJrSXJFNzlCTlEwbmtXSkIxWHZPZEp3UWJxcEE?oc=5",
+   "published": "Sun, 22 Nov 2026 21:01:48 GMT",
+   "score_parts": {
+    "recency": 0.914,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.724
+  },
+  {
+   "source": "google_news",
+   "query": "自動車保険 制度",
+   "title": "車の保険の対物賠償、1件平均約40万6000円 車どうしより「物」の事故が高い - LIMO | くらしとお金の経済メディア",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1iZWxGWW5IVUkwdnpST2gzaWxZcGhzVGNZcDQ4V2FNZk42UjlYYkk5aE94emRwaGRqSVpDVDdSdEl6OEJrWjEtSkdreWk?oc=5",
+   "published": "Sun, 22 Nov 2026 07:24:00 GMT",
+   "score_parts": {
+    "recency": 0.63,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.639
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "実は8割の「冠水車」が流通経路不明…！中古車市場に「隠れ冠水車」が大量に出回る裏事情 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NcXpWdjhxaGV4VWdHeEVCaklndTJwQzJsWTk1NnF3b21vNzRlbFhCR0JWX3Nvejh1M1FNa1IyXzIzenNZZmQtLVI4bFpWQW1tTkxXbWZXVV80U2xPNmxv?oc=5",
+   "published": "Sun, 22 Nov 2026 22:00:00 GMT",
+   "score_parts": {
+    "recency": 0.934,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.63
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "【ぎっくり腰注意報】旧車バイクのエンジン降ろしは意外とパズル？ホンダNS400Rの解体劇 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zbW85SE9hdWFMUXBXd0tqNzBpQi1LMHQ0eXZBQm9tczhZdk5UY1JLSGNkaUhyRDM4TlJZV0J4aGc2Vm42TTgzM2xsbGNTcW0zbkRCMlBHb0tGQkdyM0U4?oc=5",
+   "published": "Sun, 22 Nov 2026 11:00:00 GMT",
+   "score_parts": {
+    "recency": 0.705,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.611
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ハスラーX”2015年式クリスタルホワイトP入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vX2pOc0s3Y3pXZ2l3S1lEOF93Uy1QNlAzc0EwNzQ1WEpmaUdXdDJEeHQ0enVKY0o5bllKM2JLallTc3hHcFNVRHpoQy11X1BKVDFVc091eEhob0ctSkZvOGNJdi1DZGg4dVVLOV90REFKLV9hRy1kNXlXWmN4d0E?oc=5",
+   "published": "Sun, 22 Nov 2026 11:35:52 GMT",
+   "score_parts": {
+    "recency": 0.717,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.565
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“セルシオB仕様 eRバージョン”2006年式ホワイトパールクリスタルシャイン入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YVjBMN2wwNEFJU1lCYVNmblJmbWZQX2p1Rng2RnJaYW04MVZSMGVCb1EwY25Fd3REUExPeVBXRTBaUW5ISHo5TmlKeVZlTkxpYWFmTVdhOUs0T1VpVHRvai10Q1Z4Q09pdGVXVl9jcWI3aTJaSDY0Y1ZKOGY1VkU?oc=5",
+   "published": "Sun, 22 Nov 2026 11:35:52 GMT",
+   "score_parts": {
+    "recency": 0.717,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.565
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "＜画像2 / 2＞お台場の“旧車天国”にマニアックな車＆バイクが集結 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRLS16NE5IWVZrQnZVWEp6dzNnN3E3c1ZHcnZzalhjVHAtd1JMYUQtMXlNN3ZGbkdEaW1xWDhjRGdNaF9OOHU1UV9qMHNBZG1ZbjlwQ3Ayai1XSEc2UzZXUnpZLXZwWUFm?oc=5",
+   "published": "Sun, 22 Nov 2026 02:26:36 GMT",
+   "score_parts": {
+    "recency": 0.526,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.558
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "10年落ちベンツの1年間維持費は「約64万円」だった。車検や故障がなくても決して激安ではない外車維持のリアル - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KN3lUS2RGYXVBcmFYdWJMbnhxQTJiRzJNczVTN3hPVFZpSS11YWZMc29FWUxKQVkxUkNpQTgwcC1zT0V1eFZnT2pXRU4tZEVnRnphU3dxUnlrZ180Q3pz?oc=5",
+   "published": "Sun, 22 Nov 2026 09:44:03 GMT",
+   "score_parts": {
+    "recency": 0.678,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.553
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新車価格はEタイプ4台とミニ2台分 ロールス・ロイス・シルバーシャドウ【UK中古車ガイド】（2） 「超複雑なブレーキとサス」にご注意 - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb1VfQ1Vrc0lfVTM2Zk5BY29WdUpIcGlyZlp0a0hPLWlWNTYxNE1IRzdUWGRndDVsSWowUktuN3U0TnJQSEpjNGE4aV9EaVJiUFZveXVkbTFNMmVUbWFhTTNTUjk2NUlKc3Axek9aYVdqVXlYU1lsSElZdk5EM2J0YWJDWlB4T1BI?oc=5",
+   "published": "Sun, 22 Nov 2026 08:50:00 GMT",
+   "score_parts": {
+    "recency": 0.659,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.548
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ロールス・ロイス・シルバーシャドウ【UK中古車ガイド】（1） 世界最高と呼ばれたメーカーの過剰設計 最大の敵は放置？ - AUTOCAR JAPAN",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE40eDVXMkxEc3RuUno0bV9GeGkwcFUwbVBOZWIyN2xhckV6dVZQN3gzcmJBbDlHSTczWENJdFk4cFFUbXp2Q3g4Q2xyanU?oc=5",
+   "published": "Sun, 22 Nov 2026 08:45:00 GMT",
+   "score_parts": {
+    "recency": 0.658,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.547
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ディフェンダー110X－ダイナミックSE”2021年式フジホワイト入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQU5zbmR3MXJDSVd3N1hpQ1RXNkszdUd1d0loYW1iYm85dXpKblBpQm1kWXNfOS16SDZUQVlzdzV6NVJ3YmpFN0loY0hhUDItRl9YSUw0anhtMEhMTTRHUmRjaDVnNzliSG83c1pxc3MteG5lamlSdnI2RlRNc1M2MTdn?oc=5",
+   "published": "Sun, 22 Nov 2026 08:37:18 GMT",
+   "score_parts": {
+    "recency": 0.655,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.547
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "ジャガー初のコンパクトSUV「Eペイス」が今こそ買いの理由とは？【迷える中古車ノマドへ：34】（MotorFan） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mZVI0LTEzai1mZFBvazBTcU5iRlF5aVBzSnMwbWFGTDI1VjBsWE9BQVVXeWs4WjdTYUJRa1ZBTXZpQTUyQ3V0Yi1aeTJyQmVaLXpPajlGOW9LTUZ5b1RaQ1FvN09yMlpEdjFGYXUyRjVLUkh4enFlNlVxVWZZdW8?oc=5",
+   "published": "Sun, 22 Nov 2026 07:45:00 GMT",
+   "score_parts": {
+    "recency": 0.637,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.541
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "ジャガー初のコンパクトSUV「Eペイス」が今こそ買いの理由とは？【迷える中古車ノマドへ：34】 - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TUW9TMUJ3U3N0SlpBNjdHbXNCTEZwNXVvV2xvVWFFanNyQS1lZ3M0V1hhVW4zdlh3bzBQR1dLS0pBTGFvYjhOWVdvRWY4RnB2WHUxUlViaVJTZEhfQ09DU3RQTlBPamVy?oc=5",
+   "published": "Sun, 22 Nov 2026 07:45:00 GMT",
+   "score_parts": {
+    "recency": 0.637,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.541
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“Ｎ－ＷＧＮG特別仕様車 SSパッケージ”2018年式プレミアムホワイトパール入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMFNrMk0zWjh1bDZhRDByUXhUUFRQU0t0WFJyUTQ4SGJLcmh6VDVMTjBsUnRRdTU5WEtNVFhMdE5IQVEtMTFHQlktZHpCNjR4OTdJcnltX3VxTVFGT0YwQU1OSWFpN3cxZjA1bjhUbHcwOTNjWUVQR3dTanhWWXlhX0dTZw?oc=5",
+   "published": "Sun, 22 Nov 2026 07:05:01 GMT",
+   "score_parts": {
+    "recency": 0.623,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.537
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "「なぜ、ディーラー車検は高いのか」元営業マンが解説。“頼んではいけない”整備オプションも／車検は全国で1日に何台受けて - ニコニコニュース",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXVktmMms5RGp3SF9mMDNWT2t1WEptM29WQXZZMHdUaWVwWU9Xemc1UExuQUdvS2k0cFJmbG4tYTI4dm0yNVlQaUUydnZZbEEwWWkwQ0VjY2tqRWNwNzJBR2JPUEFIdXhWdUJhRUhzektzeGcxTVE?oc=5",
+   "published": "Sun, 22 Nov 2026 06:48:05 GMT",
+   "score_parts": {
+    "recency": 0.617,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.535
+  }
+ ]
+}
