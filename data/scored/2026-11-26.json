@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-26",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 166,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ミツオカ「新型“2人乗り”スポーツカー」発表！ 往年のアメ車風「丸目4灯」＆“ロングノーズ”がカッコいい！ 走りの「6速MT」も選べる限定200台の「LA1」がスゴイ！ - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WSTVTTW9FR0FTdFc5ZE1Bd0paVVEzNWZHSDFCekltZlA5cm1rNVNCdVNyblFMUk5wV1RuazBPQlByZEpmVGNYbHdtWnMxbFZmcjN0cy1QQmNXNTg5T1VBa1Z0QWQ1d9IBa0FVX3lxTE52dnktS21sc204d3FSOG83YXo1U2U1RUEySlpWcmJFTy00VHRoT1JKR3FCLUdWajVPTXFGQ1d3NU43MHFDbXY5alp5YVJrOFFZSktjVnpKVGdqVzZPQ05HTVlxZWp1WjR1NUJN?oc=5",
+   "published": "Thu, 26 Nov 2026 02:25:00 GMT",
+   "score_parts": {
+    "recency": 0.983,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.695
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "【憧れのWRXが月額34,980円〜】新車548万円のスバル「WRX STI Sport R」6MT仕様がKINTOに登場！保険・車検込みの定額プランで本格スポーツを日常に - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjUHFpTDZZRHJzNFMyNkRqLUM1b25WWDk0T19JM2x6M2FRNHlhMHpaZnBiSXdud2NxN3ZYeTJ4VUR3UTB4NHB6X0NaUUh0Rkl2WExld1ZrT3FoZ0ltbzExaFRBaWtkOGtwRWVjR1VkeEt6aU1oanUyVGdCRXXSAXxBVV95cUxQY1BxaUw2WURyczRTMjZEai1DNW9uVlg5NE9fSTNsejNhUTR5YTB6WmZwYkl3bndjcTd2WHkyeFVEd1EweDRwel9DWlFIdEZJdlhMZXdWa09xaGdJbW8xMWhUQWlrZDhrcEVlY0dVZHhLemlNaGp1MlRnQkV1?oc=5",
+   "published": "Wed, 25 Nov 2026 22:00:00 GMT",
+   "score_parts": {
+    "recency": 0.891,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.667
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“アルトX”2017年式シルキーシルバーメタリック入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QaklId2d4REs3bVdsWU1FYVJseEQ1empVTVJYUEZrb1FwTlRoSk9kUlhxNmdVUTZGNDRXSlI0aHp5eWJwSVpObDg4bkkyWVhZbldrTUNORU1kRjhrZDcxVk5iTjZ3Y200dGN6ZXJ0MzVZUktNVWhxVFJpVkZRc0k?oc=5",
+   "published": "Thu, 26 Nov 2026 01:14:30 GMT",
+   "score_parts": {
+    "recency": 0.958,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.637
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“カローラツーリングハイブリッド S”2020年式ブラックマイカ入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbEVBMHJYUXJIZUZ6MkVXZi1kOXJYdmo4Y25aMjBWNHQ0WVhzMktxTTRydEh3cXc5WFUxM0ZtMzlQNHktYkpBNU5UTDRFcmo5WGhsRUVYdGNHM3AtNXVZa3dZVnFjcDI2YzdwZjkwQ2R1b3d3dXdjaUg2aXJJSjBoSkRB?oc=5",
+   "published": "Thu, 26 Nov 2026 00:42:40 GMT",
+   "score_parts": {
+    "recency": 0.947,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.634
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ライズZ”2025年式シャイニングホワイトパール入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKQ1NNZE1oMnRXekhPd1VMSmxhX3hDMVhBNXllV0hMZ2xQZU13dE51b0RQNW5hb1pYWWlyd19kdlNlUGVlUDh6YTN4LTRfZi04SWZWR1pzSy1UZDZIQk4tQjg1RWJFbjdMazc0SmhfakJsZ3NXOFFTMldXd0VHazQ?oc=5",
+   "published": "Thu, 26 Nov 2026 00:30:24 GMT",
+   "score_parts": {
+    "recency": 0.943,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.633
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "スペーシア（MK04系） VS 日産ノート（E13系）徹底比較！中古車なら、新車軽自動車の価格でコンパクトハイブリッド車が買える - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xTXM5WG9PSUNiUzgybVlaNnZYVHdRNFQtQlYxU2pZRGNWcjdxUEdCNDZxa0JHeFZkSnVDeE16WmlzTWprVE45NnRBUjRwd3RRRi1N?oc=5",
+   "published": "Wed, 25 Nov 2026 23:30:57 GMT",
+   "score_parts": {
+    "recency": 0.922,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.627
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "検査が信頼をつくる タイ中古車市場、健全化の最前線｜業界人インタビュー（グーネット） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSTlSa1dMdGhNLXJISnZ6REhVcC0yZ2Jua2lTWk1ITFhiaHZtTy1DaEFBemp2VU56VEtlMVFGYWJ4Q2R6anJjbTJrWWoxTWp4OHdURVNrWnk1VmcwZHhhUlM5bVRLMnRhSjhlRTBHTWdrSmFzVThRUk1INUJ6dE1aTjZueUhmcUVm?oc=5",
+   "published": "Wed, 25 Nov 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.828,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.598
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“シエンタX”2016年式レッドマイカM入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNktXQjRaMDZIb0YzSHZXSUdEcVJMWFBDS09OU2ZFSGNzRjV0RFd3eVdiSVd0cHZ6bTVLR1JFQWgwX3lzc0swbHB3YjFRVHNrNll1Z2o0cFBib0xVSGpQaTZ5UzVHUFBHWjFTQTN6by1NOW1YYVBsLXFJeXlOcFZrQmJ3?oc=5",
+   "published": "Wed, 25 Nov 2026 16:42:55 GMT",
+   "score_parts": {
+    "recency": 0.78,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "「EVとアメ車は読まれない」――それでも伝えずにはいられない、NYで目の当たりにしたGM“2.5兆円投資と独自AI”の空恐ろしい実力【渡辺慎太郎のツベコベイワセテ その12】《LE VOLANT LAB》 - LE VOLANT WEB",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52RVlXMkdXZ3ZkNldyYTlid3EyeElLNHdYWVh6LXpLRFBiM19LX2otU3BWUHZDZ2gyOGZMakpTUi0xY2N0RVdwNXJjeXk4UzQ?oc=5",
+   "published": "Wed, 25 Nov 2026 08:00:00 GMT",
+   "score_parts": {
+    "recency": 0.599,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.58
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "伝統と革新が交錯する神戸にディフェンダーとレンジローバーが登場！ 「110 X-DYNAMIC HSE」と「ヴェラール Dynamic SE」を実車展示【EV:LIFE KOBE 2026】 - LE VOLANT WEB",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tNk9ySDZNSndWTHVUOGNWcHZ1RmRHTk8wd05iMHRnb1I3UGYyVUpCTVJoZWpZRnp2MlR1SWR3UU9obWlGbEhOR3huSDJPS2s?oc=5",
+   "published": "Thu, 26 Nov 2026 00:00:00 GMT",
+   "score_parts": {
+    "recency": 0.932,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.58
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "【お知らせ】 １１月２６日(木)は店舗休暇日になります。ガリバー50号小山店のスタッフのつぶやき G009361795159367542 - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tVldBS1Z0anlHemhPT1ZPZG84OElMeTU1OFhIakhqZGY2TFpfMFlyaFprUlZDbkxJSEFJanlDVFU3VC00M0Q0LVNSZXljLXQxLVJpVi1MRklyMF9rMmE0SDl3bWlWWTNkRDN4Qm91ZmQzQUZkNUs3dnRoSl8?oc=5",
+   "published": "Wed, 25 Nov 2026 15:17:58 GMT",
+   "score_parts": {
+    "recency": 0.751,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.575
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“エクシーガ2．0GT”2008年式サテンホワイトパール入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQaDVRcFNOb21wWXp6M3EzY3JPUnFjN0U4TTR1ZWgwcGtpeG1UUkJ1OVF4REFfNTVtZlJMdTNqVzBxT21IR2tZdUU5UGxFYVIyOWd0S0tKbEE5WUVRVGc2dm1NV1NYZU5FT3VwYlY2OG9QMVQ3MnNoRnFwVGJyU0k?oc=5",
+   "published": "Wed, 25 Nov 2026 15:17:56 GMT",
+   "score_parts": {
+    "recency": 0.751,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.575
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ジムニーXG”2021年式ミディアムグレー入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RN0RJc2tZaTJSQ2VQeU5ZbkxCcVRhb2lLaG8yUnNIZjcwUnN6NUtvVlRNWXc3Y3ltMTdXRVRiaXJ3RzQxZlRGbUpkcjM2TWhKTFVSUGZYbWsyQ2hrRGtwbzAyeWkzSFZLZnd3YnNhdm5ZLTJseVVYVkplSVEzYms?oc=5",
+   "published": "Wed, 25 Nov 2026 15:17:56 GMT",
+   "score_parts": {
+    "recency": 0.751,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.575
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ヴェゼルe:HEV Z”2023年式クリスタルブラックパール入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVjF6bG9FdXlCcUpiZnU3WldKSFN4ZjZmN0RVLTFhMThwWXJDV2JodGJqaHZDRTFGZ19PNEFiYkxfcDViQVRaTjduOXhJRExQNlNHaERNaU5YSmtER2R5Z2dMSjJSZFhjc3hxWDhBNEQxUUFmb2VsUEdPZU5PRVV1bGVWczc?oc=5",
+   "published": "Wed, 25 Nov 2026 15:19:04 GMT",
+   "score_parts": {
+    "recency": 0.751,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.575
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ｅ－２００８GTライン”2020年式ヴァーティゴブルー入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWEYzU2J4c3dpUGE3SDYyRExlbE9zWFljOThDaU9tbDZXLWEyWGpfa1UtY0FQZXNjZmR6SWlLOC12dzRyWVp4TUhkREdZV2ZTc2Rzd0ZyMlVocFBuVFBBMzFhUVJrclFydml1dVVQRENEU3Ftdnd6Z0NSWDhTYmtPcnRJdw?oc=5",
+   "published": "Wed, 25 Nov 2026 14:24:59 GMT",
+   "score_parts": {
+    "recency": 0.733,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.57
+  }
+ ]
+}
