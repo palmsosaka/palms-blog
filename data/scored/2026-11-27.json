@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-27",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 187,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "もはや元の面影ゼロ！ トヨタ「タウンエース」をアメ車やレトロ顔へ激変させるキット（Auto Messe Web） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MUVhtc3ZybWV0T0RHMlctd21vYjk0YXUwcG45MU84NzZOMVl2cjVqTWJ3X3dUMlNqck5ZODFmMmVvMTZEVl9BbW81eHVaN0s0cWxtTGRHWjcyelAzMUJSazd0eFFvQ2ZROG9LWkFDUHJ1emgtNDlqSkExN1ZnajQ?oc=5",
+   "published": "Thu, 26 Nov 2026 22:12:22 GMT",
+   "score_parts": {
+    "recency": 0.894,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.668
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "マツダ ビアンテ（CCEFW）の車検整備に伴い、フロントロアアームブーツの交換を行いました｜泉大津市・和泉市・高石市・堺市周辺 - www.goo-net.com",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TNnpiejRJSjltY1hvWXIxdGdpVXFUSml5RGRXNFVIM1JyOEM0LS1oSktScE13VHh4TlowM0FaVmxNQTJnN0NIaVZRc3NaSTBBOUQyY0ljai13TVBBM0VQUURIcw?oc=5",
+   "published": "Thu, 26 Nov 2026 13:59:29 GMT",
+   "score_parts": {
+    "recency": 0.722,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.667
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "タイ財務省、「旧車下取り・新車購入」計画を公表 民間と頭金を折半、エネルギー転換借款を活用 - BigGo ファイナンス",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWalJWZlg3TEl5cGxudWx0VjdVOTAzOXphRlRvNkxSaXR6OEdxOGlUQ2NzOXR5NG1Qd3A2UXE2SkhXS3MtOUpVUVpINUF0UGNVdmpxaERqYmwzX2xZRHUyNGR2S1VHeGxWNTIzWjUwSFJLLVdr?oc=5",
+   "published": "Thu, 26 Nov 2026 17:55:00 GMT",
+   "score_parts": {
+    "recency": 0.804,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.641
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ランドクルーザー７０ピックアップ”2014年式ホワイト入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LRTAxYS1fSERNWXd2dzVHODhoSnh6dGpSaXRZNUFOV2plWWxPYVZEeldhYm4tVTV3bnRRQ0tEclIxX0Q3VTg4WGxHdklQZDZueHg5TzJGaWQ5ZjlyVnlxWnZWdWNlMk9wbWhJTkpkNGhBYzExX2F3NHRhZGdXZms?oc=5",
+   "published": "Fri, 27 Nov 2026 01:35:10 GMT",
+   "score_parts": {
+    "recency": 0.964,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.639
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ＲＣRC300h”2019年式ソニックチタニウム入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiS0w5aXFXV000SkRGa1RabXhHblZqS0FOSlRYbTFaMjhqbjZUd0tXWGc3S2xTdnRYMW12bmJlendDVG9yc0VPSnFpUVZpcHVaRkh1NFlIamY1UG5ZREllcmFMMzN6b3R2aTRVM2oyLXVqUzNOdFZKeUxpU2lYWUk?oc=5",
+   "published": "Fri, 27 Nov 2026 01:35:09 GMT",
+   "score_parts": {
+    "recency": 0.964,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.639
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ウイングロードS”2004年式ダイヤモンドシルバー入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NcWxQX05Ha0psUlBjeFo1QWplSTlWaVA3aE56U3kyaTVteng2bDlOUlctNE1ZSERFMThHQ3o0b0RzaHNsU3FRQTkybHlBSDNFZDdkbXVCMGxNNW9pU0o5SEJrYzl2RGEtcGRLMVBLOW5tZ2NwckZDV080TVY0N0E?oc=5",
+   "published": "Fri, 27 Nov 2026 01:11:11 GMT",
+   "score_parts": {
+    "recency": 0.956,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.637
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ルーミーカスタムG”2020年式ブラックマイカメタリック/パールホワイト2トーン入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYVEyRmxncHZvUG5NVE5MSEhrSGJLM2NIX1VSdjRwWGJ0ZlFXeTl4dnFfcXV1RXd4Z0J0X19zc2tlVXJ6SUw0MGFtRVVKb2phei1SdDBrM0FnNGo2WFd5cGxacjg2cjVpdkpTRXFhNUdNMEJoOEJqazRwcDRhNmxRV2VlZEE?oc=5",
+   "published": "Fri, 27 Nov 2026 00:41:14 GMT",
+   "score_parts": {
+    "recency": 0.945,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.634
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ステップワゴンG・EX”2015年式クリスタルブラックパール入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTlBoX3d1NUUydE5XRjF6TjNWdGdZT2hoWHNLa0tBTnBNZUJBLUQ2cGxSOU56cnRPbXB4azZpYVJzWGJzTFA1S1ZqQ0xKaEtkbE56VGt4V0N0eDlnbmQ0Zi1xTnZTTjhoZlFuckYxbXdPeEJBbDdXLWZNcHlydG9yTl93?oc=5",
+   "published": "Fri, 27 Nov 2026 00:28:59 GMT",
+   "score_parts": {
+    "recency": 0.941,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.632
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ワゴンＲ20周年記念車”2014年式パールホワイト入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ0JWRzFoODE3Z1N3RElzYktRQ2duQnJXZVdpWm4zTjY0TDNiR2dHZlRLRU5MVi1XV004VGlVZTI1WXBseHZ2SFRYQk5GVUhNYVdaVkFmR0x3MnI5LVRELXJwc2NkNFlEZlM0SmZlZXlRcjY3cHMzOHg4Mkl6UzFvdm5R?oc=5",
+   "published": "Fri, 27 Nov 2026 00:28:59 GMT",
+   "score_parts": {
+    "recency": 0.941,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.632
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "「車検ないのに“クルマ”と呼ぶな」「絶景を一望したい」空飛ぶクルマ“乗ってみたい”が約7割に！ ネットで賛否両論、28年商用化へ立ちはだかる安全性と料金の壁（Merkmal） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOEZZZk8wR2t5TXNBSGdpUjg1NzdvdUpGSjRGYnREU2FpZTNhOWtjbVZoQUwxeUVaSzV1d3V1RnRtS0F0LUVtNE5TTnluc004RUlmUU5aTXgxOVFCS3Y5eEMyOWxDS3ZsazlrVU50YkpqQ29WRm9jajEzX2trNExrUHB3T2R3anRZ?oc=5",
+   "published": "Thu, 26 Nov 2026 22:21:00 GMT",
+   "score_parts": {
+    "recency": 0.897,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.619
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "バイク事故で携帯が圏外に！RESCUE-1が救助現場で衛星Wi-Fiを無料開放（モトメガネ） | 自動車情報・ニュース - carview!",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObzU5aTR3SnFfdDV3ZUFES2NWWHdDajZEMURBZHJobVRSeTlNWFUwdVVCWndNZ0FSX2hNOWVMRDVfblkxTTV2a0N1SnVWWnlOSFo5bFM3cHM0T1VwTk54eHFYRzRXYUQ4TDVSbnNobUIyLWlqS3ZDV2FaNGYxZW9URnFuR09pSzVQS2w5bTNlSVQ0dmVL?oc=5",
+   "published": "Thu, 26 Nov 2026 11:30:00 GMT",
+   "score_parts": {
+    "recency": 0.67,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.601
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "ミニレッカーでの車移動など訓練 三重・大台署、災害時の対応力強化（夕刊三重） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FNHpGWVZGdnVJRWRTbFE5cGQ1UGEwQ1Ayb1BtemY4SkFMdm5hRExMcEF6bVVScXFZeTZtemFIZ3gyRHViQmpBWWx6OXBiVVhkN3ljaXA0Y1p1QkdIdVY1SU1YMmd3bVZWT1h2Mmh1SDdnYWZkX0pMZHBxRm45aEU?oc=5",
+   "published": "Thu, 26 Nov 2026 11:10:40 GMT",
+   "score_parts": {
+    "recency": 0.664,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.599
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "ミニレッカーでの車移動など訓練 三重・大台署、災害時の対応力強化 (夕刊三重) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZW9tR0JILXZJMjlwazdnYlZ0bFpUSkEwZXRiU05NQkNubFpvbWJvS0xFenhYdFlVTU56VWJMUW9yT2MyTTdLVEZEQ0FGeERyY1hMc2s4QTY1Yy14N2NwVnVDUkNjeGxJbGFtcDNIX0hvWEN3UEVXUzJFN2ducE1IQ094aVJUV3liWEZfTWdR?oc=5",
+   "published": "Thu, 26 Nov 2026 11:10:40 GMT",
+   "score_parts": {
+    "recency": 0.664,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.599
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ジムニーノマドをレビン／トレノ顔に！全7色がそろった旧車風フロントグリルがみごと - ベストカーWeb",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBDLXJoU1VqdDlTRlY5bjUyejEtMXNPd3U1MW5nOW5LQ1NRN0laSTB4TWVPRkVXUzVfOGJIT21wZDRBQkRzYzIzdHd3?oc=5",
+   "published": "Thu, 26 Nov 2026 11:00:00 GMT",
+   "score_parts": {
+    "recency": 0.66,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.598
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "ジムニーノマドをレビン/トレノ顔に！全7色がそろった旧車風フロントグリルがみごと (ベストカーWeb) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1Z5QlhoZW9PenhwaVAwUTZrVXZ2UHBTaWVYRDhTNG5aZmdSRy1hZ19vUW5sekxWUlU1eHpmbm5vNmlZZDROSk54ZFppdnpLXzF6eEg4eUtXWUExU0RVRmFkR3EyWktNcEtoVmNGY0NUN2tFUmh3SXlyOU1JZEU2Z3RGaGVSZ09pREZmWnhR?oc=5",
+   "published": "Thu, 26 Nov 2026 11:01:00 GMT",
+   "score_parts": {
+    "recency": 0.66,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.598
+  }
+ ]
+}
