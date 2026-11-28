@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-28",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 205,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "伝説の2JZ-GTEエンジン搭載！トヨタ・アリスト V300 ベルテックスエディションはなぜ今も旧車ファンを魅了するのか - JAF Mate Online",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2S1Q5ZEFRQ2ZKTHg1MF9DSy0zVTExQ2Z0YzZpMGx5Tk5pbmI3cEtOOHZJcC12U29YZThuZmRQZGM2T1V3ZGc4WVVDY3FuWE5ldWR4ZXZiZGNTaHVHaFh3?oc=5",
+   "published": "Sat, 28 Nov 2026 00:05:13 GMT",
+   "score_parts": {
+    "recency": 0.94,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.682
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "ホンダ「最新ステップワゴン」が“昔のアメ車”に大変身！ 「角目4灯」＆「ウッド調ボディ」がカッコいい！ 斬新な「レトロミニバン」実車公開 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iV1BaMXNjbi02NEY4UEs1VjdpNk5PTi12cWkyWGJjVjBvOVR6c3Z6R21qMnJLc2pLdlJqWDVyZHlPSlRIMEhpTUVWcEFOZDJYVDh2cGw5SDlJLVFQVkF5RF80T3M3SEltNjFjMHBOVDhoNHNCVU1MRTB6SU9pMnM?oc=5",
+   "published": "Fri, 27 Nov 2026 21:10:00 GMT",
+   "score_parts": {
+    "recency": 0.879,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.664
+  },
+  {
+   "source": "google_news",
+   "query": "アメ車",
+   "title": "ホンダ「\"レトロ顔\"3列シートミニバン」実車公開！ 往年のアメ車風「角目4灯」＆\"木目調パネル\"がカッコいい！ 便利な「スライドドア」＆4WDも選べるDAMD「ステップワゴン レゾネーター」がスゴイ！ - くるまのニュース",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83aE96ZWtBQkhxMzFHcmNfWWtHV0l5OG81T0ZWS2NNY3FNVHFybTk2NGxQQXBUOFJwSG4wX3Y2NFozRnYtREhaXzFaZw?oc=5",
+   "published": "Fri, 27 Nov 2026 21:10:00 GMT",
+   "score_parts": {
+    "recency": 0.879,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.664
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "ディーラー車検は本当に割高？「無知な客はカモになる」元営業マンが明かす本音とメリット／車の整備に1年でいくら使っているのか調べてみた - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY1R6WXRKMmIyMEdkcGRiUXpxZXQyekVPRDlGcUpsSTJtaFQwRWJfd1ZCNEhuNUw0Q2NNeVFLcVhFQ19wZHpGTnZNSUgtRk9CRC1nMXNtc1ZGemZTOVFiTnB0QXFzWEk5bnNiZkYycThJQm9DeXdEYWEwanRvSDNLWdIBhgFBVV95cUxOeTRneWhiSG9UVExESnU0aW9GaXowQjRIR1dMbkNDUVREakpfZXVrbVh1a1ZQSllrWnEzS2Y4UldybjNQSzVrbV9XaU5DME4wM2JlMVhjOUFZa2FyY1JNdGFIWjVKelRhRzZrc2tIVEVSNjdUb2Y4RzJkNW5LY3psWUY0c280Zw?oc=5",
+   "published": "Sat, 28 Nov 2026 00:42:21 GMT",
+   "score_parts": {
+    "recency": 0.953,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.636
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ルーミーX S”2019年式ファインブルーマイカメタリック入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQXZSLVh6ZDlieWdpaWhNZ2V4MEFYX3Fvd3U3VHE4b0p6WW80TExHMFJrTFA3blZURnZWWVJPdlBEdFNoek5NS0F3aklMT09seTBwTWdlOVVLRFVLSmpXVFJ0UmFDMzBUakNkVlZPenJzM1BzRElnTWdfRFVxSFNMUlZ3?oc=5",
+   "published": "Sat, 28 Nov 2026 00:39:37 GMT",
+   "score_parts": {
+    "recency": 0.952,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.636
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ＡＺワゴンFX”2008年式シルキーシルバーメタリック入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPV3FRc0FjcTYzT09PNGo2ZVVqeGJWQVpKQUNwcDhTNmRBTnM3SlhuNWp0MXY1cFlUTFNCU0hBNGlkZml6ZjZkZ2EwTks2RTgxdTV1cnRDeFFBS0Z0Um5NeGlrZWhyb1A5ajNZdktIUk1nZXV3S2h1cUZtbDdiM3VIOWJR?oc=5",
+   "published": "Sat, 28 Nov 2026 00:39:37 GMT",
+   "score_parts": {
+    "recency": 0.952,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.636
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ノートニスモ”2016年式スーパーブラック入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNU04NE1sUTZsZ1htYnUyTGNybE5zYlAtOHdJUEgxbUowR1MwelFQMXJabEpyS3MyMjhRbi1mN2FJai1UZFc5RG9HWUpxa1FFaG1XckRULWR0WGdidjU4LWZLRHpHOTBvSldnU1ZyMXRJZUdhaWlzbmxHWURXTTdNWlp5WQ?oc=5",
+   "published": "Sat, 28 Nov 2026 00:39:37 GMT",
+   "score_parts": {
+    "recency": 0.952,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.636
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ノートe－パワー メダリスト”2018年式スーパーブラック入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONC1xTDRkbHVnMFVBcEVtRWdwdGVIMGkta2ROYTBpNThDY3llVGZxLVF0aHlsaTREcjJ1OTd1UkhhZENJX2FWdk00WHlEakNIYjJGczl4LUxodnVHazFmdXpucEJBdF96QUhxTWR1YnNVNnB6NGl0TG51TkRxSjBtQkhXZG4?oc=5",
+   "published": "Sat, 28 Nov 2026 00:26:32 GMT",
+   "score_parts": {
+    "recency": 0.947,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.634
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“ベルランゴシャイン”2022年式サーブル入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vZkdFLW9OUU5sdGhfcTZMUjRUc0laVVYtZnJuOFZsLXotWDFDWVlaZWhsaVRpVHRUcmcwVmlVRS1LNmVyWE1nWVhUNXo5S2ZPMUZQcUx2MHRoV19qb2RHbDJXWEI1Qzk1cE9xbGdRaGVVY2dCMERxdGNFZTRGQmM?oc=5",
+   "published": "Sat, 28 Nov 2026 00:27:52 GMT",
+   "score_parts": {
+    "recency": 0.948,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.634
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "タンザニアからロシアへ。中古車輸出先の順位が変わった10月、日本の中古車相場はどう動くのか？ - JIJICO",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TU0swQWczVTFxMzJhQS04ekVaYlBSeVdxNHZXSnZISHFPakVDWjdwdEU5czhMNk5MajF4RGtldkJaQkROR3hzaU1nSktvaUx5eDFsVFR4Q0ZCYThPcnJ5NThzanh5UDFC?oc=5",
+   "published": "Sat, 28 Nov 2026 00:15:07 GMT",
+   "score_parts": {
+    "recency": 0.943,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.633
+  },
+  {
+   "source": "google_news",
+   "query": "車検 費用",
+   "title": "ディーラー車検は本当に割高？「無知な客はカモになる」元営業マンが明かす本音とメリット／車の整備に1年でいくら使っているのか調べてみた - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GUlotZVFIUkVaeXBZdmxwZFh6OEplSHE0a28tUkRpZk9Kb0ZPNWNURmhfODBiWEJZWXloZUpCbURzVE1UZkg4U3Ewd21xaHV4emhYdEx2dF9LUzBoeThwVWFsc2trN3Zha09OR2RJY9IBb0FVX3lxTE5GUlotZVFIUkVaeXBZdmxwZFh6OEplSHE0a28tUkRpZk9Kb0ZPNWNURmhfODBiWEJZWXloZUpCbURzVE1UZkg4U3Ewd21xaHV4emhYdEx2dF9LUzBoeThwVWFsc2trN3Zha09OR2RJYw?oc=5",
+   "published": "Fri, 27 Nov 2026 23:44:48 GMT",
+   "score_parts": {
+    "recency": 0.933,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.63
+  },
+  {
+   "source": "google_news",
+   "query": "レッカー",
+   "title": "「ヒヤリとする出来事だった」オーバメヤンが自動車事故…怪我はなく週末バルセロナ戦も出場の見込み - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kMmdSbVVNWUNRdjF5WG4ybVhZaXV1WmZoak9pVVVWNWlRbDVIRjVNcmtzMW96ckw2X0lBX3E1RWRfdTRLR1NMN1lrTmpMMi0xQlk2c1paYTFBMDBOY1BQY0pR?oc=5",
+   "published": "Fri, 27 Nov 2026 13:33:56 GMT",
+   "score_parts": {
+    "recency": 0.721,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.616
+  },
+  {
+   "source": "google_news",
+   "query": "中古車 相場",
+   "title": "新着情報“１シリーズ118d スポーツ”2016年式サファイアブラックP入荷しました！ - 中古車のガリバー",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XVE1HQlJlczlidFYzZWoxMkc2YlJjcHpmUGlGSjBLX295UU1idjVvYlB5WWZOMURjNDRIajB4SU1wdEJCV0JLcXh4UXFoT1FweWppa29RS0hKNGY0dWpqbGhibzV6SEs5Znp2MnhGbGJnLUpqd011Y2lqNzBRSG8?oc=5",
+   "published": "Fri, 27 Nov 2026 19:47:59 GMT",
+   "score_parts": {
+    "recency": 0.85,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.605
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "150台限定『アルファ・ロメオ・ミト』を購入したオーナー 決め手はネオクラシック車として育つ可能性 メンテナンスは自らDIY - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Za0xjSU5rbVlqUl9sLUtFZ01JWFg5VUF2QVpVaXQzTzBJQUpnVnA0OFRXZ1NQeUZTU1RqUW0yY0ctMWdBNmdOam1XdHVWdkVBbloxYXVPckFDWENMTVZrX0tiSE11OVEtUGxycklXNDI5T3F3WFFtaWdsWldsYUk?oc=5",
+   "published": "Sat, 28 Nov 2026 02:45:00 GMT",
+   "score_parts": {
+    "recency": 0.995,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.599
+  },
+  {
+   "source": "google_news",
+   "query": "旧車",
+   "title": "150台限定『アルファ・ロメオ・ミト』を購入したオーナー 決め手はネオクラシック車として育つ可能性 メンテナンスは自らDIY - AUTOCAR JAPAN",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zWmI2QTdWSEtRTk5ma1NyN2tzTV9NeS1HNWJNWG55QWFxb29UU19hSjEtUGg2T2RPOEw5NTNZakdLSDFuZ05uNVFNOA?oc=5",
+   "published": "Sat, 28 Nov 2026 02:45:00 GMT",
+   "score_parts": {
+    "recency": 0.995,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.599
+  }
+ ]
+}
